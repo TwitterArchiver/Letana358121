@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1882220979394670738",
+    "created_at": "2025-01-23T05:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T06:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882293794785374490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1859794522865291264",
+          "start": 0,
+          "username": "QAQ_xwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882293794785374490",
+    "in_reply_to_user_id": "1859794522865291264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882270432587632969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQ_xwx 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1882220979394670738",
+        "created_at": "2025-01-23T05:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T06:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882293794785374490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1859794522865291264",
+              "start": 0,
+              "username": "QAQ_xwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882293794785374490",
+        "in_reply_to_user_id": "1859794522865291264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882270432587632969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQ_xwx 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859794522865291264",
+        "conversation_id": "1882220979394670738",
+        "created_at": "2025-01-23T03:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882270432587632969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.TOt2fnvND6QU…",
+              "end": 44,
+              "expanded_url": "https://e.tb.cn/h.TOt2fnvND6QU6vN?tk=C77PeV2n5nn",
+              "start": 21,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.TOt2fnvND6QU6vN?tk=C77PeV2n5nn",
+              "url": "https://t.co/ZxckQIJciE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882270432587632969",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882260981143007686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 我買的是這個\nhttps://t.co/ZxckQIJciE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1047,
+          "like_count": 30554,
+          "listed_count": 5,
+          "media_count": 1368,
+          "tweet_count": 11323
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T03:02:42.000Z",
+        "description": "死了，屍體還在動，他喜歡穿女裝色色，覺得這樣就會有人愛自己，然後找回碎裂的靈魂，但這只是掘了個墓。\n有很喜歡的主人了！可以交朋友討論性癖什麼的，但不討論主播本人！( `へ´ )\n大號：@OwOb_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "OwOb_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1859794522865291264",
+        "name": "٩(✘д✘๑;)۶（瘋狂色色版",
+        "pinned_tweet_id": "1877935804158492746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859797152576438274/MzgWK_Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 95,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 982
+        },
+        "username": "QAQ_xwx",
+        "verified": true
+      }
+    ]
+  }
+}

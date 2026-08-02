@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1862761009846657193",
+    "created_at": "2024-11-30T13:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T14:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862847017225171047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "wang051215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862847017225171047",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862808243229061399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang051215 不太想吃（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1862761009846657193",
+        "created_at": "2024-11-30T13:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T14:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862847017225171047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "wang051215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862847017225171047",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862808243229061399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang051215 不太想吃（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809497565630722052",
+        "conversation_id": "1862761009846657193",
+        "created_at": "2024-11-30T10:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862808243229061399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862808243229061399",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862761009846657193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 想看木桶饭吃木桶饭（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 999,
+          "like_count": 29355,
+          "listed_count": 4,
+          "media_count": 1242,
+          "tweet_count": 10411
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "",
+        "id": "1809497565630722052",
+        "name": "小王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858144133971369984/JBVY1g1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 26,
+          "like_count": 13114,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1003
+        },
+        "username": "wang051215",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1935234108181070080",
+    "created_at": "2025-06-18T07:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T08:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935234108181070080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ServalCandle/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ServalCandle/status/1934986480189141138",
+          "start": 12,
+          "url": "https://t.co/oWwIIdmAbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935234108181070080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934986480189141138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们孔女士还是太极端了 https://t.co/oWwIIdmAbN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1935234108181070080",
+        "created_at": "2025-06-18T07:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935234108181070080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1934986480189141138",
+              "start": 12,
+              "url": "https://t.co/oWwIIdmAbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935234108181070080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934986480189141138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们孔女士还是太极端了 https://t.co/oWwIIdmAbN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1934950782618755373",
+        "created_at": "2025-06-17T14:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934986480189141138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371296214692499457",
+              "start": 0,
+              "username": "MisakaNo10777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934986480189141138",
+        "in_reply_to_user_id": "1371296214692499457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934950782618755373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo10777 如果大屠跨开始\n\n我愿意把自己供出来主动进毒气室让他们多杀一个跨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 1179,
+          "like_count": 40411,
+          "listed_count": 5,
+          "media_count": 1716,
+          "tweet_count": 14881
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "電波系大笨貓 ◉▼◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🧸傻貓𝕮𝖆𝖓𝖉𝖑𝖊🌸🍊",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890453655914180609/kMz5nuu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31797,
+          "following_count": 347,
+          "like_count": 224010,
+          "listed_count": 103,
+          "media_count": 7847,
+          "tweet_count": 52045
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

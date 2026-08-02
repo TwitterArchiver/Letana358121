@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2070738909991158108",
+    "created_at": "2026-06-27T14:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070875345751036207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895896269459243008",
+          "start": 0,
+          "username": "X_User_303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070875345751036207",
+    "in_reply_to_user_id": "1895896269459243008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070828415826227339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_User_303 大马力肌肉车爱好者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2070738909991158108",
+        "created_at": "2026-06-27T14:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070875345751036207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895896269459243008",
+              "start": 0,
+              "username": "X_User_303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070875345751036207",
+        "in_reply_to_user_id": "1895896269459243008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070828415826227339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_User_303 大马力肌肉车爱好者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895896269459243008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026371053",
+              "name": "Dodge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026371053",
+              "name": "Dodge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026371053",
+              "name": "Dodge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044401768",
+              "name": "Dodge - Challenger"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Performance vehicles",
+              "id": "847529034674085888",
+              "name": "Performance vehicles"
+            }
+          }
+        ],
+        "conversation_id": "2070738909991158108",
+        "created_at": "2026-06-27T11:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070828415826227339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070828415826227339",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070738909991158108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 Dodge Challenger R/T 1970"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3476,
+          "following_count": 1546,
+          "like_count": 59068,
+          "listed_count": 7,
+          "media_count": 2359,
+          "tweet_count": 21428
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T17:58:30.000Z",
+        "description": "❖@X_User_303;↵\n❖@X_User_404;↵\n❖#业余摄影📷;↵\n❖我会记录我的所见所闻💬;↵\n❖🍀;↵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "业余摄影"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "X_User_303"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "X_User_404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/X_User_404",
+                "end": 23,
+                "expanded_url": "http://www.telegram.me/X_User_404",
+                "start": 0,
+                "url": "https://t.co/ntopB7TfsP"
+              }
+            ]
+          }
+        },
+        "id": "1895896269459243008",
+        "location": "🌏🇨🇳中国(China)｜🕗🗺️UTC+08:00",
+        "name": "密涅瓦的猫头鹰✿𝓞𝔀𝓵 𝓸𝓯 𝓜𝓲𝓷𝓮𝓻𝓿𝓪🍁",
+        "pinned_tweet_id": "1896158382664687869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045975634758045696/u4FD8SlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 430,
+          "like_count": 17836,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/ntopB7TfsP",
+        "username": "X_User_303",
+        "verified": false
+      }
+    ]
+  }
+}

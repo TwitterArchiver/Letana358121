@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1997517945677955247",
+    "created_at": "2025-12-07T13:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T14:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997665763067351537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "jiuwuwu22"
+        },
+        {
+          "end": 27,
+          "id": "1620792340897054720",
+          "start": 11,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997665763067351537",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997658240327323865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuwuwu22 @Orange007Orange 露阴癖。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997658240327323865].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1997658240327323865",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1997658240327323865"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1997517945677955247",
+        "created_at": "2025-12-07T13:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997665763067351537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "jiuwuwu22"
+            },
+            {
+              "end": 27,
+              "id": "1620792340897054720",
+              "start": 11,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997665763067351537",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997658240327323865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuwuwu22 @Orange007Orange 露阴癖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 1303,
+          "like_count": 44498,
+          "listed_count": 7,
+          "media_count": 1998,
+          "tweet_count": 17051
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "",
+        "id": "1261344091075260416",
+        "name": "香屎",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995862612974993412/Z40qJBXn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 788,
+          "like_count": 27644,
+          "listed_count": 0,
+          "media_count": 2350,
+          "tweet_count": 21652
+        },
+        "username": "jiuwuwu22",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证滚贴脸飞老冯｜随便发发｜偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957885981354315776/77t4zYMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 591,
+          "like_count": 49061,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 17335
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2012709703860592739",
+    "created_at": "2026-01-18T07:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012782076039455185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "ecstasy_myslee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012782076039455185",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012781937560101058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ecstasy_myslee 不管唉愛看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2012709703860592739",
+        "created_at": "2026-01-18T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012782076039455185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "ecstasy_myslee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012782076039455185",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012781937560101058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecstasy_myslee 不管唉愛看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2012709703860592739",
+        "created_at": "2026-01-18T06:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012781937560101058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012781937560101058",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012780770293915872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 有零分姿色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 1342,
+          "like_count": 46135,
+          "listed_count": 7,
+          "media_count": 2070,
+          "tweet_count": 17698
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "location": "beijing",
+        "name": "Мinаtо #蒭藁增二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002583188192047106/J574CRSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 94
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      }
+    ]
+  }
+}

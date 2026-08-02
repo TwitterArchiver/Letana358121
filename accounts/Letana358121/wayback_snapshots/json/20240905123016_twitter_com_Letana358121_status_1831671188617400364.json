@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1831670023188049962",
+    "created_at": "2024-09-05T12:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T13:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831671188617400364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Lister_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831671188617400364",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831670023188049962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lister_OvO ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1831670023188049962",
+        "created_at": "2024-09-05T12:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T13:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831671188617400364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Lister_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831671188617400364",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831670023188049962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lister_OvO ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "1831670023188049962",
+        "created_at": "2024-09-05T12:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T13:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831670023188049962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831670023188049962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得肚子疼很涩吗\n我吃错东西只能躺在床上蜷缩的样子简直涩爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 894,
+          "like_count": 28067,
+          "listed_count": 3,
+          "tweet_count": 8679
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "基于集成仿生突触处理器的网络聊天机器人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "616.sb",
+                "end": 23,
+                "expanded_url": "http://616.sb",
+                "start": 0,
+                "url": "https://t.co/T7f33EXN7J"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "127.0.0.1",
+        "name": "void Lister()",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765823855862722560/lGDUUCqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 514,
+          "like_count": 7724,
+          "listed_count": 3,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/T7f33EXN7J",
+        "username": "Lister_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048565814543212544"
+      ],
+      "media_source_tweet_id": [
+        "2048565896097263762"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048670493499347196",
+    "created_at": "2026-04-27T07:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048670493499347196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922302602043392003",
+          "start": 3,
+          "username": "7011yu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SwAKOopuC",
+          "end": 42,
+          "expanded_url": "https://x.com/7011yu/status/2048565896097263762/photo/1",
+          "media_key": "16_2048565814543212544",
+          "start": 19,
+          "url": "https://t.co/4SwAKOopuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048670493499347196",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048565896097263762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7011yu: test 🐣 https://t.co/4SwAKOopuC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048670493499347196].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048670493499347196",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048670493499347196"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "16_2048565814543212544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG33wSrbYAAAB4L.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG33wSrbYAAAB4L.mp4"
+          }
+        ],
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048565814543212544"
+          ]
+        },
+        "author_id": "1922302602043392003",
+        "conversation_id": "2048565896097263762",
+        "created_at": "2026-04-27T00:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048565896097263762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SwAKOopuC",
+              "end": 30,
+              "expanded_url": "https://x.com/7011yu/status/2048565896097263762/photo/1",
+              "media_key": "16_2048565814543212544",
+              "start": 7,
+              "url": "https://t.co/4SwAKOopuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048565896097263762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1529,
+          "impression_count": 20636,
+          "like_count": 3617,
+          "quote_count": 16,
+          "reply_count": 19,
+          "retweet_count": 539
+        },
+        "reply_settings": "everyone",
+        "text": "test 🐣 https://t.co/4SwAKOopuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1430,
+          "like_count": 51926,
+          "listed_count": 8,
+          "media_count": 2254,
+          "tweet_count": 19545
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T14:47:17.000Z",
+        "description": "20↑ NSFW + delusions, adults only | LC≫@70sinc_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "70sinc_"
+              }
+            ]
+          }
+        },
+        "id": "1922302602043392003",
+        "location": "all🐣 (main🐍🐣)",
+        "name": "yun 🔞",
+        "pinned_tweet_id": "1962442796306141564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047728118782390272/X8YS_wbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6009,
+          "following_count": 167,
+          "like_count": 7375,
+          "listed_count": 12,
+          "media_count": 163,
+          "tweet_count": 1257
+        },
+        "username": "7011yu",
+        "verified": false
+      }
+    ]
+  }
+}

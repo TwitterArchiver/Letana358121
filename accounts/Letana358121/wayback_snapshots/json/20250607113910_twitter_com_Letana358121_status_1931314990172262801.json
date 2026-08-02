@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931314977174142977",
+        "3_1931314977161502721"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1931314990172262801",
+    "created_at": "2025-06-07T11:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T12:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931314990172262801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4UubQmUtcI",
+          "end": 34,
+          "expanded_url": "https://x.com/Letana358121/status/1931314990172262801/photo/1",
+          "media_key": "3_1931314977174142977",
+          "start": 11,
+          "url": "https://t.co/4UubQmUtcI"
+        },
+        {
+          "display_url": "pic.x.com/4UubQmUtcI",
+          "end": 34,
+          "expanded_url": "https://x.com/Letana358121/status/1931314990172262801/photo/1",
+          "media_key": "3_1931314977161502721",
+          "start": 11,
+          "url": "https://t.co/4UubQmUtcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931314990172262801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友送我的生日礼物。 https://t.co/4UubQmUtcI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931314990172262801].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931314990172262801",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931314990172262801"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1931314977174142977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1ovTvbQAE_3s6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1931314977161502721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1ovTsaYAE-W-1.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 1178,
+          "like_count": 40043,
+          "listed_count": 6,
+          "media_count": 1688,
+          "tweet_count": 14741
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

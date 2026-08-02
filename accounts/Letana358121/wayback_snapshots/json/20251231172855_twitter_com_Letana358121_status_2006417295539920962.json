@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006417212152885252"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2006417295539920962",
+    "created_at": "2025-12-31T17:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T18:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006417295539920962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kocN8jnLiw",
+          "end": 31,
+          "expanded_url": "https://x.com/Letana358121/status/2006417295539920962/video/1",
+          "media_key": "7_2006417212152885252",
+          "start": 8,
+          "url": "https://t.co/kocN8jnLiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006417295539920962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把xx给跑完了 https://t.co/kocN8jnLiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18752,
+        "height": 1280,
+        "media_key": "7_2006417212152885252",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006417212152885252/pu/img/dTArwrve8XWdsqEu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006417212152885252/pu/vid/avc1/320x568/cLdHLGG1KlZOmNM0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006417212152885252/pu/vid/avc1/480x852/r16PjHi5RnYMmNbU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006417212152885252/pu/vid/avc1/720x1280/SOLJljTZieGalMZy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006417212152885252/pu/pl/rrEv1ZzKJksPb66N.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006417212152885252"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2006417295539920962",
+        "created_at": "2025-12-31T17:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006417295539920962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kocN8jnLiw",
+              "end": 31,
+              "expanded_url": "https://x.com/Letana358121/status/2006417295539920962/video/1",
+              "media_key": "7_2006417212152885252",
+              "start": 8,
+              "url": "https://t.co/kocN8jnLiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006417295539920962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把xx给跑完了 https://t.co/kocN8jnLiw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004434726015393792/K6H51c2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 1331,
+          "like_count": 45519,
+          "listed_count": 7,
+          "media_count": 2047,
+          "tweet_count": 17479
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

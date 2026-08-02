@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1858896045876670795",
+    "created_at": "2024-11-19T16:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T17:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858914479213605329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858914479213605329",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858896045876670795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo 你不许转发你什么意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1858896045876670795",
+        "created_at": "2024-11-19T16:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T17:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858914479213605329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858914479213605329",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858896045876670795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo 你不许转发你什么意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351485882696548357",
+        "conversation_id": "1858896045876670795",
+        "created_at": "2024-11-19T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858896045876670795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiept2/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/xiept2/status/1730932567157952877",
+              "start": 22,
+              "url": "https://t.co/YU91xykDUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858896045876670795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1730932567157952877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推文目前無法載入\n        再試一次 https://t.co/YU91xykDUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 992,
+          "like_count": 29402,
+          "listed_count": 4,
+          "tweet_count": 10236
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "We are unbreakable",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.maowow.cloudns.be",
+                "end": 23,
+                "expanded_url": "http://blog.maowow.cloudns.be/",
+                "start": 0,
+                "url": "https://t.co/ztra7IAqYt"
+              }
+            ]
+          }
+        },
+        "id": "1351485882696548357",
+        "location": "HND, Tokyo-to, Japan",
+        "name": "?meow？🍥",
+        "pinned_tweet_id": "1854547669605294199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778463685310361603/4xkmrNt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 677,
+          "like_count": 32172,
+          "listed_count": 5,
+          "tweet_count": 7455
+        },
+        "url": "https://t.co/ztra7IAqYt",
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      }
+    ]
+  }
+}

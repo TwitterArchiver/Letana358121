@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1916467318923944307",
+    "created_at": "2025-04-27T13:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T14:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916479542400897324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544267130237259778",
+          "start": 0,
+          "username": "Bd3QFThnhca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916479542400897324",
+    "in_reply_to_user_id": "1544267130237259778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916467318923944307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bd3QFThnhca8964 ko吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1916467315602055169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpio3qIbYAE3_TR.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1916467318923944307",
+        "created_at": "2025-04-27T13:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916479542400897324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544267130237259778",
+              "start": 0,
+              "username": "Bd3QFThnhca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916479542400897324",
+        "in_reply_to_user_id": "1544267130237259778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916467318923944307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bd3QFThnhca8964 ko吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916467315602055169"
+          ]
+        },
+        "author_id": "1544267130237259778",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916467318923944307",
+        "created_at": "2025-04-27T12:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T13:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916467318923944307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rneaILsdEg",
+              "end": 32,
+              "expanded_url": "https://x.com/Bd3QFThnhca8964/status/1916467318923944307/photo/1",
+              "media_key": "3_1916467315602055169",
+              "start": 9,
+              "url": "https://t.co/rneaILsdEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916467318923944307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃上高级答辩了😋 https://t.co/rneaILsdEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 1151,
+          "like_count": 38403,
+          "listed_count": 5,
+          "media_count": 1589,
+          "tweet_count": 14011
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T10:29:54.000Z",
+        "description": "希腊奶",
+        "id": "1544267130237259778",
+        "location": "希腊奶空间",
+        "name": "希腊奶星人",
+        "pinned_tweet_id": "1834951813508059527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725893832238325760/LSowYNIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 446,
+          "like_count": 35815,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 995
+        },
+        "username": "Bd3QFThnhca8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1826313307617460687",
+    "created_at": "2024-08-21T17:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T18:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826313307617460687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/H4rU_xi/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/H4rU_xi/status/1826308410226438158",
+          "start": 10,
+          "url": "https://t.co/DZTCiKfrJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826313307617460687",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826308410226438158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看過來看過來看過來 https://t.co/DZTCiKfrJi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1826313307617460687",
+        "created_at": "2024-08-21T17:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826313307617460687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H4rU_xi/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/H4rU_xi/status/1826308410226438158",
+              "start": 10,
+              "url": "https://t.co/DZTCiKfrJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826313307617460687",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826308410226438158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看過來看過來看過來 https://t.co/DZTCiKfrJi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1826308410226438158",
+        "created_at": "2024-08-21T17:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826308410226438158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826308410226438158",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昆明有没有同类缺室友摊房租的🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 872,
+          "like_count": 26230,
+          "listed_count": 3,
+          "tweet_count": 8306
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "“我将永远存在，在那个可以观测到的闪耀的地方”\n@SyndicalismCat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "SyndicalismCat"
+              }
+            ]
+          }
+        },
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "飞行低云☁️",
+        "pinned_tweet_id": "1824317849780846655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800158932176179200/uhPZ9ZJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 399,
+          "like_count": 2444,
+          "listed_count": 4,
+          "tweet_count": 10273
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

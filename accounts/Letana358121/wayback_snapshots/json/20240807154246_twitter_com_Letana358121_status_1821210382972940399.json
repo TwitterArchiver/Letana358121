@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1821210382972940399",
+    "created_at": "2024-08-07T15:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T16:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821210382972940399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821210382972940399",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821198689513435475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: 有些自制谱师拿烧白开水堆无理的时间玩会adx都彩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1821210382972940399",
+        "created_at": "2024-08-07T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821210382972940399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821210382972940399",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821198689513435475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: 有些自制谱师拿烧白开水堆无理的时间玩会adx都彩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1821198689513435475",
+        "created_at": "2024-08-07T14:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T15:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821198689513435475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821198689513435475",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些自制谱师拿烧白开水堆无理的时间玩会adx都彩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 844,
+          "like_count": 23961,
+          "listed_count": 2,
+          "tweet_count": 7861
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "银河状我",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741507550200438784/Al2SDrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 545,
+          "like_count": 35369,
+          "listed_count": 4,
+          "tweet_count": 4216
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

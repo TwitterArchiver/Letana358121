@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1894663716651831498",
+    "created_at": "2025-02-26T08:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T09:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894664670306603180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431776320019517445",
+          "start": 0,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894664670306603180",
+    "in_reply_to_user_id": "1431776320019517445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894663716651831498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraRettosei 为什么不和我用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1894663713053184000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gksym9FbkAAC2r4.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1894663716651831498",
+        "created_at": "2025-02-26T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894664670306603180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431776320019517445",
+              "start": 0,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894664670306603180",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894663716651831498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraRettosei 为什么不和我用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894663713053184000"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "conversation_id": "1894663716651831498",
+        "created_at": "2025-02-26T08:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T09:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894663716651831498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26VQJvIFQ4",
+              "end": 55,
+              "expanded_url": "https://x.com/KiraRettosei/status/1894663716651831498/photo/1",
+              "media_key": "3_1894663713053184000",
+              "start": 32,
+              "url": "https://t.co/26VQJvIFQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894663716651831498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用完了呀（笑）\n今天想自慰的时候只剩一点点了，幸好还有一点点。 https://t.co/26VQJvIFQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 1100,
+          "like_count": 33398,
+          "listed_count": 4,
+          "media_count": 1453,
+          "tweet_count": 12224
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n高中三年生，欢迎交流。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Hangzhou,China",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1881425533235577051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 2502,
+          "like_count": 35545,
+          "listed_count": 7,
+          "media_count": 871,
+          "tweet_count": 14480
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

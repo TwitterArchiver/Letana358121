@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2027676666072600649",
+    "created_at": "2026-03-01T06:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027996112620294391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027996112620294391",
+    "in_reply_to_user_id": "1077906424661856257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027978862634618953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv 我问了一下现在跟进我的社工一个月工资w3左右，年假还有10天，还每天八小时双修。。感觉已经很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2027676666072600649",
+        "created_at": "2026-03-01T06:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027996112620294391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027996112620294391",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027978862634618953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv 我问了一下现在跟进我的社工一个月工资w3左右，年假还有10天，还每天八小时双修。。感觉已经很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077906424661856257",
+        "conversation_id": "2027676666072600649",
+        "created_at": "2026-03-01T05:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027978862634618953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027978862634618953",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027938841731158324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 要看收入和工作强度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 1341,
+          "like_count": 47020,
+          "listed_count": 7,
+          "media_count": 2124,
+          "tweet_count": 18033
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 74,
+          "like_count": 411345,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 184481
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      }
+    ]
+  }
+}

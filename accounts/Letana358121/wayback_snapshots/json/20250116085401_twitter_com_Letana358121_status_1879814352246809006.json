@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1879370073426756072",
+    "created_at": "2025-01-16T08:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T09:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879814352246809006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        },
+        {
+          "end": 24,
+          "id": "1602663153623388161",
+          "start": 15,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879814352246809006",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879778139871809682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO @knd_8964 我是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1879370073426756072",
+        "created_at": "2025-01-16T08:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T09:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879814352246809006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            },
+            {
+              "end": 24,
+              "id": "1602663153623388161",
+              "start": 15,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879814352246809006",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879778139871809682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO @knd_8964 我是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "1879370073426756072",
+        "created_at": "2025-01-16T06:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879778139871809682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            },
+            {
+              "end": 23,
+              "id": "1669543422586421248",
+              "start": 10,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879778139871809682",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879370073426756072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 @Letana358121"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 1036,
+          "like_count": 30320,
+          "listed_count": 5,
+          "media_count": 1355,
+          "tweet_count": 11214
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀",
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "pinned_tweet_id": "1873046071372595624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872753222949191684/2dI2xXIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 58,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "啥时候大都会区域更到九的时候叫我一声（似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943,
+          "following_count": 4164,
+          "like_count": 58772,
+          "listed_count": 10,
+          "media_count": 3311,
+          "tweet_count": 8916
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

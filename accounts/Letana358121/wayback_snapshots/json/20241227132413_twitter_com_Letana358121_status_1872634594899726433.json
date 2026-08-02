@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1872585702560739520",
+    "created_at": "2024-12-27T13:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T14:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872634594899726433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596416860752207872",
+          "start": 0,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872634594899726433",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872585702560739520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longlinlon 🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872585702560739520].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872585702560739520",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872585702560739520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1872585702560739520",
+        "created_at": "2024-12-27T13:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T14:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872634594899726433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872634594899726433",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872585702560739520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 1015,
+          "like_count": 30096,
+          "listed_count": 5,
+          "media_count": 1305,
+          "tweet_count": 10852
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 2299,
+          "like_count": 186921,
+          "listed_count": 8,
+          "media_count": 1031,
+          "tweet_count": 12143
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

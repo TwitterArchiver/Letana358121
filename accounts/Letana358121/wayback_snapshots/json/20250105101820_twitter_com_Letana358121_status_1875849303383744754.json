@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1875653763865964761",
+    "created_at": "2025-01-05T10:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T11:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875849303383744754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1357546351144304642",
+          "start": 0,
+          "username": "UFP_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875849303383744754",
+    "in_reply_to_user_id": "1357546351144304642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875843199224463799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_SB 完啦😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1875653763865964761",
+        "created_at": "2025-01-05T10:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T11:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875849303383744754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1357546351144304642",
+              "start": 0,
+              "username": "UFP_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875849303383744754",
+        "in_reply_to_user_id": "1357546351144304642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875843199224463799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_SB 完啦😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357546351144304642",
+        "conversation_id": "1875653763865964761",
+        "created_at": "2025-01-05T09:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875843199224463799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875843199224463799",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875653763865964761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 如果人家赔不起咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1016,
+          "like_count": 30476,
+          "listed_count": 5,
+          "media_count": 1320,
+          "tweet_count": 11024
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T04:27:42.000Z",
+        "description": "人民有信仰，国家有力量！",
+        "id": "1357546351144304642",
+        "location": "New York, NY",
+        "name": "回收二手米兰达🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777551097437253632/CG-3Lmyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 175,
+          "like_count": 6669,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "username": "UFP_SB",
+        "verified": false
+      }
+    ]
+  }
+}

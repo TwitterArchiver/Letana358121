@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1917081791112134672",
+    "created_at": "2025-04-29T07:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T08:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917119010946355639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917119010946355639",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917118562143244557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer 呜呜宝宝你可爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1917081791112134672",
+        "created_at": "2025-04-29T07:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917119010946355639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917119010946355639",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917118562143244557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer 呜呜宝宝你可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1917081791112134672",
+        "created_at": "2025-04-29T07:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917118562143244557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1388165242740371457",
+              "start": 0,
+              "username": "Lee65535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917118562143244557",
+        "in_reply_to_user_id": "1388165242740371457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917081791112134672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee65535 刷推被挂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1149,
+          "like_count": 38501,
+          "listed_count": 5,
+          "media_count": 1591,
+          "tweet_count": 14052
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 610,
+          "like_count": 52018,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 5465
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

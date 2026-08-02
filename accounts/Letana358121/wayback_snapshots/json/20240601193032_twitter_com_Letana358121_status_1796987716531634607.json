@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1796968164796010805",
+    "created_at": "2024-06-01T19:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T20:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796987716531634607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "DeadMacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796987716531634607",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796968164796010805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadMacao 抱抱你。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1796968164796010805",
+        "created_at": "2024-06-01T19:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T20:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796987716531634607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "DeadMacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796987716531634607",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796968164796010805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadMacao 抱抱你。。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1796968164796010805",
+        "created_at": "2024-06-01T18:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T19:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796968164796010805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796968164796010805",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼别人可以和喜歡的人一起od語音\n我只能在夜晚一個人喝酒發瘋\n恨死這樣的生活了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 586,
+          "like_count": 20876,
+          "listed_count": 2,
+          "tweet_count": 6472
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "08 🇲🇴🇭🇰/🇯🇵/🇬🇧/🏳️‍⚧️/純情/高中生/精神不安定",
+        "id": "1655093096710021120",
+        "location": "Macau",
+        "name": "デッドマカオ🇲🇴",
+        "pinned_tweet_id": "1796895232988221893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770410562935279616/BlSylyOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 165,
+          "like_count": 2578,
+          "listed_count": 0,
+          "tweet_count": 1625
+        },
+        "username": "DeadMacao",
+        "verified": false
+      }
+    ]
+  }
+}

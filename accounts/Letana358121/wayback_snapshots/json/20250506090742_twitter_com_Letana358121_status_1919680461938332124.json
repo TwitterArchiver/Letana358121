@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1919680461938332124",
+    "created_at": "2025-05-06T09:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T10:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919680461938332124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yao_freezer/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Yao_freezer/status/1919663255196180965",
+          "start": 9,
+          "url": "https://t.co/GFcnSDfTYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919680461938332124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919663255196180965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对象真牛逼吧。 https://t.co/GFcnSDfTYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919663099470348290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQDawxbAAIkUiy.jpg",
+        "width": 1396
+      },
+      {
+        "duration_ms": 20696,
+        "height": 1280,
+        "media_key": "13_1919663099478679552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919663099478679552/img/lKo0E8m5fdSY3i5-.jpg",
+        "public_metrics": {
+          "view_count": 72
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919663099478679552/vid/avc1/320x568/kihvEima4ECDClDM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919663099478679552/vid/avc1/480x852/x7rWvC3-rKFTVhUa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919663099478679552/vid/avc1/720x1280/3yYHyexsLBVJcsYa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919663099478679552/pl/EbOlaSu98N7Q5Jf3.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1919680461938332124",
+        "created_at": "2025-05-06T09:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919680461938332124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yao_freezer/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Yao_freezer/status/1919663255196180965",
+              "start": 9,
+              "url": "https://t.co/GFcnSDfTYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919680461938332124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919663255196180965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对象真牛逼吧。 https://t.co/GFcnSDfTYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919663099470348290",
+            "13_1919663099478679552"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919663255196180965",
+        "created_at": "2025-05-06T07:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919663255196180965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Glorious Crown AP",
+              "probability": 0.933,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DH1WAEk4nh",
+              "end": 41,
+              "expanded_url": "https://x.com/Yao_freezer/status/1919663255196180965/video/1",
+              "media_key": "3_1919663099470348290",
+              "start": 18,
+              "url": "https://t.co/DH1WAEk4nh"
+            },
+            {
+              "display_url": "pic.x.com/DH1WAEk4nh",
+              "end": 41,
+              "expanded_url": "https://x.com/Yao_freezer/status/1919663255196180965/video/1",
+              "media_key": "13_1919663099478679552",
+              "start": 18,
+              "url": "https://t.co/DH1WAEk4nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919663255196180965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Glorious Crown AP https://t.co/DH1WAEk4nh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 1149,
+          "like_count": 38685,
+          "listed_count": 5,
+          "media_count": 1600,
+          "tweet_count": 14169
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 610,
+          "like_count": 52185,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 5474
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

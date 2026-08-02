@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1977691900917543376",
+    "created_at": "2025-10-19T06:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979791540089397349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815813685719576576",
+          "start": 0,
+          "username": "punafa250724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979791540089397349",
+    "in_reply_to_user_id": "1815813685719576576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979791050983330066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@punafa250724 抱你一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1977691900917543376",
+        "created_at": "2025-10-19T06:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979791540089397349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815813685719576576",
+              "start": 0,
+              "username": "punafa250724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979791540089397349",
+        "in_reply_to_user_id": "1815813685719576576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979791050983330066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@punafa250724 抱你一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815813685719576576",
+        "conversation_id": "1977691900917543376",
+        "created_at": "2025-10-19T06:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979791050983330066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979791050983330066",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977691900917543376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 要抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1270,
+          "like_count": 42429,
+          "listed_count": 8,
+          "media_count": 1904,
+          "tweet_count": 16152
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T18:20:00.000Z",
+        "description": "想调一杯所有人都能喝的酒#想温暖每一个有创伤的人#想要要不顾一切的快乐的活着",
+        "id": "1815813685719576576",
+        "name": "valhalla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815819180916015104/YcggrhVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "username": "punafa250724",
+        "verified": false
+      }
+    ]
+  }
+}

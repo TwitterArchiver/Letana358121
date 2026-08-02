@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1883733667455045921",
+    "created_at": "2025-01-27T04:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883733667455045921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789528204207915008",
+          "start": 3,
+          "username": "kitsunekuzasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883733667455045921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883708373272821943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitsunekuzasa: 我们这种缺爱逼最好谈了，只要你愿意听我讲破烂事，愿意认真回我信息，每条动态你都互动，我就以为真爱降临我身边了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1883733667455045921",
+        "created_at": "2025-01-27T04:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883733667455045921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789528204207915008",
+              "start": 3,
+              "username": "kitsunekuzasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883733667455045921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883708373272821943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitsunekuzasa: 我们这种缺爱逼最好谈了，只要你愿意听我讲破烂事，愿意认真回我信息，每条动态你都互动，我就以为真爱降临我身边了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789528204207915008",
+        "conversation_id": "1883708373272821943",
+        "created_at": "2025-01-27T02:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T03:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883708373272821943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Silent121_5/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Silent121_5/status/1883679033852047746",
+              "start": 55,
+              "url": "https://t.co/FUcHku7hlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883708373272821943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883679033852047746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这种缺爱逼最好谈了，只要你愿意听我讲破烂事，愿意认真回我信息，每条动态你都互动，我就以为真爱降临我身边了 https://t.co/FUcHku7hlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 1064,
+          "like_count": 30811,
+          "listed_count": 5,
+          "media_count": 1380,
+          "tweet_count": 11408
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "Racing to the starlight✨",
+        "id": "1789528204207915008",
+        "name": "風",
+        "pinned_tweet_id": "1879911602553856235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876886201724207104/N-K451Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 191,
+          "like_count": 24200,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 204
+        },
+        "username": "kitsunekuzasa",
+        "verified": false
+      }
+    ]
+  }
+}

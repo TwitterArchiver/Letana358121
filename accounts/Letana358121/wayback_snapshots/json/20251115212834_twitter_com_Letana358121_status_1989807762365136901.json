@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1989807762365136901",
+    "created_at": "2025-11-15T21:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T22:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989807762365136901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/123456wwerr/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/123456wwerr/status/1989584035404828933",
+          "start": 28,
+          "url": "https://t.co/AasM5Roq7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989807762365136901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989584035404828933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道但是我还是后悔我之前做过的好多好多好多好多事情。 https://t.co/AasM5Roq7H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989584032158388224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xsIs-XEAA1MAU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1989807762365136901",
+        "created_at": "2025-11-15T21:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989807762365136901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123456wwerr/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/123456wwerr/status/1989584035404828933",
+              "start": 28,
+              "url": "https://t.co/AasM5Roq7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989807762365136901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989584035404828933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道但是我还是后悔我之前做过的好多好多好多好多事情。 https://t.co/AasM5Roq7H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989584032158388224"
+          ]
+        },
+        "author_id": "1866050038088024064",
+        "conversation_id": "1989584035404828933",
+        "created_at": "2025-11-15T06:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989584035404828933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq85K5lLcF",
+              "end": 23,
+              "expanded_url": "https://x.com/123456wwerr/status/1989584035404828933/photo/1",
+              "media_key": "3_1989584032158388224",
+              "start": 0,
+              "url": "https://t.co/kq85K5lLcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989584035404828933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kq85K5lLcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1284,
+          "like_count": 43736,
+          "listed_count": 7,
+          "media_count": 1940,
+          "tweet_count": 16682
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "1989369721846976663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 319,
+          "like_count": 98911,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 13516
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

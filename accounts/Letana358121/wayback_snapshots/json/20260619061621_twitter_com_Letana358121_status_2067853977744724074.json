@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2067530850510794754",
+    "created_at": "2026-06-19T06:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067853977744724074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SayoriCat8964"
+        },
+        {
+          "end": 30,
+          "id": "2047196027141181440",
+          "start": 15,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067853977744724074",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067821008342720972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SayoriCat8964 @tangangqinmao1 弹主席最对的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2067530850510794754",
+        "created_at": "2026-06-19T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067853977744724074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SayoriCat8964"
+            },
+            {
+              "end": 30,
+              "id": "2047196027141181440",
+              "start": 15,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067853977744724074",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067821008342720972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SayoriCat8964 @tangangqinmao1 弹主席最对的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "2067530850510794754",
+        "created_at": "2026-06-19T04:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067821008342720972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047196027141181440",
+              "start": 0,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067821008342720972",
+        "in_reply_to_user_id": "2047196027141181440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067530850510794754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao1 弹主席说的对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 1533,
+          "like_count": 58006,
+          "listed_count": 7,
+          "media_count": 2335,
+          "tweet_count": 21125
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/🐶@A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 1248,
+          "like_count": 148668,
+          "listed_count": 13,
+          "media_count": 1716,
+          "tweet_count": 22073
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 右÷ 支黑\n希望上面提到的这三类人全+死光\n反毛贼不屠能行吗？",
+        "id": "2047196027141181440",
+        "location": "反毛贼智能屠宰基地（扒皮生腌反毛贼处理厂）",
+        "name": "弹钢琴",
+        "pinned_tweet_id": "2065289300175118371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 44,
+          "like_count": 2126,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

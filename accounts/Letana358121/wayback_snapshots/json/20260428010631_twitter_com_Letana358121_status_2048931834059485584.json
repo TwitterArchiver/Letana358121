@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048931834059485584",
+    "created_at": "2026-04-28T01:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048931834059485584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1490675894238986251",
+          "start": 3,
+          "username": "SayoriCat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048931834059485584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048754299312943521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SayoriCat8964: 激女对跨性别的认知是不是只有mtf mtx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048931834059485584",
+        "created_at": "2026-04-28T01:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048931834059485584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1490675894238986251",
+              "start": 3,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048931834059485584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048754299312943521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SayoriCat8964: 激女对跨性别的认知是不是只有mtf mtx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "2048754299312943521",
+        "created_at": "2026-04-27T13:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048754299312943521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/euphimia88/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/euphimia88/status/2047856438891118795",
+              "start": 22,
+              "url": "https://t.co/jB6XZYn2kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048754299312943521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1778,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047856438891118795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "激女对跨性别的认知是不是只有mtf mtx https://t.co/jB6XZYn2kw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 1434,
+          "like_count": 52073,
+          "listed_count": 8,
+          "media_count": 2254,
+          "tweet_count": 19573
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/🐶@A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 1261,
+          "like_count": 144487,
+          "listed_count": 13,
+          "media_count": 1692,
+          "tweet_count": 21502
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      }
+    ]
+  }
+}

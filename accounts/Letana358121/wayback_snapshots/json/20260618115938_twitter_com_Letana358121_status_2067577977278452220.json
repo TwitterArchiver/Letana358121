@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2067485667656106427",
+    "created_at": "2026-06-18T11:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067577977278452220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067577977278452220",
+    "in_reply_to_user_id": "708700717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067576559872131357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 希望我也可以吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2067485667656106427",
+        "created_at": "2026-06-18T11:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067577977278452220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067577977278452220",
+        "in_reply_to_user_id": "708700717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067576559872131357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 希望我也可以吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "2067485667656106427",
+        "created_at": "2026-06-18T11:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067576559872131357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067576559872131357",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067569415269535779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 能的啊，我有个朋友也是你这样的情况，现在在教听障小朋友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1532,
+          "like_count": 58036,
+          "listed_count": 7,
+          "media_count": 2333,
+          "tweet_count": 21107
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "如果你有需要我会在肥牛山等你",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "狗肉拌饭",
+        "pinned_tweet_id": "2055332914095677621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056152125038870528/J9mcTzNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9318,
+          "following_count": 1732,
+          "like_count": 8075,
+          "listed_count": 62,
+          "media_count": 22696,
+          "tweet_count": 349467
+        },
+        "url": "",
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

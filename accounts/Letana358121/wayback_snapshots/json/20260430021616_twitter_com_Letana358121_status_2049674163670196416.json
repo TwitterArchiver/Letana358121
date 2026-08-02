@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049365219982659584"
+      ],
+      "media_source_tweet_id": [
+        "2049365228438339638"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2049674163670196416",
+    "created_at": "2026-04-30T02:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049674163670196416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1373080083703894019",
+          "start": 3,
+          "username": "JiaHe888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/97dipNcEtM",
+          "end": 37,
+          "expanded_url": "https://x.com/JiaHe888/status/2049365228438339638/photo/1",
+          "media_key": "3_2049365219982659584",
+          "start": 14,
+          "url": "https://t.co/97dipNcEtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049674163670196416",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049365228438339638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiaHe888: https://t.co/97dipNcEtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2049365219982659584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDOz0AbUAAIYJO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049365219982659584"
+          ],
+          "media_source_tweet_id": [
+            "2049365228438339638"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2049674163670196416",
+        "created_at": "2026-04-30T02:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049674163670196416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1373080083703894019",
+              "start": 3,
+              "username": "JiaHe888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/97dipNcEtM",
+              "end": 37,
+              "expanded_url": "https://x.com/JiaHe888/status/2049365228438339638/photo/1",
+              "media_key": "3_2049365219982659584",
+              "start": 14,
+              "url": "https://t.co/97dipNcEtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049674163670196416",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049365228438339638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiaHe888: https://t.co/97dipNcEtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049365219982659584"
+          ]
+        },
+        "author_id": "1373080083703894019",
+        "conversation_id": "2049365228438339638",
+        "created_at": "2026-04-29T05:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049365228438339638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97dipNcEtM",
+              "end": 23,
+              "expanded_url": "https://x.com/JiaHe888/status/2049365228438339638/photo/1",
+              "media_key": "3_2049365219982659584",
+              "start": 0,
+              "url": "https://t.co/97dipNcEtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049365228438339638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 74018,
+          "like_count": 2947,
+          "quote_count": 8,
+          "reply_count": 34,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/97dipNcEtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 1437,
+          "like_count": 52210,
+          "listed_count": 8,
+          "media_count": 2257,
+          "tweet_count": 19654
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T01:13:06.000Z",
+        "description": "没成为优秀的人，抱歉...",
+        "id": "1373080083703894019",
+        "name": "再見亦是淚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023809220274253827/xs0R0L1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13865,
+          "following_count": 475,
+          "like_count": 89312,
+          "listed_count": 13,
+          "media_count": 630,
+          "tweet_count": 2732
+        },
+        "username": "JiaHe888",
+        "verified": false
+      }
+    ]
+  }
+}

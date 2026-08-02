@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1898034975494357070",
+    "created_at": "2025-03-07T15:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T16:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898034975494357070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hsn8086/status/1897813648036577609",
+          "start": 11,
+          "url": "https://t.co/YpOaYAAOCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898034975494357070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897813648036577609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也。。。很好奇。。 https://t.co/YpOaYAAOCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_1897813643263459328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZjdBibwAA45bt.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1898034975494357070",
+        "created_at": "2025-03-07T15:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898034975494357070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hsn8086/status/1897813648036577609",
+              "start": 11,
+              "url": "https://t.co/YpOaYAAOCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898034975494357070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897813648036577609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也。。。很好奇。。 https://t.co/YpOaYAAOCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897813643263459328"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1897813648036577609",
+        "created_at": "2025-03-07T00:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T01:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897813648036577609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwfUNvULY7",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086/status/1897813648036577609/photo/1",
+              "media_key": "3_1897813643263459328",
+              "start": 5,
+              "url": "https://t.co/NwfUNvULY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897813648036577609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 60259,
+          "like_count": 912,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我也好奇 https://t.co/NwfUNvULY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 1117,
+          "like_count": 34526,
+          "listed_count": 4,
+          "media_count": 1474,
+          "tweet_count": 12499
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44796,
+          "following_count": 927,
+          "like_count": 36863,
+          "listed_count": 111,
+          "media_count": 7298,
+          "tweet_count": 12668
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

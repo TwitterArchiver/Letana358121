@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048023259741028490",
+    "created_at": "2026-04-25T13:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048027384725541367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485478878085120",
+          "start": 0,
+          "username": "WkymylFf7669364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048027384725541367",
+    "in_reply_to_user_id": "1675485478878085120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048023259741028490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WkymylFf7669364 求教学。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048023245954441216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwKSpLbYAACT6p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048023259741028490",
+        "created_at": "2026-04-25T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048027384725541367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485478878085120",
+              "start": 0,
+              "username": "WkymylFf7669364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048027384725541367",
+        "in_reply_to_user_id": "1675485478878085120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048023259741028490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WkymylFf7669364 求教学。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048023245954441216"
+          ]
+        },
+        "author_id": "1675485478878085120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048023259741028490",
+        "created_at": "2026-04-25T12:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048023259741028490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ns7Y9P4iQ7",
+              "end": 36,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2048023259741028490/photo/1",
+              "media_key": "3_2048023245954441216",
+              "start": 13,
+              "url": "https://t.co/Ns7Y9P4iQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048023259741028490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下真开挂了我居然扛得动 https://t.co/Ns7Y9P4iQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 1421,
+          "like_count": 51620,
+          "listed_count": 8,
+          "media_count": 2249,
+          "tweet_count": 19489
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:44:10.000Z",
+        "description": "自私自利自负自卑",
+        "id": "1675485478878085120",
+        "location": " ",
+        "name": "三着",
+        "pinned_tweet_id": "1988889812841959634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011140344306679811/OWJv5hb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 472,
+          "like_count": 13318,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1208
+        },
+        "username": "WkymylFf7669364",
+        "verified": false
+      }
+    ]
+  }
+}

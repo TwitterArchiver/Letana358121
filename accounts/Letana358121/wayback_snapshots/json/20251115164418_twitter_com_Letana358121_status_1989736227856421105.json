@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1989736227856421105",
+    "created_at": "2025-11-15T16:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989736227856421105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Glagagapot/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Glagagapot/status/1989427740400128059",
+          "start": 8,
+          "url": "https://t.co/2tqcdG15sD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989736227856421105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989427740400128059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曹这种好恐怖 https://t.co/2tqcdG15sD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1989736227856421105",
+        "created_at": "2025-11-15T16:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989736227856421105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Glagagapot/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Glagagapot/status/1989427740400128059",
+              "start": 8,
+              "url": "https://t.co/2tqcdG15sD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989736227856421105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989427740400128059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曹这种好恐怖 https://t.co/2tqcdG15sD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1989427740400128059",
+        "created_at": "2025-11-14T20:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989427740400128059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989427740400128059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1057,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到精神有明显问题的人明确表示不反对生育我就已经提前开始担心这人的孩子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 1282,
+          "like_count": 43709,
+          "listed_count": 7,
+          "media_count": 1940,
+          "tweet_count": 16673
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎生物｜郭楠｜讲话猎奇恶俗请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "被窝",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988971482501033984/3RyMzGth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 1072,
+          "like_count": 73205,
+          "listed_count": 6,
+          "media_count": 2057,
+          "tweet_count": 24790
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

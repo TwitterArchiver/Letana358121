@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1876830894910062857",
+    "created_at": "2025-01-08T03:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T04:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876830894910062857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1876619648415986056",
+          "start": 5,
+          "url": "https://t.co/sv3Ifk0Dzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876830894910062857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876619648415986056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/sv3Ifk0Dzc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1876830894910062857",
+        "created_at": "2025-01-08T03:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T04:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876830894910062857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1876619648415986056",
+              "start": 5,
+              "url": "https://t.co/sv3Ifk0Dzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876830894910062857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876619648415986056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/sv3Ifk0Dzc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1876619648415986056",
+        "created_at": "2025-01-07T13:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T14:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876619648415986056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876619648415986056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1802,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友最近在看 JOJO 石之海，我问她讲的啥，她说大概是一个总加速师靠加速让人们体验到幸福感的故事……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 1032,
+          "like_count": 30593,
+          "listed_count": 5,
+          "media_count": 1330,
+          "tweet_count": 11064
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "小黄狗",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12945,
+          "following_count": 182,
+          "like_count": 395,
+          "listed_count": 41,
+          "media_count": 73,
+          "tweet_count": 12671
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

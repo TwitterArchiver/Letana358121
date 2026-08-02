@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799432505881468965",
+    "created_at": "2024-06-09T10:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T11:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799751138616713556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726143976103665664",
+          "start": 0,
+          "username": "stuckonyou55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799751138616713556",
+    "in_reply_to_user_id": "1726143976103665664",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799750983322669079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuckonyou55 快跑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1799432505881468965",
+        "created_at": "2024-06-09T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799751138616713556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726143976103665664",
+              "start": 0,
+              "username": "stuckonyou55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799751138616713556",
+        "in_reply_to_user_id": "1726143976103665664",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799750983322669079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuckonyou55 快跑。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1726143976103665664",
+        "conversation_id": "1799432505881468965",
+        "created_at": "2024-06-09T10:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T11:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799750983322669079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799750983322669079",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799432505881468965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 16岁在烦恼我能不能活着逃离原生家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 622,
+          "like_count": 21310,
+          "listed_count": 2,
+          "tweet_count": 6655
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T07:42:56.000Z",
+        "description": "女高｜非常好相处的宝宝｜分享日常和涩图",
+        "id": "1726143976103665664",
+        "name": "🦷宝",
+        "pinned_tweet_id": "1798422370111434834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797670809529659393/7dIanqUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 9,
+          "like_count": 60,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "stuckonyou55",
+        "verified": false
+      }
+    ]
+  }
+}

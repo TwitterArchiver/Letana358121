@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1833822231564320906",
+    "created_at": "2024-09-11T11:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T12:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833826658287268007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "deathisnear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833826658287268007",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833822231564320906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deathisnear1 这个要等时间吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1833822231564320906",
+        "created_at": "2024-09-11T11:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T12:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833826658287268007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "deathisnear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833826658287268007",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833822231564320906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deathisnear1 这个要等时间吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729090153124376576",
+        "conversation_id": "1833822231564320906",
+        "created_at": "2024-09-11T10:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T11:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833822231564320906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sally773147861…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/sally7731478613/status/1833754739894288629",
+              "start": 22,
+              "url": "https://t.co/UGh2VVThO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833822231564320906",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833754739894288629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说怎么确认这个状态解除了？\n发条新推吗？ https://t.co/UGh2VVThO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 894,
+          "like_count": 28082,
+          "listed_count": 3,
+          "tweet_count": 8881
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "19岁大龄mtf，HRT2023/9/13,无证含糖，社交恐惧，缺爱😿\n我不认识Sally by the way\n目前此账号只用于存照片",
+        "id": "1729090153124376576",
+        "location": "underworld ",
+        "name": "not Sally",
+        "pinned_tweet_id": "1732194253156356588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733365365655437312/wMY2F67__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4617,
+          "following_count": 130,
+          "like_count": 408,
+          "listed_count": 17,
+          "tweet_count": 159
+        },
+        "username": "deathisnear1",
+        "verified": false
+      }
+    ]
+  }
+}

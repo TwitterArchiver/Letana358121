@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1934926306409635957",
+    "created_at": "2025-06-17T10:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T11:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934926306409635957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShiTiao80173/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ShiTiao80173/status/1934647544770166850",
+          "start": 22,
+          "url": "https://t.co/Egke3yJA2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934926306409635957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934647544770166850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我比labubu还丑 为什么没有人给我送钱 https://t.co/Egke3yJA2Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1934647542203195392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtk_sH6aoAA_scI.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1934926306409635957",
+        "created_at": "2025-06-17T10:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934926306409635957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiTiao80173/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ShiTiao80173/status/1934647544770166850",
+              "start": 22,
+              "url": "https://t.co/Egke3yJA2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934926306409635957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934647544770166850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我比labubu还丑 为什么没有人给我送钱 https://t.co/Egke3yJA2Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934647542203195392"
+          ]
+        },
+        "author_id": "1721653382480269312",
+        "conversation_id": "1934647544770166850",
+        "created_at": "2025-06-16T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934647544770166850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Hl19qyrll",
+              "end": 46,
+              "expanded_url": "https://x.com/ShiTiao80173/status/1934647544770166850/photo/1",
+              "media_key": "3_1934647542203195392",
+              "start": 23,
+              "url": "https://t.co/2Hl19qyrll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934647544770166850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草啊labubu的广告怎么都打到这里来了。 https://t.co/2Hl19qyrll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 1180,
+          "like_count": 40378,
+          "listed_count": 5,
+          "media_count": 1714,
+          "tweet_count": 14867
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T22:19:00.000Z",
+        "description": "Poltergeist｜不是黄推｜月球作息🌑｜傻逼下头恋爱脑｜缺爱b实践者｜纯贱人｜纯爱单相思｜我是完蛋女王♡还在不断的努力站起来吗🧀\n提问箱https://t.co/GJFUzXmew5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheezykawaovo2",
+                "end": 94,
+                "expanded_url": "https://ngl.link/cheezykawaovo2",
+                "start": 71,
+                "url": "https://t.co/GJFUzXmew5"
+              }
+            ]
+          }
+        },
+        "id": "1721653382480269312",
+        "location": "奶酪的孔洞中",
+        "name": "雾芝士条🧀",
+        "pinned_tweet_id": "1910499448217911408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765528493700284416/Uainj0gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 962,
+          "like_count": 29361,
+          "listed_count": 1,
+          "media_count": 707,
+          "tweet_count": 7515
+        },
+        "username": "ShiTiao80173",
+        "verified": false
+      }
+    ]
+  }
+}

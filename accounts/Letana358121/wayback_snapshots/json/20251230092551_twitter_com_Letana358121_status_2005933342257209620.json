@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005919351673872385"
+      ],
+      "media_source_tweet_id": [
+        "2005919412675830109"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005933342257209620",
+    "created_at": "2025-12-30T09:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T10:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005933342257209620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600287222183661568",
+          "start": 3,
+          "username": "502_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZaZpXxp1NC",
+          "end": 37,
+          "expanded_url": "https://x.com/502_8964/status/2005919412675830109/video/1",
+          "media_key": "13_2005919351673872385",
+          "start": 14,
+          "url": "https://t.co/ZaZpXxp1NC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005933342257209620",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005919412675830109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @502_8964: https://t.co/ZaZpXxp1NC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8266,
+        "height": 1280,
+        "media_key": "13_2005919351673872385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005919351673872385/img/r78wK-d7eGtPRst1.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005919351673872385/vid/avc1/320x568/p4zDw86DvM5Pusfg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005919351673872385/vid/avc1/480x852/GlWmRjuN_KHbffNO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005919351673872385/vid/avc1/720x1280/CQi-tMNBY4EaMCNR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005919351673872385/pl/upO0e54b_9rnm7JF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005919351673872385"
+          ],
+          "media_source_tweet_id": [
+            "2005919412675830109"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005933342257209620",
+        "created_at": "2025-12-30T09:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005933342257209620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600287222183661568",
+              "start": 3,
+              "username": "502_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaZpXxp1NC",
+              "end": 37,
+              "expanded_url": "https://x.com/502_8964/status/2005919412675830109/video/1",
+              "media_key": "13_2005919351673872385",
+              "start": 14,
+              "url": "https://t.co/ZaZpXxp1NC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005933342257209620",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005919412675830109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @502_8964: https://t.co/ZaZpXxp1NC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005919351673872385"
+          ]
+        },
+        "author_id": "1600287222183661568",
+        "conversation_id": "2005919412675830109",
+        "created_at": "2025-12-30T08:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005919412675830109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaZpXxp1NC",
+              "end": 23,
+              "expanded_url": "https://x.com/502_8964/status/2005919412675830109/video/1",
+              "media_key": "13_2005919351673872385",
+              "start": 0,
+              "url": "https://t.co/ZaZpXxp1NC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005919412675830109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZaZpXxp1NC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004434726015393792/K6H51c2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 1320,
+          "like_count": 45450,
+          "listed_count": 7,
+          "media_count": 2046,
+          "tweet_count": 17463
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T00:33:14.000Z",
+        "description": "=雨森落松/雨森蓝丨朝比奈まふゆ全肯定❄️丨非单 我很爱我的对象丨看我不爽你就自杀",
+        "id": "1600287222183661568",
+        "location": "🚪50不是给钱别发私信",
+        "name": "藍",
+        "pinned_tweet_id": "2005879777278976098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005879499544748035/VWmE_qsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 368,
+          "like_count": 14451,
+          "listed_count": 13,
+          "media_count": 634,
+          "tweet_count": 3710
+        },
+        "username": "502_8964",
+        "verified": false
+      }
+    ]
+  }
+}

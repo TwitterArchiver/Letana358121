@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833154969014517760"
+      ],
+      "media_source_tweet_id": [
+        "1833154999012204613"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1833155526278185383",
+    "created_at": "2024-09-09T14:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T15:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833155526278185383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688506612565286912",
+          "start": 3,
+          "username": "BBBB_BMS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hzncpkhpgo",
+          "end": 37,
+          "expanded_url": "https://twitter.com/BBBB_BMS/status/1833154999012204613/video/1",
+          "media_key": "7_1833154969014517760",
+          "start": 14,
+          "url": "https://t.co/HZNcpkHPGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833155526278185383",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833154999012204613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BBBB_BMS: https://t.co/HZNcpkHPGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10166,
+        "height": 1278,
+        "media_key": "7_1833154969014517760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833154969014517760/pu/img/synIXqs1ip73oZkD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833154969014517760/pu/vid/avc1/320x598/M8E43KDvhCZiRfSE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833154969014517760/pu/vid/avc1/480x898/8jw_CnmFVETFadU8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833154969014517760/pu/vid/avc1/682x1278/ejjCSCgopv1xbuwu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833154969014517760/pu/pl/qqbc1mGcG7GJqoaD.m3u8?tag=12"
+          }
+        ],
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833154969014517760"
+          ],
+          "media_source_tweet_id": [
+            "1833154999012204613"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1833155526278185383",
+        "created_at": "2024-09-09T14:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T15:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833155526278185383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688506612565286912",
+              "start": 3,
+              "username": "BBBB_BMS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzncpkhpgo",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BBBB_BMS/status/1833154999012204613/video/1",
+              "media_key": "7_1833154969014517760",
+              "start": 14,
+              "url": "https://t.co/HZNcpkHPGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833155526278185383",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833154999012204613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BBBB_BMS: https://t.co/HZNcpkHPGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833154969014517760"
+          ]
+        },
+        "author_id": "1688506612565286912",
+        "conversation_id": "1833154999012204613",
+        "created_at": "2024-09-09T14:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T15:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833154999012204613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzncpkhpgo",
+              "end": 23,
+              "expanded_url": "https://twitter.com/BBBB_BMS/status/1833154999012204613/video/1",
+              "media_key": "7_1833154969014517760",
+              "start": 0,
+              "url": "https://t.co/HZNcpkHPGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833154999012204613",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HZNcpkHPGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 897,
+          "like_count": 27971,
+          "listed_count": 3,
+          "tweet_count": 8841
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T11:05:31.000Z",
+        "description": "Mr.Wonderland",
+        "id": "1688506612565286912",
+        "location": "🌏",
+        "name": "GOGOm@ni'Cɒ！",
+        "pinned_tweet_id": "1809747736306282908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815809092830781441/kCoOsiP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 248,
+          "like_count": 3125,
+          "listed_count": 0,
+          "tweet_count": 561
+        },
+        "username": "BBBB_BMS",
+        "verified": false
+      }
+    ]
+  }
+}

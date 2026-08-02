@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1824016197815329242",
+    "created_at": "2024-08-15T10:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T11:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824029376343835023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1352594576054382599",
+          "start": 0,
+          "username": "LilyTheFox8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824029376343835023",
+    "in_reply_to_user_id": "1352594576054382599",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824022940398031237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LilyTheFox8 一點點驕傲感和一些情緒價值（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1824016197815329242",
+        "created_at": "2024-08-15T10:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T11:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824029376343835023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1352594576054382599",
+              "start": 0,
+              "username": "LilyTheFox8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824029376343835023",
+        "in_reply_to_user_id": "1352594576054382599",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824022940398031237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LilyTheFox8 一點點驕傲感和一些情緒價值（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352594576054382599",
+        "conversation_id": "1824016197815329242",
+        "created_at": "2024-08-15T09:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824022940398031237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824022940398031237",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824020796379205969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 Oooh i see did you won something?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 861,
+          "like_count": 25197,
+          "listed_count": 2,
+          "tweet_count": 8143
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T12:32:18.000Z",
+        "description": "Wellcome fellow Friend!\nIm Lilli the Fox Girl from 🇩🇪 Germany :3\ni creat varied content!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/LilliOffiziell",
+                "end": 23,
+                "expanded_url": "https://twitter.com/LilliOffiziell",
+                "start": 0,
+                "url": "https://t.co/liiMYpg98x"
+              }
+            ]
+          }
+        },
+        "id": "1352594576054382599",
+        "location": "Germany",
+        "name": "Lilli die Füchsin",
+        "pinned_tweet_id": "1823517258636787888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675617110993641473/nuwMkDel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 64,
+          "like_count": 9242,
+          "listed_count": 1,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/liiMYpg98x",
+        "username": "LilyTheFox8",
+        "verified": false
+      }
+    ]
+  }
+}

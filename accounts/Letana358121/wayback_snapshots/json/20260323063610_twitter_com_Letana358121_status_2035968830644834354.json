@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035968828233113600"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2035968830644834354",
+    "created_at": "2026-03-23T06:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T07:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035968830644834354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vwFzOHfStY",
+          "end": 93,
+          "expanded_url": "https://x.com/Letana358121/status/2035968830644834354/photo/1",
+          "media_key": "3_2035968828233113600",
+          "start": 70,
+          "url": "https://t.co/vwFzOHfStY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035968830644834354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蚝油10ml+花椒油6ml+煲仔饭酱油30ml+老干妈半勺+芝麻油5ml+黑胡椒两转，酱料除老干妈品牌皆为李锦记，非常好吃非常美味啊。。。 https://t.co/vwFzOHfStY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035968828233113600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE23LyaYAA0Tu0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035968828233113600"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035968830644834354",
+        "created_at": "2026-03-23T06:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035968830644834354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwFzOHfStY",
+              "end": 93,
+              "expanded_url": "https://x.com/Letana358121/status/2035968830644834354/photo/1",
+              "media_key": "3_2035968828233113600",
+              "start": 70,
+              "url": "https://t.co/vwFzOHfStY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035968830644834354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蚝油10ml+花椒油6ml+煲仔饭酱油30ml+老干妈半勺+芝麻油5ml+黑胡椒两转，酱料除老干妈品牌皆为李锦记，非常好吃非常美味啊。。。 https://t.co/vwFzOHfStY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 1379,
+          "like_count": 48672,
+          "listed_count": 8,
+          "media_count": 2169,
+          "tweet_count": 18556
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

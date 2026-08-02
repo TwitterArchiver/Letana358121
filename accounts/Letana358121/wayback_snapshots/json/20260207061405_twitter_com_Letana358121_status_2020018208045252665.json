@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2019958686668705934",
+    "created_at": "2026-02-07T06:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020018208045252665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "ecstasy_myslee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020018208045252665",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019958686668705934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ecstasy_myslee 你表白谁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2019958686668705934",
+        "created_at": "2026-02-07T06:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020018208045252665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "ecstasy_myslee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020018208045252665",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019958686668705934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecstasy_myslee 你表白谁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2019958686668705934",
+        "created_at": "2026-02-07T02:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019958686668705934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019958686668705934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一大早上睡醒又有列表说昨天半夜我去表白了 这个sns救了我节律究竟还要祸害多少列表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 1341,
+          "like_count": 46223,
+          "listed_count": 6,
+          "media_count": 2086,
+          "tweet_count": 17807
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "location": "beijing",
+        "name": "Ꮇіnаtо #蒭藁增二",
+        "pinned_tweet_id": "2015747709479641278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 136,
+          "like_count": 3654,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 189
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      }
+    ]
+  }
+}

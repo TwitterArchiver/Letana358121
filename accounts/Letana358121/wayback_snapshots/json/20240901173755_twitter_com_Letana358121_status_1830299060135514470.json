@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1830275600948539533",
+    "created_at": "2024-09-01T17:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T18:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830299060135514470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743070655577542656",
+          "start": 0,
+          "username": "nai_miao42598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830299060135514470",
+    "in_reply_to_user_id": "1743070655577542656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830275600948539533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_miao42598 我記得！（跳來跳去）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1830275600948539533",
+        "created_at": "2024-09-01T17:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T18:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830299060135514470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743070655577542656",
+              "start": 0,
+              "username": "nai_miao42598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830299060135514470",
+        "in_reply_to_user_id": "1743070655577542656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830275600948539533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_miao42598 我記得！（跳來跳去）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830275598469742593"
+          ]
+        },
+        "author_id": "1743070655577542656",
+        "conversation_id": "1830275600948539533",
+        "created_at": "2024-09-01T16:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T17:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830275600948539533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eopslca4gv",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nai_miao42598/status/1830275600948539533/photo/1",
+              "media_key": "3_1830275598469742593",
+              "start": 13,
+              "url": "https://t.co/eOpSLCA4gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830275600948539533",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇現在還有多少人記得我 https://t.co/eOpSLCA4gV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 894,
+          "like_count": 27641,
+          "listed_count": 3,
+          "tweet_count": 8584
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T00:43:36.000Z",
+        "description": "😊",
+        "id": "1743070655577542656",
+        "location": "Taiwan",
+        "name": "悅奈",
+        "pinned_tweet_id": "1826447467405299888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810916738890117120/TGhGFxqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 725,
+          "like_count": 17887,
+          "listed_count": 2,
+          "tweet_count": 6064
+        },
+        "username": "nai_miao42598",
+        "verified": false
+      }
+    ]
+  }
+}

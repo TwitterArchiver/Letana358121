@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2037408071719506059",
+    "created_at": "2026-03-27T05:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037408071719506059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037408071719506059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥我ed也不瘦，我已经一天只吃一顿而且可以一周只吃一顿有肉的了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2037408071719506059",
+        "created_at": "2026-03-27T05:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037408071719506059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037408071719506059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我ed也不瘦，我已经一天只吃一顿而且可以一周只吃一顿有肉的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037193028532920323/uLPfNhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 1390,
+          "like_count": 49040,
+          "listed_count": 8,
+          "media_count": 2183,
+          "tweet_count": 18682
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

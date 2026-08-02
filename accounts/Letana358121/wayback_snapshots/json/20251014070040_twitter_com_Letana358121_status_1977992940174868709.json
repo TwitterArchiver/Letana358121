@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1977988217535389938",
+    "created_at": "2025-10-14T07:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T08:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977992940174868709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977992940174868709",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977988217535389938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 我特别喜欢这张啊啊啊。。。可爱的不行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1977988217535389938",
+        "created_at": "2025-10-14T07:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977992940174868709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977992940174868709",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977988217535389938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 我特别喜欢这张啊啊啊。。。可爱的不行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026482173300236288",
+        "conversation_id": "1977988217535389938",
+        "created_at": "2025-10-14T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977988217535389938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OwOb_QAQ/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/OwOb_QAQ/status/1909461102171177048",
+              "start": 56,
+              "url": "https://t.co/snKLqbTvFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977988217535389938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909461102171177048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "關於樣貌的想法：\n其實這張圖比平時的精挑自拍還多人喜歡，以前不是很理解，但之後感覺人們更喜歡自然的樣子（可能？ https://t.co/snKLqbTvFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 1264,
+          "like_count": 42349,
+          "listed_count": 8,
+          "media_count": 1901,
+          "tweet_count": 16081
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "location": "30樓的地下室",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 640,
+          "like_count": 31682,
+          "listed_count": 4,
+          "media_count": 1126,
+          "tweet_count": 10142
+        },
+        "username": "OwOb_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

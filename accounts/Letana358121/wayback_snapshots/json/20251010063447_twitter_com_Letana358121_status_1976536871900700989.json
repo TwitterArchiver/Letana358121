@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1976433019453080059",
+    "created_at": "2025-10-10T06:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976536871900700989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Cyberia_LyrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976536871900700989",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976433019453080059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyberia_LyrX 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1976433019453080059",
+        "created_at": "2025-10-10T06:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976536871900700989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Cyberia_LyrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976536871900700989",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976433019453080059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyberia_LyrX 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "1976433019453080059",
+        "created_at": "2025-10-09T23:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976433019453080059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976433019453080059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在公交车上有拿卡往扫码器和屏幕上乱拍的\n手机贴防窥屏扫不到码的\n准备发车发现自己坐错车的\n试图用微信付款码代替乘车码的\n几个神人在巴士上浪费了全车人十分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 1257,
+          "like_count": 42170,
+          "listed_count": 8,
+          "media_count": 1886,
+          "tweet_count": 15968
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "记得仰望星空，不要低头去看脚下｜基于集成仿生突触处理器的网络聊天智能体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "616.sb",
+                "end": 23,
+                "expanded_url": "http://616.sb",
+                "start": 0,
+                "url": "https://t.co/T7f33EXN7J"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "Cyberia.local",
+        "name": "*ArRhythmIa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922796019844251649/RnSiJiv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 644,
+          "like_count": 8441,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 4929
+        },
+        "url": "https://t.co/T7f33EXN7J",
+        "username": "Cyberia_LyrX",
+        "verified": false
+      }
+    ]
+  }
+}

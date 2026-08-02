@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2053341072966004797",
+    "created_at": "2026-05-10T08:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053387823278096577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "XldMtX"
+        },
+        {
+          "end": 22,
+          "id": "1971027114582474752",
+          "start": 8,
+          "username": "Kanataqqq0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053387823278096577",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053387764125823427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldMtX @Kanataqqq0221 已切割。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2053341072966004797",
+        "created_at": "2026-05-10T08:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053387823278096577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "XldMtX"
+            },
+            {
+              "end": 22,
+              "id": "1971027114582474752",
+              "start": 8,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053387823278096577",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053387764125823427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldMtX @Kanataqqq0221 已切割。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2053341072966004797",
+        "created_at": "2026-05-10T08:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053387764125823427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 28,
+              "id": "1971027114582474752",
+              "start": 14,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053387764125823427",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053386969351442870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @Kanataqqq0221 ）喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 1442,
+          "like_count": 53052,
+          "listed_count": 8,
+          "media_count": 2273,
+          "tweet_count": 19936
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Allenium114"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Allenium114"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Allenium114"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Allenium114"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Allenium114"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Allenium114"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Allenium114"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Allenium114"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Allenium114"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7199,
+          "following_count": 985,
+          "like_count": 51971,
+          "listed_count": 11,
+          "media_count": 3508,
+          "tweet_count": 29651
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 263,
+          "like_count": 2270,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

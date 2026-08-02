@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1915614353312895102",
+    "created_at": "2025-04-25T04:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T05:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915622458989981972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915622458989981972",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915614353312895102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915614340016988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpWhF8dbYAAj3kH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1915614353312895102",
+        "created_at": "2025-04-25T04:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915622458989981972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915622458989981972",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915614353312895102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915614340016988160"
+          ]
+        },
+        "author_id": "1026482173300236288",
+        "conversation_id": "1915614353312895102",
+        "created_at": "2025-04-25T03:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915614353312895102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLtxkBFaok",
+              "end": 46,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1915614353312895102/photo/1",
+              "media_key": "3_1915614340016988160",
+              "start": 23,
+              "url": "https://t.co/XLtxkBFaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915614353312895102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然發現自己正常型態的眼睛也像畫了下眼線一樣 https://t.co/XLtxkBFaok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1149,
+          "like_count": 38269,
+          "listed_count": 5,
+          "media_count": 1585,
+          "tweet_count": 13960
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 636,
+          "like_count": 29672,
+          "listed_count": 3,
+          "media_count": 967,
+          "tweet_count": 8793
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

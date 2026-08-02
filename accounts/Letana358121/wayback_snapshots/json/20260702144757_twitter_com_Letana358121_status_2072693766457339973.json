@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2072635702567956695",
+    "created_at": "2026-07-02T14:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072693766457339973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisprofL"
+        },
+        {
+          "end": 24,
+          "id": "1755279936297013248",
+          "start": 13,
+          "username": "ririmanlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072693766457339973",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072689265339736189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisprofL @ririmanlin 那我很想看了这个剧情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2072635702567956695",
+        "created_at": "2026-07-02T14:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072693766457339973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisprofL"
+            },
+            {
+              "end": 24,
+              "id": "1755279936297013248",
+              "start": 13,
+              "username": "ririmanlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072693766457339973",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072689265339736189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisprofL @ririmanlin 那我很想看了这个剧情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "2072635702567956695",
+        "created_at": "2026-07-02T14:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072689265339736189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755279936297013248",
+              "start": 0,
+              "username": "ririmanlin"
+            },
+            {
+              "end": 25,
+              "id": "1669543422586421248",
+              "start": 12,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689265339736189",
+        "in_reply_to_user_id": "1755279936297013248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072656601132220891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ririmanlin @Letana358121 跨出狗叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3492,
+          "following_count": 1548,
+          "like_count": 59519,
+          "listed_count": 7,
+          "media_count": 2368,
+          "tweet_count": 21546
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🇺🇸🇧🇪 US/CN/FR, non-binary gay 𝙁𝙐𝘾𝙆 𝙄𝘾𝙀\n'm sry that I'm an asian from mid-west",
+        "id": "1753355639949291521",
+        "location": "Paris, France",
+        "name": "Kév in BKK",
+        "pinned_tweet_id": "2046280957364445660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903355355578654720/5w5gZkcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 880,
+          "like_count": 61952,
+          "listed_count": 2,
+          "media_count": 10015,
+          "tweet_count": 42098
+        },
+        "url": "",
+        "username": "jesuisprofL",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T17:18:51.000Z",
+        "description": "NSFW内容警告🔞\n\n长着翅膀的魅魔与他的未婚妻 ｜ 这里是我的天堂，也是你与地狱里的魅魔最近的地方",
+        "id": "1755279936297013248",
+        "location": "Sha Tin District, Hong Kong",
+        "name": "rima",
+        "pinned_tweet_id": "1820414182002671805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069017482690699264/9WpK7wed_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 2,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "ririmanlin",
+        "verified": false
+      }
+    ]
+  }
+}

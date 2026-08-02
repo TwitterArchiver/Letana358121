@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1852576042927739308",
+    "created_at": "2024-11-02T05:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T06:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852586540649820516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279176140138176512",
+          "start": 0,
+          "username": "2SnNY2QPLMkVqGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852586540649820516",
+    "in_reply_to_user_id": "1279176140138176512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852586451092766894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SnNY2QPLMkVqGm 那也没我家富"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1852576042927739308",
+        "created_at": "2024-11-02T05:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852586540649820516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279176140138176512",
+              "start": 0,
+              "username": "2SnNY2QPLMkVqGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852586540649820516",
+        "in_reply_to_user_id": "1279176140138176512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852586451092766894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SnNY2QPLMkVqGm 那也没我家富"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279176140138176512",
+        "conversation_id": "1852576042927739308",
+        "created_at": "2024-11-02T05:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852586451092766894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852586451092766894",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852586242824925338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 那你又错了 就有个人看中我直爽 准备让我推广他的产品 正在谈 钱还没谈在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 974,
+          "like_count": 28844,
+          "listed_count": 3,
+          "tweet_count": 10006
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T22:12:24.000Z",
+        "description": "恋母 恋别人妈 玩自己和别人妈妈",
+        "id": "1279176140138176512",
+        "name": "邪教 恶魔的艺术",
+        "pinned_tweet_id": "1844041884454531251",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 6,
+          "tweet_count": 36572
+        },
+        "username": "2SnNY2QPLMkVqGm",
+        "verified": false
+      }
+    ]
+  }
+}

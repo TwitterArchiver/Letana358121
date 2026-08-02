@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1887044793483792808",
+    "created_at": "2025-02-05T07:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T08:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887045995235827935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887045995235827935",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887044793483792808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉是那种会对着舞萌角色流口水的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1887044793483792808",
+        "created_at": "2025-02-05T07:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887045995235827935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887045995235827935",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887044793483792808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉是那种会对着舞萌角色流口水的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1887044793483792808",
+        "created_at": "2025-02-05T07:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887044793483792808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIDUOXING11451…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/XIDUOXING114514/status/1886831268492665166",
+              "start": 23,
+              "url": "https://t.co/hLyPgd6OI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887044793483792808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886831268492665166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这年头追星和吃雌二醇都能和od坐一桌了无敌了 https://t.co/hLyPgd6OI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 1078,
+          "like_count": 31684,
+          "listed_count": 4,
+          "media_count": 1404,
+          "tweet_count": 11733
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

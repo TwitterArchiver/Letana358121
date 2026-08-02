@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991726668063670273",
+        "13_1991726668105572352"
+      ],
+      "media_source_tweet_id": [
+        "1991726787001479553",
+        "1991726787001479553"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991752526904062050",
+    "created_at": "2025-11-21T06:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T07:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991752526904062050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjlXbCd6Aw",
+          "end": 57,
+          "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+          "media_key": "3_1991726668063670273",
+          "start": 34,
+          "url": "https://t.co/KjlXbCd6Aw"
+        },
+        {
+          "display_url": "pic.x.com/KjlXbCd6Aw",
+          "end": 57,
+          "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+          "media_key": "13_1991726668105572352",
+          "start": 34,
+          "url": "https://t.co/KjlXbCd6Aw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991752526904062050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991726787001479553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: ATLAS RUSH 左右反AP https://t.co/KjlXbCd6Aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991726668063670273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QI2hubgAE5sgh.jpg",
+        "width": 1772
+      },
+      {
+        "duration_ms": 55181,
+        "height": 1280,
+        "media_key": "13_1991726668105572352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991726668105572352/img/4CHXKpZ3L4bSyHax.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991726668105572352/vid/avc1/320x568/B3MK3Zr87b9QuzYZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991726668105572352/vid/avc1/480x852/8T0jMZ6jKTB26pbo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991726668105572352/vid/avc1/720x1280/tMZQPASlZfmgdMwO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991726668105572352/pl/rvUuMqievQkaLGoX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991726668063670273",
+            "13_1991726668105572352"
+          ],
+          "media_source_tweet_id": [
+            "1991726787001479553",
+            "1991726787001479553"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991752526904062050",
+        "created_at": "2025-11-21T06:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T07:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991752526904062050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjlXbCd6Aw",
+              "end": 57,
+              "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+              "media_key": "3_1991726668063670273",
+              "start": 34,
+              "url": "https://t.co/KjlXbCd6Aw"
+            },
+            {
+              "display_url": "pic.x.com/KjlXbCd6Aw",
+              "end": 57,
+              "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+              "media_key": "13_1991726668105572352",
+              "start": 34,
+              "url": "https://t.co/KjlXbCd6Aw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991752526904062050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991726787001479553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: ATLAS RUSH 左右反AP https://t.co/KjlXbCd6Aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991726668063670273",
+            "13_1991726668105572352"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991726787001479553",
+        "created_at": "2025-11-21T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991726787001479553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjlXbCd6Aw",
+              "end": 40,
+              "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+              "media_key": "3_1991726668063670273",
+              "start": 17,
+              "url": "https://t.co/KjlXbCd6Aw"
+            },
+            {
+              "display_url": "pic.x.com/KjlXbCd6Aw",
+              "end": 40,
+              "expanded_url": "https://x.com/Yao_freezer/status/1991726787001479553/video/1",
+              "media_key": "13_1991726668105572352",
+              "start": 17,
+              "url": "https://t.co/KjlXbCd6Aw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991726787001479553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ATLAS RUSH 左右反AP https://t.co/KjlXbCd6Aw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 1285,
+          "like_count": 43779,
+          "listed_count": 7,
+          "media_count": 1948,
+          "tweet_count": 16766
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 616,
+          "like_count": 56995,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 5883
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

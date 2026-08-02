@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1806204939989127467",
+    "created_at": "2024-06-27T23:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T00:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806464999705231826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563559065078595589",
+          "start": 0,
+          "username": "skmt26628703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806464999705231826",
+    "in_reply_to_user_id": "1563559065078595589",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806204939989127467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmt26628703 宝宝你怎么去打工了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1806204939989127467",
+        "created_at": "2024-06-27T23:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T00:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806464999705231826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563559065078595589",
+              "start": 0,
+              "username": "skmt26628703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806464999705231826",
+        "in_reply_to_user_id": "1563559065078595589",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806204939989127467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmt26628703 宝宝你怎么去打工了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1563559065078595589",
+        "conversation_id": "1806204939989127467",
+        "created_at": "2024-06-27T05:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T06:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806204939989127467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806204939989127467",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡点上班是我对工作的尊重🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801462580726398976/HM05Knf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 766,
+          "like_count": 21618,
+          "listed_count": 2,
+          "tweet_count": 6944
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "活着的尸体/可以叫我小鸟/想要很多朋友 互 fo 大欢迎！！🚪68 不当免费陪聊！！",
+        "id": "1563559065078595589",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1805077019040055418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 253,
+          "like_count": 26571,
+          "listed_count": 5,
+          "tweet_count": 4973
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2062515419039355184",
+    "created_at": "2026-06-04T13:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062525132720247170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062525132720247170",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520470105145478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 难说（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2062515419039355184",
+        "created_at": "2026-06-04T13:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062525132720247170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062525132720247170",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520470105145478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 难说（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "2062515419039355184",
+        "created_at": "2026-06-04T13:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062520470105145478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520470105145478",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062515419039355184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 磁暴了容易胡思乱想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3338,
+          "following_count": 1493,
+          "like_count": 56736,
+          "listed_count": 6,
+          "media_count": 2302,
+          "tweet_count": 20725
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "如果你有需要我会在肥牛山等你",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "狗肉拌饭",
+        "pinned_tweet_id": "2055332914095677621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056152125038870528/J9mcTzNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9303,
+          "following_count": 1730,
+          "like_count": 8052,
+          "listed_count": 62,
+          "media_count": 22677,
+          "tweet_count": 349320
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

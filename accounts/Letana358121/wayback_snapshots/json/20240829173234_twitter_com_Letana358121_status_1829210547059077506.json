@@ -1,0 +1,100 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829210543133265920"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1829210547059077506",
+    "created_at": "2024-08-29T17:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T18:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829210547059077506"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "湊湊",
+          "probability": 0.6781,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sukrdfg5ph",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Letana358121/status/1829210547059077506/photo/1",
+          "media_key": "3_1829210543133265920",
+          "start": 6,
+          "url": "https://t.co/SukRDFG5Ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829210547059077506",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "湊湊的（） https://t.co/SukRDFG5Ph"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829210547059077506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829210547059077506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829210547059077506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1829210543133265920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWKpTCLbkAAWwcE.jpg",
+        "width": 780
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 881,
+          "like_count": 27145,
+          "listed_count": 3,
+          "tweet_count": 8455
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

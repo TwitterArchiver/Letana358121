@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064716727259394048"
+      ],
+      "media_source_tweet_id": [
+        "2064716744615493741"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2064945108920008979",
+    "created_at": "2026-06-11T05:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064945108920008979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937594393772589058",
+          "start": 3,
+          "username": "Private_plot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBHAwercIT",
+          "end": 52,
+          "expanded_url": "https://x.com/Private_plot/status/2064716744615493741/photo/1",
+          "media_key": "3_2064716727259394048",
+          "start": 29,
+          "url": "https://t.co/BBHAwercIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064945108920008979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064716744615493741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Private_plot: 这真的很好笑我不行了 https://t.co/BBHAwercIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2064716727259394048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdY7JIacAA98hf.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064716727259394048"
+          ],
+          "media_source_tweet_id": [
+            "2064716744615493741"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2064945108920008979",
+        "created_at": "2026-06-11T05:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064945108920008979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937594393772589058",
+              "start": 3,
+              "username": "Private_plot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBHAwercIT",
+              "end": 52,
+              "expanded_url": "https://x.com/Private_plot/status/2064716744615493741/photo/1",
+              "media_key": "3_2064716727259394048",
+              "start": 29,
+              "url": "https://t.co/BBHAwercIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064945108920008979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064716744615493741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Private_plot: 这真的很好笑我不行了 https://t.co/BBHAwercIT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064716727259394048"
+          ]
+        },
+        "author_id": "1937594393772589058",
+        "conversation_id": "2064716744615493741",
+        "created_at": "2026-06-10T14:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064716744615493741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBHAwercIT",
+              "end": 34,
+              "expanded_url": "https://x.com/Private_plot/status/2064716744615493741/photo/1",
+              "media_key": "3_2064716727259394048",
+              "start": 11,
+              "url": "https://t.co/BBHAwercIT"
+            },
+            {
+              "display_url": "x.com/rwtrk92486298/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/rwtrk92486298/status/2064605990230818959",
+              "start": 35,
+              "url": "https://t.co/1Ue4CBaOCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064716744615493741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3179,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064605990230818959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真的很好笑我不行了 https://t.co/BBHAwercIT https://t.co/1Ue4CBaOCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1511,
+          "like_count": 56728,
+          "listed_count": 7,
+          "media_count": 2315,
+          "tweet_count": 20915
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 365,
+          "like_count": 11543,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 3786
+        },
+        "username": "Private_plot",
+        "verified": true
+      }
+    ]
+  }
+}

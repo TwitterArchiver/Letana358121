@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1818682420033630208"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1818682515168935967",
+    "created_at": "2024-07-31T16:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T17:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818682515168935967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/7Mtkonx5Vv",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Letana358121/status/1818682515168935967/video/1",
+          "media_key": "7_1818682420033630208",
+          "start": 5,
+          "url": "https://t.co/7Mtkonx5Vv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818682515168935967",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聽我唱歌 https://t.co/7Mtkonx5Vv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34062,
+        "height": 1278,
+        "media_key": "7_1818682420033630208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1818682420033630208/pu/img/WyWKxX9phKp2Asd2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818682420033630208/pu/vid/avc1/320x692/0qjZ0GIFL35stNBt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818682420033630208/pu/vid/avc1/480x1038/goX5FzZMXaG5A-oM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818682420033630208/pu/vid/avc1/590x1278/xSSDJyH_Ih-SnKOC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1818682420033630208/pu/pl/VCynQ27r7pF8_yAk.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818682420033630208"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1818682515168935967",
+        "created_at": "2024-07-31T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818682515168935967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7Mtkonx5Vv",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Letana358121/status/1818682515168935967/video/1",
+              "media_key": "7_1818682420033630208",
+              "start": 5,
+              "url": "https://t.co/7Mtkonx5Vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818682515168935967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聽我唱歌 https://t.co/7Mtkonx5Vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818672546637922306/ohIijtu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 827,
+          "like_count": 23165,
+          "listed_count": 2,
+          "tweet_count": 7631
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1905971375631691858",
+    "created_at": "2025-03-29T16:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T17:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906015821874503888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906015821874503888",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906005630168830017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd 烫头只是让头发变卷而已啊（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-29T16:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906015821874503888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906015821874503888",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906005630168830017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd 烫头只是让头发变卷而已啊（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-29T15:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T16:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906005630168830017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906005630168830017",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905971375631691858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 可能是审美差异?\n烫头纹身确实欣赏不来，不过我尊重他人选择。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1134,
+          "like_count": 36985,
+          "listed_count": 5,
+          "media_count": 1516,
+          "tweet_count": 13220
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 83,
+          "like_count": 1036,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1481
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      }
+    ]
+  }
+}

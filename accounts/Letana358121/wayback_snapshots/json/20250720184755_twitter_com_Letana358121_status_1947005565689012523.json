@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1946990302130266296",
+    "created_at": "2025-07-20T18:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T19:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947005565689012523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947005565689012523",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946990302130266296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 你也坐摊（）我也坐了一会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1946990302130266296",
+        "created_at": "2025-07-20T18:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T19:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947005565689012523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947005565689012523",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946990302130266296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 你也坐摊（）我也坐了一会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "1946990302130266296",
+        "created_at": "2025-07-20T17:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946990302130266296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946990302130266296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是去萤火虫逛漫展的吗，怎么坐了一天摊（大雾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 1202,
+          "like_count": 40669,
+          "listed_count": 6,
+          "media_count": 1786,
+          "tweet_count": 15204
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜ 你饼干自己在用的梯子：https://t.co/i7QKqbPO6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jTnvUau0",
+                "start": 41,
+                "url": "https://t.co/i7QKqbPO6T"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742,
+          "following_count": 2850,
+          "like_count": 15209,
+          "listed_count": 11,
+          "media_count": 805,
+          "tweet_count": 8678
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

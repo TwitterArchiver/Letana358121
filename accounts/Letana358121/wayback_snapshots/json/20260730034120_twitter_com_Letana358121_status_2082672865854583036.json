@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2082672865854583036",
+    "created_at": "2026-07-30T03:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082672865854583036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041875296618737666",
+          "start": 3,
+          "username": "Yaoguoez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082672865854583036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081829851271745661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yaoguoez0: 医生说正常人躺下5-10分钟就可以正常入睡 我想问一下正常人是什么群体 我该怎么加入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2082672865854583036",
+        "created_at": "2026-07-30T03:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082672865854583036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041875296618737666",
+              "start": 3,
+              "username": "Yaoguoez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082672865854583036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081829851271745661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yaoguoez0: 医生说正常人躺下5-10分钟就可以正常入睡 我想问一下正常人是什么群体 我该怎么加入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "conversation_id": "2081829851271745661",
+        "created_at": "2026-07-27T19:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081829851271745661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081829851271745661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 214420,
+          "like_count": 2980,
+          "quote_count": 27,
+          "reply_count": 437,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "医生说正常人躺下5-10分钟就可以正常入睡 我想问一下正常人是什么群体 我该怎么加入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 1559,
+          "like_count": 62171,
+          "listed_count": 7,
+          "media_count": 2436,
+          "tweet_count": 22196
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "name": "秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 54,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1894405685829652480"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1894405881762386123",
+    "created_at": "2025-02-25T15:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T16:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894405881762386123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KqCptbHi4M",
+          "end": 31,
+          "expanded_url": "https://x.com/Letana358121/status/1894405881762386123/video/1",
+          "media_key": "7_1894405685829652480",
+          "start": 8,
+          "url": "https://t.co/KqCptbHi4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894405881762386123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后太搞笑了。 https://t.co/KqCptbHi4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26533,
+        "height": 1280,
+        "media_key": "7_1894405685829652480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1894405685829652480/pu/img/CTanuEjfRvocfZDv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894405685829652480/pu/vid/avc1/320x568/G2m-ZgJEzZ55C2I-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894405685829652480/pu/vid/avc1/480x852/jowjtwODQH12pdzF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894405685829652480/pu/vid/avc1/720x1280/bsKuywqotDRFRpuH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1894405685829652480/pu/pl/vMtc94lnqXYpk2SQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1894405685829652480"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1894405881762386123",
+        "created_at": "2025-02-25T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894405881762386123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqCptbHi4M",
+              "end": 31,
+              "expanded_url": "https://x.com/Letana358121/status/1894405881762386123/video/1",
+              "media_key": "7_1894405685829652480",
+              "start": 8,
+              "url": "https://t.co/KqCptbHi4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894405881762386123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后太搞笑了。 https://t.co/KqCptbHi4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 1099,
+          "like_count": 33317,
+          "listed_count": 4,
+          "media_count": 1451,
+          "tweet_count": 12204
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

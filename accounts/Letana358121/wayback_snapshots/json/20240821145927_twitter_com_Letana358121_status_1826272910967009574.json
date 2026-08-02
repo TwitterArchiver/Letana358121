@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1826272910967009574",
+    "created_at": "2024-08-21T14:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826272910967009574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826272910967009574",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826272766901051698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: 求你们别拿弱智ai生成催眠音频刻板弱智印象集合文案炒作了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1826272910967009574",
+        "created_at": "2024-08-21T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826272910967009574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826272910967009574",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826272766901051698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: 求你们别拿弱智ai生成催眠音频刻板弱智印象集合文案炒作了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1826272766901051698",
+        "created_at": "2024-08-21T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826272766901051698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826272766901051698",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求你们别拿弱智ai生成催眠音频刻板弱智印象集合文案炒作了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 872,
+          "like_count": 26197,
+          "listed_count": 3,
+          "tweet_count": 8292
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "银河状我",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741507550200438784/Al2SDrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 559,
+          "like_count": 36728,
+          "listed_count": 4,
+          "tweet_count": 4328
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

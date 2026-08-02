@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1852591142631780608",
+    "created_at": "2024-11-02T05:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T06:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852591142631780608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525866372240404480",
+          "start": 3,
+          "username": "DanhuangS"
+        },
+        {
+          "end": 26,
+          "id": "1521851592827310080",
+          "start": 15,
+          "username": "Kayaforone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852591142631780608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852554475296481395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanhuangS: @Kayaforone 我要笑死了每次说男的能有几个好东西就有人回有父亲吗，我父亲要是好我能说这种话吗可笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1852591142631780608",
+        "created_at": "2024-11-02T05:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852591142631780608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525866372240404480",
+              "start": 3,
+              "username": "DanhuangS"
+            },
+            {
+              "end": 26,
+              "id": "1521851592827310080",
+              "start": 15,
+              "username": "Kayaforone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852591142631780608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852554475296481395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanhuangS: @Kayaforone 我要笑死了每次说男的能有几个好东西就有人回有父亲吗，我父亲要是好我能说这种话吗可笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525866372240404480",
+        "conversation_id": "1852467381882245508",
+        "created_at": "2024-11-02T03:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852554475296481395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "Kayaforone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852554475296481395",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2354,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852467381882245508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kayaforone 我要笑死了每次说男的能有几个好东西就有人回有父亲吗，我父亲要是好我能说这种话吗可笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 974,
+          "like_count": 28847,
+          "listed_count": 3,
+          "tweet_count": 10011
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T15:51:18.000Z",
+        "description": "le🌈",
+        "id": "1525866372240404480",
+        "name": "美铝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777357559831183361/ZoWt4tbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 37,
+          "like_count": 401,
+          "listed_count": 1,
+          "tweet_count": 322
+        },
+        "username": "DanhuangS",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "省流请看亮点｜@Lu_lu4Xi1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://damoplane1.com/#/register?code=tdF92Btz",
+                "start": 0,
+                "url": "https://t.co/MS5ewp760v"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "1848838205342364047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645592507559063554/wDXTr60v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143980,
+          "following_count": 594,
+          "like_count": 12857,
+          "listed_count": 249,
+          "tweet_count": 5520
+        },
+        "url": "https://t.co/MS5ewp760v",
+        "username": "Kayaforone",
+        "verified": true
+      }
+    ]
+  }
+}

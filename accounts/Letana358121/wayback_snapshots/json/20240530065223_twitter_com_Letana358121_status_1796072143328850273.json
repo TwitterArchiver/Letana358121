@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796072138925113344",
+        "3_1796072139696771072",
+        "3_1796072139692638208"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1796072143328850273",
+    "created_at": "2024-05-30T06:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T07:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796072143328850273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UVGdIVapiF",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Letana358121/status/1796072143328850273/photo/1",
+          "media_key": "3_1796072138925113344",
+          "start": 140,
+          "url": "https://t.co/UVGdIVapiF"
+        },
+        {
+          "display_url": "pic.twitter.com/UVGdIVapiF",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Letana358121/status/1796072143328850273/photo/1",
+          "media_key": "3_1796072139696771072",
+          "start": 140,
+          "url": "https://t.co/UVGdIVapiF"
+        },
+        {
+          "display_url": "pic.twitter.com/UVGdIVapiF",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Letana358121/status/1796072143328850273/photo/1",
+          "media_key": "3_1796072139692638208",
+          "start": 140,
+          "url": "https://t.co/UVGdIVapiF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796072143328850273",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "媽媽我愛你。但是我覺得你在信那些奇奇怪怪的東西對身體不好，但是我勸你的時候，你就說管好自己，我真的很難過，你覺得腫瘤是那種量子技術還有什麼分子共振可以搞定的嗎，我真的很擔心你的，我真的很難過怕，但是我只能在這裡說，因為你看到會說我，，為什麼這麼執著的信那些東西呢。。。好難過。。 https://t.co/UVGdIVapiF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1796072143328850273].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1796072143328850273",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1796072143328850273"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1796072138925113344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOzuGCebgAAY_QU.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1796072139696771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOzuGFWaEAA50TY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1796072139692638208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOzuGFVbAAAqMhO.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 582,
+          "like_count": 20806,
+          "listed_count": 3,
+          "tweet_count": 6435
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1818649498681589929",
+    "created_at": "2024-07-31T14:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T15:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818649498681589929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MikoMikoooy/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/MikoMikoooy/status/1817939117147324773",
+          "start": 28,
+          "url": "https://t.co/0w8JXKmNCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818649498681589929",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817939117147324773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉還是希望我沒談這場戀愛，至少這樣我們還會是很好的朋友 https://t.co/0w8JXKmNCE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1818649498681589929",
+        "created_at": "2024-07-31T14:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T15:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818649498681589929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MikoMikoooy/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/MikoMikoooy/status/1817939117147324773",
+              "start": 28,
+              "url": "https://t.co/0w8JXKmNCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818649498681589929",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817939117147324773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉還是希望我沒談這場戀愛，至少這樣我們還會是很好的朋友 https://t.co/0w8JXKmNCE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702477793182019584",
+        "conversation_id": "1817939117147324773",
+        "created_at": "2024-07-29T15:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T16:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817939117147324773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817939117147324773",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7726,
+          "like_count": 110,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不要和朋友發展戀人關係"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816864107276181504/PoltIXYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 827,
+          "like_count": 23142,
+          "listed_count": 2,
+          "tweet_count": 7619
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T00:22:10.000Z",
+        "description": "",
+        "id": "1702477793182019584",
+        "name": "𝐌𝐢𝐤𝐨",
+        "pinned_tweet_id": "1816506674829725813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739433570727567360/GmkOJVXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 3425,
+          "like_count": 19952,
+          "listed_count": 1,
+          "tweet_count": 3130
+        },
+        "username": "MikoMikoooy",
+        "verified": false
+      }
+    ]
+  }
+}

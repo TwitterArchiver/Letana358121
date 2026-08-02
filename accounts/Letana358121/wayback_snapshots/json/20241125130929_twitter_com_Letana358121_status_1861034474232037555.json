@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1861033252284481779",
+    "created_at": "2024-11-25T13:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T14:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861034474232037555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789528204207915008",
+          "start": 0,
+          "username": "KitsuneKazusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861034474232037555",
+    "in_reply_to_user_id": "1789528204207915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861033252284481779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuneKazusa 结婚🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1861033252284481779",
+        "created_at": "2024-11-25T13:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861034474232037555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "KitsuneKazusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861034474232037555",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861033252284481779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuneKazusa 结婚🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861033248530505728"
+          ]
+        },
+        "author_id": "1789528204207915008",
+        "conversation_id": "1861033252284481779",
+        "created_at": "2024-11-25T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861033252284481779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hh48OgnaN",
+              "end": 45,
+              "expanded_url": "https://x.com/KitsuneKazusa/status/1861033252284481779/photo/1",
+              "media_key": "3_1861033248530505728",
+              "start": 22,
+              "url": "https://t.co/6hh48OgnaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861033252284481779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额，不是160的酷姐\n只是一般路过长发男（ https://t.co/6hh48OgnaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 996,
+          "like_count": 29557,
+          "listed_count": 4,
+          "tweet_count": 10314
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "Ad Astra \\ 直至星辰",
+        "id": "1789528204207915008",
+        "name": "雫🦊",
+        "pinned_tweet_id": "1853055138526883922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858533008011350016/m3tlCz93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 119,
+          "like_count": 19586,
+          "listed_count": 1,
+          "tweet_count": 120
+        },
+        "username": "KitsuneKazusa",
+        "verified": false
+      }
+    ]
+  }
+}

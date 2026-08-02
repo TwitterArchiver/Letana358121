@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1915262952397300144",
+    "created_at": "2025-04-24T04:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915265063973474785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467435740959150081",
+          "start": 0,
+          "username": "JianYu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915265063973474785",
+    "in_reply_to_user_id": "1467435740959150081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915262952397300144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianYu233 查询观鸟人精神状态"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1915262937280987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRhfnQawAACUkT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1915262943350145024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRhf93awAAX6za.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1915262949201149952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRhgTqaAAA0Q6E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1915262952397300144",
+        "created_at": "2025-04-24T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915265063973474785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467435740959150081",
+              "start": 0,
+              "username": "JianYu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915265063973474785",
+        "in_reply_to_user_id": "1467435740959150081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915262952397300144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianYu233 查询观鸟人精神状态"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915262937280987136",
+            "3_1915262943350145024",
+            "3_1915262949201149952"
+          ]
+        },
+        "author_id": "1467435740959150081",
+        "conversation_id": "1915262952397300144",
+        "created_at": "2025-04-24T04:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915262952397300144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWIVos1yIy",
+              "end": 68,
+              "expanded_url": "https://x.com/JianYu233/status/1915262952397300144/photo/1",
+              "media_key": "3_1915262937280987136",
+              "start": 45,
+              "url": "https://t.co/VWIVos1yIy"
+            },
+            {
+              "display_url": "pic.x.com/VWIVos1yIy",
+              "end": 68,
+              "expanded_url": "https://x.com/JianYu233/status/1915262952397300144/photo/1",
+              "media_key": "3_1915262943350145024",
+              "start": 45,
+              "url": "https://t.co/VWIVos1yIy"
+            },
+            {
+              "display_url": "pic.x.com/VWIVos1yIy",
+              "end": 68,
+              "expanded_url": "https://x.com/JianYu233/status/1915262952397300144/photo/1",
+              "media_key": "3_1915262949201149952",
+              "start": 45,
+              "url": "https://t.co/VWIVos1yIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915262952397300144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香香麦乐鸡🥰正脸好丑😰香香麦乐鸡🥰正脸好丑😰香香麦乐鸡🥰正脸好丑😰香香麦乐鸡🥰正脸好丑😰 https://t.co/VWIVos1yIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1148,
+          "like_count": 38218,
+          "listed_count": 5,
+          "media_count": 1584,
+          "tweet_count": 13946
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T10:08:57.000Z",
+        "description": "07丨喜欢特摄，观鸟，拼胶，机娘，两爬节肢，粥（厨蓝毒），车万，女装，MGS。以后成分会更杂丨重抑重焦丨生理性别男，心理也是，不吃药，女装但大概不算南梁丨会发女装但目前只有老图丨然后那个想交朋友或者互关可以直接和我私信，不太敢主动丨不建政丨私信还请耐心等待下有时候睡觉没法回（\n妹妹：@xing0866879393",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "xing0866879393"
+              }
+            ]
+          }
+        },
+        "id": "1467435740959150081",
+        "location": "内蒙",
+        "name": "剑鱼",
+        "pinned_tweet_id": "1893180601777467500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863942362101358592/PE83OY60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 944,
+          "like_count": 21064,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 6256
+        },
+        "username": "JianYu233",
+        "verified": false
+      }
+    ]
+  }
+}

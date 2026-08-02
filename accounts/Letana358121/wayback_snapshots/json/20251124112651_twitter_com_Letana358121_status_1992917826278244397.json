@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1992858211809202211",
+    "created_at": "2025-11-24T11:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992917826278244397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1004362078956613632",
+          "start": 0,
+          "username": "OliviaWantsHugs"
+        },
+        {
+          "end": 27,
+          "id": "1261344091075260416",
+          "start": 17,
+          "username": "jiuwuwu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992917826278244397",
+    "in_reply_to_user_id": "1004362078956613632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992914834917405176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaWantsHugs @jiuwuwu22 这个大厨还会摆盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1992858211809202211",
+        "created_at": "2025-11-24T11:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992917826278244397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1004362078956613632",
+              "start": 0,
+              "username": "OliviaWantsHugs"
+            },
+            {
+              "end": 27,
+              "id": "1261344091075260416",
+              "start": 17,
+              "username": "jiuwuwu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992917826278244397",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992914834917405176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaWantsHugs @jiuwuwu22 这个大厨还会摆盘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "1992858211809202211",
+        "created_at": "2025-11-24T11:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992914834917405176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "jiuwuwu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992914834917405176",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992858211809202211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuwuwu22 我撕的一般比你整齐 🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 1292,
+          "like_count": 43987,
+          "listed_count": 7,
+          "media_count": 1965,
+          "tweet_count": 16839
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 \\ 萨摩耶bot \\ 里@OliviaNeedsHugs \\ 女的活的素质差的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "OliviaNeedsHugs"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "乌蒙山",
+        "name": "⭕泡耶奶 @ 狗白白",
+        "pinned_tweet_id": "1987525182727303450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970319303691182080/fNJSghhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 532,
+          "like_count": 24117,
+          "listed_count": 21,
+          "media_count": 1405,
+          "tweet_count": 26232
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "人设完善处",
+        "id": "1261344091075260416",
+        "name": "猪咪",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991124127093227520/faxHIMTT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 784,
+          "like_count": 27453,
+          "listed_count": 0,
+          "media_count": 2308,
+          "tweet_count": 21315
+        },
+        "username": "jiuwuwu22",
+        "verified": false
+      }
+    ]
+  }
+}

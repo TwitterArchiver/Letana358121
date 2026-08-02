@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2036966912165576915",
+    "created_at": "2026-03-26T03:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037005280886874445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037005280886874445",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036967557283053879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako 自造词这块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2036966912165576915",
+        "created_at": "2026-03-26T03:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037005280886874445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037005280886874445",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036967557283053879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako 自造词这块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "2036966912165576915",
+        "created_at": "2026-03-26T00:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036967557283053879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036967557283053879",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036966912165576915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有谁能为我解释一下他说的这个“性别回避”是什么东西（？谷歌都搜不出来简直是太新鲜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 1390,
+          "like_count": 48966,
+          "listed_count": 8,
+          "media_count": 2178,
+          "tweet_count": 18659
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "🧁🏳️‍⚧️ Founder of @AB_aboutTrans",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "AB_aboutTrans"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "大连",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "2032531944907616526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005160042845405188/7FNnSndN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 1550,
+          "like_count": 43526,
+          "listed_count": 10,
+          "media_count": 74,
+          "tweet_count": 827
+        },
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

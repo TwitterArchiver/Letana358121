@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2028782657698484718",
+    "created_at": "2026-03-03T11:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028788481577877797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisprofL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028788481577877797",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028782657698484718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisprofL 你的肚子好好看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028782657698484718].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028782657698484718",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028782657698484718"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2028782657698484718",
+        "created_at": "2026-03-03T11:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028788481577877797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisprofL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028788481577877797",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028782657698484718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisprofL 你的肚子好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 1341,
+          "like_count": 47158,
+          "listed_count": 7,
+          "media_count": 2128,
+          "tweet_count": 18059
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🇺🇸🇧🇪🇫🇷 US/CN/FR, non-binary gay 𝙁𝙐𝘾𝙆 𝙄𝘾𝙀",
+        "id": "1753355639949291521",
+        "location": "Paris, France",
+        "name": "Kév",
+        "pinned_tweet_id": "1911796801071681733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903355355578654720/5w5gZkcX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 837,
+          "like_count": 60381,
+          "listed_count": 1,
+          "media_count": 9644,
+          "tweet_count": 40430
+        },
+        "username": "jesuisprofL",
+        "verified": false
+      }
+    ]
+  }
+}

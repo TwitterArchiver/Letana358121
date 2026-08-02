@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944968781547364353"
+      ],
+      "media_source_tweet_id": [
+        "1944968787591315877"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1944974021780758530",
+    "created_at": "2025-07-15T04:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T05:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944974021780758530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1256791095939227648",
+          "start": 3,
+          "username": "PantingEYEs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEmn46FlVF",
+          "end": 86,
+          "expanded_url": "https://x.com/PantingEYEs/status/1944968787591315877/photo/1",
+          "media_key": "3_1944968781547364353",
+          "start": 63,
+          "url": "https://t.co/tEmn46FlVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944974021780758530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944968787591315877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PantingEYEs: 術娘為国家创造了更多的國格，而术爷使国格受損的概率降低，这下我问你，懂不懂跨性别的含金量啊 https://t.co/tEmn46FlVF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944974021780758530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944974021780758530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944974021780758530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1944968781547364353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3qzUta4AEzT9m.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944968781547364353"
+          ]
+        },
+        "author_id": "1256791095939227648",
+        "conversation_id": "1944968787591315877",
+        "created_at": "2025-07-15T03:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944968787591315877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEmn46FlVF",
+              "end": 69,
+              "expanded_url": "https://x.com/PantingEYEs/status/1944968787591315877/photo/1",
+              "media_key": "3_1944968781547364353",
+              "start": 46,
+              "url": "https://t.co/tEmn46FlVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944968787591315877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "術娘為国家创造了更多的國格，而术爷使国格受損的概率降低，这下我问你，懂不懂跨性别的含金量啊 https://t.co/tEmn46FlVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 1196,
+          "like_count": 40562,
+          "listed_count": 6,
+          "media_count": 1769,
+          "tweet_count": 15142
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T03:42:18.000Z",
+        "description": "叫我景儿//⛓️「自切以來性欲高漲」🐶//💉避免麻煩當我男的就好，不許問我⚠️否則我會很不爽💊//現居台中不上學//推特不定時更新//🎬推文圖片經過數字合成處理💾💾💾//✨請多多點讚我的推文🍭//簡介下方網址是家醫院，如果有病的話可以去看🏥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "szgjyy.com",
+                "end": 23,
+                "expanded_url": "http://szgjyy.com",
+                "start": 0,
+                "url": "https://t.co/4h5q3sDU2u"
+              }
+            ]
+          }
+        },
+        "id": "1256791095939227648",
+        "name": "みこ安景（有對象版）",
+        "pinned_tweet_id": "1795703646740779344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546760362745556992/hUtgehwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 87,
+          "like_count": 501,
+          "listed_count": 34,
+          "media_count": 43,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/4h5q3sDU2u",
+        "username": "PantingEYEs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2038247318752002107",
+    "created_at": "2026-03-30T00:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T01:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038414929582305599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028766249002696705",
+          "start": 0,
+          "username": "T9XJFKjDbd61141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038414929582305599",
+    "in_reply_to_user_id": "2028766249002696705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038286855058411818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T9XJFKjDbd61141 我能理解但是我就是觉得面对外部伤害先内斗很好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2038247318752002107",
+        "created_at": "2026-03-30T00:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038414929582305599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028766249002696705",
+              "start": 0,
+              "username": "T9XJFKjDbd61141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038414929582305599",
+        "in_reply_to_user_id": "2028766249002696705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038286855058411818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T9XJFKjDbd61141 我能理解但是我就是觉得面对外部伤害先内斗很好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028766249002696705",
+        "conversation_id": "2038247318752002107",
+        "created_at": "2026-03-29T16:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038286855058411818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038286855058411818",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038247318752002107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 主要你自己也说了，自己被misgender会破防成那个样子。。。他们使用了可以说带有伤害意味的指代，那个女孩子因为宁愿死也不愿意做男的，结果死后还要被宣扬成男性，这个必然会在跨圈内引发集体创伤啊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037193028532920323/uLPfNhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 1387,
+          "like_count": 49159,
+          "listed_count": 8,
+          "media_count": 2192,
+          "tweet_count": 18753
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T09:36:47.000Z",
+        "description": "目田/mtf小药娘/平板锁/锅盖锁/鉴证型人格/擦边/媚黑♠️/抽烟/喝酒/infj/m属性大爆发/分享自己h纯满足自己/\n建制品客还有毛左不许用我的照片打手冲，因为你毛爷爷和习大大正在失望的看着你",
+        "id": "2028766249002696705",
+        "name": "🍑味水果🍬8964🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029100175596359680/mDR6vYKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 69,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 215
+        },
+        "username": "T9XJFKjDbd61141",
+        "verified": false
+      }
+    ]
+  }
+}

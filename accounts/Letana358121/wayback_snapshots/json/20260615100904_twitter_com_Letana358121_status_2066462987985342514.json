@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066462985548369920"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066462987985342514",
+    "created_at": "2026-06-15T10:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066462987985342514"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "新個人資料相片"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRPLqWC8BZ",
+          "end": 32,
+          "expanded_url": "https://x.com/Letana358121/status/2066462987985342514/photo/1",
+          "media_key": "3_2066462985548369920",
+          "start": 9,
+          "url": "https://t.co/cRPLqWC8BZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066462987985342514",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新個人資料相片 https://t.co/cRPLqWC8BZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2066462985548369920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2NIwMakAAkZdn.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066462985548369920"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066462987985342514",
+        "created_at": "2026-06-15T10:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066462987985342514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "新個人資料相片"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRPLqWC8BZ",
+              "end": 32,
+              "expanded_url": "https://x.com/Letana358121/status/2066462987985342514/photo/1",
+              "media_key": "3_2066462985548369920",
+              "start": 9,
+              "url": "https://t.co/cRPLqWC8BZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066462987985342514",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新個人資料相片 https://t.co/cRPLqWC8BZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1517,
+          "like_count": 57495,
+          "listed_count": 7,
+          "media_count": 2326,
+          "tweet_count": 20998
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

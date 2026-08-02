@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083534987572445184"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083535002395082819",
+    "created_at": "2026-08-01T12:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083535002395082819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3q6ESdwdio",
+          "end": 36,
+          "expanded_url": "https://x.com/Letana358121/status/2083535002395082819/photo/1",
+          "media_key": "3_2083534987572445184",
+          "start": 13,
+          "url": "https://t.co/3q6ESdwdio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083535002395082819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "免费的三十抽就出了。。。 https://t.co/3q6ESdwdio"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2083534987572445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo0CDtagAAFmcR.jpg",
+        "width": 2712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083534987572445184"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083535002395082819",
+        "created_at": "2026-08-01T12:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083535002395082819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3q6ESdwdio",
+              "end": 36,
+              "expanded_url": "https://x.com/Letana358121/status/2083535002395082819/photo/1",
+              "media_key": "3_2083534987572445184",
+              "start": 13,
+              "url": "https://t.co/3q6ESdwdio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083535002395082819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "免费的三十抽就出了。。。 https://t.co/3q6ESdwdio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 1562,
+          "like_count": 62304,
+          "listed_count": 7,
+          "media_count": 2439,
+          "tweet_count": 22225
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

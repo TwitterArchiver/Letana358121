@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1819033248833699985",
+    "created_at": "2024-08-01T15:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T16:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819034595763106118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1519253037193211904",
+          "start": 0,
+          "username": "chiri_yunrang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819034595763106118",
+    "in_reply_to_user_id": "1519253037193211904",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819033248833699985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiri_yunrang 骚"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1819033248833699985].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1819033248833699985",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1819033248833699985"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1819033248833699985",
+        "created_at": "2024-08-01T15:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819034595763106118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1519253037193211904",
+              "start": 0,
+              "username": "chiri_yunrang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819034595763106118",
+        "in_reply_to_user_id": "1519253037193211904",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819033248833699985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiri_yunrang 骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818711814534053890/wf789-iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 830,
+          "like_count": 23271,
+          "listed_count": 2,
+          "tweet_count": 7667
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T09:52:13.000Z",
+        "description": "🚪66",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chiri_yunrang/",
+                "end": 23,
+                "expanded_url": "http://t.me/chiri_yunrang/",
+                "start": 0,
+                "url": "https://t.co/pxawCg1lLU"
+              }
+            ]
+          }
+        },
+        "id": "1519253037193211904",
+        "location": "中山",
+        "name": "云壤",
+        "pinned_tweet_id": "1787317503322148932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701448842657566720/52J57Ia-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 175,
+          "like_count": 1573,
+          "listed_count": 3,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/pxawCg1lLU",
+        "username": "chiri_yunrang",
+        "verified": false
+      }
+    ]
+  }
+}

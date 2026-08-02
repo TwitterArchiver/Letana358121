@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1819789937585291589",
+    "created_at": "2024-08-03T18:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T19:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819800749771309416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "DeadMacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819800749771309416",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819789937585291589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadMacao 唉。抱抱你。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1819789937585291589",
+        "created_at": "2024-08-03T18:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T19:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819800749771309416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "DeadMacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819800749771309416",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819789937585291589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadMacao 唉。抱抱你。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819789929783959554"
+          ]
+        },
+        "author_id": "1655093096710021120",
+        "conversation_id": "1819789937585291589",
+        "created_at": "2024-08-03T17:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T18:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819789937585291589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/d8j1xxjg7k",
+              "end": 157,
+              "expanded_url": "https://twitter.com/DeadMacao/status/1819789937585291589/photo/1",
+              "media_key": "3_1819789929783959554",
+              "start": 134,
+              "url": "https://t.co/d8j1xxjg7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819789937585291589",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i guess everyone hates me…\nI know him for almost a year already..\nand it ended is such disastrous way…\ni cant take the pain anymore…. https://t.co/d8j1xxjg7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 835,
+          "like_count": 23433,
+          "listed_count": 2,
+          "tweet_count": 7751
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "🇲🇴🇭🇰/🇯🇵/🇬🇧/🏳️‍⚧️/純情/高中生/自殘/ od / vocaloidすき/ プロセカ PJSK / メンヘラ 精神不安定 / JLPT N5 (2023 Dec) / Anglophile / Masochist",
+        "id": "1655093096710021120",
+        "name": "デッドマカオ🇲🇴",
+        "pinned_tweet_id": "1796895232988221893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807405847896817664/gjv3l2ZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 280,
+          "like_count": 6044,
+          "listed_count": 1,
+          "tweet_count": 2811
+        },
+        "username": "DeadMacao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078344431988809910",
+    "created_at": "2026-07-18T05:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078344431988809910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1004362078956613632",
+          "start": 3,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078344431988809910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078247240251154671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OliviaWantsHugs: 老天奶我说我自己想要大杯是指罩杯不是变成别人的飞机杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078344431988809910",
+        "created_at": "2026-07-18T05:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078344431988809910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1004362078956613632",
+              "start": 3,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078344431988809910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078247240251154671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OliviaWantsHugs: 老天奶我说我自己想要大杯是指罩杯不是变成别人的飞机杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "2078247240251154671",
+        "created_at": "2026-07-17T22:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078247240251154671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078247240251154671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老天奶我说我自己想要大杯是指罩杯不是变成别人的飞机杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 1557,
+          "like_count": 61141,
+          "listed_count": 7,
+          "media_count": 2405,
+          "tweet_count": 21933
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 / Traveller / Samoyed lover / Enjoying and exploring the world as you read this / work in Vietnam 🇻🇳 now",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "狗白白 🇸🇬",
+        "pinned_tweet_id": "2026234699723727291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047656161365893120/9K7zUYPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 537,
+          "like_count": 26841,
+          "listed_count": 18,
+          "media_count": 1560,
+          "tweet_count": 29043
+        },
+        "url": "",
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

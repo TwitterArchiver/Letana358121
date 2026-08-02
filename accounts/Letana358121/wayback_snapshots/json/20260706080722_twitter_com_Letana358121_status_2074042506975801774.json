@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2073799780145537045",
+    "created_at": "2026-07-06T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074042506975801774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "202930555",
+          "start": 0,
+          "username": "Sattakom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074042506975801774",
+    "in_reply_to_user_id": "202930555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073799780145537045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sattakom 何异味。求教学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2073799780145537045",
+        "created_at": "2026-07-06T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074042506975801774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "202930555",
+              "start": 0,
+              "username": "Sattakom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074042506975801774",
+        "in_reply_to_user_id": "202930555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073799780145537045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sattakom 何异味。求教学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "202930555",
+        "conversation_id": "2073799780145537045",
+        "created_at": "2026-07-05T16:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073799780145537045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073799780145537045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1908,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉伪街太困难了，老是被人认成女的🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 1555,
+          "like_count": 59862,
+          "listed_count": 7,
+          "media_count": 2373,
+          "tweet_count": 21647
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-15T03:53:21.000Z",
+        "description": "MtX，",
+        "id": "202930555",
+        "location": "广州",
+        "name": "Librium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043410568820973568/N_9Ii6h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 211,
+          "like_count": 8096,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "Sattakom",
+        "verified": false
+      }
+    ]
+  }
+}

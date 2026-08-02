@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2070741309955133897",
+    "created_at": "2026-06-27T08:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070790386373767368"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070790386373767368",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070741309955133897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在墙内大家都是维持一个体面的形象，一翻墙就原形毕露了真的无敌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2070741309955133897",
+        "created_at": "2026-06-27T08:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070790386373767368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070790386373767368",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070741309955133897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在墙内大家都是维持一个体面的形象，一翻墙就原形毕露了真的无敌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2070741309955133897",
+        "created_at": "2026-06-27T05:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741309955133897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070741309955133897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 903,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉简中圈的推特其实大部分都是带着朴素爱国情怀但是因为国内的各种原因导致非常的性压抑，而且翻墙也带有某种突破限制的意味，所以这些人翻墙了之后更多是释放真正的恶意，如无底线的性骚扰，各种仇恨的言论和对每个推特上的适合这类人发泄的场所释放恶意。。。。看得出来其实很多人没什么道德。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3475,
+          "following_count": 1546,
+          "like_count": 59059,
+          "listed_count": 7,
+          "media_count": 2359,
+          "tweet_count": 21410
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

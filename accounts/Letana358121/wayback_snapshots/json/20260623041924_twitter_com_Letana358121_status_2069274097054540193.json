@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069026014823641088"
+      ],
+      "media_source_tweet_id": [
+        "2069026024130802054"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2069274097054540193",
+    "created_at": "2026-06-23T04:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069274097054540193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928061342604201984",
+          "start": 3,
+          "username": "lovip1cx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0QUxD5CToR",
+          "end": 37,
+          "expanded_url": "https://x.com/lovip1cx/status/2069026024130802054/photo/1",
+          "media_key": "3_2069026014823641088",
+          "start": 14,
+          "url": "https://t.co/0QUxD5CToR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069274097054540193",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069026024130802054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovip1cx: https://t.co/0QUxD5CToR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2069026014823641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaoMsSa8AAvc74.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069026014823641088"
+          ],
+          "media_source_tweet_id": [
+            "2069026024130802054"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2069274097054540193",
+        "created_at": "2026-06-23T04:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069274097054540193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928061342604201984",
+              "start": 3,
+              "username": "lovip1cx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QUxD5CToR",
+              "end": 37,
+              "expanded_url": "https://x.com/lovip1cx/status/2069026024130802054/photo/1",
+              "media_key": "3_2069026014823641088",
+              "start": 14,
+              "url": "https://t.co/0QUxD5CToR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069274097054540193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069026024130802054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovip1cx: https://t.co/0QUxD5CToR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069026014823641088"
+          ]
+        },
+        "author_id": "1928061342604201984",
+        "conversation_id": "2069026024130802054",
+        "created_at": "2026-06-22T11:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069026024130802054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QUxD5CToR",
+              "end": 23,
+              "expanded_url": "https://x.com/lovip1cx/status/2069026024130802054/photo/1",
+              "media_key": "3_2069026014823641088",
+              "start": 0,
+              "url": "https://t.co/0QUxD5CToR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069026024130802054",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 616,
+          "impression_count": 91828,
+          "like_count": 6268,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0QUxD5CToR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 1542,
+          "like_count": 58633,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21287
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T12:10:28.000Z",
+        "description": "",
+        "id": "1928061342604201984",
+        "name": "ღ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063224694762029057/qkY-W4-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 232,
+          "like_count": 1554,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "lovip1cx",
+        "verified": true
+      }
+    ]
+  }
+}

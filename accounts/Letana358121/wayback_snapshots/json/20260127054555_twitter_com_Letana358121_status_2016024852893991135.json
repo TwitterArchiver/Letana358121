@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2016006749103472785",
+    "created_at": "2026-01-27T05:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016024852893991135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016024852893991135",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016006749103472785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2016006749103472785",
+        "created_at": "2026-01-27T05:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016024852893991135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016024852893991135",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016006749103472785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "2016006749103472785",
+        "created_at": "2026-01-27T04:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016006749103472785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016006749103472785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "足控别和我说话了！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 1345,
+          "like_count": 46258,
+          "listed_count": 6,
+          "media_count": 2075,
+          "tweet_count": 17755
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "胡言乱语账号，不建议关注",
+        "id": "1657055349982244865",
+        "location": "我永远是嘎国人",
+        "name": "香嘎",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007459506989756416/y42qkWgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 1069,
+          "like_count": 76259,
+          "listed_count": 6,
+          "media_count": 2138,
+          "tweet_count": 25814
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

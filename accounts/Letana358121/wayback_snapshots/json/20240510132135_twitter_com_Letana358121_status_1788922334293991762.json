@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1788921512856359133",
+    "created_at": "2024-05-10T13:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T14:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788922334293991762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1294881385811832832",
+          "start": 0,
+          "username": "Yukikitsunechan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788922334293991762",
+    "in_reply_to_user_id": "1294881385811832832",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788921512856359133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukikitsunechan 羡慕死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1788921512856359133",
+        "created_at": "2024-05-10T13:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T14:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788922334293991762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1294881385811832832",
+              "start": 0,
+              "username": "Yukikitsunechan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788922334293991762",
+        "in_reply_to_user_id": "1294881385811832832",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788921512856359133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukikitsunechan 羡慕死了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1294881385811832832",
+        "conversation_id": "1788921512856359133",
+        "created_at": "2024-05-10T13:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T14:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788921512856359133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788921512856359133",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡的时候想试一下脱毛膏，但遗憾地发现我根本没什么腿毛🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "歌劇總會結束的，但人生永不落幕。\n\n🇲🇴高中生/音遊/MtF/發瘋/自殘",
+        "id": "1669543422586421248",
+        "location": "夢",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1787408285467087088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748393924790775808/Ig6oGG5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 549,
+          "like_count": 19926,
+          "listed_count": 3,
+          "tweet_count": 6036
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T06:19:29.000Z",
+        "description": "🖤🤍🩵❤️",
+        "id": "1294881385811832832",
+        "location": "Punklorde",
+        "name": "狐🍧",
+        "pinned_tweet_id": "1788442361670099435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788628497792929792/7oj5-2xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 60,
+          "like_count": 20953,
+          "listed_count": 2,
+          "tweet_count": 242
+        },
+        "username": "Yukikitsunechan",
+        "verified": false
+      }
+    ]
+  }
+}

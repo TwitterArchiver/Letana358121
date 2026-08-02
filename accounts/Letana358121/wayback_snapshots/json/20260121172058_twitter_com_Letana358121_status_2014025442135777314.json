@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2013759998749479321",
+    "created_at": "2026-01-21T17:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014025442135777314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932805110712971266",
+          "start": 0,
+          "username": "Qingyue24100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014025442135777314",
+    "in_reply_to_user_id": "1932805110712971266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013759998749479321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingyue24100 抱抱。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2013759998749479321",
+        "created_at": "2026-01-21T17:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014025442135777314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932805110712971266",
+              "start": 0,
+              "username": "Qingyue24100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014025442135777314",
+        "in_reply_to_user_id": "1932805110712971266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013759998749479321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingyue24100 抱抱。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932805110712971266",
+        "conversation_id": "2013759998749479321",
+        "created_at": "2026-01-20T23:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T00:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013759998749479321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013759998749479321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 1342,
+          "like_count": 46101,
+          "listed_count": 7,
+          "media_count": 2074,
+          "tweet_count": 17730
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T14:20:30.000Z",
+        "description": "179cm｜疲惫的",
+        "id": "1932805110712971266",
+        "name": "kuroniko🍓",
+        "pinned_tweet_id": "1996244738471829569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999860725905543168/zS6JbCkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 210,
+          "like_count": 5137,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1168
+        },
+        "username": "Qingyue24100",
+        "verified": false
+      }
+    ]
+  }
+}

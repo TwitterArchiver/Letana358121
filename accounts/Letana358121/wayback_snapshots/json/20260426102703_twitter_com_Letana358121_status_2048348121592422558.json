@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048348108044787712"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048348121592422558",
+    "created_at": "2026-04-26T10:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048348121592422558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PB8ygCnftX",
+          "end": 28,
+          "expanded_url": "https://x.com/Letana358121/status/2048348121592422558/photo/1",
+          "media_key": "3_2048348108044787712",
+          "start": 5,
+          "url": "https://t.co/PB8ygCnftX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048348121592422558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卷了一下 https://t.co/PB8ygCnftX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048348108044787712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0xwGxaYAAsts_.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048348108044787712"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048348121592422558",
+        "created_at": "2026-04-26T10:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048348121592422558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PB8ygCnftX",
+              "end": 28,
+              "expanded_url": "https://x.com/Letana358121/status/2048348121592422558/photo/1",
+              "media_key": "3_2048348108044787712",
+              "start": 5,
+              "url": "https://t.co/PB8ygCnftX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048348121592422558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷了一下 https://t.co/PB8ygCnftX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1427,
+          "like_count": 51783,
+          "listed_count": 8,
+          "media_count": 2251,
+          "tweet_count": 19511
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

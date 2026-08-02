@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1831811830387503581",
+    "created_at": "2024-09-05T21:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T22:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831812829105811581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TruePuppyL0ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831812829105811581",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831811830387503581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruePuppyL0ve （抚摸）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1831811830387503581",
+        "created_at": "2024-09-05T21:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T22:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831812829105811581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TruePuppyL0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831812829105811581",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831811830387503581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruePuppyL0ve （抚摸）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1831811830387503581",
+        "created_at": "2024-09-05T21:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T22:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831811830387503581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831811830387503581",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有活著的實感⋯怎麼會這樣呢^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 893,
+          "like_count": 27750,
+          "listed_count": 3,
+          "tweet_count": 8687
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "死掉的願望都變成星星、匯聚在銀河、我們會在一起@mukusuzu_miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "mukusuzu_miku"
+              }
+            ]
+          }
+        },
+        "id": "1717903248764317696",
+        "location": "🌌",
+        "name": "20% 🍭+30%🐶+50%❤️",
+        "pinned_tweet_id": "1776317554774122638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831776311603310593/JK816lTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 290,
+          "like_count": 2143,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "TruePuppyL0ve",
+        "verified": false
+      }
+    ]
+  }
+}

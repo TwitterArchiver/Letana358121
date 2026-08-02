@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1989002609634722014",
+    "created_at": "2025-11-14T05:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989209111175786549"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989209111175786549",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989002609634722014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "14.是低精力人但是充电满了就会比一般人还亢奋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1989002609634722014",
+        "created_at": "2025-11-14T05:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989209111175786549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989209111175786549",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989002609634722014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14.是低精力人但是充电满了就会比一般人还亢奋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1989002609634722014",
+        "created_at": "2025-11-13T16:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989002609634722014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FxxkApexLegend…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/FxxkApexLegend/status/1988983962795143468",
+              "start": 13,
+              "url": "https://t.co/Ltg0ZB6QWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989002609634722014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988983962795143468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个我的冷知识 https://t.co/Ltg0ZB6QWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Can I be the winder of this broken world?/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1283,
+          "like_count": 43634,
+          "listed_count": 7,
+          "media_count": 1938,
+          "tweet_count": 16640
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

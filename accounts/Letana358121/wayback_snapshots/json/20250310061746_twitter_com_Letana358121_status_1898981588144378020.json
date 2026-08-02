@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1898981233218183183",
+    "created_at": "2025-03-10T06:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T07:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898981588144378020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589604409826107392",
+          "start": 0,
+          "username": "_yuluo_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898981588144378020",
+    "in_reply_to_user_id": "1589604409826107392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898981233218183183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuluo_05 我很喜歡我朋友跟我說的一句話：澳門人就是過得好的中國人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1898981233218183183",
+        "created_at": "2025-03-10T06:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898981588144378020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589604409826107392",
+              "start": 0,
+              "username": "_yuluo_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898981588144378020",
+        "in_reply_to_user_id": "1589604409826107392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898981233218183183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuluo_05 我很喜歡我朋友跟我說的一句話：澳門人就是過得好的中國人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589604409826107392",
+        "conversation_id": "1898981233218183183",
+        "created_at": "2025-03-10T06:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898981233218183183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/letana358121/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/letana358121/status/1898975026432688347",
+              "start": 9,
+              "url": "https://t.co/WaeIZEGoJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898981233218183183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898975026432688347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的太对了望周知 https://t.co/WaeIZEGoJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 1120,
+          "like_count": 34816,
+          "listed_count": 4,
+          "media_count": 1476,
+          "tweet_count": 12572
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T13:03:32.000Z",
+        "description": "oc/音游/曲师/非二元性别🏳️‍⚧️/双性恋🏳️‍🌈",
+        "id": "1589604409826107392",
+        "location": "Macau",
+        "name": "羽落",
+        "pinned_tweet_id": "1876951305018638726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859130551741149184/ZQt_JRST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 202,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 245
+        },
+        "username": "_yuluo_05",
+        "verified": false
+      }
+    ]
+  }
+}

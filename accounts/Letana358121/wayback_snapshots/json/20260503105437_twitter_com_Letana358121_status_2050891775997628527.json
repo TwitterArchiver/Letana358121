@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2050890412907540986",
+    "created_at": "2026-05-03T10:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050891775997628527"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050891775997628527",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050890412907540986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦他每次还得强调做出了怎么样的贡献，而且就算和我妈离婚了也要后面的几年这么说一下😂😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2050890412907540986",
+        "created_at": "2026-05-03T10:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050891775997628527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050891775997628527",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050890412907540986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦他每次还得强调做出了怎么样的贡献，而且就算和我妈离婚了也要后面的几年这么说一下😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2050890412907540986",
+        "created_at": "2026-05-03T10:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050890412907540986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2050821442263277910",
+              "start": 144,
+              "url": "https://t.co/g5cvCzNbXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050890412907540986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050821442263277910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于我来说最好笑的是我妈从来没这么说过但是我爹在我16岁前每个生日都要提，我呛了他一句你不就射了一炮吗又没啥贡献你为啥一直提我妈都不提他就再也没提过了，就这样的一个人之前在我14岁刚出柜的时候在和我独处的时候跟我说“孩子这种东西你也知道随便找个女人射一发就行”，是不是给自己邀功我蒙古哈 https://t.co/g5cvCzNbXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 1442,
+          "like_count": 52592,
+          "listed_count": 8,
+          "media_count": 2262,
+          "tweet_count": 19747
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1936396524176785587",
+    "created_at": "2025-06-21T12:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T13:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936404696631255173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790385184397029376",
+          "start": 0,
+          "username": "pyyun189492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936404696631255173",
+    "in_reply_to_user_id": "1790385184397029376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936402341793804683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyyun189492 nt来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1936396524176785587",
+        "created_at": "2025-06-21T12:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T13:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936404696631255173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790385184397029376",
+              "start": 0,
+              "username": "pyyun189492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936404696631255173",
+        "in_reply_to_user_id": "1790385184397029376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936402341793804683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyyun189492 nt来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790385184397029376",
+        "conversation_id": "1936396524176785587",
+        "created_at": "2025-06-21T12:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T13:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936402341793804683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936402341793804683",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936396524176785587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 相互理解的新人类（迫真）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 1189,
+          "like_count": 40505,
+          "listed_count": 5,
+          "media_count": 1732,
+          "tweet_count": 14965
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T14:14:42.000Z",
+        "description": "那可真有够恶心的",
+        "id": "1790385184397029376",
+        "name": "戒野美咲用Saint Predator让你飞起来",
+        "pinned_tweet_id": "1863875839248806011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935990732709650432/iaHBMt8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 1699,
+          "like_count": 27722,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 5603
+        },
+        "username": "pyyun189492",
+        "verified": false
+      }
+    ]
+  }
+}

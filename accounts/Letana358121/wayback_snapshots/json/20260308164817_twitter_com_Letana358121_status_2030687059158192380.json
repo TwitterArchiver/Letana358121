@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030686755859673088"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2030687059158192380",
+    "created_at": "2026-03-08T16:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030687059158192380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jpTZajGWzq",
+          "end": 35,
+          "expanded_url": "https://x.com/Letana358121/status/2030687059158192380/video/1",
+          "media_key": "7_2030686755859673088",
+          "start": 12,
+          "url": "https://t.co/jpTZajGWzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030687059158192380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "濡羽（大都会6）超觉醒 https://t.co/jpTZajGWzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21598,
+        "height": 1280,
+        "media_key": "7_2030686755859673088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030686755859673088/pu/img/aIbGZYAJlppZJ1iE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030686755859673088/pu/vid/avc1/320x568/z45d_QkY8pm_9Vbz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030686755859673088/pu/vid/avc1/480x852/_sx3oMRGjZhJpVbQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030686755859673088/pu/vid/avc1/720x1280/qg5qLCZqE4pNtFLs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030686755859673088/pu/pl/ETeGdudG2PEQkv0u.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030686755859673088"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2030687059158192380",
+        "created_at": "2026-03-08T16:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030687059158192380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpTZajGWzq",
+              "end": 35,
+              "expanded_url": "https://x.com/Letana358121/status/2030687059158192380/video/1",
+              "media_key": "7_2030686755859673088",
+              "start": 12,
+              "url": "https://t.co/jpTZajGWzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030687059158192380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "濡羽（大都会6）超觉醒 https://t.co/jpTZajGWzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 1343,
+          "like_count": 47360,
+          "listed_count": 7,
+          "media_count": 2140,
+          "tweet_count": 18136
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

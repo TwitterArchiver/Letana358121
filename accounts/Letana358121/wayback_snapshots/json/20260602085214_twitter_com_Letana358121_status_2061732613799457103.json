@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2061732613799457103",
+    "created_at": "2026-06-02T08:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061732613799457103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Letana358121/status/2061473141650796898",
+          "start": 12,
+          "url": "https://t.co/d9fpNv5hwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061732613799457103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061473141650796898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比起平庸我更害怕被遗忘 https://t.co/d9fpNv5hwc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061732613799457103",
+        "created_at": "2026-06-02T08:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061732613799457103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Letana358121/status/2061473141650796898",
+              "start": 12,
+              "url": "https://t.co/d9fpNv5hwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061732613799457103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061473141650796898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起平庸我更害怕被遗忘 https://t.co/d9fpNv5hwc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061473141650796898",
+        "created_at": "2026-06-01T15:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061473141650796898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061473141650796898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然情绪好低落，你们都会一直看着我的对吗，我其实也是个特别在意别人眼光的人，甚至我不求这个眼光的好坏（毕竟我小时候经常扮丑求关注），只要有人还在看着我我就有活着的实感，所以你们都要看着我好吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 1477,
+          "like_count": 56282,
+          "listed_count": 6,
+          "media_count": 2300,
+          "tweet_count": 20615
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1823775481726165041",
+    "created_at": "2024-08-14T17:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T18:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823779120486211983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Yorushika4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823779120486211983",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823775481726165041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yorushika4ever 謝大人不殺之恩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1823775481726165041",
+        "created_at": "2024-08-14T17:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T18:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823779120486211983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Yorushika4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823779120486211983",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823775481726165041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yorushika4ever 謝大人不殺之恩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1823775481726165041",
+        "created_at": "2024-08-14T17:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T18:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823775481726165041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823775481726165041",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "删了2000个fo\n之前所谓的追星成功全给我清掉了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶ユ！",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 857,
+          "like_count": 25095,
+          "listed_count": 2,
+          "tweet_count": 8123
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "😼🎮",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "忘れてください",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823687050220199937/TAYJO0tZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 299,
+          "like_count": 106439,
+          "listed_count": 6,
+          "tweet_count": 19413
+        },
+        "username": "Yorushika4ever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041487815234732032"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041487926580933068",
+    "created_at": "2026-04-07T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041487926580933068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746469344325021697",
+          "start": 0,
+          "username": "suzumiyasuzume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ItoTaznnpv",
+          "end": 55,
+          "expanded_url": "https://x.com/Letana358121/status/2041487926580933068/photo/1",
+          "media_key": "3_2041487815234732032",
+          "start": 32,
+          "url": "https://t.co/ItoTaznnpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041487926580933068",
+    "in_reply_to_user_id": "1746469344325021697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@suzumiyasuzume 收到綠色貓寄給我的小禮物呢捏！ https://t.co/ItoTaznnpv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2041487815234732032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTSWghawAAiaBN.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041487815234732032"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041487926580933068",
+        "created_at": "2026-04-07T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041487926580933068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746469344325021697",
+              "start": 0,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItoTaznnpv",
+              "end": 55,
+              "expanded_url": "https://x.com/Letana358121/status/2041487926580933068/photo/1",
+              "media_key": "3_2041487815234732032",
+              "start": 32,
+              "url": "https://t.co/ItoTaznnpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041487926580933068",
+        "in_reply_to_user_id": "1746469344325021697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@suzumiyasuzume 收到綠色貓寄給我的小禮物呢捏！ https://t.co/ItoTaznnpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 1402,
+          "like_count": 49868,
+          "listed_count": 8,
+          "media_count": 2202,
+          "tweet_count": 18977
+        },
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13055,
+          "following_count": 873,
+          "like_count": 1862,
+          "listed_count": 23,
+          "media_count": 122,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

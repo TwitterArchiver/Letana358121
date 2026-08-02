@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1822572373721382992",
+    "created_at": "2024-08-11T10:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T11:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822574237435195814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822574237435195814",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822572373721382992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 给我坐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822572373721382992].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822572373721382992",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822572373721382992"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1822572373721382992",
+        "created_at": "2024-08-11T10:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822574237435195814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822574237435195814",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822572373721382992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 给我坐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶ユ！",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 849,
+          "like_count": 24609,
+          "listed_count": 2,
+          "tweet_count": 8017
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法",
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "永雏塔黑猫",
+        "pinned_tweet_id": "1804543524790284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 1104,
+          "like_count": 38925,
+          "listed_count": 9,
+          "tweet_count": 3364
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

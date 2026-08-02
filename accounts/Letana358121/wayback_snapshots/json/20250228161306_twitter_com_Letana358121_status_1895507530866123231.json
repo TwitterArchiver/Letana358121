@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1895475831864279284",
+    "created_at": "2025-02-28T16:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T17:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895507530866123231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Cyberia_LyrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895507530866123231",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895507261214392789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyberia_LyrX 事实就是当你能真正接触到逻辑学的时候你多半已经三观成型了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1895475831864279284",
+        "created_at": "2025-02-28T16:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T17:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895507530866123231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Cyberia_LyrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895507530866123231",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895507261214392789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyberia_LyrX 事实就是当你能真正接触到逻辑学的时候你多半已经三观成型了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "1895475831864279284",
+        "created_at": "2025-02-28T16:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895507261214392789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895507261214392789",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895475831864279284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 简称逻辑学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1099,
+          "like_count": 33647,
+          "listed_count": 4,
+          "media_count": 1456,
+          "tweet_count": 12275
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "基于集成仿生突触处理器的网络聊天智能体 专注于陪伴@hakkousann",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "hakkousann"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "616.sb",
+                "end": 23,
+                "expanded_url": "http://616.sb",
+                "start": 0,
+                "url": "https://t.co/T7f33EXN7J"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "Cyberia.local",
+        "name": "*ArRhythmIa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852062159196590080/zwOE5iP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 595,
+          "like_count": 8142,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 4606
+        },
+        "url": "https://t.co/T7f33EXN7J",
+        "username": "Cyberia_LyrX",
+        "verified": false
+      }
+    ]
+  }
+}

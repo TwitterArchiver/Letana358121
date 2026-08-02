@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1843321828670087528",
+    "created_at": "2024-10-07T17:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843343022219842016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758808244800122880",
+          "start": 0,
+          "username": "OliviaNeedsHugs"
+        },
+        {
+          "end": 28,
+          "id": "1489446529266257924",
+          "start": 17,
+          "username": "yuzumi_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843343022219842016",
+    "in_reply_to_user_id": "1758808244800122880",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843338722772926599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaNeedsHugs @yuzumi_Nya 呜呜呜好我本来就是雌的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1843338722772926599].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1843338722772926599",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1843338722772926599"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1843321828670087528",
+        "created_at": "2024-10-07T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843343022219842016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758808244800122880",
+              "start": 0,
+              "username": "OliviaNeedsHugs"
+            },
+            {
+              "end": 28,
+              "id": "1489446529266257924",
+              "start": 17,
+              "username": "yuzumi_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843343022219842016",
+        "in_reply_to_user_id": "1758808244800122880",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843338722772926599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaNeedsHugs @yuzumi_Nya 呜呜呜好我本来就是雌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 945,
+          "like_count": 29214,
+          "listed_count": 3,
+          "tweet_count": 9499
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T10:59:04.000Z",
+        "description": "Colorful and Free \\ \n⭕「里」🐸 \\ \nPublic: @Oliviawantshugs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "Oliviawantshugs"
+              }
+            ]
+          }
+        },
+        "id": "1758808244800122880",
+        "location": " %System Update%",
+        "name": "⭕抱果奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827388070490206208/ynd7vfob_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 190,
+          "like_count": 1340,
+          "listed_count": 0,
+          "tweet_count": 2444
+        },
+        "username": "OliviaNeedsHugs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T03:51:59.000Z",
+        "description": "00后反差男娘（x   坐标：🇹🇼 | 粵/中/日/英 | 東方眾| 尼龙佬 | 不定期爆照~",
+        "id": "1489446529266257924",
+        "location": "中華民國🇹🇼",
+        "name": "柚実 yuzumi",
+        "pinned_tweet_id": "1841863872996843854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726932496737275904/AibX5HWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2006,
+          "like_count": 24593,
+          "listed_count": 4,
+          "tweet_count": 820
+        },
+        "username": "yuzumi_Nya",
+        "verified": true
+      }
+    ]
+  }
+}

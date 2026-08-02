@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1889959478432604297",
+    "created_at": "2025-02-13T08:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T09:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889959843555049511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789528204207915008",
+          "start": 0,
+          "username": "kitsunekuzasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889959843555049511",
+    "in_reply_to_user_id": "1789528204207915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889959478432604297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitsunekuzasa 小時候覺得貴而已（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1889959478432604297",
+        "created_at": "2025-02-13T08:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T09:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889959843555049511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "kitsunekuzasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889959843555049511",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889959478432604297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitsunekuzasa 小時候覺得貴而已（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889959475320340480"
+          ]
+        },
+        "author_id": "1789528204207915008",
+        "conversation_id": "1889959478432604297",
+        "created_at": "2025-02-13T08:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T09:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889959478432604297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hh42OSmDR",
+              "end": 42,
+              "expanded_url": "https://x.com/kitsunekuzasa/status/1889959478432604297/photo/1",
+              "media_key": "3_1889959475320340480",
+              "start": 19,
+              "url": "https://t.co/4hh42OSmDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889959478432604297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么记得费列罗巧克力没这么便宜来着 https://t.co/4hh42OSmDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 1091,
+          "like_count": 32317,
+          "listed_count": 4,
+          "media_count": 1424,
+          "tweet_count": 11923
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "Racing to the starlight✨",
+        "id": "1789528204207915008",
+        "name": "❄️",
+        "pinned_tweet_id": "1879911602553856235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888526098562174976/LdW_wbug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 217,
+          "like_count": 25589,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 356
+        },
+        "username": "kitsunekuzasa",
+        "verified": false
+      }
+    ]
+  }
+}

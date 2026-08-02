@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889301114300100608",
+        "3_1889301114677555200"
+      ],
+      "media_source_tweet_id": [
+        "1889301117554786430",
+        "1889301117554786430"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1889301708121243890",
+    "created_at": "2025-02-11T13:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T14:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889301708121243890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "男娘"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "男の娘"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "伪娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "cd"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "可爱の男孩子"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "雌墜"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "贞操锁"
+        },
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "Femboy"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "sissy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859794522865291264",
+          "start": 3,
+          "username": "QAQ_xwx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/71SoVLU69z",
+          "end": 95,
+          "expanded_url": "https://x.com/QAQ_xwx/status/1889301117554786430/photo/1",
+          "media_key": "3_1889301114300100608",
+          "start": 72,
+          "url": "https://t.co/71SoVLU69z"
+        },
+        {
+          "display_url": "pic.x.com/71SoVLU69z",
+          "end": 95,
+          "expanded_url": "https://x.com/QAQ_xwx/status/1889301117554786430/photo/1",
+          "media_key": "3_1889301114677555200",
+          "start": 72,
+          "url": "https://t.co/71SoVLU69z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889301708121243890",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889301117554786430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QAQ_xwx: #男娘 #男の娘 #伪娘 #cd #可爱の男孩子 #雌墜 #贞操锁 #Femboy #sissy\n&gt;A&lt; https://t.co/71SoVLU69z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889301708121243890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889301708121243890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889301708121243890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889301114300100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjglWn-bcAAqf6J.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1889301114677555200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjglWpYa8AATwN1.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889301114300100608",
+            "3_1889301114677555200"
+          ]
+        },
+        "author_id": "1859794522865291264",
+        "conversation_id": "1889301117554786430",
+        "created_at": "2025-02-11T13:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889301117554786430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "男の娘"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "伪娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "cd"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "雌墜"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "Femboy"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "sissy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/71SoVLU69z",
+              "end": 82,
+              "expanded_url": "https://x.com/QAQ_xwx/status/1889301117554786430/photo/1",
+              "media_key": "3_1889301114300100608",
+              "start": 59,
+              "url": "https://t.co/71SoVLU69z"
+            },
+            {
+              "display_url": "pic.x.com/71SoVLU69z",
+              "end": 82,
+              "expanded_url": "https://x.com/QAQ_xwx/status/1889301117554786430/photo/1",
+              "media_key": "3_1889301114677555200",
+              "start": 59,
+              "url": "https://t.co/71SoVLU69z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889301117554786430",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #男の娘 #伪娘 #cd #可爱の男孩子 #雌墜 #贞操锁 #Femboy #sissy\n&gt;A&lt; https://t.co/71SoVLU69z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 1090,
+          "like_count": 32156,
+          "listed_count": 4,
+          "media_count": 1421,
+          "tweet_count": 11881
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T03:02:42.000Z",
+        "description": "死了，屍體還在動，他喜歡穿女裝色色，覺得這樣就會有人愛自己，然後找回碎裂的靈魂，但這只是掘了個墓。\n有很喜歡的主人了！可以交朋友討論性癖什麼的，但不討論主播本人！( `へ´ )\n大號：@OwOb_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "OwOb_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1859794522865291264",
+        "name": "٩(✘д✘๑;)۶（瘋狂色色版",
+        "pinned_tweet_id": "1885013367024476241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859797152576438274/MzgWK_Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 103,
+          "like_count": 2266,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1060
+        },
+        "username": "QAQ_xwx",
+        "verified": true
+      }
+    ]
+  }
+}

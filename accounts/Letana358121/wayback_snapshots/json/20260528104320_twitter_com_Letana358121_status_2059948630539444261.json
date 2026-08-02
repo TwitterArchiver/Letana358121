@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2059830078469800029",
+    "created_at": "2026-05-28T10:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059948630539444261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisprofL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948630539444261",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059948563099271527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisprofL 不会贝斯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2059830078469800029",
+        "created_at": "2026-05-28T10:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059948630539444261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisprofL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948630539444261",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059948563099271527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisprofL 不会贝斯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "2059830078469800029",
+        "created_at": "2026-05-28T10:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059948563099271527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948563099271527",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059830078469800029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 山田涼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 1470,
+          "like_count": 55559,
+          "listed_count": 6,
+          "media_count": 2287,
+          "tweet_count": 20446
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🇺🇸🇧🇪 US/CN/FR, non-binary gay 𝙁𝙐𝘾𝙆 𝙄𝘾𝙀",
+        "id": "1753355639949291521",
+        "location": "Paris, France",
+        "name": "Kév in 廣州",
+        "pinned_tweet_id": "2046280957364445660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903355355578654720/5w5gZkcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 852,
+          "like_count": 61214,
+          "listed_count": 1,
+          "media_count": 9901,
+          "tweet_count": 41532
+        },
+        "username": "jesuisprofL",
+        "verified": false
+      }
+    ]
+  }
+}

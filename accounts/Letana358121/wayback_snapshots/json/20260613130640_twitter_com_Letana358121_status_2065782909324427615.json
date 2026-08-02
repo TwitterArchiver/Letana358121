@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2065782828999365039",
+    "created_at": "2026-06-13T13:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065782909324427615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisprofL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065782909324427615",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065782828999365039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisprofL 好傻逼啊能不能滚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14634,
+        "height": 1280,
+        "media_key": "13_2065782731179806720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065782731179806720/img/lbCCbrdp8JGF3UCr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065782731179806720/vid/avc1/320x568/-ITDQQYHym5-KsBt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065782731179806720/vid/avc1/480x852/RJMpx2RjOo1D4qNt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065782731179806720/vid/avc1/720x1280/cR4pgzBT7_hGhoLR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065782731179806720/pl/ZNXHD1myv70OIQAx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2065782828999365039",
+        "created_at": "2026-06-13T13:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782909324427615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisprofL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782909324427615",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065782828999365039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisprofL 好傻逼啊能不能滚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065782731179806720"
+          ]
+        },
+        "author_id": "1753355639949291521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2065782828999365039",
+        "created_at": "2026-06-13T13:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065782828999365039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1669543422586421248",
+              "start": 22,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1BG4yTy3E",
+              "end": 59,
+              "expanded_url": "https://x.com/jesuisprofL/status/2065782828999365039/video/1",
+              "media_key": "13_2065782731179806720",
+              "start": 36,
+              "url": "https://t.co/l1BG4yTy3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782828999365039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "trans trump 🏳️‍⚧️🇺🇲🇲🇴 @Letana358121 https://t.co/l1BG4yTy3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 1516,
+          "like_count": 57177,
+          "listed_count": 7,
+          "media_count": 2324,
+          "tweet_count": 20964
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🇺🇸🇧🇪 US/CN/FR, non-binary gay 𝙁𝙐𝘾𝙆 𝙄𝘾𝙀\n'm sry that I'm an asian from mid-west",
+        "id": "1753355639949291521",
+        "location": "Paris, France",
+        "name": "Kév in Canton",
+        "pinned_tweet_id": "2046280957364445660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903355355578654720/5w5gZkcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 872,
+          "like_count": 61666,
+          "listed_count": 2,
+          "media_count": 9951,
+          "tweet_count": 41819
+        },
+        "username": "jesuisprofL",
+        "verified": false
+      }
+    ]
+  }
+}

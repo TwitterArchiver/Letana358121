@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1865449233954038013",
+    "created_at": "2024-12-07T17:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T18:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865451642164007206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865451642164007206",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865449233954038013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer 包被🈷️吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1865449233954038013",
+        "created_at": "2024-12-07T17:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865451642164007206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865451642164007206",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865449233954038013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer 包被🈷️吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1865449233954038013",
+        "created_at": "2024-12-07T17:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865449233954038013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865449233954038013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫压抑神人还是太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1004,
+          "like_count": 29506,
+          "listed_count": 4,
+          "media_count": 1255,
+          "tweet_count": 10496
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 628,
+          "like_count": 44572,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 4896
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

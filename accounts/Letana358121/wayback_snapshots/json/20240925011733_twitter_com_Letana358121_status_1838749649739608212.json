@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1838664328402341946",
+    "created_at": "2024-09-25T01:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T02:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838749649739608212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620479004506730496",
+          "start": 0,
+          "username": "Kagaminojingye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838749649739608212",
+    "in_reply_to_user_id": "1620479004506730496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838664328402341946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagaminojingye 媽呀。。。爭取十八歲前和十個人做過。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1838664328402341946",
+        "created_at": "2024-09-25T01:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T02:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838749649739608212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620479004506730496",
+              "start": 0,
+              "username": "Kagaminojingye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838749649739608212",
+        "in_reply_to_user_id": "1620479004506730496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838664328402341946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagaminojingye 媽呀。。。爭取十八歲前和十個人做過。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620479004506730496",
+        "conversation_id": "1838664328402341946",
+        "created_at": "2024-09-24T19:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T20:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838664328402341946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838664328402341946",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想想我才18岁就已经跟四十多个人做过爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 920,
+          "like_count": 29029,
+          "listed_count": 3,
+          "tweet_count": 9185
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:48:04.000Z",
+        "description": "别再把你那皮炎子叫成批了",
+        "id": "1620479004506730496",
+        "name": "奶龙",
+        "pinned_tweet_id": "1819402169327800616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833503328938135552/dfUu8Z1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 113,
+          "like_count": 2985,
+          "listed_count": 7,
+          "tweet_count": 280
+        },
+        "username": "Kagaminojingye",
+        "verified": false
+      }
+    ]
+  }
+}

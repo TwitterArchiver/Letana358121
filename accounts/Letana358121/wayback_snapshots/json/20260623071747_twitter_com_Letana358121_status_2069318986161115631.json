@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2069132470747062771",
+    "created_at": "2026-06-23T07:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069318986161115631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069318986161115631",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069132470747062771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 依旧奇异搞笑标点符号，依旧奇妙断句，依旧外置大脑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069132467773263873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcJBEbaUAESyyb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2069132470747062771",
+        "created_at": "2026-06-23T07:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069318986161115631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318986161115631",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069132470747062771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 依旧奇异搞笑标点符号，依旧奇妙断句，依旧外置大脑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069132467773263873"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "2069132470747062771",
+        "created_at": "2026-06-22T18:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069132470747062771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMdEqYNPrw",
+              "end": 32,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2069132470747062771/photo/1",
+              "media_key": "3_2069132467773263873",
+              "start": 9,
+              "url": "https://t.co/XMdEqYNPrw"
+            },
+            {
+              "display_url": "x.com/gaga860166912/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/gaga860166912/status/2069027406556573704",
+              "start": 33,
+              "url": "https://t.co/HwdtWAGa5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069132470747062771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1312,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069027406556573704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注这人是何意味 https://t.co/XMdEqYNPrw https://t.co/HwdtWAGa5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 1543,
+          "like_count": 58667,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21291
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。",
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "2067962231330066858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11368,
+          "following_count": 2050,
+          "like_count": 52615,
+          "listed_count": 38,
+          "media_count": 1402,
+          "tweet_count": 37414
+        },
+        "url": "",
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

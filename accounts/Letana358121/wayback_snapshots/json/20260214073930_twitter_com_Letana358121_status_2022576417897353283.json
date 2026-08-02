@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2022203106034090316",
+    "created_at": "2026-02-14T07:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022576417897353283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423938470888628228",
+          "start": 0,
+          "username": "narrator01_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022576417897353283",
+    "in_reply_to_user_id": "1423938470888628228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022426173867987242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@narrator01_ 🦌鸟加了也就2分，其实不太想吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2022203106034090316",
+        "created_at": "2026-02-14T07:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022576417897353283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423938470888628228",
+              "start": 0,
+              "username": "narrator01_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022576417897353283",
+        "in_reply_to_user_id": "1423938470888628228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022426173867987242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@narrator01_ 🦌鸟加了也就2分，其实不太想吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423938470888628228",
+        "conversation_id": "2022203106034090316",
+        "created_at": "2026-02-13T21:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T22:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022426173867987242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022426173867987242",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022203106034090316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 🦌好难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 1343,
+          "like_count": 46439,
+          "listed_count": 7,
+          "media_count": 2099,
+          "tweet_count": 17874
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T09:26:17.000Z",
+        "description": "cn旁白 女的 舞萌/摄影/旅行 | 对象@Hyscere_ | 亲友@shao0_lexzi @yumenouo @Siinasenha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Hyscere_"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "shao0_lexzi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "yumenouo"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "Siinasenha"
+              }
+            ]
+          }
+        },
+        "id": "1423938470888628228",
+        "location": "成都",
+        "name": "Sense (Leads to Another Full Version)",
+        "pinned_tweet_id": "1934643205238333517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020311363525165056/a3lOlnJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 691,
+          "like_count": 29318,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 2555
+        },
+        "username": "narrator01_",
+        "verified": false
+      }
+    ]
+  }
+}

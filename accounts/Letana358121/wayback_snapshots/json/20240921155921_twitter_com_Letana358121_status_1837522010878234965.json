@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1837434865454927903",
+    "created_at": "2024-09-21T15:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837522010878234965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837522010878234965",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837437484122493270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisnoirdeL 然后被普通的关进监狱里吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1837434865454927903",
+        "created_at": "2024-09-21T15:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837522010878234965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837522010878234965",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837437484122493270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisnoirdeL 然后被普通的关进监狱里吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1837434865454927903",
+        "created_at": "2024-09-21T10:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837437484122493270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837437484122493270",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837434865454927903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该在普通地曹小男孩的丕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 920,
+          "like_count": 28759,
+          "listed_count": 3,
+          "tweet_count": 9096
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "06 fine art / Art contemporain local de Shanghai / Asian Gay stand with LBTQ",
+        "id": "1753355639949291521",
+        "location": "Shanghaï / Lafayette ",
+        "name": "L",
+        "pinned_tweet_id": "1837460511782256866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814020372171194368/8sYaq8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 498,
+          "like_count": 37674,
+          "listed_count": 3,
+          "tweet_count": 22686
+        },
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

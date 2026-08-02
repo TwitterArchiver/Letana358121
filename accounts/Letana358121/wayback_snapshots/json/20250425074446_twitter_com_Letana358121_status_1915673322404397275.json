@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1915648660035215598",
+    "created_at": "2025-04-25T07:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T08:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915673322404397275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "862163491544813568",
+          "start": 0,
+          "username": "ZealotWhiteLich"
+        },
+        {
+          "end": 31,
+          "id": "1390652924481527810",
+          "start": 17,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915673322404397275",
+    "in_reply_to_user_id": "862163491544813568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915672758563872896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZealotWhiteLich @zqtlovekris99 钢坦克。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1915648660035215598",
+        "created_at": "2025-04-25T07:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T08:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915673322404397275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862163491544813568",
+              "start": 0,
+              "username": "ZealotWhiteLich"
+            },
+            {
+              "end": 31,
+              "id": "1390652924481527810",
+              "start": 17,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915673322404397275",
+        "in_reply_to_user_id": "862163491544813568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915672758563872896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZealotWhiteLich @zqtlovekris99 钢坦克。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "862163491544813568",
+        "conversation_id": "1915648660035215598",
+        "created_at": "2025-04-25T07:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T08:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915672758563872896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915672758563872896",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915648660035215598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我开高达的话，下半身一定要改成履带。街机装甲勇士有履带我必换的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1149,
+          "like_count": 38300,
+          "listed_count": 5,
+          "media_count": 1585,
+          "tweet_count": 13966
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-10T04:32:49.000Z",
+        "description": "上推为了3件事：\n1、看女装\n2、看福瑞黄图\n3、看女装福瑞黄图",
+        "id": "862163491544813568",
+        "location": "安兹乌尔恭魔导国",
+        "name": "白附子（已野兽化）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556042104828088320/nGczgAE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 2878,
+          "like_count": 33994,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 15450
+        },
+        "username": "ZealotWhiteLich",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 550,
+          "like_count": 17960,
+          "listed_count": 9,
+          "media_count": 2257,
+          "tweet_count": 17043
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

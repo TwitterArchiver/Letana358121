@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1818672234640424964"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1818672247625990356",
+    "created_at": "2024-07-31T15:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T16:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818672247625990356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/H45Typt4wG",
+          "end": 23,
+          "expanded_url": "https://twitter.com/Letana358121/status/1818672247625990356/video/1",
+          "media_key": "7_1818672234640424964",
+          "start": 0,
+          "url": "https://t.co/H45Typt4wG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818672247625990356",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/H45Typt4wG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15586,
+        "height": 64,
+        "media_key": "7_1818672234640424964",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1818672234640424964/pu/img/oBG9pfeAaIgdZ2dM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818672234640424964/pu/vid/avc1/64x64/-O4UDqbBUclsGYVa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1818672234640424964/pu/pl/p8JTcoL8MSnpSobA.m3u8?tag=12"
+          }
+        ],
+        "width": 64
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818672234640424964"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1818672247625990356",
+        "created_at": "2024-07-31T15:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T16:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818672247625990356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/H45Typt4wG",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Letana358121/status/1818672247625990356/video/1",
+              "media_key": "7_1818672234640424964",
+              "start": 0,
+              "url": "https://t.co/H45Typt4wG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818672247625990356",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H45Typt4wG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816864107276181504/PoltIXYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 827,
+          "like_count": 23157,
+          "listed_count": 2,
+          "tweet_count": 7627
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

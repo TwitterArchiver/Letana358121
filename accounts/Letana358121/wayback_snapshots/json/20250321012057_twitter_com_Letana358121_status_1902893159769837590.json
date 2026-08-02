@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1902726724393009552",
+    "created_at": "2025-03-21T01:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T02:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902893159769837590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        },
+        {
+          "end": 24,
+          "id": "1302984963805999104",
+          "start": 10,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902893159769837590",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902890391407562928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ @littlelambqwq 冬将军太坏了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1902726724393009552",
+        "created_at": "2025-03-21T01:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T02:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902893159769837590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            },
+            {
+              "end": 24,
+              "id": "1302984963805999104",
+              "start": 10,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902893159769837590",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902890391407562928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ @littlelambqwq 冬将军太坏了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026482173300236288",
+        "conversation_id": "1902726724393009552",
+        "created_at": "2025-03-21T01:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T02:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902890391407562928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302984963805999104",
+              "start": 0,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902890391407562928",
+        "in_reply_to_user_id": "1302984963805999104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902726724393009552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelambqwq 我是冬天派的，去死吧咩主教你大限將至(=ﾟДﾟ=) ▄︻┻┳━ ·."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 1128,
+          "like_count": 36000,
+          "listed_count": 5,
+          "media_count": 1502,
+          "tweet_count": 12912
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 618,
+          "like_count": 28408,
+          "listed_count": 3,
+          "media_count": 898,
+          "tweet_count": 8183
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/控制欲強的變態/焦慮性依戀/依赖性人格/性格暴躁/道德敗壞/好朋友@bibibizizizi/bluesky的id和Twitter一样",
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "🏳️‍⚧️小咩咩🐑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613331349288685569/hLDNaCEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 686,
+          "like_count": 50914,
+          "listed_count": 12,
+          "media_count": 1395,
+          "tweet_count": 13673
+        },
+        "username": "littlelambqwq",
+        "verified": false
+      }
+    ]
+  }
+}

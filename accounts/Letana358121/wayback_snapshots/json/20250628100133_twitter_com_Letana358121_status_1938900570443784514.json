@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1938900570443784514",
+    "created_at": "2025-06-28T10:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938900570443784514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938900570443784514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 204,
+      "like_count": 11,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了，我买了个柠檬可乐味的烟。还怪好抽的除了没啥可乐味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1938900570443784514",
+        "created_at": "2025-06-28T10:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938900570443784514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938900570443784514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，我买了个柠檬可乐味的烟。还怪好抽的除了没啥可乐味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 1193,
+          "like_count": 40563,
+          "listed_count": 5,
+          "media_count": 1752,
+          "tweet_count": 15063
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

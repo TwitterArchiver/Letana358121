@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876429026946158592"
+      ],
+      "media_source_tweet_id": [
+        "1876429034692936089"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876481038958170420",
+    "created_at": "2025-01-07T04:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T05:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876481038958170420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730406138750152704",
+          "start": 3,
+          "username": "Peacock521"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OckUDqgZ6M",
+          "end": 45,
+          "expanded_url": "https://x.com/Peacock521/status/1876429034692936089/photo/1",
+          "media_key": "3_1876429026946158592",
+          "start": 22,
+          "url": "https://t.co/OckUDqgZ6M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876481038958170420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876429034692936089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Peacock521: 不是哥们儿 https://t.co/OckUDqgZ6M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_1876429026946158592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgpqQh1bkAAGa1l.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876429026946158592"
+          ],
+          "media_source_tweet_id": [
+            "1876429034692936089"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876481038958170420",
+        "created_at": "2025-01-07T04:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T05:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876481038958170420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730406138750152704",
+              "start": 3,
+              "username": "Peacock521"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OckUDqgZ6M",
+              "end": 45,
+              "expanded_url": "https://x.com/Peacock521/status/1876429034692936089/photo/1",
+              "media_key": "3_1876429026946158592",
+              "start": 22,
+              "url": "https://t.co/OckUDqgZ6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876481038958170420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876429034692936089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Peacock521: 不是哥们儿 https://t.co/OckUDqgZ6M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876429026946158592"
+          ]
+        },
+        "author_id": "1730406138750152704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876429034692936089",
+        "created_at": "2025-01-07T00:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876429034692936089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OckUDqgZ6M",
+              "end": 29,
+              "expanded_url": "https://x.com/Peacock521/status/1876429034692936089/photo/1",
+              "media_key": "3_1876429026946158592",
+              "start": 6,
+              "url": "https://t.co/OckUDqgZ6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876429034692936089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11727,
+          "like_count": 194,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们儿 https://t.co/OckUDqgZ6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1020,
+          "like_count": 30550,
+          "listed_count": 5,
+          "media_count": 1327,
+          "tweet_count": 11053
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T01:59:27.000Z",
+        "description": "崇洋媚外是汉奸的基本思想。我不跟殖人润人蛙人讲理，自己来我这碰瓷的就是找骂。",
+        "id": "1730406138750152704",
+        "name": "Peacock",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856478102265966594/y_6HrQED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 99,
+          "like_count": 45,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 2336
+        },
+        "username": "Peacock521",
+        "verified": false
+      }
+    ]
+  }
+}

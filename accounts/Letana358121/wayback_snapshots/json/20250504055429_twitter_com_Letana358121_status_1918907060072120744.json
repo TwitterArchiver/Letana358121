@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1918901791036441009",
+    "created_at": "2025-05-04T05:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T06:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918907060072120744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789528204207915008",
+          "start": 0,
+          "username": "kitsunekuzasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918907060072120744",
+    "in_reply_to_user_id": "1789528204207915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918901791036441009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitsunekuzasa 你很可爱（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1918901791036441009",
+        "created_at": "2025-05-04T05:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918907060072120744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "kitsunekuzasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918907060072120744",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918901791036441009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitsunekuzasa 你很可爱（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789528204207915008",
+        "conversation_id": "1918901791036441009",
+        "created_at": "2025-05-04T05:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918901791036441009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918901791036441009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（挺羡慕敢发露脸照的人，不仅好看而且都挺自信，而我就是住在下水道的鼠，又丑又不自信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1148,
+          "like_count": 38628,
+          "listed_count": 5,
+          "media_count": 1598,
+          "tweet_count": 14143
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "hillbilliy",
+        "id": "1789528204207915008",
+        "name": "𝒴𝓊𝓀𝒾❄️",
+        "pinned_tweet_id": "1912910909850394871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908340396666871808/7zrba7If_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 75,
+          "like_count": 30209,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 627
+        },
+        "username": "kitsunekuzasa",
+        "verified": false
+      }
+    ]
+  }
+}

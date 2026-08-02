@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067838879135358976"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2067838909472752109",
+    "created_at": "2026-06-19T05:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067838909472752109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5YRcdx8GX",
+          "end": 36,
+          "expanded_url": "https://x.com/Letana358121/status/2067838909472752109/photo/1",
+          "media_key": "3_2067838879135358976",
+          "start": 13,
+          "url": "https://t.co/w5YRcdx8GX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067838909472752109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜晚的新葡京（昨晚拍的） https://t.co/w5YRcdx8GX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067838879135358976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJwgTOa4AAO-5T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067838879135358976"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2067838909472752109",
+        "created_at": "2026-06-19T05:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067838909472752109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5YRcdx8GX",
+              "end": 36,
+              "expanded_url": "https://x.com/Letana358121/status/2067838909472752109/photo/1",
+              "media_key": "3_2067838879135358976",
+              "start": 13,
+              "url": "https://t.co/w5YRcdx8GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067838909472752109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜晚的新葡京（昨晚拍的） https://t.co/w5YRcdx8GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 1533,
+          "like_count": 57976,
+          "listed_count": 7,
+          "media_count": 2335,
+          "tweet_count": 21119
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

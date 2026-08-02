@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1851980051304321065",
+    "created_at": "2024-11-01T01:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T02:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852155033728770365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 20,
+          "id": "1680195212919050246",
+          "start": 13,
+          "username": "msmaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852155033728770365",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852147058263888162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @msmaoi 不能"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852147058263888162].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852147058263888162",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852147058263888162"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1851980051304321065",
+        "created_at": "2024-11-01T01:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T02:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852155033728770365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 20,
+              "id": "1680195212919050246",
+              "start": 13,
+              "username": "msmaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852155033728770365",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852147058263888162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @msmaoi 不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 972,
+          "like_count": 28733,
+          "listed_count": 3,
+          "tweet_count": 9976
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "永久锁推 / 彼女 @nieniebuding @KURANAGA3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "nieniebuding"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "KURANAGA3"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫",
+        "pinned_tweet_id": "1846184152653353391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1288,
+          "like_count": 41992,
+          "listed_count": 5,
+          "tweet_count": 1457
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T12:39:02.000Z",
+        "description": "是教师不是男娘 / INFP / 本体是猫猫 / #舞萌DX #arcaea / 可接英语和日语私教  / #やがて君になる / #神椿 推し / 人类观察计划进行中 / #Apple / 终将成为你 / sub: @msmaoi_sub / FR DE 学习中 / 爱发电小店铺 👇/ 公众号在精选里",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "舞萌DX"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "arcaea"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "やがて君になる"
+              },
+              {
+                "end": 68,
+                "start": 65,
+                "tag": "神椿"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "Apple"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "msmaoi_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/misumiaoi",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/misumiaoi",
+                "start": 0,
+                "url": "https://t.co/KsYpPqt5XE"
+              }
+            ]
+          }
+        },
+        "id": "1680195212919050246",
+        "location": "杭州地铁",
+        "name": "三澄 葵",
+        "pinned_tweet_id": "1851701212208599511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823951353682837504/ce57dGiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 694,
+          "like_count": 32896,
+          "listed_count": 9,
+          "tweet_count": 4956
+        },
+        "url": "https://t.co/KsYpPqt5XE",
+        "username": "msmaoi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1985385948251898060",
+    "created_at": "2025-11-04T07:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985609891344760983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1488435810991222786",
+          "start": 0,
+          "username": "IRCAyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985609891344760983",
+    "in_reply_to_user_id": "1488435810991222786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985385948251898060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IRCAyuan 辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1985385948251898060",
+        "created_at": "2025-11-04T07:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985609891344760983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1488435810991222786",
+              "start": 0,
+              "username": "IRCAyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985609891344760983",
+        "in_reply_to_user_id": "1488435810991222786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985385948251898060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IRCAyuan 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488435810991222786",
+        "conversation_id": "1985385948251898060",
+        "created_at": "2025-11-03T16:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985385948251898060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985385948251898060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我测真焦虑躯体化了我一直在哭我也不知道为什么好恐怖 也没有原因啊\n我感觉我可能要去医院\n好恐怖，我还不想死，我还想听trance打SDVX，我真不想死，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "EXCERPTS FROM THE DIARIES OF ＿/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 1279,
+          "like_count": 43310,
+          "listed_count": 8,
+          "media_count": 1930,
+          "tweet_count": 16477
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T08:55:37.000Z",
+        "description": "一个不定时冒泡发点东西的不明生物（可能是幽灵|ω·)",
+        "id": "1488435810991222786",
+        "name": "EhsYuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923254076025995264/V2l2BF8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 338,
+          "like_count": 13457,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2291
+        },
+        "username": "IRCAyuan",
+        "verified": false
+      }
+    ]
+  }
+}

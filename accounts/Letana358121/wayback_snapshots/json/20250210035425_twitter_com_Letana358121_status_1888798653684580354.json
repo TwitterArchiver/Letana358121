@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1888798653684580354",
+    "created_at": "2025-02-10T03:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T04:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888798653684580354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1455848920811126784",
+          "start": 3,
+          "username": "etrangerperim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888798653684580354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888458915408711751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @etrangerperim: 不去面推友的最主要原因是自卑：\n像我这种不是清北复交毕业、不喜欢不擅长写代码、从来没出入过高档酒吧饭店、没住过高档宾馆、没见过世面的乡下人，和天上人面基做什么呢🫠\n就算是被草，也会凭借浅薄的见识，说几句话就让人羊尾😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1888798653684580354",
+        "created_at": "2025-02-10T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888798653684580354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1455848920811126784",
+              "start": 3,
+              "username": "etrangerperim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888798653684580354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888458915408711751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @etrangerperim: 不去面推友的最主要原因是自卑：\n像我这种不是清北复交毕业、不喜欢不擅长写代码、从来没出入过高档酒吧饭店、没住过高档宾馆、没见过世面的乡下人，和天上人面基做什么呢🫠\n就算是被草，也会凭借浅薄的见识，说几句话就让人羊尾😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455848920811126784",
+        "conversation_id": "1888458915408711751",
+        "created_at": "2025-02-09T05:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888458915408711751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888458915408711751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 90723,
+          "like_count": 503,
+          "quote_count": 31,
+          "reply_count": 65,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "不去面推友的最主要原因是自卑：\n像我这种不是清北复交毕业、不喜欢不擅长写代码、从来没出入过高档酒吧饭店、没住过高档宾馆、没见过世面的乡下人，和天上人面基做什么呢🫠\n就算是被草，也会凭借浅薄的见识，说几句话就让人羊尾😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 1087,
+          "like_count": 32005,
+          "listed_count": 4,
+          "media_count": 1416,
+          "tweet_count": 11853
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T10:48:09.000Z",
+        "description": "梦想在30岁前以18岁男高身材开里推的毕业大学生|里@Blasphemperim|不约|中文|English| 日本語| Deutsch lernen |INTJ随缘更新负能量小作文随笔|没技术力的大厂程序员｜ 私信尽量回\nhttps://t.co/1Eggqksnji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Blasphemperim"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shadow_breath",
+                "end": 135,
+                "expanded_url": "http://t.me/shadow_breath",
+                "start": 112,
+                "url": "https://t.co/1Eggqksnji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/etranger27931",
+                "end": 23,
+                "expanded_url": "https://ngl.link/etranger27931",
+                "start": 0,
+                "url": "https://t.co/IYyBDH4HAa"
+              }
+            ]
+          }
+        },
+        "id": "1455848920811126784",
+        "location": "Düsseldorf, Germany",
+        "name": "Miracle",
+        "pinned_tweet_id": "1819791695552352728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503256755635056641/efdzvitE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 867,
+          "like_count": 10851,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/IYyBDH4HAa",
+        "username": "etrangerperim",
+        "verified": false
+      }
+    ]
+  }
+}

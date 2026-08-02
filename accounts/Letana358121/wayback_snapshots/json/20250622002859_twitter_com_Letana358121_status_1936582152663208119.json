@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1935981274298212522",
+    "created_at": "2025-06-22T00:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T01:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936582152663208119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520146215479902208",
+          "start": 0,
+          "username": "WANLE_CHEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936582152663208119",
+    "in_reply_to_user_id": "1520146215479902208",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936549331685007670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WANLE_CHEN 47"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1935981274298212522",
+        "created_at": "2025-06-22T00:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T01:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936582152663208119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520146215479902208",
+              "start": 0,
+              "username": "WANLE_CHEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936582152663208119",
+        "in_reply_to_user_id": "1520146215479902208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936549331685007670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WANLE_CHEN 47"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520146215479902208",
+        "conversation_id": "1935981274298212522",
+        "created_at": "2025-06-21T22:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T23:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936549331685007670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936549331685007670",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935981274298212522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 令尊今年多大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 1188,
+          "like_count": 40493,
+          "listed_count": 5,
+          "media_count": 1733,
+          "tweet_count": 14969
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:01:25.000Z",
+        "description": "蓝发yyds",
+        "id": "1520146215479902208",
+        "location": "Japan",
+        "name": "晚了",
+        "pinned_tweet_id": "1734673866025562614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689347450249863168/v6UHrDhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 134,
+          "like_count": 3605,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1994
+        },
+        "username": "WANLE_CHEN",
+        "verified": false
+      }
+    ]
+  }
+}

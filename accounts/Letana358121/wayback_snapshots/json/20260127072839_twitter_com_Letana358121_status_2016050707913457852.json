@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2016050621342998708",
+    "created_at": "2026-01-27T07:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016050707913457852"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016050707913457852",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016050621342998708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大哥大姐们都翻墙了能不能开开智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2016050621342998708",
+        "created_at": "2026-01-27T07:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016050707913457852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016050707913457852",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016050621342998708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大哥大姐们都翻墙了能不能开开智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2016050621342998708",
+        "created_at": "2026-01-27T07:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016050621342998708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Letana358121/status/2015733664781381751",
+              "start": 23,
+              "url": "https://t.co/kbruKV5G1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016050621342998708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015733664781381751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉评论区都是那种爱看牢a然后赢赢赢的基本盘 https://t.co/kbruKV5G1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 1345,
+          "like_count": 46260,
+          "listed_count": 6,
+          "media_count": 2076,
+          "tweet_count": 17758
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1916786615512604986",
+    "created_at": "2025-04-29T07:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T08:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917118117421191649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "Fenglinnai8964"
+        },
+        {
+          "end": 27,
+          "id": "1757616332240224256",
+          "start": 16,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917118117421191649",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917116255989035331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fenglinnai8964 @B_cat38324 我身边的朋友倒是有经历过差不多的事情。。不过面试他的是外企还是领导（德国人）就也能理解了。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917116255989035331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917116255989035331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917116255989035331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1916786615512604986",
+        "created_at": "2025-04-29T07:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917118117421191649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "Fenglinnai8964"
+            },
+            {
+              "end": 27,
+              "id": "1757616332240224256",
+              "start": 16,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917118117421191649",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917116255989035331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fenglinnai8964 @B_cat38324 我身边的朋友倒是有经历过差不多的事情。。不过面试他的是外企还是领导（德国人）就也能理解了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1149,
+          "like_count": 38500,
+          "listed_count": 5,
+          "media_count": 1591,
+          "tweet_count": 14051
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "🤐有不喜欢我的地方请直说，我不介意\n\n🥺优先过熟人，陌生人请优先关注大号@VonLinne2004\n\n⚠️有阴暗碎碎念和不友善蛐蛐内容，介意者可双取\n\n🫢为了净化Timeline 会随意B，被B 不是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "VonLinne2004"
+              }
+            ]
+          }
+        },
+        "id": "1800825433979797504",
+        "name": "冯琳柰",
+        "pinned_tweet_id": "1905206602350625141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852451053905793024/yFvBTMeL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 140,
+          "like_count": 25888,
+          "listed_count": 0,
+          "media_count": 1128,
+          "tweet_count": 8070
+        },
+        "username": "Fenglinnai8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16110,
+          "following_count": 185,
+          "like_count": 543,
+          "listed_count": 58,
+          "media_count": 80,
+          "tweet_count": 16078
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

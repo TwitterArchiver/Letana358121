@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2055955461674033443",
+    "created_at": "2026-05-17T12:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055992938585534492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052592592244858880",
+          "start": 0,
+          "username": "honoka_520"
+        },
+        {
+          "end": 27,
+          "id": "1489872233984311301",
+          "start": 12,
+          "username": "Aoncshagriuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055992938585534492",
+    "in_reply_to_user_id": "2052592592244858880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055964430736011551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honoka_520 @Aoncshagriuneo 对。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055964430736011551].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055964430736011551",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055964430736011551"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2055955461674033443",
+        "created_at": "2026-05-17T12:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055992938585534492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052592592244858880",
+              "start": 0,
+              "username": "honoka_520"
+            },
+            {
+              "end": 27,
+              "id": "1489872233984311301",
+              "start": 12,
+              "username": "Aoncshagriuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055992938585534492",
+        "in_reply_to_user_id": "2052592592244858880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055964430736011551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honoka_520 @Aoncshagriuneo 对。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1453,
+          "like_count": 53934,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20113
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "如果到了那天，请一定要祝我死日快乐",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 86,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "username": "honoka_520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:03:23.000Z",
+        "description": "they/she/he/any",
+        "id": "1489872233984311301",
+        "location": "世界",
+        "name": "安城 上 anjo nokami",
+        "pinned_tweet_id": "1987799848100544516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052637602801741824/nn4Kp9Bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 4612,
+          "like_count": 212097,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 57869
+        },
+        "username": "Aoncshagriuneo",
+        "verified": false
+      }
+    ]
+  }
+}

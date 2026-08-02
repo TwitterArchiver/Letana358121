@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2031719168194826607",
+    "created_at": "2026-03-11T13:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031722087833104854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1667549878824873987",
+          "start": 0,
+          "username": "Cy41M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031722087833104854",
+    "in_reply_to_user_id": "1667549878824873987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031719168194826607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cy41M 这么强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031719159571357696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIdz6WbIAAE7QZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031719159558770688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIdz6TbEAAmvJ5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2031719168194826607",
+        "created_at": "2026-03-11T13:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031722087833104854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1667549878824873987",
+              "start": 0,
+              "username": "Cy41M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031722087833104854",
+        "in_reply_to_user_id": "1667549878824873987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031719168194826607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cy41M 这么强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031719159571357696",
+            "3_2031719159558770688"
+          ]
+        },
+        "author_id": "1667549878824873987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031719168194826607",
+        "created_at": "2026-03-11T13:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031719168194826607"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "SSS",
+              "probability": 0.4697,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZHvjUcCdN",
+              "end": 40,
+              "expanded_url": "https://x.com/Cy41M/status/2031719168194826607/photo/1",
+              "media_key": "3_2031719159571357696",
+              "start": 17,
+              "url": "https://t.co/yZHvjUcCdN"
+            },
+            {
+              "display_url": "pic.x.com/yZHvjUcCdN",
+              "end": 40,
+              "expanded_url": "https://x.com/Cy41M/status/2031719168194826607/photo/1",
+              "media_key": "3_2031719159558770688",
+              "start": 17,
+              "url": "https://t.co/yZHvjUcCdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031719168194826607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "first two 14 SSS https://t.co/yZHvjUcCdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2987,
+          "following_count": 1353,
+          "like_count": 47549,
+          "listed_count": 7,
+          "media_count": 2142,
+          "tweet_count": 18201
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T15:11:05.000Z",
+        "description": "I play rhythm games, shitty idle games, RTS and various TCGs | @Notowowo moot | Check out @CH4RL077E_TCG because im going competitive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Notowowo"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "CH4RL077E_TCG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/27657112",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/27657112",
+                "start": 0,
+                "url": "https://t.co/WdYuE9sfAF"
+              }
+            ]
+          }
+        },
+        "id": "1667549878824873987",
+        "location": "Everywhere",
+        "name": "RεN🇲🇴(O2JAM vacation)",
+        "pinned_tweet_id": "2009610343237189840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031609987366289408/7PRP7fks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1293,
+          "like_count": 121490,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 5893
+        },
+        "url": "https://t.co/WdYuE9sfAF",
+        "username": "Cy41M",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1994778262048739783",
+    "created_at": "2025-11-29T14:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994778262048739783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/A5Tr41/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/A5Tr41/status/1994773486532006171",
+          "start": 8,
+          "url": "https://t.co/OGI5mYgVKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994778262048739783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994773486532006171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个脚好嫩想吃 https://t.co/OGI5mYgVKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994773478281805824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67b6ORbgAAcuGQ.jpg",
+        "width": 1606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1994778262048739783",
+        "created_at": "2025-11-29T14:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994778262048739783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A5Tr41/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/A5Tr41/status/1994773486532006171",
+              "start": 8,
+              "url": "https://t.co/OGI5mYgVKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994778262048739783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994773486532006171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个脚好嫩想吃 https://t.co/OGI5mYgVKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994773478281805824"
+          ]
+        },
+        "author_id": "1854224109011664896",
+        "conversation_id": "1994773486532006171",
+        "created_at": "2025-11-29T14:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994773486532006171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAqhI2J37K",
+              "end": 30,
+              "expanded_url": "https://x.com/A5Tr41/status/1994773486532006171/photo/1",
+              "media_key": "3_1994773478281805824",
+              "start": 7,
+              "url": "https://t.co/QAqhI2J37K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994773486532006171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网袜还是涩的 https://t.co/QAqhI2J37K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 1306,
+          "like_count": 44236,
+          "listed_count": 7,
+          "media_count": 1984,
+          "tweet_count": 16919
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "魔法なしの私でも 宇宙の電波キャッチできるかな",
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 72,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 2011
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

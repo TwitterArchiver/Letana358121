@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066177150890180609"
+      ],
+      "media_source_tweet_id": [
+        "2066177162680336561"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2066177656106987988",
+    "created_at": "2026-06-14T15:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066177656106987988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWISVmNTDb",
+          "end": 93,
+          "expanded_url": "https://x.com/10Lystra/status/2066177162680336561/photo/1",
+          "media_key": "3_2066177150890180609",
+          "start": 70,
+          "url": "https://t.co/vWISVmNTDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066177656106987988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066177162680336561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 我学不会摇尾乞怜\n即使是有最蚀骨剜心的的欲望\n也只是用血红的眼睛盯着你\n祈祷那颗从脸颊滚落的泪珠碰巧击中你的心 https://t.co/vWISVmNTDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2066177150890180609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyJK_HWgAEiUH6.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066177150890180609"
+          ],
+          "media_source_tweet_id": [
+            "2066177162680336561"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2066177656106987988",
+        "created_at": "2026-06-14T15:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066177656106987988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWISVmNTDb",
+              "end": 93,
+              "expanded_url": "https://x.com/10Lystra/status/2066177162680336561/photo/1",
+              "media_key": "3_2066177150890180609",
+              "start": 70,
+              "url": "https://t.co/vWISVmNTDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066177656106987988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066177162680336561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 我学不会摇尾乞怜\n即使是有最蚀骨剜心的的欲望\n也只是用血红的眼睛盯着你\n祈祷那颗从脸颊滚落的泪珠碰巧击中你的心 https://t.co/vWISVmNTDb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066177150890180609"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2066177162680336561",
+        "created_at": "2026-06-14T15:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066177162680336561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWISVmNTDb",
+              "end": 79,
+              "expanded_url": "https://x.com/10Lystra/status/2066177162680336561/photo/1",
+              "media_key": "3_2066177150890180609",
+              "start": 56,
+              "url": "https://t.co/vWISVmNTDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066177162680336561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我学不会摇尾乞怜\n即使是有最蚀骨剜心的的欲望\n也只是用血红的眼睛盯着你\n祈祷那颗从脸颊滚落的泪珠碰巧击中你的心 https://t.co/vWISVmNTDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3401,
+          "following_count": 1517,
+          "like_count": 57355,
+          "listed_count": 7,
+          "media_count": 2325,
+          "tweet_count": 20985
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1031,
+          "like_count": 2612,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 8661
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

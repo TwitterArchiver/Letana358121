@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1819595181827772894",
+    "created_at": "2024-08-03T05:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T06:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819600568111059303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Tokyu_Se7agaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819600568111059303",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819595181827772894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokyu_Se7agaya 。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1819595181827772894",
+        "created_at": "2024-08-03T05:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T06:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819600568111059303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Tokyu_Se7agaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819600568111059303",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819595181827772894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokyu_Se7agaya 。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819595168053710850"
+          ]
+        },
+        "author_id": "1688233455363219456",
+        "conversation_id": "1819595181827772894",
+        "created_at": "2024-08-03T04:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T05:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819595181827772894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4QQ9Tsvzsm",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Tokyu_Se7agaya/status/1819595181827772894/photo/1",
+              "media_key": "3_1819595168053710850",
+              "start": 6,
+              "url": "https://t.co/4QQ9Tsvzsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819595181827772894",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这俩谁 https://t.co/4QQ9Tsvzsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 832,
+          "like_count": 23381,
+          "listed_count": 2,
+          "tweet_count": 7712
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "👉👆👈👇☝️👈👆👇😵‍💫☝️👈👈👆👈👉👈☝️",
+        "id": "1688233455363219456",
+        "location": "宮の坂駅",
+        "name": "東急世田谷線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819419998227779591/XYJgDhA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 2047,
+          "like_count": 102179,
+          "listed_count": 12,
+          "tweet_count": 18845
+        },
+        "username": "Tokyu_Se7agaya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839354511674179705",
+    "created_at": "2024-09-27T03:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T04:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839514292917584103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TWshouzhuabing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839514292917584103",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839354511674179705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWshouzhuabing 你好好看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839354511674179705",
+        "created_at": "2024-09-27T03:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839514292917584103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TWshouzhuabing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839514292917584103",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839354511674179705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWshouzhuabing 你好好看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1839354511674179705",
+        "created_at": "2024-09-26T17:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T18:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839354511674179705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sanaka2142/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sanaka2142/status/1837862597586309367",
+              "start": 9,
+              "url": "https://t.co/xnnUF0ocxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839354511674179705",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837862597586309367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我这么丑。 https://t.co/xnnUF0ocxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 930,
+          "like_count": 28775,
+          "listed_count": 3,
+          "tweet_count": 9256
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "主播跑路了去賣雞蛋灌餅了",
+        "id": "1717903248764317696",
+        "location": "🫓",
+        "name": "雞蛋淡旦但灌餅",
+        "pinned_tweet_id": "1834172491675435265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839355097710727168/4RacINcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 293,
+          "like_count": 2305,
+          "listed_count": 0,
+          "tweet_count": 300
+        },
+        "username": "TWshouzhuabing",
+        "verified": false
+      }
+    ]
+  }
+}

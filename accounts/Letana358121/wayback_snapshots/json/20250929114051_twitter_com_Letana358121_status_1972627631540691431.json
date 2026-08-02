@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1972627631540691431",
+    "created_at": "2025-09-29T11:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972627631540691431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HanaSliver/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/HanaSliver/status/1972496810485993677",
+          "start": 6,
+          "url": "https://t.co/li6QMTXetP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972627631540691431",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972496810485993677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "omg。。 https://t.co/li6QMTXetP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1972496810485993677].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972496810485993677",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972496810485993677"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1972627631540691431",
+        "created_at": "2025-09-29T11:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972627631540691431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HanaSliver/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/HanaSliver/status/1972496810485993677",
+              "start": 6,
+              "url": "https://t.co/li6QMTXetP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972627631540691431",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972496810485993677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg。。 https://t.co/li6QMTXetP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 1246,
+          "like_count": 41889,
+          "listed_count": 8,
+          "media_count": 1870,
+          "tweet_count": 15817
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

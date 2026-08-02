@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2068540125995266387",
+    "created_at": "2026-06-21T13:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068691761757819235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 23,
+          "id": "1950548412140494848",
+          "start": 14,
+          "username": "QinYueLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691761757819235",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068691564755587454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @QinYueLe 羡慕被草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2068540125995266387",
+        "created_at": "2026-06-21T13:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691761757819235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 23,
+              "id": "1950548412140494848",
+              "start": 14,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691761757819235",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068691564755587454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @QinYueLe 羡慕被草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2068540125995266387",
+        "created_at": "2026-06-21T13:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691564755587454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 23,
+              "id": "1950548412140494848",
+              "start": 14,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691564755587454",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068678760141119739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @QinYueLe 粤猴不操能行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1537,
+          "like_count": 58352,
+          "listed_count": 7,
+          "media_count": 2342,
+          "tweet_count": 21217
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 3272,
+          "like_count": 7241,
+          "listed_count": 10,
+          "media_count": 631,
+          "tweet_count": 5315
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26841,
+          "following_count": 365,
+          "like_count": 2448,
+          "listed_count": 74,
+          "media_count": 1971,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

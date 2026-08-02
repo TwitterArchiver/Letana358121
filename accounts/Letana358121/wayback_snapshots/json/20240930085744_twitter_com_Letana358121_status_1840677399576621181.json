@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1840676494705655860",
+    "created_at": "2024-09-30T08:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T09:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840677399576621181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1727665885543034880",
+          "start": 0,
+          "username": "C1pher404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840677399576621181",
+    "in_reply_to_user_id": "1727665885543034880",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840677065332588959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C1pher404 （抱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1840676494705655860",
+        "created_at": "2024-09-30T08:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T09:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840677399576621181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727665885543034880",
+              "start": 0,
+              "username": "C1pher404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840677399576621181",
+        "in_reply_to_user_id": "1727665885543034880",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840677065332588959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C1pher404 （抱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727665885543034880",
+        "conversation_id": "1840676494705655860",
+        "created_at": "2024-09-30T08:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T09:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840677065332588959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840677065332588959",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840676494705655860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 唉摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 941,
+          "like_count": 29058,
+          "listed_count": 3,
+          "tweet_count": 9341
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T12:30:53.000Z",
+        "description": "Why are we still here? Just to suffer?",
+        "id": "1727665885543034880",
+        "location": "Central & Western District",
+        "name": "色彩を持たないサイファー、彼女の巡礼の年",
+        "pinned_tweet_id": "1831883785040007286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833084637989785600/Y5WOulec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 275,
+          "like_count": 23708,
+          "listed_count": 0,
+          "tweet_count": 2758
+        },
+        "username": "C1pher404",
+        "verified": false
+      }
+    ]
+  }
+}

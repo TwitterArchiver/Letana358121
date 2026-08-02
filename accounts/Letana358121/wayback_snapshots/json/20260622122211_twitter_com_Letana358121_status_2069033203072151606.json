@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2069032462727201078",
+    "created_at": "2026-06-22T12:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069033203072151606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006187054334619648",
+          "start": 0,
+          "username": "QwQb119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069033203072151606",
+    "in_reply_to_user_id": "2006187054334619648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069032462727201078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQb119 感觉缺营养，蛋白质多补充点多吃点鸡蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069032459875098624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLauD1-boAAb2Ro.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2069032462727201078",
+        "created_at": "2026-06-22T12:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069033203072151606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006187054334619648",
+              "start": 0,
+              "username": "QwQb119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033203072151606",
+        "in_reply_to_user_id": "2006187054334619648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069032462727201078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQb119 感觉缺营养，蛋白质多补充点多吃点鸡蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069032459875098624"
+          ]
+        },
+        "author_id": "2006187054334619648",
+        "conversation_id": "2069032462727201078",
+        "created_at": "2026-06-22T12:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069032462727201078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3VlZsTLEV",
+              "end": 36,
+              "expanded_url": "https://x.com/QwQb119/status/2069032462727201078/photo/1",
+              "media_key": "3_2069032459875098624",
+              "start": 13,
+              "url": "https://t.co/D3VlZsTLEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069032462727201078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "并非染发，这发质如何自救 https://t.co/D3VlZsTLEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 1542,
+          "like_count": 58510,
+          "listed_count": 7,
+          "media_count": 2348,
+          "tweet_count": 21263
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:14:16.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍\n@QAQ_xwx\n 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "2006187054334619648",
+        "location": "30樓的地下室",
+        "name": "Θώθ!!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206865307578368/zceldKFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 164,
+          "like_count": 6649,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "QwQb119",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1833022463485067337",
+    "created_at": "2024-09-09T06:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T07:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833023970947502095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TruePuppyL0ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833023970947502095",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833022463485067337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruePuppyL0ve 可以给我看吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1833022463485067337",
+        "created_at": "2024-09-09T06:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T07:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833023970947502095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TruePuppyL0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833023970947502095",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833022463485067337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruePuppyL0ve 可以给我看吗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833022456090787840"
+          ]
+        },
+        "author_id": "1717903248764317696",
+        "conversation_id": "1833022463485067337",
+        "created_at": "2024-09-09T05:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T06:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833022463485067337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4arbq706gk",
+              "end": 26,
+              "expanded_url": "https://twitter.com/TruePuppyL0ve/status/1833022463485067337/photo/1",
+              "media_key": "3_1833022456090787840",
+              "start": 3,
+              "url": "https://t.co/4Arbq706gk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833022463485067337",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "制裁 https://t.co/4Arbq706gk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 897,
+          "like_count": 27904,
+          "listed_count": 3,
+          "tweet_count": 8810
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "死掉的願望都變成星星、匯聚在銀河、我們會在一起@mukusuzu_miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "mukusuzu_miku"
+              }
+            ]
+          }
+        },
+        "id": "1717903248764317696",
+        "location": "🌌",
+        "name": "20% 🍭+30%🐶+50%❤️=100%🌟",
+        "pinned_tweet_id": "1832081100639998058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832474164332261376/bQndELEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 291,
+          "like_count": 2189,
+          "listed_count": 0,
+          "tweet_count": 74
+        },
+        "username": "TruePuppyL0ve",
+        "verified": false
+      }
+    ]
+  }
+}

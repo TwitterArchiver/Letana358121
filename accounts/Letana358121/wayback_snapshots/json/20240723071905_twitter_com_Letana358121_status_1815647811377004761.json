@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1815360368828637259",
+    "created_at": "2024-07-23T07:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T08:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815647811377004761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815647811377004761",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815360368828637259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi 跟我差不多快😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1815360368828637259",
+        "created_at": "2024-07-23T07:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T08:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815647811377004761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815647811377004761",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815360368828637259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi 跟我差不多快😎"
+      },
+      {
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "1815360368828637259",
+        "created_at": "2024-07-22T12:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T13:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815360368828637259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengguyi/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mengguyi/status/1815307506656370752",
+              "start": 20,
+              "url": "https://t.co/jfPkSz7NSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815360368828637259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7648,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815307506656370752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不懂就问，首诊三分钟下大证属于什么水平 https://t.co/jfPkSz7NSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 816,
+          "like_count": 22624,
+          "listed_count": 2,
+          "tweet_count": 7338
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的Golang开发者｜19 y.o.｜个人TG: https://t.co/sId7D2qEtH | GitHub: https://t.co/H0qW1rtPXv |  可也以叫我安然或者孟安然 | MTF🏳️‍⚧️ | Nya!\n若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 98,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 75,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "pinned_tweet_id": "1743624126181650775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 969,
+          "like_count": 32494,
+          "listed_count": 5,
+          "tweet_count": 3052
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": true
+      }
+    ]
+  }
+}

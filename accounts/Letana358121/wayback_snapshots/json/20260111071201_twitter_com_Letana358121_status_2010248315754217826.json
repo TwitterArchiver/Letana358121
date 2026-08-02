@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2010236916143427688",
+    "created_at": "2026-01-11T07:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010248315754217826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010248315754217826",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010239439386403169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 这个镜子是那种贴上去的，二十来块吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2010236916143427688",
+        "created_at": "2026-01-11T07:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010248315754217826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010248315754217826",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010239439386403169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 这个镜子是那种贴上去的，二十来块吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2010236916143427688",
+        "created_at": "2026-01-11T06:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010239439386403169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010239439386403169",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010236916143427688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 今天也可可愛愛\n那個鏡子大概要多少錢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "生まれてごめんねと，\n口走りそうになるから.\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 1337,
+          "like_count": 45907,
+          "listed_count": 7,
+          "media_count": 2059,
+          "tweet_count": 17585
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2007498195707015530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007427830200901632/hEY_dCx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 115,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 109
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

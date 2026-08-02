@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935697359381405696"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1935697362326044689",
+    "created_at": "2025-06-19T13:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935697362326044689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6e9HhcJad",
+          "end": 56,
+          "expanded_url": "https://x.com/Letana358121/status/1935697362326044689/photo/1",
+          "media_key": "3_1935697359381405696",
+          "start": 33,
+          "url": "https://t.co/E6e9HhcJad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935697362326044689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天的预告\n\n我现在一天一台hg感觉财力要跟不上了给孩子打点米吧 https://t.co/E6e9HhcJad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935697359381405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz6fhqXIAALI6k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935697359381405696"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1935697362326044689",
+        "created_at": "2025-06-19T13:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935697362326044689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6e9HhcJad",
+              "end": 56,
+              "expanded_url": "https://x.com/Letana358121/status/1935697362326044689/photo/1",
+              "media_key": "3_1935697359381405696",
+              "start": 33,
+              "url": "https://t.co/E6e9HhcJad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935697362326044689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天的预告\n\n我现在一天一台hg感觉财力要跟不上了给孩子打点米吧 https://t.co/E6e9HhcJad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 1182,
+          "like_count": 40458,
+          "listed_count": 5,
+          "media_count": 1720,
+          "tweet_count": 14899
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

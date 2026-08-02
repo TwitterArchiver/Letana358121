@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2052311062465401083",
+    "created_at": "2026-05-07T10:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329644364648613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768185082307862528",
+          "start": 0,
+          "username": "xiaogozz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329644364648613",
+    "in_reply_to_user_id": "1768185082307862528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052326923611918662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogozz 实际上就是大家先在现实生活里被资本压迫然后到互联网上把自己的负面情绪当成屎排泄出去😌😌😌互联网其实就是一个巨大的厕所"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2052311062465401083",
+        "created_at": "2026-05-07T10:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329644364648613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768185082307862528",
+              "start": 0,
+              "username": "xiaogozz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329644364648613",
+        "in_reply_to_user_id": "1768185082307862528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052326923611918662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogozz 实际上就是大家先在现实生活里被资本压迫然后到互联网上把自己的负面情绪当成屎排泄出去😌😌😌互联网其实就是一个巨大的厕所"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768185082307862528",
+        "conversation_id": "2052311062465401083",
+        "created_at": "2026-05-07T09:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052326923611918662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052326923611918662",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052311062465401083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 现实戾气，压力太大无从发泄，而且本身素质，受教育程度就普遍不高。网络监管又宽松，甚至没有什么违规成本还相对自由，理所应当成了发泄的地方🗑️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 1441,
+          "like_count": 52826,
+          "listed_count": 8,
+          "media_count": 2270,
+          "tweet_count": 19823
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T07:59:16.000Z",
+        "description": "黑羽呆猫/一只旅游的猫咪                                                                                                         \n另一半@Kraehe_YukI     阿p @Uturo_Bune",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Kraehe_YukI"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "Uturo_Bune"
+              }
+            ]
+          }
+        },
+        "id": "1768185082307862528",
+        "location": "交给我吧，什么都可以交给我",
+        "name": "猫猫牌小鸟烤袜袜🧦(洗头一直洗不掉洗发液)",
+        "pinned_tweet_id": "2048960821380956415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051512282342187008/POaASoP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 34,
+          "like_count": 1371,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1095
+        },
+        "username": "xiaogozz",
+        "verified": false
+      }
+    ]
+  }
+}

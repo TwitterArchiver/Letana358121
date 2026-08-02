@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1977649315029139732",
+    "created_at": "2025-10-14T06:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977984178026402197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1624624686083764225",
+          "start": 0,
+          "username": "08cn1"
+        },
+        {
+          "end": 16,
+          "id": "1026482173300236288",
+          "start": 7,
+          "username": "OwOb_QAQ"
+        },
+        {
+          "end": 33,
+          "id": "987423674",
+          "start": 17,
+          "username": "Michelle_Donahe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977984178026402197",
+    "in_reply_to_user_id": "1624624686083764225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977897847497580782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@08cn1 @OwOb_QAQ @Michelle_Donahe 妈呀你真好笑，，别人就是摄影的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1977649315029139732",
+        "created_at": "2025-10-14T06:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977984178026402197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1624624686083764225",
+              "start": 0,
+              "username": "08cn1"
+            },
+            {
+              "end": 16,
+              "id": "1026482173300236288",
+              "start": 7,
+              "username": "OwOb_QAQ"
+            },
+            {
+              "end": 33,
+              "id": "987423674",
+              "start": 17,
+              "username": "Michelle_Donahe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977984178026402197",
+        "in_reply_to_user_id": "1624624686083764225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977897847497580782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@08cn1 @OwOb_QAQ @Michelle_Donahe 妈呀你真好笑，，别人就是摄影的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624624686083764225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "1977649315029139732",
+        "created_at": "2025-10-14T00:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T01:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977897847497580782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            },
+            {
+              "end": 26,
+              "id": "987423674",
+              "start": 10,
+              "username": "Michelle_Donahe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977897847497580782",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977761036552786144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ @Michelle_Donahe 哥们儿你挺好笑的，我发图一没说自己没开美颜二没打原相机tag，你小腿毛硬说我流海透明用了换脸或者“后期大量加工”，说实在话你俩原相机直出跟我原相机直出比依然是丑人。\n另外纠正一下，用的不是头发柔顺，是oppo原相机出图加了个醒图高清🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 1264,
+          "like_count": 42342,
+          "listed_count": 8,
+          "media_count": 1900,
+          "tweet_count": 16077
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T04:22:10.000Z",
+        "description": "168cm，60kg/双性恋男娘0.5/不搞高p，拒绝万年挡脸/03年 现居成都/日子人/fo≠endorsement/宠物：@xiaolinainiaini/微信号：_19cn08_2003，好友位88CNY，拒绝非绿线下也并无福利，不看推特私信，zn私信先过门否则拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "xiaolinainiaini"
+              }
+            ]
+          }
+        },
+        "id": "1624624686083764225",
+        "location": "四川成都",
+        "name": "优爱吃不饱",
+        "pinned_tweet_id": "1959204916817535317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879516094412816384/hEO-bqVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20746,
+          "following_count": 428,
+          "like_count": 2627,
+          "listed_count": 109,
+          "media_count": 207,
+          "tweet_count": 615
+        },
+        "username": "08cn1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "location": "30樓的地下室",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 640,
+          "like_count": 31678,
+          "listed_count": 4,
+          "media_count": 1125,
+          "tweet_count": 10132
+        },
+        "username": "OwOb_QAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-03T21:03:00.000Z",
+        "description": "我是罐罐 语言有障碍我说错话了我可以给你们道歉 请不要攻击我o(╥﹏╥)o",
+        "id": "987423674",
+        "location": "我只玩Twitter与Tiktok没有国内账号",
+        "name": "罐罐",
+        "pinned_tweet_id": "1975387806005666219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975382850452267008/Jy73FObC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 249,
+          "like_count": 13,
+          "listed_count": 81,
+          "media_count": 20,
+          "tweet_count": 75
+        },
+        "username": "Michelle_Donahe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1829392357898277302",
+    "created_at": "2024-08-30T05:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T06:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829392947391103170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673336380552871936",
+          "start": 0,
+          "username": "notcuteshark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829392947391103170",
+    "in_reply_to_user_id": "1673336380552871936",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829392894924611945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notcuteshark 😎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1829392894924611945].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1829392894924611945",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1829392894924611945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1829392357898277302",
+        "created_at": "2024-08-30T05:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T06:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829392947391103170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673336380552871936",
+              "start": 0,
+              "username": "notcuteshark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829392947391103170",
+        "in_reply_to_user_id": "1673336380552871936",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829392894924611945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notcuteshark 😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 881,
+          "like_count": 27214,
+          "listed_count": 3,
+          "tweet_count": 8464
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T14:24:50.000Z",
+        "description": "",
+        "id": "1673336380552871936",
+        "name": "鯊魚不可愛🦈✨",
+        "pinned_tweet_id": "1804414043224182862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821925619963457540/Doeo0sJg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1223,
+          "like_count": 13528,
+          "listed_count": 5,
+          "tweet_count": 3007
+        },
+        "username": "notcuteshark",
+        "verified": false
+      }
+    ]
+  }
+}

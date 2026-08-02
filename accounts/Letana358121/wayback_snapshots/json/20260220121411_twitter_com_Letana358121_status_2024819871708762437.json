@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2024764318496264584",
+    "created_at": "2026-02-20T12:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024819871708762437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "AnranbuSleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024819871708762437",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024818511982530565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnranbuSleep 端盒抽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2024764318496264584",
+        "created_at": "2026-02-20T12:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024819871708762437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "AnranbuSleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024819871708762437",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024818511982530565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnranbuSleep 端盒抽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "2024764318496264584",
+        "created_at": "2026-02-20T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024818511982530565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024818511982530565",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024764318496264584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 在哪弄的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 1341,
+          "like_count": 46636,
+          "listed_count": 7,
+          "media_count": 2110,
+          "tweet_count": 17916
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "My Sunshine @mishamimihemumu My Luna @datadelete_4444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "datadelete_4444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCJyWJ"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "远去的天堂，再也不见",
+        "name": "Luna_安然🏳️‍⚧️",
+        "pinned_tweet_id": "1986019257440964920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021846465417818112/79NWA4eF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 80,
+          "like_count": 5371,
+          "listed_count": 6,
+          "media_count": 547,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/A4ANhCJyWJ",
+        "username": "AnranbuSleep",
+        "verified": false
+      }
+    ]
+  }
+}

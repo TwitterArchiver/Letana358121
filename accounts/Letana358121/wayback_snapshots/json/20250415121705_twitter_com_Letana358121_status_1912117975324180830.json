@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1912117102112292930",
+    "created_at": "2025-04-15T12:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T13:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912117975324180830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1258676077922156544",
+          "start": 0,
+          "username": "Arihara_Nanamix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912117975324180830",
+    "in_reply_to_user_id": "1258676077922156544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912117102112292930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arihara_Nanamix 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912117092960063488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gok0XX7WUAA455P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1912117093018804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gok0XYJWoAABZcR.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1912117102112292930",
+        "created_at": "2025-04-15T12:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912117975324180830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1258676077922156544",
+              "start": 0,
+              "username": "Arihara_Nanamix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912117975324180830",
+        "in_reply_to_user_id": "1258676077922156544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912117102112292930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arihara_Nanamix 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912117092960063488",
+            "3_1912117093018804224"
+          ]
+        },
+        "author_id": "1258676077922156544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912117102112292930",
+        "created_at": "2025-04-15T12:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912117102112292930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/apKTLzwuVs",
+              "end": 52,
+              "expanded_url": "https://x.com/Arihara_Nanamix/status/1912117102112292930/photo/1",
+              "media_key": "3_1912117092960063488",
+              "start": 29,
+              "url": "https://t.co/apKTLzwuVs"
+            },
+            {
+              "display_url": "pic.x.com/apKTLzwuVs",
+              "end": 52,
+              "expanded_url": "https://x.com/Arihara_Nanamix/status/1912117102112292930/photo/1",
+              "media_key": "3_1912117093018804224",
+              "start": 29,
+              "url": "https://t.co/apKTLzwuVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912117102112292930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "No routine ✩5.5‼️‼️‼️‼️\n海外#3 https://t.co/apKTLzwuVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 1143,
+          "like_count": 38332,
+          "listed_count": 5,
+          "media_count": 1555,
+          "tweet_count": 13669
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-08T08:32:24.000Z",
+        "description": "23歳のシンガポール人｜英語/中国語ok｜日本語勉強中｜2神8舞舞",
+        "id": "1258676077922156544",
+        "name": "在原ナナミ@5/29-6/16北京+上海",
+        "pinned_tweet_id": "1895684193780424970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873531074682478592/8zBnTLEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 552,
+          "like_count": 2550,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1227
+        },
+        "username": "Arihara_Nanamix",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1915621664563618300",
+    "created_at": "2025-04-25T04:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T05:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915622546969682291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915622546969682291",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915621664563618300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 我喜欢你！好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10943,
+        "height": 1280,
+        "media_key": "7_1915621196466724864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915621196466724864/pu/img/arIO0Z-bQ0o0qL4_.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915621196466724864/pu/vid/avc1/320x568/W-Bg_DYnpzDaZFzB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915621196466724864/pu/vid/avc1/480x852/rJOIgqTjSTrmTTEu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915621196466724864/pu/vid/avc1/720x1280/3EaYLmHoMZQwr24D.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915621196466724864/pu/pl/fFOzB9uTqqfP1J45.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915621197456478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpWnVGaaEAAUmV5.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1915621664563618300",
+        "created_at": "2025-04-25T04:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915622546969682291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915622546969682291",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915621664563618300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 我喜欢你！好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915621196466724864",
+            "3_1915621197456478208"
+          ]
+        },
+        "author_id": "1026482173300236288",
+        "conversation_id": "1915621664563618300",
+        "created_at": "2025-04-25T04:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915621664563618300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3wd1gYy7F",
+              "end": 46,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1915621664563618300/video/1",
+              "media_key": "7_1915621196466724864",
+              "start": 23,
+              "url": "https://t.co/p3wd1gYy7F"
+            },
+            {
+              "display_url": "pic.x.com/p3wd1gYy7F",
+              "end": 46,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1915621664563618300/video/1",
+              "media_key": "3_1915621197456478208",
+              "start": 23,
+              "url": "https://t.co/p3wd1gYy7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915621664563618300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔😱！喔😱！踢🦵！弟😤！（不小心拍到後面了😭 https://t.co/p3wd1gYy7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1149,
+          "like_count": 38269,
+          "listed_count": 5,
+          "media_count": 1585,
+          "tweet_count": 13961
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 636,
+          "like_count": 29672,
+          "listed_count": 3,
+          "media_count": 967,
+          "tweet_count": 8793
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

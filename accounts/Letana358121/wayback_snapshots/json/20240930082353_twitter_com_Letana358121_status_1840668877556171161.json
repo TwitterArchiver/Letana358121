@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1840635664414408733",
+    "created_at": "2024-09-30T08:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T09:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840668877556171161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "LinNai19890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840668877556171161",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840635664414408733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinNai19890604 吃点色谱龙吧姐别和我朋友一样现在一冲就肾疼🥺🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840635664414408733].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840635664414408733",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840635664414408733"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1840635664414408733",
+        "created_at": "2024-09-30T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840668877556171161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "LinNai19890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840668877556171161",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840635664414408733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinNai19890604 吃点色谱龙吧姐别和我朋友一样现在一冲就肾疼🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 941,
+          "like_count": 29036,
+          "listed_count": 3,
+          "tweet_count": 9335
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "😺日常生活号\n\n😿新朋友请优先移步大号，陌生人不过",
+        "id": "1800825433979797504",
+        "name": "冫马王木木奈🇨🇳",
+        "pinned_tweet_id": "1838485408914829775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809394720420040704/0GHGwqtu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 101,
+          "like_count": 8967,
+          "listed_count": 0,
+          "tweet_count": 2272
+        },
+        "username": "LinNai19890604",
+        "verified": false
+      }
+    ]
+  }
+}

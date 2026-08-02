@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023264497159606272",
+        "13_2023264497235120128"
+      ],
+      "media_source_tweet_id": [
+        "2023264594509308230",
+        "2023264594509308230"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023268000044847175",
+    "created_at": "2026-02-16T05:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023268000044847175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ab9bWgWSpg",
+          "end": 62,
+          "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+          "media_key": "3_2023264497159606272",
+          "start": 39,
+          "url": "https://t.co/Ab9bWgWSpg"
+        },
+        {
+          "display_url": "pic.x.com/Ab9bWgWSpg",
+          "end": 62,
+          "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+          "media_key": "13_2023264497235120128",
+          "start": 39,
+          "url": "https://t.co/Ab9bWgWSpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023268000044847175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023264594509308230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: Our Wrenally 理论值\n紫神确认 https://t.co/Ab9bWgWSpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023264497159606272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQUVyfbkAAnoRR.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 37593,
+        "height": 1280,
+        "media_key": "13_2023264497235120128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023264497235120128/img/Eqev8FOnZgIefkZa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023264497235120128/vid/avc1/320x568/hEmb_KQOh5APsYJf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023264497235120128/vid/avc1/480x852/eyh27AbdpuRzP8aQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023264497235120128/vid/avc1/720x1280/_I_or6a8mOz4gSuE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023264497235120128/pl/LK-VPD1SMqDLme8U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023264497159606272",
+            "13_2023264497235120128"
+          ],
+          "media_source_tweet_id": [
+            "2023264594509308230",
+            "2023264594509308230"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023268000044847175",
+        "created_at": "2026-02-16T05:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023268000044847175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab9bWgWSpg",
+              "end": 62,
+              "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+              "media_key": "3_2023264497159606272",
+              "start": 39,
+              "url": "https://t.co/Ab9bWgWSpg"
+            },
+            {
+              "display_url": "pic.x.com/Ab9bWgWSpg",
+              "end": 62,
+              "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+              "media_key": "13_2023264497235120128",
+              "start": 39,
+              "url": "https://t.co/Ab9bWgWSpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023268000044847175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023264594509308230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: Our Wrenally 理论值\n紫神确认 https://t.co/Ab9bWgWSpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023264497159606272",
+            "13_2023264497235120128"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023264594509308230",
+        "created_at": "2026-02-16T05:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023264594509308230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab9bWgWSpg",
+              "end": 45,
+              "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+              "media_key": "3_2023264497159606272",
+              "start": 22,
+              "url": "https://t.co/Ab9bWgWSpg"
+            },
+            {
+              "display_url": "pic.x.com/Ab9bWgWSpg",
+              "end": 45,
+              "expanded_url": "https://x.com/Yao_freezer/status/2023264594509308230/video/1",
+              "media_key": "13_2023264497235120128",
+              "start": 22,
+              "url": "https://t.co/Ab9bWgWSpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023264594509308230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Our Wrenally 理论值\n紫神确认 https://t.co/Ab9bWgWSpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 1342,
+          "like_count": 46485,
+          "listed_count": 7,
+          "media_count": 2103,
+          "tweet_count": 17889
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 612,
+          "like_count": 58415,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 5911
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

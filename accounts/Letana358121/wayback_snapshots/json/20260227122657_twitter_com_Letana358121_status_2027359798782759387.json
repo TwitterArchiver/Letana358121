@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027344343607152640"
+      ],
+      "media_source_tweet_id": [
+        "2027344347516317879"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1486384919177695232",
+          "name": "Ailing Eileen Gu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1486384919177695232",
+          "name": "Ailing Eileen Gu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486384919177695232",
+          "name": "Ailing Eileen Gu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2027359798782759387",
+    "created_at": "2026-02-27T12:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027359798782759387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913946244764098560",
+          "start": 3,
+          "username": "Tibmal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qa05Dcd8vA",
+          "end": 92,
+          "expanded_url": "https://x.com/Tibmal/status/2027344347516317879/photo/1",
+          "media_key": "3_2027344343607152640",
+          "start": 69,
+          "url": "https://t.co/Qa05Dcd8vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027359798782759387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027344347516317879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tibmal: 美右bro终于真情实意直抒胸臆了，原来他们喜欢刘美贤不惜造谣她是MAGA是因为她看起来像是incel能追到的女生 https://t.co/Qa05Dcd8vA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2027344343607152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKS8G4aEAAxHaR.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027344343607152640"
+          ],
+          "media_source_tweet_id": [
+            "2027344347516317879"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2027359798782759387",
+        "created_at": "2026-02-27T12:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027359798782759387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913946244764098560",
+              "start": 3,
+              "username": "Tibmal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa05Dcd8vA",
+              "end": 92,
+              "expanded_url": "https://x.com/Tibmal/status/2027344347516317879/photo/1",
+              "media_key": "3_2027344343607152640",
+              "start": 69,
+              "url": "https://t.co/Qa05Dcd8vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027359798782759387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027344347516317879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tibmal: 美右bro终于真情实意直抒胸臆了，原来他们喜欢刘美贤不惜造谣她是MAGA是因为她看起来像是incel能追到的女生 https://t.co/Qa05Dcd8vA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027344343607152640"
+          ]
+        },
+        "author_id": "1913946244764098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486384919177695232",
+              "name": "Ailing Eileen Gu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2027344347516317879",
+        "created_at": "2026-02-27T11:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027344347516317879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa05Dcd8vA",
+              "end": 80,
+              "expanded_url": "https://x.com/Tibmal/status/2027344347516317879/photo/1",
+              "media_key": "3_2027344343607152640",
+              "start": 57,
+              "url": "https://t.co/Qa05Dcd8vA"
+            },
+            {
+              "display_url": "x.com/TheMuppetPasto…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/TheMuppetPastor/status/2026378120782377394",
+              "start": 81,
+              "url": "https://t.co/hdOrEvEuhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344347516317879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 171,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026378120782377394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美右bro终于真情实意直抒胸臆了，原来他们喜欢刘美贤不惜造谣她是MAGA是因为她看起来像是incel能追到的女生 https://t.co/Qa05Dcd8vA https://t.co/hdOrEvEuhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1344,
+          "like_count": 46952,
+          "listed_count": 7,
+          "media_count": 2123,
+          "tweet_count": 18008
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:22:05.000Z",
+        "description": "solo el socialismo",
+        "id": "1913946244764098560",
+        "name": "Tibmal",
+        "pinned_tweet_id": "1913949199156330527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970775817480474624/iSQcUbY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 60,
+          "like_count": 670,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 2101
+        },
+        "username": "Tibmal",
+        "verified": false
+      }
+    ]
+  }
+}

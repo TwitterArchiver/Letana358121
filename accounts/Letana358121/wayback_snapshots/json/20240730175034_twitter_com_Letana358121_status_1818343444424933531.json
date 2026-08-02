@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1818343444424933531",
+    "created_at": "2024-07-30T17:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T18:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818343444424933531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1718487928727580672",
+          "start": 3,
+          "username": "kiai_sakusaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818343444424933531",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818329065331560530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiai_sakusaku: 刷推刷太久就会觉得这个世界好绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1818343444424933531",
+        "created_at": "2024-07-30T17:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T18:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818343444424933531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1718487928727580672",
+              "start": 3,
+              "username": "kiai_sakusaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818343444424933531",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818329065331560530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiai_sakusaku: 刷推刷太久就会觉得这个世界好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718487928727580672",
+        "conversation_id": "1818329065331560530",
+        "created_at": "2024-07-30T16:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T17:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818329065331560530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818329065331560530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷推刷太久就会觉得这个世界好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816864107276181504/PoltIXYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 826,
+          "like_count": 23077,
+          "listed_count": 2,
+          "tweet_count": 7596
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T04:40:36.000Z",
+        "description": "完全割裂精神不安定女子網上療癒賬號、喜歡畫畫打遊戲上網碎碎念拍照片的網癮患者 ___ その他：絵画/音遊/ゲーム開発/病み垢、永遠の20歳（嘘）",
+        "id": "1718487928727580672",
+        "location": "AI生成禁止/粉红禁止",
+        "name": "姬愛𝓚𝖎𝓐𝖎︎♥",
+        "pinned_tweet_id": "1725783629442462197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792261702534471680/LHxqtaDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 81,
+          "like_count": 2074,
+          "listed_count": 0,
+          "tweet_count": 852
+        },
+        "username": "kiai_sakusaku",
+        "verified": false
+      }
+    ]
+  }
+}

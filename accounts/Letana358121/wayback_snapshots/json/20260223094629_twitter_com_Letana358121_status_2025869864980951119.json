@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2025859094641610786",
+    "created_at": "2026-02-23T09:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025869864980951119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025869864980951119",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025861028395761767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 沈阳有。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025861028395761767].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025861028395761767",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025861028395761767"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2025859094641610786",
+        "created_at": "2026-02-23T09:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025869864980951119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025869864980951119",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025861028395761767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 沈阳有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 1343,
+          "like_count": 46781,
+          "listed_count": 7,
+          "media_count": 2115,
+          "tweet_count": 17958
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢\n\n@zhu6hua\n\n波兰立陶宛联合王国酒蒙子🦅📢⚔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster ",
+        "name": "江上 清風遊⚔️🩸🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015847344118407168/fmnItDSy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1239,
+          "like_count": 114704,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1476
+        },
+        "username": "genya1976",
+        "verified": false
+      }
+    ]
+  }
+}

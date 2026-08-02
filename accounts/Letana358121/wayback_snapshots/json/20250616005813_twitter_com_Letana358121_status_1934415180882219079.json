@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1934321213918376157",
+    "created_at": "2025-06-16T00:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T01:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934415180882219079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        },
+        {
+          "end": 32,
+          "id": "1841801152381558784",
+          "start": 17,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934415180882219079",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934321213918376157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure @Amemiya_Hasumi 吃饭！走！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1934321213918376157",
+        "created_at": "2025-06-16T00:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T01:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934415180882219079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 32,
+              "id": "1841801152381558784",
+              "start": 17,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934415180882219079",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934321213918376157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure @Amemiya_Hasumi 吃饭！走！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1934321213918376157",
+        "created_at": "2025-06-15T18:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T19:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934321213918376157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1669543422586421248",
+              "start": 5,
+              "username": "Letana358121"
+            },
+            {
+              "end": 35,
+              "id": "1841801152381558784",
+              "start": 20,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934321213918376157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次旅行在@Letana358121 和@Amemiya_Hasumi 的带领下\n\n我已经吃胖到59.8kg了。。\n\n好饱啊呜呜你们都是很好很好的人。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1181,
+          "like_count": 40293,
+          "listed_count": 5,
+          "media_count": 1709,
+          "tweet_count": 14828
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "喜多郁代同志 🏳️‍🌈非二元MtX/Hrt24.4.20/纯乐子人/2008年地球online牢玩家/重庆/CS2主队@LynnVision_ 致敬@C4LLM3SUE /maimaiでらっくす/又名归去来兮女士 /曾列席特朗普马斯克对谈会 /买雌二醇找后藤 @minokakay/对象@juhao0721山田凉❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "LynnVision_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "C4LLM3SUE"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "minokakay"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 1088,
+          "like_count": 27195,
+          "listed_count": 8,
+          "media_count": 1895,
+          "tweet_count": 14653
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "Coser，直男，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n团长@Ryo_Suzumiya 前卫@vanofthess 小加@Plus_NGC1333 小绿@lamte15072 老金@KiminTW_Offical\n往期照片请见亮点，禁敏感政治/No Politics。\n↓更多介绍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Ryo_Suzumiya"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "vanofthess"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Plus_NGC1333"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "lamte15072"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "KiminTW_Offical"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 2346,
+          "like_count": 38335,
+          "listed_count": 8,
+          "media_count": 1205,
+          "tweet_count": 8758
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

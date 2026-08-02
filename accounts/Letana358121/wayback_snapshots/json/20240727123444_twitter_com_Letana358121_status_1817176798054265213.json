@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1816532675185811774",
+    "created_at": "2024-07-27T12:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T13:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817176798054265213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502180549057646594",
+          "start": 0,
+          "username": "Yang2138W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817176798054265213",
+    "in_reply_to_user_id": "1502180549057646594",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817165778153865341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang2138W 妈妈生的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1816532675185811774",
+        "created_at": "2024-07-27T12:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T13:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817176798054265213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502180549057646594",
+              "start": 0,
+              "username": "Yang2138W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817176798054265213",
+        "in_reply_to_user_id": "1502180549057646594",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817165778153865341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang2138W 妈妈生的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502180549057646594",
+        "conversation_id": "1816532675185811774",
+        "created_at": "2024-07-27T11:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T12:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817165778153865341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817165778153865341",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816532675185811774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 鬼迷日眼？朋友，你是哪个省的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816864107276181504/PoltIXYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 826,
+          "like_count": 22925,
+          "listed_count": 2,
+          "tweet_count": 7490
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T07:12:14.000Z",
+        "description": "男/四川/19/Just Monika /加我好友，陪你玩游戏，主打陪伴。游戏的最高配置就是朋友☝️🤓  我才不会告诉你我是来找游戏搭子的☝️🤓         \n🛰️：JustMonikaDokiMonika🐧：2138906454",
+        "id": "1502180549057646594",
+        "location": "文学部教室",
+        "name": "Just Monika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707412671170322432/QE-bqd1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 194,
+          "like_count": 5642,
+          "listed_count": 0,
+          "tweet_count": 1174
+        },
+        "username": "Yang2138W",
+        "verified": false
+      }
+    ]
+  }
+}

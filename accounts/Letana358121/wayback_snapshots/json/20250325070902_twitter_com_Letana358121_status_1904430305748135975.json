@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1904428494094061897",
+    "created_at": "2025-03-25T07:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T08:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904430305748135975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Asiya_Tukimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904430305748135975",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904428494094061897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asiya_Tukimi 教我搞学术"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904428494094061897].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904428494094061897",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904428494094061897"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1904428494094061897",
+        "created_at": "2025-03-25T07:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904430305748135975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Asiya_Tukimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904430305748135975",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904428494094061897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asiya_Tukimi 教我搞学术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 1127,
+          "like_count": 36440,
+          "listed_count": 5,
+          "media_count": 1507,
+          "tweet_count": 13032
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "生活如此糟糕，从未出生更好，谁人如此幸运，万里不能择一｜糖糖@YukiYukiAmeAme｜妹妹@suwanzi2333｜白月光@Engelsu0621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "YukiYukiAmeAme"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Engelsu0621"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889283964969578496/EgKXjhpB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 258,
+          "like_count": 32616,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 7044
+        },
+        "username": "Asiya_Tukimi",
+        "verified": false
+      }
+    ]
+  }
+}

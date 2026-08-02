@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1980534208843116998",
+    "created_at": "2025-10-21T10:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T11:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980589615460544555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418328991493070850",
+          "start": 0,
+          "username": "Strelexia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980589615460544555",
+    "in_reply_to_user_id": "1418328991493070850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980583956363047411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strelexia 有点弱。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1980534208843116998",
+        "created_at": "2025-10-21T10:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980589615460544555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418328991493070850",
+              "start": 0,
+              "username": "Strelexia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980589615460544555",
+        "in_reply_to_user_id": "1418328991493070850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980583956363047411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strelexia 有点弱。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418328991493070850",
+        "conversation_id": "1980534208843116998",
+        "created_at": "2025-10-21T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980583956363047411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980583956363047411",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980534208843116998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 这个有点强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1275,
+          "like_count": 42627,
+          "listed_count": 8,
+          "media_count": 1912,
+          "tweet_count": 16230
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "Anything is what you wish.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ae",
+                "end": 23,
+                "expanded_url": "http://neko.ae",
+                "start": 0,
+                "url": "https://t.co/ohr6JnRF0k"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "location": "United Arab Emirates",
+        "name": "枫糖天子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915773750131527680/9G5IQGmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1486,
+          "like_count": 31895,
+          "listed_count": 11,
+          "media_count": 955,
+          "tweet_count": 7626
+        },
+        "url": "https://t.co/ohr6JnRF0k",
+        "username": "Strelexia",
+        "verified": true
+      }
+    ]
+  }
+}

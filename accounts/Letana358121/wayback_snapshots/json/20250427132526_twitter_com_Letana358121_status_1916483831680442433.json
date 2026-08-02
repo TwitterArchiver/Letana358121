@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1916483831680442433",
+    "created_at": "2025-04-27T13:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T14:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916483831680442433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Valen_maimai/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Valen_maimai/status/1915794843043004898",
+          "start": 13,
+          "url": "https://t.co/YTqfOIETjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916483831680442433",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915794843043004898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer https://t.co/YTqfOIETjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43104,
+        "height": 1280,
+        "media_key": "13_1915794750302720000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915794750302720000/img/k-5T88k3VUQLiQv9.jpg",
+        "public_metrics": {
+          "view_count": 9196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915794750302720000/vid/avc1/320x568/2cZ09pPXtIh6cag1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915794750302720000/vid/avc1/480x852/JLRdjuHQ-zCOps_Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915794750302720000/vid/avc1/720x1280/hcg520jyiPrjvWY6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915794750302720000/pl/IXR-VI49CSWKHTOJ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1916483831680442433",
+        "created_at": "2025-04-27T13:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916483831680442433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Valen_maimai/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Valen_maimai/status/1915794843043004898",
+              "start": 13,
+              "url": "https://t.co/YTqfOIETjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916483831680442433",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915794843043004898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer https://t.co/YTqfOIETjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915794750302720000"
+          ]
+        },
+        "author_id": "1751385394351161344",
+        "conversation_id": "1915794843043004898",
+        "created_at": "2025-04-25T15:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915794843043004898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0vE6O3IXK",
+              "end": 23,
+              "expanded_url": "https://x.com/Valen_maimai/status/1915794843043004898/video/1",
+              "media_key": "13_1915794750302720000",
+              "start": 0,
+              "url": "https://t.co/A0vE6O3IXK"
+            },
+            {
+              "display_url": "x.com/shizuendtime/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shizuendtime/status/1915304626393690329",
+              "start": 24,
+              "url": "https://t.co/wsk5rA7AAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915794843043004898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 36913,
+          "like_count": 343,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915304626393690329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/A0vE6O3IXK https://t.co/wsk5rA7AAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 1151,
+          "like_count": 38407,
+          "listed_count": 5,
+          "media_count": 1589,
+          "tweet_count": 14016
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 611,
+          "like_count": 51985,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 5460
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T23:23:26.000Z",
+        "description": "07/ maimai,学マス54/ 花海佑芽可愛い🩷/ ばれんぱんなちゃ 広報枠",
+        "id": "1751385394351161344",
+        "location": "戸塚勢",
+        "name": "ばれん/Valen🍫",
+        "pinned_tweet_id": "1915794843043004898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911630371822747648/qdFNKWhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 582,
+          "like_count": 13362,
+          "listed_count": 4,
+          "media_count": 1551,
+          "tweet_count": 6098
+        },
+        "username": "Valen_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

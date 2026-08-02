@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2058544407562039415",
+    "created_at": "2026-05-24T13:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058544754099626335"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058544754099626335",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058544407562039415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我甚至对我自己所拥有的东西也只是一个有使用权而不是所有权，我的一切都是可以被他随意破坏的只要这不符合他的想法，包括我的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2058544407562039415",
+        "created_at": "2026-05-24T13:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058544754099626335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058544754099626335",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058544407562039415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我甚至对我自己所拥有的东西也只是一个有使用权而不是所有权，我的一切都是可以被他随意破坏的只要这不符合他的想法，包括我的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2058544407562039415",
+        "created_at": "2026-05-24T13:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058544407562039415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058544407562039415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上我不想看到关于他给我并且摧毁的事物的主要原因其实是他对于我所有的一切都是抱有着一种“这是他给我的恩赐”的想法 在他的观念中我是没有自主的，我开始自残被发现后那段时间里他也是一直在说你不想读我给你安排了一条路你必须按照我说的走不然你这辈子都别想出头之类的话，我完全没有选择的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 1453,
+          "like_count": 54892,
+          "listed_count": 6,
+          "media_count": 2281,
+          "tweet_count": 20303
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

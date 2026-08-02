@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839267677887414272"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839267682094559635",
+    "created_at": "2024-09-26T11:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T12:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839267682094559635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wna4b2nhj",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Letana358121/status/1839267682094559635/photo/1",
+          "media_key": "3_1839267677887414272",
+          "start": 21,
+          "url": "https://t.co/1wNa4b2nhJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839267682094559635",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗澡之前要做的事情是什麼？自然是（）先！ https://t.co/1wNa4b2nhJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839267682094559635].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839267682094559635",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839267682094559635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_1839267677887414272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYZkNUtWQAAny5-.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 924,
+          "like_count": 29143,
+          "listed_count": 3,
+          "tweet_count": 9228
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

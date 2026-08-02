@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2061307400477643101",
+    "created_at": "2026-06-02T04:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061661352918495401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "Fenglinnai8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061661352918495401",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061661198266081660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fenglinnai8964 之前711给这个打广告夯爆了的夯字打成劣了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061661198266081660].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061661198266081660",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061661198266081660"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061307400477643101",
+        "created_at": "2026-06-02T04:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061661352918495401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "Fenglinnai8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061661352918495401",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061661198266081660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fenglinnai8964 之前711给这个打广告夯爆了的夯字打成劣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 1476,
+          "like_count": 56249,
+          "listed_count": 6,
+          "media_count": 2298,
+          "tweet_count": 20605
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "2",
+        "id": "1800825433979797504",
+        "location": "somewhere in CHINA",
+        "name": "1",
+        "pinned_tweet_id": "2026314294971990314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012169026307543040/_dgt26ko_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 130,
+          "like_count": 36958,
+          "listed_count": 0,
+          "media_count": 1603,
+          "tweet_count": 14072
+        },
+        "username": "Fenglinnai8964",
+        "verified": false
+      }
+    ]
+  }
+}

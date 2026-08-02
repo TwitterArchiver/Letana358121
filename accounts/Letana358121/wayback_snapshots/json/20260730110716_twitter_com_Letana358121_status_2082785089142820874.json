@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082412737628360704"
+      ],
+      "media_source_tweet_id": [
+        "2082412742489571550"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2082785089142820874",
+    "created_at": "2026-07-30T11:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082785089142820874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dB4WNOyTnl",
+          "end": 62,
+          "expanded_url": "https://x.com/GFWfrog/status/2082412742489571550/photo/1",
+          "media_key": "3_2082412737628360704",
+          "start": 39,
+          "url": "https://t.co/dB4WNOyTnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082785089142820874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082412742489571550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 墙国🇨🇳网左：扫燕妮，你在哪😭😭😭\n\n😎 匿名投稿 https://t.co/dB4WNOyTnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2082412737628360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY3Wg4WUAAL3A2.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082412737628360704"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2082412742489571550",
+        "created_at": "2026-07-29T10:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082412742489571550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dB4WNOyTnl",
+              "end": 49,
+              "expanded_url": "https://x.com/GFWfrog/status/2082412742489571550/photo/1",
+              "media_key": "3_2082412737628360704",
+              "start": 26,
+              "url": "https://t.co/dB4WNOyTnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082412742489571550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 23711,
+          "like_count": 325,
+          "quote_count": 6,
+          "reply_count": 52,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "墙国🇨🇳网左：扫燕妮，你在哪😭😭😭\n\n😎 匿名投稿 https://t.co/dB4WNOyTnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082412737628360704"
+          ],
+          "media_source_tweet_id": [
+            "2082412742489571550"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2082785089142820874",
+        "created_at": "2026-07-30T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082785089142820874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dB4WNOyTnl",
+              "end": 62,
+              "expanded_url": "https://x.com/GFWfrog/status/2082412742489571550/photo/1",
+              "media_key": "3_2082412737628360704",
+              "start": 39,
+              "url": "https://t.co/dB4WNOyTnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082785089142820874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082412742489571550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 墙国🇨🇳网左：扫燕妮，你在哪😭😭😭\n\n😎 匿名投稿 https://t.co/dB4WNOyTnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 1559,
+          "like_count": 62212,
+          "listed_count": 7,
+          "media_count": 2436,
+          "tweet_count": 22206
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com 习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 30,
+                "expanded_url": "http://gfwbao.com",
+                "start": 7,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 88,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 65,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 117,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 94,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2076263891802136889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266970,
+          "following_count": 2558,
+          "like_count": 131206,
+          "listed_count": 926,
+          "media_count": 7746,
+          "tweet_count": 14546
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

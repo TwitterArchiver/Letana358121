@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1970868613289840913",
+    "created_at": "2025-09-24T15:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970870321554366563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858186854526562304",
+          "start": 0,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970870321554366563",
+    "in_reply_to_user_id": "1858186854526562304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970868613289840913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyujijie 有傻逼文案我可以第一时间转发到我群里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1970868613289840913",
+        "created_at": "2025-09-24T15:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970870321554366563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970870321554366563",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970868613289840913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie 有傻逼文案我可以第一时间转发到我群里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858186854526562304",
+        "conversation_id": "1970868613289840913",
+        "created_at": "2025-09-24T15:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970868613289840913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970868613289840913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说\n我的粉丝们都是因为什么关注我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 1243,
+          "like_count": 41752,
+          "listed_count": 7,
+          "media_count": 1864,
+          "tweet_count": 15774
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85968,
+          "following_count": 111,
+          "like_count": 1556,
+          "listed_count": 178,
+          "media_count": 192,
+          "tweet_count": 515
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

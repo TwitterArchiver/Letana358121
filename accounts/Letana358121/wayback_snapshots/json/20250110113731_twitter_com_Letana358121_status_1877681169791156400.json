@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877680940887285760"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1877681169791156400",
+    "created_at": "2025-01-10T11:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T12:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877681169791156400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K6XEvxd5lQ",
+          "end": 30,
+          "expanded_url": "https://x.com/Letana358121/status/1877681169791156400/photo/1",
+          "media_key": "3_1877680940887285760",
+          "start": 7,
+          "url": "https://t.co/K6XEvxd5lQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877681169791156400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "压线合格（） https://t.co/K6XEvxd5lQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_1877680940887285760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg7c3gsboAA79-N.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877680940887285760"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1877681169791156400",
+        "created_at": "2025-01-10T11:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T12:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877681169791156400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6XEvxd5lQ",
+              "end": 30,
+              "expanded_url": "https://x.com/Letana358121/status/1877681169791156400/photo/1",
+              "media_key": "3_1877680940887285760",
+              "start": 7,
+              "url": "https://t.co/K6XEvxd5lQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877681169791156400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "压线合格（） https://t.co/K6XEvxd5lQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 1030,
+          "like_count": 30666,
+          "listed_count": 5,
+          "media_count": 1338,
+          "tweet_count": 11101
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

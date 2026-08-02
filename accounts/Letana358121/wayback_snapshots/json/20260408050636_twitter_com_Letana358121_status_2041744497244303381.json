@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2041744246223589718",
+    "created_at": "2026-04-08T05:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041744497244303381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041744497244303381",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041744246223589718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能感觉到其实我的骨子里也有那种感觉。。就莫名的自豪感。。这不是好事啊总是自认为高人一等对当地的发展和自身的与人处事都不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2041744246223589718",
+        "created_at": "2026-04-08T05:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041744497244303381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041744497244303381",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041744246223589718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能感觉到其实我的骨子里也有那种感觉。。就莫名的自豪感。。这不是好事啊总是自认为高人一等对当地的发展和自身的与人处事都不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2041744246223589718",
+        "created_at": "2026-04-08T05:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041744246223589718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041744246223589718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得推特上的粤语使用者普遍比较自信的原因是基本都是大湾区和港澳的，经济生活水平确实一般都不会太低加上港澳本来就有的骄傲感。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 1404,
+          "like_count": 49960,
+          "listed_count": 8,
+          "media_count": 2204,
+          "tweet_count": 19002
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

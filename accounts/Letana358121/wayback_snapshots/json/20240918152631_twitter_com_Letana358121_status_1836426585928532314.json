@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1836421541091021267",
+    "created_at": "2024-09-18T15:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T16:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836426585928532314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836426585928532314",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836422136984187032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 能不能来澳门我天天抽你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1836421541091021267",
+        "created_at": "2024-09-18T15:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T16:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836426585928532314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836426585928532314",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836422136984187032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 能不能来澳门我天天抽你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721522192175767552",
+        "conversation_id": "1836421541091021267",
+        "created_at": "2024-09-18T15:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836422136984187032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836422136984187032",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836421541091021267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我家不是破产来着所以他们现在又在张罗着让我研究生出国\n但我有点不想去了😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 898,
+          "like_count": 28549,
+          "listed_count": 3,
+          "tweet_count": 9024
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫「Πρεγκαμπαλίνη」",
+        "pinned_tweet_id": "1834053596129919222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1162,
+          "like_count": 42172,
+          "listed_count": 8,
+          "tweet_count": 4138
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

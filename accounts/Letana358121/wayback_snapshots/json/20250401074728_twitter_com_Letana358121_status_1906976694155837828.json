@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1906976694155837828",
+    "created_at": "2025-04-01T07:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T08:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906976694155837828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Another_8012/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Another_8012/status/1906968279245283496",
+          "start": 7,
+          "url": "https://t.co/sg5GmhUoMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906976694155837828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906968279245283496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我关注回去 https://t.co/sg5GmhUoMK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1906976694155837828",
+        "created_at": "2025-04-01T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906976694155837828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Another_8012/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Another_8012/status/1906968279245283496",
+              "start": 7,
+              "url": "https://t.co/sg5GmhUoMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906976694155837828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906968279245283496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我关注回去 https://t.co/sg5GmhUoMK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817438378885009409",
+        "conversation_id": "1906968279245283496",
+        "created_at": "2025-04-01T07:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T08:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906968279245283496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906968279245283496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是芥末\n如你所见我又重生了\n估计只会发一些日常碎片\n当然  负面内容肯定免不了的\n所以对此有意见的人请善用屏蔽功能\n感谢你的观看\n也谢谢你的关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1134,
+          "like_count": 37174,
+          "listed_count": 5,
+          "media_count": 1522,
+          "tweet_count": 13283
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T05:54:47.000Z",
+        "description": "医生 我的病症能够痊愈吗？",
+        "id": "1817438378885009409",
+        "name": "缓冲超载",
+        "pinned_tweet_id": "1906968279245283496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906969426282631168/zdrDBmNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 43,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "Another_8012",
+        "verified": false
+      }
+    ]
+  }
+}

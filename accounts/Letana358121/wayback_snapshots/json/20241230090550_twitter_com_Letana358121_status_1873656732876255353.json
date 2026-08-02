@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1873491702411108409",
+    "created_at": "2024-12-30T09:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T10:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873656732876255353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        },
+        {
+          "end": 27,
+          "id": "1825148164057534464",
+          "start": 13,
+          "username": "0x47653C1C_BE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873656732876255353",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873650071016984939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer @0x47653C1C_BE 喊姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1873491702411108409",
+        "created_at": "2024-12-30T09:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T10:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873656732876255353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            },
+            {
+              "end": 27,
+              "id": "1825148164057534464",
+              "start": 13,
+              "username": "0x47653C1C_BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873656732876255353",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873650071016984939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer @0x47653C1C_BE 喊姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1873491702411108409",
+        "created_at": "2024-12-30T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873650071016984939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825148164057534464",
+              "start": 0,
+              "username": "0x47653C1C_BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873650071016984939",
+        "in_reply_to_user_id": "1825148164057534464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873491702411108409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x47653C1C_BE 是焊接机我们有救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1018,
+          "like_count": 30202,
+          "listed_count": 5,
+          "media_count": 1309,
+          "tweet_count": 10908
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 627,
+          "like_count": 46240,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 4974
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T12:30:22.000Z",
+        "description": "无聊无趣无礼的幻想小号（已黑化），如与现实相关纯属巧合。\n\n药圈历史中学到的唯一教训就是——生活推不要用大号发暴论",
+        "id": "1825148164057534464",
+        "name": "0x47653C1C (BE)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825149328476016640/nv7fWfYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 19,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "username": "0x47653C1C_BE",
+        "verified": false
+      }
+    ]
+  }
+}

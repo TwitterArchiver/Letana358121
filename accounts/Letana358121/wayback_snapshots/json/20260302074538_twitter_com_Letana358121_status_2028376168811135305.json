@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2028315182519476691",
+    "created_at": "2026-03-02T07:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028376168811135305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491630608832876547",
+          "start": 0,
+          "username": "hakanopesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028376168811135305",
+    "in_reply_to_user_id": "1491630608832876547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028349550763835657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakanopesu 所以我就觉得很搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2028315182519476691",
+        "created_at": "2026-03-02T07:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028376168811135305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491630608832876547",
+              "start": 0,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028376168811135305",
+        "in_reply_to_user_id": "1491630608832876547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028349550763835657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakanopesu 所以我就觉得很搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630608832876547",
+        "conversation_id": "2028315182519476691",
+        "created_at": "2026-03-02T05:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028349550763835657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028349550763835657",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028315182519476691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 何必和这种烂人纠缠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1341,
+          "like_count": 47081,
+          "listed_count": 7,
+          "media_count": 2127,
+          "tweet_count": 18047
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer",
+        "id": "1491630608832876547",
+        "name": "Haskina",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 201,
+          "like_count": 1530,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 908
+        },
+        "username": "hakanopesu",
+        "verified": false
+      }
+    ]
+  }
+}

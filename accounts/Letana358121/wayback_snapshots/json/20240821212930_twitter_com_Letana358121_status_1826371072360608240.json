@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1826371072360608240",
+    "created_at": "2024-08-21T21:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T22:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826371072360608240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1642258797568688128",
+          "start": 3,
+          "username": "Eternally_0818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826371072360608240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825863337110024298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eternally_0818: “你还爱我吗”“你爱过我吗”“你为什么这么对我”自取其辱三件套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1826371072360608240",
+        "created_at": "2024-08-21T21:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T22:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826371072360608240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1642258797568688128",
+              "start": 3,
+              "username": "Eternally_0818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826371072360608240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825863337110024298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eternally_0818: “你还爱我吗”“你爱过我吗”“你为什么这么对我”自取其辱三件套"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642258797568688128",
+        "conversation_id": "1825863337110024298",
+        "created_at": "2024-08-20T11:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T12:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825863337110024298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825863337110024298",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 44222,
+          "like_count": 574,
+          "quote_count": 22,
+          "reply_count": 39,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "“你还爱我吗”“你爱过我吗”“你为什么这么对我”自取其辱三件套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 874,
+          "like_count": 26262,
+          "listed_count": 3,
+          "tweet_count": 8321
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T20:13:11.000Z",
+        "description": "有时候不是说很相爱在一起就会好的",
+        "id": "1642258797568688128",
+        "name": "Jasmine7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777865597461938176/JRoC2rVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 44,
+          "like_count": 550,
+          "listed_count": 7,
+          "tweet_count": 788
+        },
+        "username": "Eternally_0818",
+        "verified": false
+      }
+    ]
+  }
+}

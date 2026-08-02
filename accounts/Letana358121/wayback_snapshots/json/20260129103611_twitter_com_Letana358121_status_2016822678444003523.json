@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2016776047644311657",
+    "created_at": "2026-01-29T10:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T11:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016822678444003523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705567020501303296",
+          "start": 0,
+          "username": "HaShiHuinHuin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016822678444003523",
+    "in_reply_to_user_id": "1705567020501303296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016776047644311657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaShiHuinHuin 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2016776047644311657",
+        "created_at": "2026-01-29T10:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016822678444003523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705567020501303296",
+              "start": 0,
+              "username": "HaShiHuinHuin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016822678444003523",
+        "in_reply_to_user_id": "1705567020501303296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016776047644311657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaShiHuinHuin 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705567020501303296",
+        "conversation_id": "2016776047644311657",
+        "created_at": "2026-01-29T07:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016776047644311657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016776047644311657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很害怕那些叫XX系統的tulpa圈人這是可以說的嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 1343,
+          "like_count": 46398,
+          "listed_count": 6,
+          "media_count": 2077,
+          "tweet_count": 17771
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T12:57:34.000Z",
+        "description": "mammalian、獨自堅強",
+        "id": "1705567020501303296",
+        "location": "亞馬烏羅提",
+        "name": "開心是夢到吃大麥克漢堡包和巧克力麥芬",
+        "pinned_tweet_id": "2013498002581651891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012108490354085889/0dbBg64m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 306,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 109
+        },
+        "username": "HaShiHuinHuin",
+        "verified": false
+      }
+    ]
+  }
+}

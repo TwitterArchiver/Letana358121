@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1816886831151218801",
+    "created_at": "2024-07-26T17:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T18:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816895377951641692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809942174081155072",
+          "start": 0,
+          "username": "Gura7094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816895377951641692",
+    "in_reply_to_user_id": "1809942174081155072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816894939135135900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gura7094 我不在乎那些比我还惨的人，我只想大家都能过得幸福就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1816886831151218801",
+        "created_at": "2024-07-26T17:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T18:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816895377951641692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809942174081155072",
+              "start": 0,
+              "username": "Gura7094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816895377951641692",
+        "in_reply_to_user_id": "1809942174081155072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816894939135135900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gura7094 我不在乎那些比我还惨的人，我只想大家都能过得幸福就好了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1809942174081155072",
+        "conversation_id": "1816886831151218801",
+        "created_at": "2024-07-26T17:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816894939135135900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816894939135135900",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816886831151218801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 抱抱，有人比你还惨的，听听我的故事吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816864107276181504/PoltIXYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 823,
+          "like_count": 22892,
+          "listed_count": 2,
+          "tweet_count": 7439
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T13:27:06.000Z",
+        "description": "",
+        "id": "1809942174081155072",
+        "name": "爱吃甜食的小甜妹(˃ ⌑ ˂ഃ )",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814446103640915968/JTUiSiTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 82
+        },
+        "username": "Gura7094",
+        "verified": false
+      }
+    ]
+  }
+}

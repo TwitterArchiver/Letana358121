@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1800499357000831404",
+    "created_at": "2024-06-11T12:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T13:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800499357000831404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1800174571267715334",
+          "start": 5,
+          "url": "https://t.co/5z9fA09CaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800499357000831404",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800174571267715334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我性欲强 https://t.co/5z9fA09CaL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1800499357000831404",
+        "created_at": "2024-06-11T12:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T13:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800499357000831404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1800174571267715334",
+              "start": 5,
+              "url": "https://t.co/5z9fA09CaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800499357000831404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800174571267715334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我性欲强 https://t.co/5z9fA09CaL"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1800174571267715334",
+        "created_at": "2024-06-10T14:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800174571267715334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800174571267715334",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5499,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "顺女圈的刻板印象：她咬吸管，性欲强\n跨女圈的刻板印象：她把鲨鲨尾巴夹断了，性欲强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800187669424799744/TiyKYbD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 768,
+          "like_count": 21404,
+          "listed_count": 2,
+          "tweet_count": 6705
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3367,
+          "following_count": 92,
+          "like_count": 49,
+          "listed_count": 8,
+          "tweet_count": 2501
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

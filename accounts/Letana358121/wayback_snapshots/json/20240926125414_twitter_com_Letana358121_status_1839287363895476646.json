@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839286907911508466",
+    "created_at": "2024-09-26T12:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T13:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839287363895476646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801093974196994048",
+          "start": 0,
+          "username": "realOlafSheeran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839287363895476646",
+    "in_reply_to_user_id": "1801093974196994048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839287152288608752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realOlafSheeran 可是我的精神狀態真的沒法工作。。。我什麼都沒法做，我沒學歷沒背景沒實力沒工作經驗 我連我自己找不找得到工作我都不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839286907911508466",
+        "created_at": "2024-09-26T12:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T13:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839287363895476646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801093974196994048",
+              "start": 0,
+              "username": "realOlafSheeran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839287363895476646",
+        "in_reply_to_user_id": "1801093974196994048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839287152288608752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realOlafSheeran 可是我的精神狀態真的沒法工作。。。我什麼都沒法做，我沒學歷沒背景沒實力沒工作經驗 我連我自己找不找得到工作我都不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801093974196994048",
+        "conversation_id": "1839286907911508466",
+        "created_at": "2024-09-26T12:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T13:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839287152288608752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839287152288608752",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839286907911508466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 抱抱你🥺不要想这么坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 924,
+          "like_count": 29150,
+          "listed_count": 3,
+          "tweet_count": 9234
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T03:27:41.000Z",
+        "description": "he/him | Activist | Labour member | Own views\n#BringThemHome",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 46,
+                "tag": "BringThemHome"
+              }
+            ]
+          }
+        },
+        "id": "1801093974196994048",
+        "location": "Leeds, England",
+        "name": "Olaf Sheeran 🎗️",
+        "pinned_tweet_id": "1836793803719791097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801126583576707072/IXW_xIA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 494,
+          "like_count": 2449,
+          "listed_count": 0,
+          "tweet_count": 975
+        },
+        "username": "realOlafSheeran",
+        "verified": false
+      }
+    ]
+  }
+}

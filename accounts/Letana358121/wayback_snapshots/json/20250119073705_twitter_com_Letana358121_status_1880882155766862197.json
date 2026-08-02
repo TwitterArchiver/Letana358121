@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1880880940425388289",
+    "created_at": "2025-01-19T07:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T08:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880882155766862197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880882155766862197",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880880940425388289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 因为很可爱（嗯）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1880880940425388289",
+        "created_at": "2025-01-19T07:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880882155766862197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880882155766862197",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880880940425388289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 因为很可爱（嗯）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880880925623676928",
+            "3_1880880926898765824"
+          ]
+        },
+        "author_id": "1026482173300236288",
+        "conversation_id": "1880880940425388289",
+        "created_at": "2025-01-19T07:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880880940425388289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyJ8nVdjvJ",
+              "end": 76,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1880880940425388289/photo/1",
+              "media_key": "3_1880880925623676928",
+              "start": 53,
+              "url": "https://t.co/dyJ8nVdjvJ"
+            },
+            {
+              "display_url": "pic.x.com/dyJ8nVdjvJ",
+              "end": 76,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1880880940425388289/photo/1",
+              "media_key": "3_1880880926898765824",
+              "start": 53,
+              "url": "https://t.co/dyJ8nVdjvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880880940425388289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前沒注意現在才發現，天空藍配白的可愛亞系在跨子裡還挺受歡迎的，這趨勢是哪裡來的鴨(⁠･ั⁠ω⁠･ั⁠) https://t.co/dyJ8nVdjvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1047,
+          "like_count": 30408,
+          "listed_count": 5,
+          "media_count": 1361,
+          "tweet_count": 11268
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  ▍💘@Y4388755541479喜歡她(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)♥️ \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Y4388755541479"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 570,
+          "like_count": 23674,
+          "listed_count": 0,
+          "media_count": 707,
+          "tweet_count": 6150
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

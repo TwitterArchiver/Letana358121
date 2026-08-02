@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2043168776343187759",
+    "created_at": "2026-04-12T03:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043168776343187759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2043125872396497137",
+          "start": 5,
+          "url": "https://t.co/hZ1mfb65fM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043168776343187759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043125872396497137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "碌柒啊。 https://t.co/hZ1mfb65fM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2043125865937330176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqkJm6bYAARu0Y.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2043168776343187759",
+        "created_at": "2026-04-12T03:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043168776343187759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2043125872396497137",
+              "start": 5,
+              "url": "https://t.co/hZ1mfb65fM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043168776343187759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043125872396497137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "碌柒啊。 https://t.co/hZ1mfb65fM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043125865937330176"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2043125872396497137",
+        "created_at": "2026-04-12T00:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043125872396497137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHF14UUVeQ",
+              "end": 23,
+              "expanded_url": "https://x.com/45_206MHz/status/2043125872396497137/photo/1",
+              "media_key": "3_2043125865937330176",
+              "start": 0,
+              "url": "https://t.co/dHF14UUVeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043125872396497137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2458,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dHF14UUVeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 1407,
+          "like_count": 50276,
+          "listed_count": 8,
+          "media_count": 2209,
+          "tweet_count": 19079
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\nMBTI: ISTP\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "45_206io"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 127,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 104,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "0.45KM",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 489,
+          "like_count": 32830,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 3654
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

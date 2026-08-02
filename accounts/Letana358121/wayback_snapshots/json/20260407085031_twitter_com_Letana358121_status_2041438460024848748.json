@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2041401463273107705",
+    "created_at": "2026-04-07T08:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041438460024848748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802293674099060736",
+          "start": 0,
+          "username": "LuoRuan71691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041438460024848748",
+    "in_reply_to_user_id": "1802293674099060736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041401463273107705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoRuan71691 14+全鳥一輩子。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2041401461003956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSD0B8asAAeU3J.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2041401463273107705",
+        "created_at": "2026-04-07T08:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041438460024848748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802293674099060736",
+              "start": 0,
+              "username": "LuoRuan71691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041438460024848748",
+        "in_reply_to_user_id": "1802293674099060736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041401463273107705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoRuan71691 14+全鳥一輩子。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041401461003956224"
+          ]
+        },
+        "author_id": "1802293674099060736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041401463273107705",
+        "created_at": "2026-04-07T06:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041401463273107705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcgc7XNwFn",
+              "end": 64,
+              "expanded_url": "https://x.com/LuoRuan71691/status/2041401463273107705/photo/1",
+              "media_key": "3_2041401461003956224",
+              "start": 41,
+              "url": "https://t.co/fcgc7XNwFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041401463273107705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LEVEL 14 全譜面 SSS\n也是掉到1200fo以下了hh\n#maimai https://t.co/fcgc7XNwFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 1403,
+          "like_count": 49858,
+          "listed_count": 8,
+          "media_count": 2198,
+          "tweet_count": 18963
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T10:54:45.000Z",
+        "description": "I hate rhythm game.",
+        "id": "1802293674099060736",
+        "name": "🌸寰寰♪",
+        "pinned_tweet_id": "2034743156558991739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977739135952564224/OMp0lV1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 357,
+          "like_count": 1443,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 678
+        },
+        "username": "LuoRuan71691",
+        "verified": false
+      }
+    ]
+  }
+}

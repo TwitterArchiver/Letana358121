@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2049064550507680000",
+    "created_at": "2026-04-28T09:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049064550507680000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049064550507680000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048648956515922347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyobewild: 基层执法人员人人都是坏人吗？\n不是。\n但是如果系统性的漏洞没有改，监管制度没有完善，执法人员人人都可以成为坏人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2049064550507680000",
+        "created_at": "2026-04-28T09:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049064550507680000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049064550507680000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048648956515922347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyobewild: 基层执法人员人人都是坏人吗？\n不是。\n但是如果系统性的漏洞没有改，监管制度没有完善，执法人员人人都可以成为坏人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2048648956515922347",
+        "created_at": "2026-04-27T06:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048648956515922347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048648956515922347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7461,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "基层执法人员人人都是坏人吗？\n不是。\n但是如果系统性的漏洞没有改，监管制度没有完善，执法人员人人都可以成为坏人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 1437,
+          "like_count": 52198,
+          "listed_count": 8,
+          "media_count": 2254,
+          "tweet_count": 19592
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 192,
+          "like_count": 37685,
+          "listed_count": 16,
+          "media_count": 392,
+          "tweet_count": 8102
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

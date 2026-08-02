@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1977342599959879896",
+    "created_at": "2025-10-12T13:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977362507506270581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1371167457524682757",
+          "start": 0,
+          "username": "Lgd135InkBTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977362507506270581",
+    "in_reply_to_user_id": "1371167457524682757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977342599959879896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lgd135InkBTL 塞回去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977342593672548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DunM8aEAAZRbg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1977342599959879896",
+        "created_at": "2025-10-12T13:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977362507506270581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1371167457524682757",
+              "start": 0,
+              "username": "Lgd135InkBTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977362507506270581",
+        "in_reply_to_user_id": "1371167457524682757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977342599959879896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lgd135InkBTL 塞回去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977342593672548352"
+          ]
+        },
+        "author_id": "1371167457524682757",
+        "conversation_id": "1977342599959879896",
+        "created_at": "2025-10-12T11:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977342599959879896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xe6Lra3MeH",
+              "end": 40,
+              "expanded_url": "https://x.com/Lgd135InkBTL/status/1977342599959879896/photo/1",
+              "media_key": "3_1977342593672548352",
+              "start": 17,
+              "url": "https://t.co/xe6Lra3MeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977342599959879896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃口香糖把我补的牙粘下来了 谁懂 https://t.co/xe6Lra3MeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 1263,
+          "like_count": 42252,
+          "listed_count": 8,
+          "media_count": 1891,
+          "tweet_count": 16022
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T18:32:57.000Z",
+        "description": "|🇨🇳| 中国版のmaimaiプレイヤー ,舞神持有，Lgdチームarcaea所属",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/WYHKo2e",
+                "end": 23,
+                "expanded_url": "https://b23.tv/WYHKo2e",
+                "start": 0,
+                "url": "https://t.co/Hanhondg5N"
+              }
+            ]
+          }
+        },
+        "id": "1371167457524682757",
+        "name": "墨水瓶_1nk_BTL",
+        "pinned_tweet_id": "1930637380392018172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959549725532995584/7RH2Dxkh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 489,
+          "like_count": 5069,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/Hanhondg5N",
+        "username": "Lgd135InkBTL",
+        "verified": false
+      }
+    ]
+  }
+}

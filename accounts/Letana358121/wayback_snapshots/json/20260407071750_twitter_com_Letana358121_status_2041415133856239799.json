@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2041323285334687905",
+    "created_at": "2026-04-07T07:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041415133856239799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041415133856239799",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041323285334687905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri 求穿搭教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2041323186252656640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ8n1xbsAAE90L.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2041323285334687905",
+        "created_at": "2026-04-07T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041415133856239799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041415133856239799",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041323285334687905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri 求穿搭教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041323186252656640"
+          ]
+        },
+        "author_id": "1526965927748571136",
+        "conversation_id": "2041323285334687905",
+        "created_at": "2026-04-07T01:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041323285334687905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6hq6P23lD",
+              "end": 36,
+              "expanded_url": "https://x.com/Natsumejuri/status/2041323285334687905/photo/1",
+              "media_key": "3_2041323186252656640",
+              "start": 13,
+              "url": "https://t.co/v6hq6P23lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041323285334687905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 938,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在阴暗监视推友的夏师傅 https://t.co/v6hq6P23lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3145,
+          "following_count": 1402,
+          "like_count": 49851,
+          "listed_count": 8,
+          "media_count": 2198,
+          "tweet_count": 18961
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3201,
+          "following_count": 449,
+          "like_count": 15239,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 1673
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

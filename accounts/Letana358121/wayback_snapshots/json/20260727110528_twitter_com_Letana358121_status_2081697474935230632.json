@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2081273446877843871",
+    "created_at": "2026-07-27T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081697474935230632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900427702760595460",
+          "start": 0,
+          "username": "gum07231141126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081697474935230632",
+    "in_reply_to_user_id": "1900427702760595460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081697199755567371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gum07231141126 已经在了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2081273446877843871",
+        "created_at": "2026-07-27T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081697474935230632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900427702760595460",
+              "start": 0,
+              "username": "gum07231141126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081697474935230632",
+        "in_reply_to_user_id": "1900427702760595460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081697199755567371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gum07231141126 已经在了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900427702760595460",
+        "conversation_id": "2081273446877843871",
+        "created_at": "2026-07-27T11:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081697199755567371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081697199755567371",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081273446877843871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 啥时候到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 1561,
+          "like_count": 61997,
+          "listed_count": 7,
+          "media_count": 2423,
+          "tweet_count": 22138
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T06:04:15.000Z",
+        "description": "打mai的，玩源的，臭打烤的",
+        "id": "1900427702760595460",
+        "name": "gum07231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906092213383397376/mFAjSZO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 114,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "gum07231141126",
+        "verified": false
+      }
+    ]
+  }
+}

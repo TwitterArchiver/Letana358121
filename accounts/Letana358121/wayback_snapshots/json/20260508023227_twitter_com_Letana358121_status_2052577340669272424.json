@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2052332098233704951",
+    "created_at": "2026-05-08T02:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052577340669272424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1207582399099330561",
+          "start": 0,
+          "username": "AKIRA_MiN_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052577340669272424",
+    "in_reply_to_user_id": "1207582399099330561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052574942852763816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIRA_MiN_ 没事以后我会加入的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2052332098233704951",
+        "created_at": "2026-05-08T02:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052577340669272424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1207582399099330561",
+              "start": 0,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052577340669272424",
+        "in_reply_to_user_id": "1207582399099330561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052574942852763816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIRA_MiN_ 没事以后我会加入的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207582399099330561",
+        "conversation_id": "2052332098233704951",
+        "created_at": "2026-05-08T02:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052574942852763816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052574942852763816",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052332098233704951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 真的在读人文社科并产出学术垃圾的人：不嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 1441,
+          "like_count": 52919,
+          "listed_count": 8,
+          "media_count": 2270,
+          "tweet_count": 19849
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-19T08:44:31.000Z",
+        "description": "暴风雨的夜晚，蟋蟀仍将继续鸣叫。",
+        "id": "1207582399099330561",
+        "location": "帰らずの都",
+        "name": "AKIRA MIN🇺🇦",
+        "pinned_tweet_id": "1866336652433719545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701654423578238978/dg0zeHpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 7460,
+          "like_count": 18576,
+          "listed_count": 8,
+          "media_count": 1283,
+          "tweet_count": 16130
+        },
+        "username": "AKIRA_MiN_",
+        "verified": false
+      }
+    ]
+  }
+}

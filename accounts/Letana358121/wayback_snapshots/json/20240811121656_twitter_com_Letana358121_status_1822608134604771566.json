@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822608117630382080"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1822608134604771566",
+    "created_at": "2024-08-11T12:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T13:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822608134604771566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6gsgjhuon",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Letana358121/status/1822608134604771566/photo/1",
+          "media_key": "3_1822608117630382080",
+          "start": 12,
+          "url": "https://t.co/A6gSGJhUOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822608134604771566",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了这个我也能连任吗。 https://t.co/A6gSGJhUOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_1822608117630382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUs0bSgaMAABbNU.jpg",
+        "width": 2219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822608117630382080"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1822608134604771566",
+        "created_at": "2024-08-11T12:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T13:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822608134604771566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6gsgjhuon",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Letana358121/status/1822608134604771566/photo/1",
+              "media_key": "3_1822608117630382080",
+              "start": 12,
+              "url": "https://t.co/A6gSGJhUOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822608134604771566",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了这个我也能连任吗。 https://t.co/A6gSGJhUOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶ユ！",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 848,
+          "like_count": 24631,
+          "listed_count": 2,
+          "tweet_count": 8023
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

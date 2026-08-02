@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1946874368900153526",
+    "created_at": "2025-07-20T10:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946876889974665540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1669725959178551296",
+          "start": 0,
+          "username": "LCream6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946876889974665540",
+    "in_reply_to_user_id": "1669725959178551296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946875758733140331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCream6 我被家里人摇去吃饭了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946875758733140331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946875758733140331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946875758733140331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1946874368900153526",
+        "created_at": "2025-07-20T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946876889974665540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1669725959178551296",
+              "start": 0,
+              "username": "LCream6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946876889974665540",
+        "in_reply_to_user_id": "1669725959178551296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946875758733140331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCream6 我被家里人摇去吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 1200,
+          "like_count": 40662,
+          "listed_count": 6,
+          "media_count": 1785,
+          "tweet_count": 15201
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T15:19:32.000Z",
+        "description": "我的唯一：@LailahSphinx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "LailahSphinx"
+              }
+            ]
+          }
+        },
+        "id": "1669725959178551296",
+        "location": "🍕",
+        "name": "LemonCream！(◎_◎;)",
+        "pinned_tweet_id": "1782631793700827270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898441108897882112/D2x1MpZc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 369,
+          "like_count": 9219,
+          "listed_count": 0,
+          "media_count": 1113,
+          "tweet_count": 6806
+        },
+        "username": "LCream6",
+        "verified": false
+      }
+    ]
+  }
+}

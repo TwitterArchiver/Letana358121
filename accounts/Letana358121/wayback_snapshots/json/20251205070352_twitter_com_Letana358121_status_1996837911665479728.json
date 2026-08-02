@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1996837102714294624",
+    "created_at": "2025-12-05T07:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996837911665479728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "jiuwuwu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996837911665479728",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996837102714294624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuwuwu22 财从八方来（？）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996837102714294624].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996837102714294624",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996837102714294624"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1996837102714294624",
+        "created_at": "2025-12-05T07:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996837911665479728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "jiuwuwu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996837911665479728",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996837102714294624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuwuwu22 财从八方来（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 1303,
+          "like_count": 44457,
+          "listed_count": 7,
+          "media_count": 1996,
+          "tweet_count": 17017
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "",
+        "id": "1261344091075260416",
+        "name": "香屎",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995862612974993412/Z40qJBXn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 785,
+          "like_count": 27637,
+          "listed_count": 0,
+          "media_count": 2339,
+          "tweet_count": 21575
+        },
+        "username": "jiuwuwu22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2036440147743359050",
+    "created_at": "2026-03-25T04:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036669285024792799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1450913222656147471",
+          "start": 0,
+          "username": "beyoumf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036669285024792799",
+    "in_reply_to_user_id": "1450913222656147471",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036440147743359050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyoumf oxygen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2036440147743359050",
+        "created_at": "2026-03-25T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036669285024792799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1450913222656147471",
+              "start": 0,
+              "username": "beyoumf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036669285024792799",
+        "in_reply_to_user_id": "1450913222656147471",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036440147743359050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyoumf oxygen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450913222656147471",
+        "conversation_id": "2036440147743359050",
+        "created_at": "2026-03-24T13:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036440147743359050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036440147743359050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1309,
+          "impression_count": 2850936,
+          "like_count": 10002,
+          "quote_count": 8277,
+          "reply_count": 4226,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "name an addiction worse than alcohol and drugs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3138,
+          "following_count": 1385,
+          "like_count": 48870,
+          "listed_count": 8,
+          "media_count": 2175,
+          "tweet_count": 18634
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T19:54:12.000Z",
+        "description": "Be Yourself.",
+        "id": "1450913222656147471",
+        "location": "Earth",
+        "name": "by",
+        "pinned_tweet_id": "2033291939924111462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031425032803487744/_aBQ6kQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11926,
+          "following_count": 5537,
+          "like_count": 18197,
+          "listed_count": 14,
+          "media_count": 158,
+          "tweet_count": 14831
+        },
+        "username": "beyoumf",
+        "verified": true
+      }
+    ]
+  }
+}

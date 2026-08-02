@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1793635428291215747",
+    "created_at": "2024-05-24T04:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T05:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793866098418548997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1028887313177145344",
+          "start": 0,
+          "username": "Niceee30183632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793866098418548997",
+    "in_reply_to_user_id": "1028887313177145344",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793862492105719816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niceee30183632 omg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1793635428291215747",
+        "created_at": "2024-05-24T04:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T05:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793866098418548997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1028887313177145344",
+              "start": 0,
+              "username": "Niceee30183632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793866098418548997",
+        "in_reply_to_user_id": "1028887313177145344",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793862492105719816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niceee30183632 omg"
+      },
+      {
+        "attachments": {},
+        "author_id": "1028887313177145344",
+        "conversation_id": "1793635428291215747",
+        "created_at": "2024-05-24T04:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793862492105719816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793862492105719816",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793635428291215747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 宜家兼职员工要无法面对我的工作地点了（w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 576,
+          "like_count": 20603,
+          "listed_count": 3,
+          "tweet_count": 6339
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-13T06:13:46.000Z",
+        "description": "奇麟✨です～‖INFP‖maimai（Rating15500）arcaea（Ptt12.25）同时也会玩PJSK和CYTUS2 来这里分享一下日常和音游成绩图，有时大概会表现得更像真实的自己叭",
+        "id": "1028887313177145344",
+        "location": "People's Republic of China",
+        "name": "KirinAngel",
+        "pinned_tweet_id": "1748755537595072794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706826061219241984/SaNLQR1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 170,
+          "like_count": 172,
+          "listed_count": 0,
+          "tweet_count": 144
+        },
+        "username": "Niceee30183632",
+        "verified": false
+      }
+    ]
+  }
+}

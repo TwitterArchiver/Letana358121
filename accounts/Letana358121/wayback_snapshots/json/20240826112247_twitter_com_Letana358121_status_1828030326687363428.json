@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1827995970967404805",
+    "created_at": "2024-08-26T11:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828030326687363428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789528204207915008",
+          "start": 0,
+          "username": "kitsunekazusa"
+        },
+        {
+          "end": 28,
+          "id": "1673336380552871936",
+          "start": 15,
+          "username": "notcuteshark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828030326687363428",
+    "in_reply_to_user_id": "1789528204207915008",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828019444129652821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitsunekazusa @notcuteshark 給你二十斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1827995970967404805",
+        "created_at": "2024-08-26T11:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828030326687363428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "kitsunekazusa"
+            },
+            {
+              "end": 28,
+              "id": "1673336380552871936",
+              "start": 15,
+              "username": "notcuteshark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828030326687363428",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828019444129652821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitsunekazusa @notcuteshark 給你二十斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789528204207915008",
+        "conversation_id": "1827995970967404805",
+        "created_at": "2024-08-26T10:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T11:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828019444129652821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673336380552871936",
+              "start": 0,
+              "username": "notcuteshark"
+            },
+            {
+              "end": 27,
+              "id": "1669543422586421248",
+              "start": 14,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828019444129652821",
+        "in_reply_to_user_id": "1673336380552871936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828005567564218513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notcuteshark @Letana358121 我50了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 881,
+          "like_count": 26835,
+          "listed_count": 3,
+          "tweet_count": 8414
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "Majoring in Aeronautical Engineering | Freelance photographer & illustrator",
+        "id": "1789528204207915008",
+        "location": "Lanadi star system",
+        "name": "雪🍧",
+        "pinned_tweet_id": "1827021792218865856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827018672822497285/-rAjiaDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 65,
+          "like_count": 11454,
+          "listed_count": 0,
+          "tweet_count": 134
+        },
+        "username": "kitsunekazusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T14:24:50.000Z",
+        "description": "",
+        "id": "1673336380552871936",
+        "name": "鯊魚不可愛🦈✨",
+        "pinned_tweet_id": "1804414043224182862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821925619963457540/Doeo0sJg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 1197,
+          "like_count": 13459,
+          "listed_count": 5,
+          "tweet_count": 2991
+        },
+        "username": "notcuteshark",
+        "verified": false
+      }
+    ]
+  }
+}

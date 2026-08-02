@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1985332781967389162",
+    "created_at": "2025-11-03T13:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985336427253821930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1702316313472081921",
+          "start": 0,
+          "username": "k49ur473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985336427253821930",
+    "in_reply_to_user_id": "1702316313472081921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985332781967389162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k49ur473 人妖扫库这块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985332774770032640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41Ro9EbwAAk9OH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1985332781967389162",
+        "created_at": "2025-11-03T13:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985336427253821930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702316313472081921",
+              "start": 0,
+              "username": "k49ur473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985336427253821930",
+        "in_reply_to_user_id": "1702316313472081921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985332781967389162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k49ur473 人妖扫库这块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985332774770032640"
+          ]
+        },
+        "author_id": "1702316313472081921",
+        "conversation_id": "1985332781967389162",
+        "created_at": "2025-11-03T13:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985332781967389162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTg60I5zaM",
+              "end": 37,
+              "expanded_url": "https://x.com/k49ur473/status/1985332781967389162/photo/1",
+              "media_key": "3_1985332774770032640",
+              "start": 14,
+              "url": "https://t.co/QTg60I5zaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985332781967389162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "攻击舞萌服务器吗，有点意思 https://t.co/QTg60I5zaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "EXCERPTS FROM THE DIARIES OF ＿/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1276,
+          "like_count": 43276,
+          "listed_count": 8,
+          "media_count": 1930,
+          "tweet_count": 16466
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文/English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌/音撃玩家 | GoLang和TypeScript享受者 | 电子邮件：arisu@ieee.org",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城, つくば市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1981192372022366387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 182,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      }
+    ]
+  }
+}

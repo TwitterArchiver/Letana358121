@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1936744405740016008",
+    "created_at": "2025-06-23T07:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T08:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937051835145335032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "962964430899249152",
+          "start": 0,
+          "username": "tianqiusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937051835145335032",
+    "in_reply_to_user_id": "962964430899249152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937038475272106277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianqiusa 来个群号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1936744405740016008",
+        "created_at": "2025-06-23T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937051835145335032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "962964430899249152",
+              "start": 0,
+              "username": "tianqiusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937051835145335032",
+        "in_reply_to_user_id": "962964430899249152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937038475272106277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianqiusa 来个群号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962964430899249152",
+        "conversation_id": "1936744405740016008",
+        "created_at": "2025-06-23T06:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937038475272106277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937038475272106277",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936744405740016008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 有，不过看你要不要爆身份，不爆也没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 1192,
+          "like_count": 40446,
+          "listed_count": 5,
+          "media_count": 1741,
+          "tweet_count": 15002
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-12T08:19:46.000Z",
+        "description": "嗯哼",
+        "id": "962964430899249152",
+        "location": "People's Republic of China",
+        "name": "天裘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1150250163329482752/ohcdKD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1955,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 84
+        },
+        "username": "tianqiusa",
+        "verified": false
+      }
+    ]
+  }
+}

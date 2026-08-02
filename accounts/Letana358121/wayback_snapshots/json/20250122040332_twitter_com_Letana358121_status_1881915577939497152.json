@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1881612044069429248",
+        "13_1881612044044234752",
+        "13_1881612044044283905"
+      ],
+      "media_source_tweet_id": [
+        "1881612263163085053",
+        "1881612263163085053",
+        "1881612263163085053"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1881915577939497152",
+    "created_at": "2025-01-22T04:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T05:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881915577939497152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1422042014795722755",
+          "start": 3,
+          "username": "_Lynne____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWzLY0HwMl",
+          "end": 111,
+          "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+          "media_key": "13_1881612044069429248",
+          "start": 88,
+          "url": "https://t.co/MWzLY0HwMl"
+        },
+        {
+          "display_url": "pic.x.com/MWzLY0HwMl",
+          "end": 111,
+          "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+          "media_key": "13_1881612044044234752",
+          "start": 88,
+          "url": "https://t.co/MWzLY0HwMl"
+        },
+        {
+          "display_url": "pic.x.com/MWzLY0HwMl",
+          "end": 111,
+          "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+          "media_key": "13_1881612044044283905",
+          "start": 88,
+          "url": "https://t.co/MWzLY0HwMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881915577939497152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881612263163085053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Lynne____: 太精彩了，主办方还想给女的搞个笼子去斗，没想到吧，辩手们直接达成一致让你们五个主办方男的穿上高跟鞋再来，男性的弱智和女人智慧的对比又此刻尽显了 https://t.co/MWzLY0HwMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43421,
+        "height": 480,
+        "media_key": "13_1881612044069429248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1881612044069429248/img/VyRSltTStgL8QSNj.jpg",
+        "public_metrics": {
+          "view_count": 9296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044069429248/vid/avc1/536x270/cSUX-iP28aO_nq6s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044069429248/vid/avc1/714x360/Z9geyUGZCGSC4kzf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044069429248/vid/avc1/954x480/nHFX3LgcqbUqzbxv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1881612044069429248/pl/qw3gjkliC5usgLIt.m3u8?tag=14&v=d95"
+          }
+        ],
+        "width": 954
+      },
+      {
+        "duration_ms": 164699,
+        "height": 380,
+        "media_key": "13_1881612044044234752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1881612044044234752/img/3_F4RJOgEr9xpuqg.jpg",
+        "public_metrics": {
+          "view_count": 1005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044044234752/vid/avc1/454x270/UrCafOmNSXVPMwx-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044044234752/vid/avc1/640x380/mYwJf3Hk_tEUkTFf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1881612044044234752/pl/A471GOxSNIoFeBbV.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "duration_ms": 129267,
+        "height": 392,
+        "media_key": "13_1881612044044283905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1881612044044283905/img/fjhmxjap0avDhAKN.jpg",
+        "public_metrics": {
+          "view_count": 643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044044283905/vid/avc1/440x270/JZrSY7Vq2IYEZa23.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881612044044283905/vid/avc1/640x392/B1Hz5WyhNshEtEf8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1881612044044283905/pl/nw5T45qdGLaPhNaq.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1881612044069429248",
+            "13_1881612044044234752",
+            "13_1881612044044283905"
+          ],
+          "media_source_tweet_id": [
+            "1881612263163085053",
+            "1881612263163085053",
+            "1881612263163085053"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881915577939497152",
+        "created_at": "2025-01-22T04:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881915577939497152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1422042014795722755",
+              "start": 3,
+              "username": "_Lynne____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 111,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044069429248",
+              "start": 88,
+              "url": "https://t.co/MWzLY0HwMl"
+            },
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 111,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044044234752",
+              "start": 88,
+              "url": "https://t.co/MWzLY0HwMl"
+            },
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 111,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044044283905",
+              "start": 88,
+              "url": "https://t.co/MWzLY0HwMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881915577939497152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881612263163085053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Lynne____: 太精彩了，主办方还想给女的搞个笼子去斗，没想到吧，辩手们直接达成一致让你们五个主办方男的穿上高跟鞋再来，男性的弱智和女人智慧的对比又此刻尽显了 https://t.co/MWzLY0HwMl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1881612044069429248",
+            "13_1881612044044234752",
+            "13_1881612044044283905"
+          ]
+        },
+        "author_id": "1422042014795722755",
+        "conversation_id": "1881612263163085053",
+        "created_at": "2025-01-21T07:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881612263163085053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 95,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044069429248",
+              "start": 72,
+              "url": "https://t.co/MWzLY0HwMl"
+            },
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 95,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044044234752",
+              "start": 72,
+              "url": "https://t.co/MWzLY0HwMl"
+            },
+            {
+              "display_url": "pic.x.com/MWzLY0HwMl",
+              "end": 95,
+              "expanded_url": "https://x.com/_Lynne____/status/1881612263163085053/video/1",
+              "media_key": "13_1881612044044283905",
+              "start": 72,
+              "url": "https://t.co/MWzLY0HwMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881612263163085053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 25483,
+          "like_count": 563,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "太精彩了，主办方还想给女的搞个笼子去斗，没想到吧，辩手们直接达成一致让你们五个主办方男的穿上高跟鞋再来，男性的弱智和女人智慧的对比又此刻尽显了 https://t.co/MWzLY0HwMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1046,
+          "like_count": 30510,
+          "listed_count": 5,
+          "media_count": 1365,
+          "tweet_count": 11307
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T03:50:34.000Z",
+        "description": "程序媛/拳法精准，y染死绝/蝻的转评赞都会直接拉黑/只记录学习的小号@lynn_0468/你的存在，就是光亮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "lynn_0468"
+              }
+            ]
+          }
+        },
+        "id": "1422042014795722755",
+        "name": "Dr.Lynn8964",
+        "pinned_tweet_id": "1879120503656657050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854408617249976320/Zp-YWVuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3440,
+          "following_count": 168,
+          "like_count": 9292,
+          "listed_count": 21,
+          "media_count": 410,
+          "tweet_count": 3789
+        },
+        "username": "_Lynne____",
+        "verified": false
+      }
+    ]
+  }
+}

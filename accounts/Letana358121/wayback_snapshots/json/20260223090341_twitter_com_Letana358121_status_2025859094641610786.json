@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025859084063535104"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025859094641610786",
+    "created_at": "2026-02-23T09:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025859094641610786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0lo1s6Ahg",
+          "end": 48,
+          "expanded_url": "https://x.com/Letana358121/status/2025859094641610786/photo/1",
+          "media_key": "3_2025859084063535104",
+          "start": 25,
+          "url": "https://t.co/F0lo1s6Ahg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025859094641610786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一发出我最喜欢的幽灵鲨我爱你主人主人主人主人主人 https://t.co/F0lo1s6Ahg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2025859084063535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1MGn6a8AAY5pt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025859084063535104"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025859094641610786",
+        "created_at": "2026-02-23T09:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025859094641610786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0lo1s6Ahg",
+              "end": 48,
+              "expanded_url": "https://x.com/Letana358121/status/2025859094641610786/photo/1",
+              "media_key": "3_2025859084063535104",
+              "start": 25,
+              "url": "https://t.co/F0lo1s6Ahg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025859094641610786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一发出我最喜欢的幽灵鲨我爱你主人主人主人主人主人 https://t.co/F0lo1s6Ahg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 1343,
+          "like_count": 46779,
+          "listed_count": 7,
+          "media_count": 2115,
+          "tweet_count": 17957
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

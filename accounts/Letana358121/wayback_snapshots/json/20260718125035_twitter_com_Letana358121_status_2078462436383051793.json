@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078462199685955584"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078462436383051793",
+    "created_at": "2026-07-18T12:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078462436383051793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqrrOFVGEq",
+          "end": 38,
+          "expanded_url": "https://x.com/Letana358121/status/2078462436383051793/video/1",
+          "media_key": "13_2078462199685955584",
+          "start": 15,
+          "url": "https://t.co/cqrrOFVGEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078462436383051793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一录手元就打的一坨有没有懂得 https://t.co/cqrrOFVGEq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18529,
+        "height": 1280,
+        "media_key": "13_2078462199685955584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078462199685955584/img/DMZua6m575I82iad.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078462199685955584/vid/avc1/320x568/SUd9Zpk-DKl7kPi5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078462199685955584/vid/avc1/480x852/6AK9tfh5Hyo7Hvid.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078462199685955584/vid/avc1/720x1280/dzNZklEzQt0WaRpo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078462199685955584/pl/PybvcxhBEbq1yMji.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078462199685955584"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078462436383051793",
+        "created_at": "2026-07-18T12:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078462436383051793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqrrOFVGEq",
+              "end": 38,
+              "expanded_url": "https://x.com/Letana358121/status/2078462436383051793/video/1",
+              "media_key": "13_2078462199685955584",
+              "start": 15,
+              "url": "https://t.co/cqrrOFVGEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078462436383051793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一录手元就打的一坨有没有懂得 https://t.co/cqrrOFVGEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 1557,
+          "like_count": 61197,
+          "listed_count": 7,
+          "media_count": 2408,
+          "tweet_count": 21951
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      }
+    ]
+  }
+}

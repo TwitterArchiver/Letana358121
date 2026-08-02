@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1820275180834599077",
+    "created_at": "2024-08-05T01:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T02:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820275180834599077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820275180834599077",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820137545445089382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: 现在都是帅哥美女在这容貌焦虑我这种正宗肥猪丑逼只能滚一边默默开割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1820275180834599077",
+        "created_at": "2024-08-05T01:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T02:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820275180834599077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820275180834599077",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820137545445089382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: 现在都是帅哥美女在这容貌焦虑我这种正宗肥猪丑逼只能滚一边默默开割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1820137545445089382",
+        "created_at": "2024-08-04T16:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T17:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820137545445089382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiruovo/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yiruovo/status/1820137155815186709",
+              "start": 33,
+              "url": "https://t.co/L6qLi5vYSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820137545445089382",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820137155815186709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在都是帅哥美女在这容貌焦虑我这种正宗肥猪丑逼只能滚一边默默开割 https://t.co/L6qLi5vYSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 841,
+          "like_count": 23512,
+          "listed_count": 2,
+          "tweet_count": 7789
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "银河状我",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741507550200438784/Al2SDrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 545,
+          "like_count": 35034,
+          "listed_count": 4,
+          "tweet_count": 4160
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

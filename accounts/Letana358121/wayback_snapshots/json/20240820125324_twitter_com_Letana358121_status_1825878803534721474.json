@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825878800648863744"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1825878803534721474",
+    "created_at": "2024-08-20T12:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T13:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825878803534721474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1g0pfqwnnl",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Letana358121/status/1825878803534721474/photo/1",
+          "media_key": "3_1825878800648863744",
+          "start": 20,
+          "url": "https://t.co/1G0PfQWnNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825878803534721474",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "點火！點火！點火！（點火器真的好看吧） https://t.co/1G0PfQWnNL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1825878800648863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVbTGGOXgAAou5L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825878800648863744"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1825878803534721474",
+        "created_at": "2024-08-20T12:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T13:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825878803534721474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1g0pfqwnnl",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Letana358121/status/1825878803534721474/photo/1",
+              "media_key": "3_1825878800648863744",
+              "start": 20,
+              "url": "https://t.co/1G0PfQWnNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825878803534721474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "點火！點火！點火！（點火器真的好看吧） https://t.co/1G0PfQWnNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 872,
+          "like_count": 26029,
+          "listed_count": 3,
+          "tweet_count": 8272
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

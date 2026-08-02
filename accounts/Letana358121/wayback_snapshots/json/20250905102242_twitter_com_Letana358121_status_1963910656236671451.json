@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1963909323916230888",
+    "created_at": "2025-09-05T10:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T11:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963910656236671451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963910656236671451",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963909323916230888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer 猪加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23565,
+        "height": 1280,
+        "media_key": "13_1963909045645197312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963909045645197312/img/9CzgtmqKEUbi84lY.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963909045645197312/vid/avc1/320x568/plOvdw29-jFAkOf0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963909045645197312/vid/avc1/480x852/hNchxaphWH7UjI2V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963909045645197312/vid/avc1/720x1280/g3-oqcTe4A5acxf8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963909045645197312/pl/dCGICOmCsIZ6cpGp.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 398,
+        "media_key": "3_1963909045791899648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E03zWaQAA6quB.jpg",
+        "width": 168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1963909323916230888",
+        "created_at": "2025-09-05T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963910656236671451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963910656236671451",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963909323916230888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer 猪加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963909045645197312",
+            "3_1963909045791899648"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "conversation_id": "1963909323916230888",
+        "created_at": "2025-09-05T10:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963909323916230888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjcp5EtCz5",
+              "end": 23,
+              "expanded_url": "https://x.com/Yao_freezer/status/1963909323916230888/video/1",
+              "media_key": "13_1963909045645197312",
+              "start": 0,
+              "url": "https://t.co/pjcp5EtCz5"
+            },
+            {
+              "display_url": "pic.x.com/pjcp5EtCz5",
+              "end": 23,
+              "expanded_url": "https://x.com/Yao_freezer/status/1963909323916230888/video/1",
+              "media_key": "3_1963909045791899648",
+              "start": 0,
+              "url": "https://t.co/pjcp5EtCz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963909323916230888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pjcp5EtCz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 1233,
+          "like_count": 41392,
+          "listed_count": 7,
+          "media_count": 1851,
+          "tweet_count": 15649
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 604,
+          "like_count": 55720,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 5741
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

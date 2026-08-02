@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895131867277406208"
+      ],
+      "media_source_tweet_id": [
+        "1895131875804618947"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1895131960164655309",
+    "created_at": "2025-02-27T15:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T16:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895131960164655309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yg74kcvvfc",
+          "end": 44,
+          "expanded_url": "https://x.com/Yao_freezer/status/1895131875804618947/photo/1",
+          "media_key": "3_1895131867277406208",
+          "start": 21,
+          "url": "https://t.co/yg74kcvvfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895131960164655309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895131875804618947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: 大狗叫 https://t.co/yg74kcvvfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1895131867277406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzcZHeXsAALzXU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895131867277406208"
+          ],
+          "media_source_tweet_id": [
+            "1895131875804618947"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1895131960164655309",
+        "created_at": "2025-02-27T15:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895131960164655309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yg74kcvvfc",
+              "end": 44,
+              "expanded_url": "https://x.com/Yao_freezer/status/1895131875804618947/photo/1",
+              "media_key": "3_1895131867277406208",
+              "start": 21,
+              "url": "https://t.co/yg74kcvvfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895131960164655309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895131875804618947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: 大狗叫 https://t.co/yg74kcvvfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895131867277406208"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "conversation_id": "1895131875804618947",
+        "created_at": "2025-02-27T15:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895131875804618947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yg74kcvvfc",
+              "end": 27,
+              "expanded_url": "https://x.com/Yao_freezer/status/1895131875804618947/photo/1",
+              "media_key": "3_1895131867277406208",
+              "start": 4,
+              "url": "https://t.co/yg74kcvvfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895131875804618947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大狗叫 https://t.co/yg74kcvvfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1101,
+          "like_count": 33564,
+          "listed_count": 4,
+          "media_count": 1454,
+          "tweet_count": 12258
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 665,
+          "like_count": 48833,
+          "listed_count": 4,
+          "media_count": 349,
+          "tweet_count": 5238
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

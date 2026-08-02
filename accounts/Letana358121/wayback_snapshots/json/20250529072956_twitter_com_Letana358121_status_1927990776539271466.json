@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1927985892662063586",
+    "created_at": "2025-05-29T07:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T08:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927990776539271466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543294032943714305",
+          "start": 0,
+          "username": "null_2984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927990776539271466",
+    "in_reply_to_user_id": "1543294032943714305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927990186836734450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@null_2984 生小皇帝，别吵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1927985892662063586",
+        "created_at": "2025-05-29T07:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T08:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927990776539271466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543294032943714305",
+              "start": 0,
+              "username": "null_2984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927990776539271466",
+        "in_reply_to_user_id": "1543294032943714305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927990186836734450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@null_2984 生小皇帝，别吵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543294032943714305",
+        "conversation_id": "1927985892662063586",
+        "created_at": "2025-05-29T07:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T08:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927990186836734450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927990186836734450",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927985892662063586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 ？我要报警了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 1170,
+          "like_count": 39903,
+          "listed_count": 5,
+          "media_count": 1671,
+          "tweet_count": 14657
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T18:02:37.000Z",
+        "description": "",
+        "id": "1543294032943714305",
+        "location": "沈阳/长春",
+        "name": "しとしとと",
+        "pinned_tweet_id": "1878261103396073900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880227677564792833/8NwZKipE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 1481,
+          "like_count": 56503,
+          "listed_count": 1,
+          "media_count": 1062,
+          "tweet_count": 10726
+        },
+        "username": "null_2984",
+        "verified": false
+      }
+    ]
+  }
+}

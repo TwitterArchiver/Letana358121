@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1794448257063813121",
+    "created_at": "2024-05-25T20:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T21:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794458822372897106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Lister_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794458822372897106",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794448257063813121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lister_OvO 对你使用了叮咚鸡大狗叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1794448257063813121",
+        "created_at": "2024-05-25T20:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T21:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794458822372897106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Lister_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794458822372897106",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794448257063813121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lister_OvO 对你使用了叮咚鸡大狗叫"
+      },
+      {
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "1794448257063813121",
+        "created_at": "2024-05-25T19:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794448257063813121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794448257063813121",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喉咙有梗塞感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 578,
+          "like_count": 20656,
+          "listed_count": 3,
+          "tweet_count": 6357
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "基于集成仿生突触处理器的网络聊天机器人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "616.sb",
+                "end": 23,
+                "expanded_url": "http://616.sb",
+                "start": 0,
+                "url": "https://t.co/T7f33EXN7J"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "127.0.0.1",
+        "name": "void Lister()",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765823855862722560/lGDUUCqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 459,
+          "like_count": 6867,
+          "listed_count": 3,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/T7f33EXN7J",
+        "username": "Lister_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

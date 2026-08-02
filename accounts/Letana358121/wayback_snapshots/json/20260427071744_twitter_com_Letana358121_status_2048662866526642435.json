@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048600464590307487",
+    "created_at": "2026-04-27T07:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048662866526642435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503409133399150596",
+          "start": 0,
+          "username": "dengdengmiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048662866526642435",
+    "in_reply_to_user_id": "1503409133399150596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048600464590307487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengdengmiu 我也想知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048600464590307487",
+        "created_at": "2026-04-27T07:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048662866526642435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503409133399150596",
+              "start": 0,
+              "username": "dengdengmiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048662866526642435",
+        "in_reply_to_user_id": "1503409133399150596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048600464590307487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengdengmiu 我也想知道。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503409133399150596",
+        "conversation_id": "2048600464590307487",
+        "created_at": "2026-04-27T03:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048600464590307487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048600464590307487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么为女性争取权利还会称呼女性为驴。？今天还刷到了区分更细的“男宝妈”和婚驴等等。。。我们不是应该更支持所有女性的权益自由吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1430,
+          "like_count": 51898,
+          "listed_count": 8,
+          "media_count": 2254,
+          "tweet_count": 19534
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T16:34:13.000Z",
+        "description": "这个世界是开放地图游戏，请你享受其中",
+        "id": "1503409133399150596",
+        "location": "I am because you are",
+        "name": "灯灯（remake版）",
+        "pinned_tweet_id": "2047688963427811434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503411107028824068/hnk4rqha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 462,
+          "like_count": 36281,
+          "listed_count": 14,
+          "media_count": 808,
+          "tweet_count": 6883
+        },
+        "username": "dengdengmiu",
+        "verified": false
+      }
+    ]
+  }
+}

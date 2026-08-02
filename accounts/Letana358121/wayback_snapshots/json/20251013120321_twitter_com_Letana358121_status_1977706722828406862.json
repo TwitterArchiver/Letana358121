@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1977705960262005082",
+    "created_at": "2025-10-13T12:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977706722828406862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1742338911261925376",
+          "start": 0,
+          "username": "Findlay813520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977706722828406862",
+    "in_reply_to_user_id": "1742338911261925376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977705960262005082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Findlay813520 好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1977705960262005082",
+        "created_at": "2025-10-13T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977706722828406862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1742338911261925376",
+              "start": 0,
+              "username": "Findlay813520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977706722828406862",
+        "in_reply_to_user_id": "1742338911261925376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977705960262005082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Findlay813520 好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742338911261925376",
+        "conversation_id": "1977705960262005082",
+        "created_at": "2025-10-13T12:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977705960262005082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llliouse/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/llliouse/status/1976971475178692995",
+              "start": 2,
+              "url": "https://t.co/h9U5OHkSt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977705960262005082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976971475178692995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "色 https://t.co/h9U5OHkSt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 1263,
+          "like_count": 42313,
+          "listed_count": 8,
+          "media_count": 1897,
+          "tweet_count": 16054
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T00:15:54.000Z",
+        "description": "INTJ\nlocal:深圳\n业余摄影",
+        "id": "1742338911261925376",
+        "location": "深圳",
+        "name": "Findlay",
+        "pinned_tweet_id": "1920442700324606063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783275536900599808/h-WSPANe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 240,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 291
+        },
+        "username": "Findlay813520",
+        "verified": false
+      }
+    ]
+  }
+}

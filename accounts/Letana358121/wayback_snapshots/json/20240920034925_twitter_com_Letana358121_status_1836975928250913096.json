@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1836975928250913096",
+    "created_at": "2024-09-20T03:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T04:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836975928250913096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1753355639949291521",
+          "start": 3,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836975928250913096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836778871318032604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jesuisnoirdeL: 貼貼抱抱真的很能讓我平復 感覺我生命裡的一切問題可以用貼貼抱抱解決"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1836975928250913096",
+        "created_at": "2024-09-20T03:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T04:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836975928250913096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1753355639949291521",
+              "start": 3,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836975928250913096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836778871318032604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jesuisnoirdeL: 貼貼抱抱真的很能讓我平復 感覺我生命裡的一切問題可以用貼貼抱抱解決"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1836776561774891439",
+        "created_at": "2024-09-19T14:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836778871318032604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836778871318032604",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836776561774891439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "貼貼抱抱真的很能讓我平復 感覺我生命裡的一切問題可以用貼貼抱抱解決"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 912,
+          "like_count": 28642,
+          "listed_count": 3,
+          "tweet_count": 9057
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "06 fine art / Art contemporain local de Shanghai / Asian Gay stand with LBTQ",
+        "id": "1753355639949291521",
+        "location": "Shanghaï / Lafayette ",
+        "name": "L",
+        "pinned_tweet_id": "1835563606148293070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814020372171194368/8sYaq8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 502,
+          "like_count": 37317,
+          "listed_count": 3,
+          "tweet_count": 22508
+        },
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1953381793744474112"
+      ],
+      "media_source_tweet_id": [
+        "1953381805807046795"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1953382132975276041",
+    "created_at": "2025-08-07T09:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953382132975276041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1300322641262161921",
+          "start": 3,
+          "username": "rhikww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46sj9AOhDz",
+          "end": 35,
+          "expanded_url": "https://x.com/rhikww/status/1953381805807046795/video/1",
+          "media_key": "7_1953381793744474112",
+          "start": 12,
+          "url": "https://t.co/46sj9AOhDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953382132975276041",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953381805807046795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rhikww: https://t.co/46sj9AOhDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8944,
+        "height": 272,
+        "media_key": "7_1953381793744474112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953381793744474112/pu/img/7TUj_X1CMIu6NH3X.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953381793744474112/pu/vid/avc1/576x272/HFFHNar8KVqBppls.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953381793744474112/pu/pl/4BnGCXnb5yqla7UB.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953381793744474112"
+          ],
+          "media_source_tweet_id": [
+            "1953381805807046795"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1953382132975276041",
+        "created_at": "2025-08-07T09:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953382132975276041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1300322641262161921",
+              "start": 3,
+              "username": "rhikww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46sj9AOhDz",
+              "end": 35,
+              "expanded_url": "https://x.com/rhikww/status/1953381805807046795/video/1",
+              "media_key": "7_1953381793744474112",
+              "start": 12,
+              "url": "https://t.co/46sj9AOhDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953382132975276041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953381805807046795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rhikww: https://t.co/46sj9AOhDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953381793744474112"
+          ]
+        },
+        "author_id": "1300322641262161921",
+        "conversation_id": "1953381805807046795",
+        "created_at": "2025-08-07T09:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953381805807046795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46sj9AOhDz",
+              "end": 23,
+              "expanded_url": "https://x.com/rhikww/status/1953381805807046795/video/1",
+              "media_key": "7_1953381793744474112",
+              "start": 0,
+              "url": "https://t.co/46sj9AOhDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953381805807046795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/46sj9AOhDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 1216,
+          "like_count": 40533,
+          "listed_count": 6,
+          "media_count": 1823,
+          "tweet_count": 15374
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-31T06:41:02.000Z",
+        "description": "19岁 / 我的爱人 @AwslYayala",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "AwslYayala"
+              }
+            ]
+          }
+        },
+        "id": "1300322641262161921",
+        "name": "Alicew",
+        "pinned_tweet_id": "1936433762675597715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928373545790537728/KZh1HYEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 381,
+          "like_count": 24768,
+          "listed_count": 1,
+          "media_count": 591,
+          "tweet_count": 5884
+        },
+        "username": "rhikww",
+        "verified": false
+      }
+    ]
+  }
+}

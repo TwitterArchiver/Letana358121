@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992111190773039105",
+        "3_1992111190747820032"
+      ],
+      "media_source_tweet_id": [
+        "1992111197253194018",
+        "1992111197253194018"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992131914925527337",
+    "created_at": "2025-11-22T07:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992131914925527337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2953293432",
+          "start": 3,
+          "username": "xingxing202212"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/75Tm0p44Ca",
+          "end": 65,
+          "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+          "media_key": "3_1992111190773039105",
+          "start": 42,
+          "url": "https://t.co/75Tm0p44Ca"
+        },
+        {
+          "display_url": "pic.x.com/75Tm0p44Ca",
+          "end": 65,
+          "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+          "media_key": "3_1992111190747820032",
+          "start": 42,
+          "url": "https://t.co/75Tm0p44Ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992131914925527337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992111197253194018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingxing202212: 想知部高達是咪用紙皮撒劍\n馬沙識唔識飛腿？ https://t.co/75Tm0p44Ca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_1992111190773039105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VmkscbgAEKtcr.jpg",
+        "width": 848
+      },
+      {
+        "height": 1264,
+        "media_key": "3_1992111190747820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VmksWasAA8Lpa.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992111190773039105",
+            "3_1992111190747820032"
+          ],
+          "media_source_tweet_id": [
+            "1992111197253194018",
+            "1992111197253194018"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992131914925527337",
+        "created_at": "2025-11-22T07:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992131914925527337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2953293432",
+              "start": 3,
+              "username": "xingxing202212"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/75Tm0p44Ca",
+              "end": 65,
+              "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+              "media_key": "3_1992111190773039105",
+              "start": 42,
+              "url": "https://t.co/75Tm0p44Ca"
+            },
+            {
+              "display_url": "pic.x.com/75Tm0p44Ca",
+              "end": 65,
+              "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+              "media_key": "3_1992111190747820032",
+              "start": 42,
+              "url": "https://t.co/75Tm0p44Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992131914925527337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992111197253194018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingxing202212: 想知部高達是咪用紙皮撒劍\n馬沙識唔識飛腿？ https://t.co/75Tm0p44Ca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992111190773039105",
+            "3_1992111190747820032"
+          ]
+        },
+        "author_id": "2953293432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992111197253194018",
+        "created_at": "2025-11-22T06:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992111197253194018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75Tm0p44Ca",
+              "end": 45,
+              "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+              "media_key": "3_1992111190773039105",
+              "start": 22,
+              "url": "https://t.co/75Tm0p44Ca"
+            },
+            {
+              "display_url": "pic.x.com/75Tm0p44Ca",
+              "end": 45,
+              "expanded_url": "https://x.com/xingxing202212/status/1992111197253194018/photo/1",
+              "media_key": "3_1992111190747820032",
+              "start": 22,
+              "url": "https://t.co/75Tm0p44Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992111197253194018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 217,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想知部高達是咪用紙皮撒劍\n馬沙識唔識飛腿？ https://t.co/75Tm0p44Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 1288,
+          "like_count": 43850,
+          "listed_count": 7,
+          "media_count": 1951,
+          "tweet_count": 16783
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-31T08:42:16.000Z",
+        "description": "#星詠み者 #35P #micomet #みこめっと\n 日本語🤏🏻 中国語🤏🏻 英語🤏🏻\n📷photography 攝影 撮影やつ📷 天安門事件https://t.co/BW0UWmTkN9",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "星詠み者"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "35P"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "micomet"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "みこめっと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/OLAF.gorilla/",
+                "end": 95,
+                "expanded_url": "http://instagram.com/OLAF.gorilla/",
+                "start": 72,
+                "url": "https://t.co/BW0UWmTkN9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@olaf.gorilla?…",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@olaf.gorilla?xmt=AQGzaVZMTTDD7BYaQThYzwDYoNy9eZW3zpdLCE2xi3SThw",
+                "start": 0,
+                "url": "https://t.co/3ixVI8QcoT"
+              }
+            ]
+          }
+        },
+        "id": "2953293432",
+        "location": "東京 日野市",
+        "name": "彗腥☄️🌸 #星詠み #35P 🗺️🐑",
+        "pinned_tweet_id": "1885611041683628301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910244453958418432/0ZuV0LS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 6722,
+          "like_count": 504359,
+          "listed_count": 10,
+          "media_count": 12480,
+          "tweet_count": 109912
+        },
+        "url": "https://t.co/3ixVI8QcoT",
+        "username": "xingxing202212",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2044338978976068040",
+    "created_at": "2026-04-15T09:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044339959457587568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1004362078956613632",
+          "start": 0,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044339959457587568",
+    "in_reply_to_user_id": "1004362078956613632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044338978976068040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaWantsHugs 你甚至还有钱旅行（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2044338978976068040",
+        "created_at": "2026-04-15T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044339959457587568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1004362078956613632",
+              "start": 0,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044339959457587568",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044338978976068040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaWantsHugs 你甚至还有钱旅行（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486458201117642754",
+              "name": "Inflation"
+            }
+          }
+        ],
+        "conversation_id": "2044338978976068040",
+        "created_at": "2026-04-15T08:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044338978976068040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044338978976068040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎\n我是真不会找家里要钱\n除了真要交钱真没要过\n导致我他妈上大学了生活费和中学还是一个水平\n这cost of living都完全不是一个level了我到底是怎么活下来的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 1409,
+          "like_count": 50530,
+          "listed_count": 8,
+          "media_count": 2222,
+          "tweet_count": 19195
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 / 萨摩耶bot / Traveller / #暗殺教室",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "暗殺教室"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "狗白白 🇸🇬",
+        "pinned_tweet_id": "2026234699723727291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038962288867336192/R86V9yiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 486,
+          "like_count": 25768,
+          "listed_count": 19,
+          "media_count": 1514,
+          "tweet_count": 28100
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

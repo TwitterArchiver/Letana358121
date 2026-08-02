@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1975912169264082960",
+    "created_at": "2025-10-08T13:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T14:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975915247853777279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975915247853777279",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975912169264082960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 现在变成eureka还来得及"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975912159021559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vZo8na8AAlE-Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1975912169264082960",
+        "created_at": "2025-10-08T13:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975915247853777279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975915247853777279",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975912169264082960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 现在变成eureka还来得及"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975912159021559808"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1975912169264082960",
+        "created_at": "2025-10-08T13:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975912169264082960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRba7hMHve",
+              "end": 41,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1975912169264082960/photo/1",
+              "media_key": "3_1975912159021559808",
+              "start": 18,
+              "url": "https://t.co/XRba7hMHve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975912169264082960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么满脑袋都是德国民歌erika https://t.co/XRba7hMHve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 1256,
+          "like_count": 42168,
+          "listed_count": 8,
+          "media_count": 1883,
+          "tweet_count": 15946
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 181cm 54kg🏳️‍⚧️🍥MtX💛🤍💜🖤(she?/they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 // 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "juhao0721"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 215,
+          "like_count": 1048,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

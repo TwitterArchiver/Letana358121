@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865694857899188224"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1865694870356279751",
+    "created_at": "2024-12-08T09:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T10:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865694870356279751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iC079QyfHu",
+          "end": 34,
+          "expanded_url": "https://x.com/Letana358121/status/1865694870356279751/photo/1",
+          "media_key": "3_1865694857899188224",
+          "start": 11,
+          "url": "https://t.co/iC079QyfHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865694870356279751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "竞选全药娘最爱吃薯条 https://t.co/iC079QyfHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1865694857899188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeRHlqBaoAAw5Pt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865694857899188224"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865694870356279751",
+        "created_at": "2024-12-08T09:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T10:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865694870356279751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iC079QyfHu",
+              "end": 34,
+              "expanded_url": "https://x.com/Letana358121/status/1865694870356279751/photo/1",
+              "media_key": "3_1865694857899188224",
+              "start": 11,
+              "url": "https://t.co/iC079QyfHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865694870356279751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "竞选全药娘最爱吃薯条 https://t.co/iC079QyfHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1001,
+          "like_count": 29520,
+          "listed_count": 4,
+          "media_count": 1256,
+          "tweet_count": 10506
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

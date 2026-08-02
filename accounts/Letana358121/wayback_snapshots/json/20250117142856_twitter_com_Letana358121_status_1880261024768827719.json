@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1880246243055792166",
+    "created_at": "2025-01-17T14:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880261024768827719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1004362078956613632",
+          "start": 0,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880261024768827719",
+    "in_reply_to_user_id": "1004362078956613632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880246243055792166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaWantsHugs ap难度确实有.9（哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1880246243055792166",
+        "created_at": "2025-01-17T14:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880261024768827719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1004362078956613632",
+              "start": 0,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880261024768827719",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880246243055792166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaWantsHugs ap难度确实有.9（哭）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880246234465857540"
+          ]
+        },
+        "author_id": "1004362078956613632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880246243055792166",
+        "created_at": "2025-01-17T13:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T14:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880246243055792166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWakxXEirM",
+              "end": 40,
+              "expanded_url": "https://x.com/OliviaWantsHugs/status/1880246243055792166/photo/1",
+              "media_key": "3_1880246234465857540",
+              "start": 17,
+              "url": "https://t.co/kWakxXEirM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880246243055792166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？这玩意儿能碘酒？\n.7 max https://t.co/kWakxXEirM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 1038,
+          "like_count": 30367,
+          "listed_count": 5,
+          "media_count": 1359,
+          "tweet_count": 11236
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "Liberty & Life & Love \\ 新加坡第一枕头公主 \\ 中文不好 \\ #AAA6ixty8ight返图bot \\ 是温顺可爱的幼年萨摩耶 \\ 里号: @OliviaNeedsHugs \\ 最可爱的妹妹: @Azuelle \\ M&sub&喜欢绳子不跟香草谈恋爱 \\ 宫寒怕冷 \\ 粉红老保滚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 43,
+                "tag": "AAA6ixty8ight返图bot"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "OliviaNeedsHugs"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "Olivia⭕🍐🐸重生之晒足一百三十天",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4123,
+          "following_count": 1001,
+          "like_count": 22672,
+          "listed_count": 17,
+          "media_count": 1157,
+          "tweet_count": 20252
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

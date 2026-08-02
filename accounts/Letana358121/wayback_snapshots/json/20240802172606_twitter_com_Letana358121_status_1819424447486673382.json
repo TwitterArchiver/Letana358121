@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1819420773372907820",
+    "created_at": "2024-08-02T17:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T18:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819424447486673382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588558150126354432",
+          "start": 0,
+          "username": "H4rU_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819424447486673382",
+    "in_reply_to_user_id": "1588558150126354432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819420773372907820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H4rU_xi 但是你不用成神也可以拯救我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1819420773372907820",
+        "created_at": "2024-08-02T17:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819424447486673382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588558150126354432",
+              "start": 0,
+              "username": "H4rU_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819424447486673382",
+        "in_reply_to_user_id": "1588558150126354432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819420773372907820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4rU_xi 但是你不用成神也可以拯救我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1819420773372907820",
+        "created_at": "2024-08-02T17:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819420773372907820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819420773372907820",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有成神的方法啊\n成神就可以拯救所有人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 831,
+          "like_count": 23344,
+          "listed_count": 2,
+          "tweet_count": 7688
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "“我将永远存在，在那个可以观测到的闪耀的地方”",
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "飞行低云☁️",
+        "pinned_tweet_id": "1817448423404318831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800158932176179200/uhPZ9ZJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 409,
+          "like_count": 2076,
+          "listed_count": 4,
+          "tweet_count": 9606
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

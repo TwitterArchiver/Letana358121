@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799432505881468965",
+    "created_at": "2024-06-09T07:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T08:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799712777537479079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795190061748903939",
+          "start": 0,
+          "username": "XiangB8036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799712777537479079",
+    "in_reply_to_user_id": "1795190061748903939",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799712333641716181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiangB8036 這樣啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1799432505881468965",
+        "created_at": "2024-06-09T07:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T08:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799712777537479079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795190061748903939",
+              "start": 0,
+              "username": "XiangB8036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799712777537479079",
+        "in_reply_to_user_id": "1795190061748903939",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799712333641716181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiangB8036 這樣啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1795190061748903939",
+        "conversation_id": "1799432505881468965",
+        "created_at": "2024-06-09T07:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T08:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799712333641716181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799712333641716181",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799711357518172535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 早上了一年，今年三月刚好18，也复读了一年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 598,
+          "like_count": 21263,
+          "listed_count": 2,
+          "tweet_count": 6640
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T20:27:26.000Z",
+        "description": "",
+        "id": "1795190061748903939",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "想吗见面吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797526919854075904/AHZTzNuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 4,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 148
+        },
+        "username": "XiangB8036",
+        "verified": false
+      }
+    ]
+  }
+}

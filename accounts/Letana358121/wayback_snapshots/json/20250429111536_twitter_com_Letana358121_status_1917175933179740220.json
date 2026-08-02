@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1917175933179740220",
+    "created_at": "2025-04-29T11:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T12:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917175933179740220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realShellWen/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/realShellWen/status/1916896124188897741",
+          "start": 8,
+          "url": "https://t.co/bShEX4q0ZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917175933179740220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916896124188897741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要努力打乌蒙 https://t.co/bShEX4q0ZN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1917175933179740220",
+        "created_at": "2025-04-29T11:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T12:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917175933179740220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realShellWen/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/realShellWen/status/1916896124188897741",
+              "start": 8,
+              "url": "https://t.co/bShEX4q0ZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917175933179740220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916896124188897741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要努力打乌蒙 https://t.co/bShEX4q0ZN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1204752745481170944",
+        "conversation_id": "1916896124188897741",
+        "created_at": "2025-04-28T16:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916896124188897741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916896124188897741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6194,
+          "like_count": 91,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一边说着自己要努力，另一边每天高强度游戏，怎么总有这种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1149,
+          "like_count": 38504,
+          "listed_count": 5,
+          "media_count": 1591,
+          "tweet_count": 14062
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-11T13:21:00.000Z",
+        "description": "♂️Lifelong Learner |\n🌐CHN|ENG |\n🐻Sincerity is the ultimate weapon |\n🐘Mastodon: @ShellWen@meow.social |\n👨‍💻GitHub: @ShellWen |\n🦊Beloved @GlassFoxowo |\nPMok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "ShellWen"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "GlassFoxowo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shellwen.com",
+                "end": 23,
+                "expanded_url": "https://shellwen.com",
+                "start": 0,
+                "url": "https://t.co/fNwbTL2RLO"
+              }
+            ]
+          }
+        },
+        "id": "1204752745481170944",
+        "location": "😋",
+        "name": "@shellwen@meow.social ⚝",
+        "pinned_tweet_id": "1863272374029918302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738389535766261760/qonUW7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 2687,
+          "like_count": 66277,
+          "listed_count": 16,
+          "media_count": 862,
+          "tweet_count": 21744
+        },
+        "url": "https://t.co/fNwbTL2RLO",
+        "username": "realShellWen",
+        "verified": false
+      }
+    ]
+  }
+}

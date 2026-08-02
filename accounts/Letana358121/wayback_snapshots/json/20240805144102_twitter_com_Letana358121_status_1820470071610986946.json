@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1820462529622970859",
+    "created_at": "2024-08-05T14:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820470071610986946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1519253037193211904",
+          "start": 0,
+          "username": "chiri_yunrang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820470071610986946",
+    "in_reply_to_user_id": "1519253037193211904",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820462529622970859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiri_yunrang 你穿不好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1820462529622970859",
+        "created_at": "2024-08-05T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820470071610986946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1519253037193211904",
+              "start": 0,
+              "username": "chiri_yunrang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820470071610986946",
+        "in_reply_to_user_id": "1519253037193211904",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820462529622970859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiri_yunrang 你穿不好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820462508294979584"
+          ]
+        },
+        "author_id": "1519253037193211904",
+        "conversation_id": "1820462529622970859",
+        "created_at": "2024-08-05T14:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T15:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820462529622970859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GBfZDoLeyv",
+              "end": 34,
+              "expanded_url": "https://twitter.com/chiri_yunrang/status/1820462529622970859/photo/1",
+              "media_key": "3_1820462508294979584",
+              "start": 11,
+              "url": "https://t.co/GBfZDoLeyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820462529622970859",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种白丝真的不好看吗 https://t.co/GBfZDoLeyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 842,
+          "like_count": 23611,
+          "listed_count": 2,
+          "tweet_count": 7808
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T09:52:13.000Z",
+        "description": "常驻中山，广州深圳东莞到处跑🚪66 微信yunrang_chiri",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chiri_yunrang/",
+                "end": 23,
+                "expanded_url": "http://t.me/chiri_yunrang/",
+                "start": 0,
+                "url": "https://t.co/pxawCg1lLU"
+              }
+            ]
+          }
+        },
+        "id": "1519253037193211904",
+        "location": "中山",
+        "name": "云壤",
+        "pinned_tweet_id": "1787317503322148932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701448842657566720/52J57Ia-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 176,
+          "like_count": 1573,
+          "listed_count": 3,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/pxawCg1lLU",
+        "username": "chiri_yunrang",
+        "verified": false
+      }
+    ]
+  }
+}

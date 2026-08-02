@@ -1,0 +1,184 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1808903603996012707",
+    "created_at": "2024-07-04T16:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T17:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808903603996012707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1448187795571286017",
+          "start": 3,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808903603996012707",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808718916945895575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuiyebush1: 脑子里全是想死和普瑞巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1808903603996012707",
+        "created_at": "2024-07-04T16:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T17:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808903603996012707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1448187795571286017",
+              "start": 3,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808903603996012707",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808718916945895575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuiyebush1: 脑子里全是想死和普瑞巴林"
+      },
+      {
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "1808718916945895575",
+        "created_at": "2024-07-04T04:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T05:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808718916945895575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808718916945895575",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1020,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "脑子里全是想死和普瑞巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 769,
+          "like_count": 21805,
+          "listed_count": 2,
+          "tweet_count": 7014
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "永远的主人是@asahisuki0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": ".Olanzapine（）",
+        "pinned_tweet_id": "1786023371190526352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808420476878032896/-tGu2l_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 463,
+          "like_count": 26059,
+          "listed_count": 14,
+          "tweet_count": 13319
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

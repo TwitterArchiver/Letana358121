@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821437931242061824"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1821437957150257188",
+    "created_at": "2024-08-08T06:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T07:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821437957150257188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/28obrjmovc",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Letana358121/status/1821437957150257188/photo/1",
+          "media_key": "3_1821437931242061824",
+          "start": 14,
+          "url": "https://t.co/28obrjMOvC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821437957150257188",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的这个油。。。你们天津人 https://t.co/28obrjMOvC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821437931242061824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUcMJegbAAAttv7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821437931242061824"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1821437957150257188",
+        "created_at": "2024-08-08T06:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T07:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821437957150257188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28obrjmovc",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Letana358121/status/1821437957150257188/photo/1",
+              "media_key": "3_1821437931242061824",
+              "start": 14,
+              "url": "https://t.co/28obrjMOvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821437957150257188",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的这个油。。。你们天津人 https://t.co/28obrjMOvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 843,
+          "like_count": 24014,
+          "listed_count": 2,
+          "tweet_count": 7869
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

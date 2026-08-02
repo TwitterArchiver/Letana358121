@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1914282983227547768",
+    "created_at": "2025-04-21T12:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T13:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914293746159718669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "DAmnesia8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914293746159718669",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914282983227547768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DAmnesia8964 没事我丑得要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1914282983227547768",
+        "created_at": "2025-04-21T12:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T13:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914293746159718669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "DAmnesia8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914293746159718669",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914282983227547768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAmnesia8964 没事我丑得要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "1914282983227547768",
+        "created_at": "2025-04-21T11:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T12:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914282983227547768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914282983227547768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么都这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 1146,
+          "like_count": 37996,
+          "listed_count": 5,
+          "media_count": 1571,
+          "tweet_count": 13871
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "中文/EN/日本語 | 妄想成为不动点",
+        "id": "1650521797299953665",
+        "location": "第三公园",
+        "name": "解离性失忆症？？？？？？",
+        "pinned_tweet_id": "1907428560442470698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 767,
+          "like_count": 54994,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 8964
+        },
+        "username": "DAmnesia8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949735281214763008"
+      ],
+      "media_source_tweet_id": [
+        "1949735284251210173"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949738156162453511",
+    "created_at": "2025-07-28T07:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T08:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949738156162453511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4229371640",
+          "start": 3,
+          "username": "ringochichidim"
+        },
+        {
+          "end": 51,
+          "id": "1872203155775373312",
+          "start": 36,
+          "username": "w9159938679888"
+        },
+        {
+          "end": 67,
+          "id": "1606690184564985856",
+          "start": 52,
+          "username": "hgsbtin_nisaki"
+        },
+        {
+          "end": 81,
+          "id": "1669543422586421248",
+          "start": 68,
+          "username": "Letana358121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/atVJdrBWow",
+          "end": 105,
+          "expanded_url": "https://x.com/ringochichidim/status/1949735284251210173/photo/1",
+          "media_key": "3_1949735281214763008",
+          "start": 82,
+          "url": "https://t.co/atVJdrBWow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949738156162453511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949735284251210173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringochichidim: tag錯了重打，今天四個人面姬\n@w9159938679888 @hgsbtin_nisaki @Letana358121 https://t.co/atVJdrBWow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1949735281214763008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7Z6HraMAAw1P-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949735281214763008"
+          ],
+          "media_source_tweet_id": [
+            "1949735284251210173"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949738156162453511",
+        "created_at": "2025-07-28T07:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949738156162453511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4229371640",
+              "start": 3,
+              "username": "ringochichidim"
+            },
+            {
+              "end": 51,
+              "id": "1872203155775373312",
+              "start": 36,
+              "username": "w9159938679888"
+            },
+            {
+              "end": 67,
+              "id": "1606690184564985856",
+              "start": 52,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 81,
+              "id": "1669543422586421248",
+              "start": 68,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/atVJdrBWow",
+              "end": 105,
+              "expanded_url": "https://x.com/ringochichidim/status/1949735284251210173/photo/1",
+              "media_key": "3_1949735281214763008",
+              "start": 82,
+              "url": "https://t.co/atVJdrBWow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949738156162453511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949735284251210173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringochichidim: tag錯了重打，今天四個人面姬\n@w9159938679888 @hgsbtin_nisaki @Letana358121 https://t.co/atVJdrBWow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949735281214763008"
+          ]
+        },
+        "author_id": "4229371640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949735284251210173",
+        "created_at": "2025-07-28T07:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949735284251210173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1872203155775373312",
+              "start": 16,
+              "username": "w9159938679888"
+            },
+            {
+              "end": 47,
+              "id": "1606690184564985856",
+              "start": 32,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 61,
+              "id": "1669543422586421248",
+              "start": 48,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/atVJdrBWow",
+              "end": 85,
+              "expanded_url": "https://x.com/ringochichidim/status/1949735284251210173/photo/1",
+              "media_key": "3_1949735281214763008",
+              "start": 62,
+              "url": "https://t.co/atVJdrBWow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949735284251210173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "tag錯了重打，今天四個人面姬\n@w9159938679888 @hgsbtin_nisaki @Letana358121 https://t.co/atVJdrBWow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 1207,
+          "like_count": 40861,
+          "listed_count": 6,
+          "media_count": 1814,
+          "tweet_count": 15311
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\nこいびと：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1488,
+          "like_count": 36076,
+          "listed_count": 6,
+          "media_count": 3060,
+          "tweet_count": 9852
+        },
+        "username": "ringochichidim",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:50:19.000Z",
+        "description": "",
+        "id": "1872203155775373312",
+        "name": "悅奈",
+        "pinned_tweet_id": "1930278380668428448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929200774061727744/bCr6PMhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 22,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "w9159938679888",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ N1考取中｜同类互fo🏳️‍⚧️｜ @WangPu90983 ｜妹妹 @Littlecat111007 ｜@chuF6yuanmen 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 452,
+          "like_count": 8723,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

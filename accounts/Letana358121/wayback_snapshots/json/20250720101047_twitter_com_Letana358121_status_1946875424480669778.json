@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946875417262174208"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1946875424480669778",
+    "created_at": "2025-07-20T10:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946875424480669778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozwp4HKcxt",
+          "end": 55,
+          "expanded_url": "https://x.com/Letana358121/status/1946875424480669778/photo/1",
+          "media_key": "3_1946875417262174208",
+          "start": 32,
+          "url": "https://t.co/ozwp4HKcxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946875424480669778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉烦死了就是下大雨家里人还叫我出门吃饭全身都被淋得湿透了烦死了 https://t.co/ozwp4HKcxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_1946875417262174208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwSw4IPaMAAedd2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946875417262174208"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1946875424480669778",
+        "created_at": "2025-07-20T10:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946875424480669778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozwp4HKcxt",
+              "end": 55,
+              "expanded_url": "https://x.com/Letana358121/status/1946875424480669778/photo/1",
+              "media_key": "3_1946875417262174208",
+              "start": 32,
+              "url": "https://t.co/ozwp4HKcxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946875424480669778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉烦死了就是下大雨家里人还叫我出门吃饭全身都被淋得湿透了烦死了 https://t.co/ozwp4HKcxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 1199,
+          "like_count": 40659,
+          "listed_count": 6,
+          "media_count": 1785,
+          "tweet_count": 15198
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

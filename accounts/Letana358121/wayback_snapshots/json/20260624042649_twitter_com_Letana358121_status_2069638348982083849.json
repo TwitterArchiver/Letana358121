@@ -1,0 +1,691 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226228154195968",
+          "name": "Norway"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+          "id": "40",
+          "name": "Sports Series"
+        },
+        "entity": {
+          "id": "2059337548200087553",
+          "name": "World Cup 2026"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2069638348982083849",
+    "created_at": "2026-06-24T04:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069638348982083849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MVjagaimo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/MVjagaimo/status/2069485097687093373",
+          "start": 5,
+          "url": "https://t.co/vNwNA7Jpz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069638348982083849",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069485097687093373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。？ https://t.co/vNwNA7Jpz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069485090896531456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhJub7a0AAQhCo.jpg",
+        "width": 1052
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069485090904985600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhJub9b0AAVgoS.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226228154195968",
+              "name": "Norway"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2069638348982083849",
+        "created_at": "2026-06-24T04:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069638348982083849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MVjagaimo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/MVjagaimo/status/2069485097687093373",
+              "start": 5,
+              "url": "https://t.co/vNwNA7Jpz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069638348982083849",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069485097687093373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。？ https://t.co/vNwNA7Jpz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069485090896531456",
+            "3_2069485090904985600"
+          ]
+        },
+        "author_id": "1215507204813406208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226228154195968",
+              "name": "Norway"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          }
+        ],
+        "conversation_id": "2069485097687093373",
+        "created_at": "2026-06-23T18:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069485097687093373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpyUDhcVXA",
+              "end": 135,
+              "expanded_url": "https://x.com/MVjagaimo/status/2069485097687093373/photo/1",
+              "media_key": "3_2069485090896531456",
+              "start": 112,
+              "url": "https://t.co/cpyUDhcVXA"
+            },
+            {
+              "display_url": "pic.x.com/cpyUDhcVXA",
+              "end": 135,
+              "expanded_url": "https://x.com/MVjagaimo/status/2069485097687093373/photo/1",
+              "media_key": "3_2069485090904985600",
+              "start": 112,
+              "url": "https://t.co/cpyUDhcVXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069485097687093373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3860,
+          "impression_count": 986762,
+          "like_count": 46506,
+          "quote_count": 973,
+          "reply_count": 260,
+          "retweet_count": 4125
+        },
+        "reply_settings": "everyone",
+        "text": "i just went on chinese social media and they're busy turning Erling Haaland into a Love and Deepspace male lead https://t.co/cpyUDhcVXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 1543,
+          "like_count": 58801,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21311
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-10T05:34:42.000Z",
+        "description": "Crimson Dragon VTuber | 🖌3D @Mofuworkshop | Comms❌|👾https://t.co/HIraNlIHYW | L2D @akaya_siki @ayanamigo | vJAGA @pipimothercluck @uki_ukiha | EN/中文/日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Mofuworkshop"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "akaya_siki"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "ayanamigo"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "pipimothercluck"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "uki_ukiha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/Mao_VT",
+                "end": 75,
+                "expanded_url": "http://twitch.tv/Mao_VT",
+                "start": 52,
+                "url": "https://t.co/HIraNlIHYW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ke-mao.carrd.com",
+                "end": 23,
+                "expanded_url": "http://ke-mao.carrd.com",
+                "start": 0,
+                "url": "https://t.co/DGLIbEKLfX"
+              }
+            ]
+          }
+        },
+        "id": "1215507204813406208",
+        "name": "刻矛 MAO 🔆🪱🔆",
+        "pinned_tweet_id": "1893843370482511939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954401047428096000/nIdnq8sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21864,
+          "following_count": 885,
+          "like_count": 83884,
+          "listed_count": 213,
+          "media_count": 1970,
+          "tweet_count": 12899
+        },
+        "url": "https://t.co/DGLIbEKLfX",
+        "username": "MVjagaimo",
+        "verified": true
+      }
+    ]
+  }
+}

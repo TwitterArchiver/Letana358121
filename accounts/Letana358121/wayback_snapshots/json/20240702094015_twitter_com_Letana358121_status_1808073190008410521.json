@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1807676877034946943",
+    "created_at": "2024-07-02T09:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T10:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808073190008410521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1106746386849169409",
+          "start": 0,
+          "username": "J3oAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808073190008410521",
+    "in_reply_to_user_id": "1106746386849169409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807676877034946943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J3oAl 晚上等宿舍人睡着之后自己玩后面（。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1807676877034946943",
+        "created_at": "2024-07-02T09:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T10:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808073190008410521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1106746386849169409",
+              "start": 0,
+              "username": "J3oAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808073190008410521",
+        "in_reply_to_user_id": "1106746386849169409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807676877034946943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J3oAl 晚上等宿舍人睡着之后自己玩后面（。）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1106746386849169409",
+        "conversation_id": "1807676877034946943",
+        "created_at": "2024-07-01T07:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T08:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807676877034946943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807676877034946943",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 51242,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求解：各位是如何在学校里处理性欲的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801462580726398976/HM05Knf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 766,
+          "like_count": 21727,
+          "listed_count": 2,
+          "tweet_count": 6988
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T02:37:55.000Z",
+        "description": "ENFJ 不是gay！！！",
+        "id": "1106746386849169409",
+        "location": "0.1km",
+        "name": "Harrry（等待实习版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803111163708030976/y-0Tatdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 45,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 151
+        },
+        "username": "J3oAl",
+        "verified": false
+      }
+    ]
+  }
+}

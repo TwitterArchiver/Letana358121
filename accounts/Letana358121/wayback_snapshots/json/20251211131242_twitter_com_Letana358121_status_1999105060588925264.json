@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1998820969872499058",
+    "created_at": "2025-12-11T13:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999105060588925264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4010001319",
+          "start": 0,
+          "username": "dreizehn31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999105060588925264",
+    "in_reply_to_user_id": "4010001319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998820969872499058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreizehn31 热爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92850,
+        "height": 720,
+        "media_key": "13_1998820817753485313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998820817753485313/img/pkI643GW4MAOFh1Z.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998820817753485313/vid/avc1/480x270/zc_CY5KfhdL8iJbG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998820817753485313/vid/avc1/640x360/yEpdRWzy0HXUqcEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998820817753485313/vid/avc1/1280x720/FwUqyaF-pKBTlXzW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998820817753485313/pl/_JLtR21lfOkumcb6.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1998820817728372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7088YpbAAAHykM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1998820817753526273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7088Yva0AEIRU2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1998820969872499058",
+        "created_at": "2025-12-11T13:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999105060588925264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4010001319",
+              "start": 0,
+              "username": "dreizehn31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999105060588925264",
+        "in_reply_to_user_id": "4010001319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998820969872499058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreizehn31 热爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998820817753485313",
+            "3_1998820817728372736",
+            "3_1998820817753526273"
+          ]
+        },
+        "author_id": "4010001319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998820969872499058",
+        "created_at": "2025-12-10T18:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998820969872499058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YH7kWi5yim",
+              "end": 52,
+              "expanded_url": "https://x.com/dreizehn31/status/1998820969872499058/video/1",
+              "media_key": "13_1998820817753485313",
+              "start": 29,
+              "url": "https://t.co/YH7kWi5yim"
+            },
+            {
+              "display_url": "pic.x.com/YH7kWi5yim",
+              "end": 52,
+              "expanded_url": "https://x.com/dreizehn31/status/1998820969872499058/video/1",
+              "media_key": "3_1998820817728372736",
+              "start": 29,
+              "url": "https://t.co/YH7kWi5yim"
+            },
+            {
+              "display_url": "pic.x.com/YH7kWi5yim",
+              "end": 52,
+              "expanded_url": "https://x.com/dreizehn31/status/1998820969872499058/video/1",
+              "media_key": "3_1998820817753526273",
+              "start": 29,
+              "url": "https://t.co/YH7kWi5yim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998820969872499058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有兩個舞神\n\n我很喜歡這個遊戲\n\n我真的很喜歡這個遊戲 https://t.co/YH7kWi5yim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 1300,
+          "like_count": 44766,
+          "listed_count": 7,
+          "media_count": 2003,
+          "tweet_count": 17113
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-25T05:17:02.000Z",
+        "description": "不是舞萌痴（两个礼拜出勤一次真不是舞萌痴）、有個國服舞神、玩耳機的、曾经在耳機店打工",
+        "id": "4010001319",
+        "name": "神白知道轰炸甲鱼还有仙人掌",
+        "pinned_tweet_id": "1998820969872499058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400243172488495104/P5MNg318_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 1372,
+          "like_count": 1552,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 1274
+        },
+        "username": "dreizehn31",
+        "verified": false
+      }
+    ]
+  }
+}

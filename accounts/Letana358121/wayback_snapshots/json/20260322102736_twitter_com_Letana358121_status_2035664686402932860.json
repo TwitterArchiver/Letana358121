@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2035664686402932860",
+    "created_at": "2026-03-22T10:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035664686402932860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Letana358121/status/2035610243254898882",
+          "start": 9,
+          "url": "https://t.co/s3finQAo8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035664686402932860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035610243254898882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后做了紫色镜面 https://t.co/s3finQAo8l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2035664686402932860",
+        "created_at": "2026-03-22T10:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035664686402932860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Letana358121/status/2035610243254898882",
+              "start": 9,
+              "url": "https://t.co/s3finQAo8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035664686402932860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035610243254898882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后做了紫色镜面 https://t.co/s3finQAo8l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2035610242340601856"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2035610243254898882",
+        "created_at": "2026-03-22T06:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035610243254898882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035610243254898882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美甲做哪个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 1378,
+          "like_count": 48587,
+          "listed_count": 8,
+          "media_count": 2167,
+          "tweet_count": 18535
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

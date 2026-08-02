@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839671123363111286",
+    "created_at": "2024-09-27T14:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T15:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839673037031113157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823743287762804736",
+          "start": 0,
+          "username": "dyingmacao"
+        },
+        {
+          "end": 20,
+          "id": "1727665885543034880",
+          "start": 12,
+          "username": "S1fr404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839673037031113157",
+    "in_reply_to_user_id": "1823743287762804736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839672866352332965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyingmacao @S1fr404 怎麼還要聽講座？那你幾點才能來我這兒"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839672866352332965].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839672866352332965",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839672866352332965"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839671123363111286",
+        "created_at": "2024-09-27T14:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T15:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839673037031113157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823743287762804736",
+              "start": 0,
+              "username": "dyingmacao"
+            },
+            {
+              "end": 20,
+              "id": "1727665885543034880",
+              "start": 12,
+              "username": "S1fr404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839673037031113157",
+        "in_reply_to_user_id": "1823743287762804736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839672866352332965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyingmacao @S1fr404 怎麼還要聽講座？那你幾點才能來我這兒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 930,
+          "like_count": 28842,
+          "listed_count": 3,
+          "tweet_count": 9276
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T15:27:50.000Z",
+        "description": "@deadmacao の鍵垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "deadmacao"
+              }
+            ]
+          }
+        },
+        "id": "1823743287762804736",
+        "name": "ダイングマカオ",
+        "pinned_tweet_id": "1823756067375038852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839528182871150592/nCxMNS6k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 35,
+          "like_count": 426,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "dyingmacao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T12:30:53.000Z",
+        "description": "Why are we still here? Just to suffer?",
+        "id": "1727665885543034880",
+        "location": "Central & Western District",
+        "name": "C1pher",
+        "pinned_tweet_id": "1831883785040007286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833084637989785600/Y5WOulec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 268,
+          "like_count": 22984,
+          "listed_count": 0,
+          "tweet_count": 2638
+        },
+        "username": "S1fr404",
+        "verified": false
+      }
+    ]
+  }
+}

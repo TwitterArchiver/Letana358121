@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1892156780094050800",
+    "created_at": "2025-02-19T11:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T12:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892171622981001406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892171622981001406",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892156780094050800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 瓦倫黑化形態。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892156776373776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJKkCMbcAA-GOo.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1892156780094050800",
+        "created_at": "2025-02-19T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892171622981001406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892171622981001406",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892156780094050800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 瓦倫黑化形態。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892156776373776384"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "conversation_id": "1892156780094050800",
+        "created_at": "2025-02-19T10:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892156780094050800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcTUjgDg34",
+              "end": 37,
+              "expanded_url": "https://x.com/omo0903/status/1892156780094050800/photo/1",
+              "media_key": "3_1892156776373776384",
+              "start": 14,
+              "url": "https://t.co/xcTUjgDg34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892156780094050800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "認真問誰會吃這鬼東西，超苦 https://t.co/xcTUjgDg34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 1099,
+          "like_count": 32809,
+          "listed_count": 4,
+          "media_count": 1440,
+          "tweet_count": 12066
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n聊天隨意\nINTP人\n匿箱：https://t.co/TWj1YDanYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo0903",
+                "end": 44,
+                "expanded_url": "https://ngl.link/omo0903",
+                "start": 21,
+                "url": "https://t.co/TWj1YDanYx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/UFWHGqfbbogogx…",
+                "end": 23,
+                "expanded_url": "https://lit.link/UFWHGqfbbogogxgPwfYEFlXTIEA3",
+                "start": 0,
+                "url": "https://t.co/5uTbEJIJNq"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "New Taipei City, Taiwan",
+        "name": "？",
+        "pinned_tweet_id": "1801742902781219002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829065257689690112/v8akCqvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 737,
+          "like_count": 37064,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/5uTbEJIJNq",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

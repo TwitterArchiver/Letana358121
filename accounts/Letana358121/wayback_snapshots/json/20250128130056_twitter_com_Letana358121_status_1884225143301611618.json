@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1884222812107464882",
+    "created_at": "2025-01-28T13:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T14:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884225143301611618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596416860752207872",
+          "start": 0,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884225143301611618",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884225099680866331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longlinlon 服了（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884225099680866331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884225099680866331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884225099680866331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1884222812107464882",
+        "created_at": "2025-01-28T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884225143301611618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884225143301611618",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884225099680866331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 服了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1067,
+          "like_count": 30996,
+          "listed_count": 4,
+          "media_count": 1385,
+          "tweet_count": 11503
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "火灾调查员梦女",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 2309,
+          "like_count": 190060,
+          "listed_count": 7,
+          "media_count": 1076,
+          "tweet_count": 12425
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

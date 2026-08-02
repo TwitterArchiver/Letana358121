@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1813480720880525389",
+    "created_at": "2024-07-17T11:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T12:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813544128149639360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602971238170734592",
+          "start": 0,
+          "username": "wuwei012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813544128149639360",
+    "in_reply_to_user_id": "1602971238170734592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813508162521350359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuwei012 对的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1813480720880525389",
+        "created_at": "2024-07-17T11:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T12:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813544128149639360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602971238170734592",
+              "start": 0,
+              "username": "wuwei012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813544128149639360",
+        "in_reply_to_user_id": "1602971238170734592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813508162521350359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuwei012 对的。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1602971238170734592",
+        "conversation_id": "1813480720880525389",
+        "created_at": "2024-07-17T09:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T10:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813508162521350359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813508162521350359",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813480720880525389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 因为孤独吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 780,
+          "like_count": 22191,
+          "listed_count": 2,
+          "tweet_count": 7150
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T10:23:56.000Z",
+        "description": "",
+        "id": "1602971238170734592",
+        "location": "平静之地",
+        "name": "无味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810544472180273152/zQsHnM-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 649,
+          "like_count": 3458,
+          "listed_count": 3,
+          "tweet_count": 1407
+        },
+        "username": "wuwei012",
+        "verified": false
+      }
+    ]
+  }
+}

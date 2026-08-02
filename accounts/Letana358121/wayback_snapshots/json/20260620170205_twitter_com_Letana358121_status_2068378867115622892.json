@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2068372315705126914",
+    "created_at": "2026-06-20T17:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068378867115622892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068378867115622892",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068372315705126914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這些都是吃完思諾思的屁話你們可以假裝沒看到裡面也沒啥邏輯想到啥就寫啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2068372315705126914",
+        "created_at": "2026-06-20T17:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068378867115622892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068378867115622892",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068372315705126914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這些都是吃完思諾思的屁話你們可以假裝沒看到裡面也沒啥邏輯想到啥就寫啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2068372315705126914",
+        "created_at": "2026-06-20T16:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068372315705126914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068372315705126914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感覺其實我並不太pride，也經常因為我的跨性別身份而陷入痛苦，但是我看來我的痛苦都不是源自於我的，而是源自於社會對我的壓迫，源自於父權制社會下我成為了一個異類的而針對異類的壓迫，但這些痛苦卻變得由跨兒們自己去承擔，甚至要想是不是因為我是這樣的人所以我才只能承受這樣的痛苦（1/n）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 1536,
+          "like_count": 58203,
+          "listed_count": 7,
+          "media_count": 2339,
+          "tweet_count": 21167
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799807820860403729",
+    "created_at": "2024-06-09T14:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T15:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799814511526089036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455940830594752517",
+          "start": 0,
+          "username": "Kafka_kissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799814511526089036",
+    "in_reply_to_user_id": "1455940830594752517",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799810160736784769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafka_kissu loft啦，很小的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1799807820860403729",
+        "created_at": "2024-06-09T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799814511526089036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455940830594752517",
+              "start": 0,
+              "username": "Kafka_kissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799814511526089036",
+        "in_reply_to_user_id": "1455940830594752517",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799810160736784769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafka_kissu loft啦，很小的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1455940830594752517",
+        "conversation_id": "1799807820860403729",
+        "created_at": "2024-06-09T14:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799810160736784769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00dcc81a0ec32f15"
+        },
+        "id": "1799810160736784769",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799807820860403729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 居然有楼梯 是loft还是大别墅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 717,
+          "like_count": 21353,
+          "listed_count": 2,
+          "tweet_count": 6678
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "我是卡芙卡，可以读作qia（ㄑㄧㄚˇ）芙qia。zhCN/enUS，日语凑合猜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "time-to-say-goodbye-boom.com",
+                "end": 23,
+                "expanded_url": "http://time-to-say-goodbye-boom.com",
+                "start": 0,
+                "url": "https://t.co/HSdS98Aqrd"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "Incheon-Osaka-Kaohsiung",
+        "name": "Kafka",
+        "pinned_tweet_id": "1783632397847633925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795352506878578688/die5Vuc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1115,
+          "like_count": 394,
+          "listed_count": 0,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/HSdS98Aqrd",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

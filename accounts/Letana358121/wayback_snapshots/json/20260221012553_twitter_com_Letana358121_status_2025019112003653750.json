@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2024744208024949031",
+    "created_at": "2026-02-21T01:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025019112003653750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "PieP_2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025019112003653750",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024744208024949031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@PieP_2000 依旧那股软饭男味溢出屏幕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2024744208024949031",
+        "created_at": "2026-02-21T01:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025019112003653750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "PieP_2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025019112003653750",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024744208024949031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@PieP_2000 依旧那股软饭男味溢出屏幕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2024744208024949031",
+        "created_at": "2026-02-20T07:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024744208024949031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuamitx0/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/tuamitx0/status/2024675967592169596",
+              "start": 33,
+              "url": "https://t.co/wg5vxa6nGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024744208024949031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5876,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024675967592169596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "你国男的为什么永远都想吃女性的软饭……有手有脚的不会靠自己赚钱? https://t.co/wg5vxa6nGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "忘れてしまえたら どれほど楽だろうか，\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021860013602746368/ajbfPcGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 1342,
+          "like_count": 46651,
+          "listed_count": 7,
+          "media_count": 2110,
+          "tweet_count": 17921
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "β Cygni",
+        "pinned_tweet_id": "2015642943839969688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952425658396675/iG6TXIAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 7311,
+          "like_count": 144460,
+          "listed_count": 3,
+          "media_count": 756,
+          "tweet_count": 23891
+        },
+        "username": "PieP_2000",
+        "verified": false
+      }
+    ]
+  }
+}

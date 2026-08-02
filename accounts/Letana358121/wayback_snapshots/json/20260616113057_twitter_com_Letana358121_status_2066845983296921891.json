@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2066843837931434105",
+    "created_at": "2026-06-16T11:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066845983296921891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066845983296921891",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066843837931434105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 还有人类吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066843829387624448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ngyDbgAAbofh.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066843829370753024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ngx_aEAAiEDK.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066843829366575105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ngx-aUAEH1pX.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066843829693820928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ngzMbsAA__ey.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2066843837931434105",
+        "created_at": "2026-06-16T11:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066845983296921891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066845983296921891",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066843837931434105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 还有人类吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066843829387624448",
+            "3_2066843829370753024",
+            "3_2066843829366575105",
+            "3_2066843829693820928"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2066843837931434105",
+        "created_at": "2026-06-16T11:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066843837931434105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7Yjy2fDQf",
+              "end": 37,
+              "expanded_url": "https://x.com/ZhaXia123/status/2066843837931434105/photo/1",
+              "media_key": "3_2066843829387624448",
+              "start": 14,
+              "url": "https://t.co/S7Yjy2fDQf"
+            },
+            {
+              "display_url": "pic.x.com/S7Yjy2fDQf",
+              "end": 37,
+              "expanded_url": "https://x.com/ZhaXia123/status/2066843837931434105/photo/1",
+              "media_key": "3_2066843829370753024",
+              "start": 14,
+              "url": "https://t.co/S7Yjy2fDQf"
+            },
+            {
+              "display_url": "pic.x.com/S7Yjy2fDQf",
+              "end": 37,
+              "expanded_url": "https://x.com/ZhaXia123/status/2066843837931434105/photo/1",
+              "media_key": "3_2066843829366575105",
+              "start": 14,
+              "url": "https://t.co/S7Yjy2fDQf"
+            },
+            {
+              "display_url": "pic.x.com/S7Yjy2fDQf",
+              "end": 37,
+              "expanded_url": "https://x.com/ZhaXia123/status/2066843837931434105/photo/1",
+              "media_key": "3_2066843829693820928",
+              "start": 14,
+              "url": "https://t.co/S7Yjy2fDQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066843837931434105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不知道这个贱畜是什么了 https://t.co/S7Yjy2fDQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 1526,
+          "like_count": 57667,
+          "listed_count": 7,
+          "media_count": 2330,
+          "tweet_count": 21033
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子。主页许多内容都是我转载的比较认可的\n男拳评论回复引用我帖子和我有任何互动直接死全家死无全尸一辈子都是底层贱畜一辈子发不了财",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2066045835193008418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 56,
+          "like_count": 10642,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 4818
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

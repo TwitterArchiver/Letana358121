@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2049737611007377875",
+    "created_at": "2026-04-30T12:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049828643556237698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "722248615716978688",
+          "start": 0,
+          "username": "Kung_Hank409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049828643556237698",
+    "in_reply_to_user_id": "722248615716978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049825820437536848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kung_Hank409 确实是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2049737611007377875",
+        "created_at": "2026-04-30T12:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049828643556237698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "722248615716978688",
+              "start": 0,
+              "username": "Kung_Hank409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049828643556237698",
+        "in_reply_to_user_id": "722248615716978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049825820437536848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kung_Hank409 确实是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2049737611007377875",
+        "created_at": "2026-04-30T12:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049825820437536848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049825820437536848",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049737611007377875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 那不就是阶级斗争"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3206,
+          "following_count": 1440,
+          "like_count": 52326,
+          "listed_count": 8,
+          "media_count": 2258,
+          "tweet_count": 19692
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "Lucky！You got me.",
+        "id": "722248615716978688",
+        "location": "Uranus",
+        "name": "清郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 379,
+          "like_count": 239,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 7625
+        },
+        "username": "Kung_Hank409",
+        "verified": false
+      }
+    ]
+  }
+}

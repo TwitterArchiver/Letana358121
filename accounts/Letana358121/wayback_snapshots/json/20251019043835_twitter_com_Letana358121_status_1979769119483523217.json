@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979721384352755712"
+      ],
+      "media_source_tweet_id": [
+        "1979721577848873402"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1979769119483523217",
+    "created_at": "2025-10-19T04:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979769119483523217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Ve4CcuADq",
+          "end": 62,
+          "expanded_url": "https://x.com/igeekbb/status/1979721577848873402/photo/1",
+          "media_key": "3_1979721384352755712",
+          "start": 39,
+          "url": "https://t.co/7Ve4CcuADq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979769119483523217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979721577848873402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 父母苦难式教育，长大了才知道多给孩子十块钱不会穷。 https://t.co/7Ve4CcuADq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_1979721384352755712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3liHCyXMAAQ65q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979721384352755712"
+          ],
+          "media_source_tweet_id": [
+            "1979721577848873402"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1979769119483523217",
+        "created_at": "2025-10-19T04:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979769119483523217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ve4CcuADq",
+              "end": 62,
+              "expanded_url": "https://x.com/igeekbb/status/1979721577848873402/photo/1",
+              "media_key": "3_1979721384352755712",
+              "start": 39,
+              "url": "https://t.co/7Ve4CcuADq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979769119483523217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979721577848873402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 父母苦难式教育，长大了才知道多给孩子十块钱不会穷。 https://t.co/7Ve4CcuADq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979721384352755712"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1979721577848873402",
+        "created_at": "2025-10-19T01:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979721577848873402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ve4CcuADq",
+              "end": 49,
+              "expanded_url": "https://x.com/igeekbb/status/1979721577848873402/photo/1",
+              "media_key": "3_1979721384352755712",
+              "start": 26,
+              "url": "https://t.co/7Ve4CcuADq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979721577848873402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 7478,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "父母苦难式教育，长大了才知道多给孩子十块钱不会穷。 https://t.co/7Ve4CcuADq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1270,
+          "like_count": 42417,
+          "listed_count": 8,
+          "media_count": 1904,
+          "tweet_count": 16148
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55831,
+          "following_count": 1,
+          "like_count": 7281,
+          "listed_count": 222,
+          "media_count": 5479,
+          "tweet_count": 8289
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

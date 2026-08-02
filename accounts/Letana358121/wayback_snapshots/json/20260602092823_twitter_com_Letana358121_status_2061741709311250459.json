@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2061474924666159385",
+    "created_at": "2026-06-02T09:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061741709311250459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061741709311250459",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061738213241462926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061474924666159385",
+        "created_at": "2026-06-02T09:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061741709311250459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061741709311250459",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061738213241462926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "2061474924666159385",
+        "created_at": "2026-06-02T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061738213241462926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061738213241462926",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061474924666159385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 我好想妳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 1477,
+          "like_count": 56285,
+          "listed_count": 6,
+          "media_count": 2300,
+          "tweet_count": 20617
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀 病み垢@kanochan_umxxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "kanochan_umxxi"
+              }
+            ]
+          }
+        },
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904508683599638528/5GMfID02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 62,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 532
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

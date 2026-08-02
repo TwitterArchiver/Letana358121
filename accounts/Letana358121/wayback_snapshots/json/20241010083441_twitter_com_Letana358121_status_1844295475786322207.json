@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1844292430096687379",
+    "created_at": "2024-10-10T08:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T09:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844295475786322207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620479004506730496",
+          "start": 0,
+          "username": "Kagaminojingye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844295475786322207",
+    "in_reply_to_user_id": "1620479004506730496",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844292430096687379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagaminojingye 打搅高手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1844292430096687379",
+        "created_at": "2024-10-10T08:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T09:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844295475786322207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620479004506730496",
+              "start": 0,
+              "username": "Kagaminojingye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844295475786322207",
+        "in_reply_to_user_id": "1620479004506730496",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844292430096687379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagaminojingye 打搅高手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1844292419241885696"
+          ]
+        },
+        "author_id": "1620479004506730496",
+        "conversation_id": "1844292430096687379",
+        "created_at": "2024-10-10T08:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T09:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844292430096687379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R89l0H29f7",
+              "end": 57,
+              "expanded_url": "https://x.com/Kagaminojingye/status/1844292430096687379/video/1",
+              "media_key": "7_1844292419241885696",
+              "start": 34,
+              "url": "https://t.co/R89l0H29f7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844292430096687379",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草他妈的早上十点多醒到现在四点多六个消失打了4发我草他妈的绝育吧 https://t.co/R89l0H29f7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 957,
+          "like_count": 29469,
+          "listed_count": 3,
+          "tweet_count": 9544
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:48:04.000Z",
+        "description": "别再把你那皮炎子叫成批了",
+        "id": "1620479004506730496",
+        "name": "奶龙",
+        "pinned_tweet_id": "1819402169327800616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833503328938135552/dfUu8Z1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 136,
+          "like_count": 3360,
+          "listed_count": 9,
+          "tweet_count": 314
+        },
+        "username": "Kagaminojingye",
+        "verified": false
+      }
+    ]
+  }
+}

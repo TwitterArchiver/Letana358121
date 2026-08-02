@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2048701950913605992",
+    "created_at": "2026-04-27T09:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048702616629375131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048702616629375131",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048701950913605992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加上你国从小到大被灌输的受害者有罪论。。。呵呵依旧围剿受害者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048701950913605992",
+        "created_at": "2026-04-27T09:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048702616629375131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048702616629375131",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048701950913605992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加上你国从小到大被灌输的受害者有罪论。。。呵呵依旧围剿受害者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2048701950913605992",
+        "created_at": "2026-04-27T09:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048701950913605992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QwQb119/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/QwQb119/status/2048701072408289646",
+              "start": 87,
+              "url": "https://t.co/yFyROupApB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048701950913605992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048701072408289646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你国普遍认为成年人了就要对自己负责任而无人在意成年之前所收到的教育有没有教会他们怎么才是对自己负责任，导致一大批年龄上的成年人实际上和高中生大学生的那种天真认知没啥区别 https://t.co/yFyROupApB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 1431,
+          "like_count": 51993,
+          "listed_count": 8,
+          "media_count": 2254,
+          "tweet_count": 19562
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

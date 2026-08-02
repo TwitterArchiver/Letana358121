@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1838291991140143411",
+    "created_at": "2024-09-23T19:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T20:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838293364925698311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620472584562446336",
+          "start": 0,
+          "username": "nagaseruna7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838293364925698311",
+    "in_reply_to_user_id": "1620472584562446336",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838291991140143411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaseruna7777 萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1838291991140143411",
+        "created_at": "2024-09-23T19:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T20:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838293364925698311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620472584562446336",
+              "start": 0,
+              "username": "nagaseruna7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838293364925698311",
+        "in_reply_to_user_id": "1620472584562446336",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838291991140143411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaseruna7777 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838291986522214401",
+            "3_1838291985909846016"
+          ]
+        },
+        "author_id": "1620472584562446336",
+        "conversation_id": "1838291991140143411",
+        "created_at": "2024-09-23T18:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T19:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838291991140143411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj11dkum2z",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nagaseruna7777/status/1838291991140143411/photo/1",
+              "media_key": "3_1838291986522214401",
+              "start": 5,
+              "url": "https://t.co/MJ11dKUM2z"
+            },
+            {
+              "display_url": "pic.x.com/mj11dkum2z",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nagaseruna7777/status/1838291991140143411/photo/1",
+              "media_key": "3_1838291985909846016",
+              "start": 5,
+              "url": "https://t.co/MJ11dKUM2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838291991140143411",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪了个头 https://t.co/MJ11dKUM2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 921,
+          "like_count": 28968,
+          "listed_count": 3,
+          "tweet_count": 9160
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:22:36.000Z",
+        "description": "我永恆的爱人：@bluefluoxetine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "bluefluoxetine"
+              }
+            ]
+          }
+        },
+        "id": "1620472584562446336",
+        "location": "Galaxy Platform",
+        "name": "✟Runa✟",
+        "pinned_tweet_id": "1797461251922202820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733120988471324672/lphr-nDx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 25,
+          "like_count": 3914,
+          "listed_count": 0,
+          "tweet_count": 2337
+        },
+        "username": "nagaseruna7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2043960252295758047",
+    "created_at": "2026-04-15T01:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044224469993168958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1602901331953344513",
+          "start": 0,
+          "username": "crushcrazyworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044224469993168958",
+    "in_reply_to_user_id": "1602901331953344513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044088161324937233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crushcrazyworld 纯爱是好的啊，占有欲是好的啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2043960252295758047",
+        "created_at": "2026-04-15T01:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044224469993168958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1602901331953344513",
+              "start": 0,
+              "username": "crushcrazyworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044224469993168958",
+        "in_reply_to_user_id": "1602901331953344513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044088161324937233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crushcrazyworld 纯爱是好的啊，占有欲是好的啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602901331953344513",
+        "conversation_id": "2043960252295758047",
+        "created_at": "2026-04-14T16:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044088161324937233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044088161324937233",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043960252295758047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 内容是不是很精彩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 1408,
+          "like_count": 50480,
+          "listed_count": 8,
+          "media_count": 2220,
+          "tweet_count": 19183
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T05:40:40.000Z",
+        "description": "Advance Bravely",
+        "id": "1602901331953344513",
+        "name": "Pandora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029953682012618752/6S3gvGwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 63,
+          "like_count": 8310,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 2877
+        },
+        "username": "crushcrazyworld",
+        "verified": false
+      }
+    ]
+  }
+}

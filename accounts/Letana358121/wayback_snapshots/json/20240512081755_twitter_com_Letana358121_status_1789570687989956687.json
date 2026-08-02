@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1789570687989956687",
+    "created_at": "2024-05-12T08:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T09:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789570687989956687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588558150126354432",
+          "start": 3,
+          "username": "H4rU_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789570687989956687",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789539537485799837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @H4rU_xi: 我要一天一斤补佳乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1789570687989956687",
+        "created_at": "2024-05-12T08:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789570687989956687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588558150126354432",
+              "start": 3,
+              "username": "H4rU_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789570687989956687",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789539537485799837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @H4rU_xi: 我要一天一斤补佳乐"
+      },
+      {
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1789539537485799837",
+        "created_at": "2024-05-12T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789539537485799837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789539537485799837",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要一天一斤补佳乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "歌劇總會結束的，但人生永不落幕。\n\n🇲🇴高中生/音遊/MtF/發瘋/自殘/",
+        "id": "1669543422586421248",
+        "location": "夢",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1787408285467087088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748393924790775808/Ig6oGG5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 552,
+          "like_count": 20021,
+          "listed_count": 3,
+          "tweet_count": 6063
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "我们终会带着色彩相遇",
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "奶油玉米棉花糖",
+        "pinned_tweet_id": "1781345114994118917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782053234796003328/RM2brcP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 465,
+          "like_count": 3391,
+          "listed_count": 3,
+          "tweet_count": 6156
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

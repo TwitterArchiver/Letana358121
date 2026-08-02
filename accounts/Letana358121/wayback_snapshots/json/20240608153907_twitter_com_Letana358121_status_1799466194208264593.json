@@ -1,0 +1,101 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799466185026904064"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799466194208264593",
+    "created_at": "2024-06-08T15:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T16:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799466194208264593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/IEH6lt7plu",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Letana358121/status/1799466194208264593/photo/1",
+          "media_key": "3_1799466185026904064",
+          "start": 47,
+          "url": "https://t.co/IEH6lt7plu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799466194208264593",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我記得我媽和我說過，她剛把我生出來然後看了看我的眼睛 ，問我爸你是不是外星人，眼睛這麼大的。 https://t.co/IEH6lt7plu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1799466194208264593].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1799466194208264593",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1799466194208264593"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_1799466185026904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPj89hfbIAATH00.jpg",
+        "width": 777
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 597,
+          "like_count": 21196,
+          "listed_count": 2,
+          "tweet_count": 6610
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

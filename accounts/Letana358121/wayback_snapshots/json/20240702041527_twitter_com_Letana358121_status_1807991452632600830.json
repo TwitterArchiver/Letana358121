@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1807930399424929936",
+    "created_at": "2024-07-02T04:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T05:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807991452632600830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "Goldogburger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807991452632600830",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807930399424929936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldogburger omg我也想过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1807930399424929936",
+        "created_at": "2024-07-02T04:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T05:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807991452632600830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "Goldogburger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807991452632600830",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807930399424929936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldogburger omg我也想过"
+      },
+      {
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1807930399424929936",
+        "created_at": "2024-07-02T00:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T01:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807930399424929936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807930399424929936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的做过那种两个男生抢着追我的白日梦😶‍🌫️但是那个时候对于爱情的认知还停留在小学阶段 感觉那个时候的小孩也不像现在复杂和了解社会 我那时只会傻呵呵的想象两个男生争执的扯我的左手和右手😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801462580726398976/HM05Knf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 766,
+          "like_count": 21716,
+          "listed_count": 2,
+          "tweet_count": 6980
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "INFP-T｜100%浓缩金毛小狗汁🐶｜我补药闯荡浆糊了 只想过煎蛋的生活",
+        "id": "1717903248764317696",
+        "location": "✨",
+        "name": "金狗豪门堡🍔🐶",
+        "pinned_tweet_id": "1776317554774122638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802265427550371841/1xrDYNZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 271,
+          "like_count": 1658,
+          "listed_count": 0,
+          "tweet_count": 1096
+        },
+        "username": "Goldogburger",
+        "verified": false
+      }
+    ]
+  }
+}

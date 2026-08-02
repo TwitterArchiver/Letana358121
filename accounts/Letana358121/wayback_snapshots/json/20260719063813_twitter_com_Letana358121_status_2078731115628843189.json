@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078731115628843189",
+    "created_at": "2026-07-19T06:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078731115628843189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2078727746667389037",
+          "start": 64,
+          "url": "https://t.co/ZhbPovouN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078731115628843189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078727746667389037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉就是还是对农村太不了解了，这些都是我想象出和看我身边的朋友所理解出的画面，毕竟我没有真的去过农村，也没有真的了解过这些老人 https://t.co/ZhbPovouN7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2078727739990065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkf3a7bwAAUqFW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078731115628843189",
+        "created_at": "2026-07-19T06:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078731115628843189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2078727746667389037",
+              "start": 64,
+              "url": "https://t.co/ZhbPovouN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078731115628843189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078727746667389037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉就是还是对农村太不了解了，这些都是我想象出和看我身边的朋友所理解出的画面，毕竟我没有真的去过农村，也没有真的了解过这些老人 https://t.co/ZhbPovouN7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078727739990065152"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2078701780997914795",
+        "created_at": "2026-07-19T06:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078727746667389037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 26,
+              "id": "1669543422586421248",
+              "start": 13,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnbeFOtmnQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2078727746667389037/photo/1",
+              "media_key": "3_2078727739990065152",
+              "start": 27,
+              "url": "https://t.co/SnbeFOtmnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078727746667389037",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078726357530595572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan @Letana358121 https://t.co/SnbeFOtmnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 1560,
+          "like_count": 61284,
+          "listed_count": 7,
+          "media_count": 2409,
+          "tweet_count": 21985
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2072308189689958631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076146561453895680/INVCE3xG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 186,
+          "like_count": 13677,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 9365
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

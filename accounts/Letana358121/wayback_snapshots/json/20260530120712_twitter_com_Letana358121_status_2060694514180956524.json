@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2060693798859194450",
+    "created_at": "2026-05-30T12:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060694514180956524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060694514180956524",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060693798859194450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO 證明你很高貴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2060693798859194450",
+        "created_at": "2026-05-30T12:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060694514180956524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060694514180956524",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060693798859194450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 證明你很高貴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "2060693798859194450",
+        "created_at": "2026-05-30T12:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060693798859194450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060693798859194450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家在權衡利弊後第一個拋下的都是我呀\n人在窮的時候第一個放棄的都是奢侈品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3303,
+          "following_count": 1480,
+          "like_count": 55852,
+          "listed_count": 6,
+          "media_count": 2293,
+          "tweet_count": 20511
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀 病み垢@kanochan_umxxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "kanochan_umxxi"
+              }
+            ]
+          }
+        },
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904508683599638528/5GMfID02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 62,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 530
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

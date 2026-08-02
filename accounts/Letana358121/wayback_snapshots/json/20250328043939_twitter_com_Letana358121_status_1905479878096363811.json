@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905479865391783936",
+        "3_1905479868407820288",
+        "3_1905479869129261057",
+        "3_1905479868474949634"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1905479878096363811",
+    "created_at": "2025-03-28T04:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T05:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905479878096363811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqoYu47K0W",
+          "end": 29,
+          "expanded_url": "https://x.com/Letana358121/status/1905479878096363811/photo/1",
+          "media_key": "3_1905479865391783936",
+          "start": 6,
+          "url": "https://t.co/SqoYu47K0W"
+        },
+        {
+          "display_url": "pic.x.com/SqoYu47K0W",
+          "end": 29,
+          "expanded_url": "https://x.com/Letana358121/status/1905479878096363811/photo/1",
+          "media_key": "3_1905479868407820288",
+          "start": 6,
+          "url": "https://t.co/SqoYu47K0W"
+        },
+        {
+          "display_url": "pic.x.com/SqoYu47K0W",
+          "end": 29,
+          "expanded_url": "https://x.com/Letana358121/status/1905479878096363811/photo/1",
+          "media_key": "3_1905479869129261057",
+          "start": 6,
+          "url": "https://t.co/SqoYu47K0W"
+        },
+        {
+          "display_url": "pic.x.com/SqoYu47K0W",
+          "end": 29,
+          "expanded_url": "https://x.com/Letana358121/status/1905479878096363811/photo/1",
+          "media_key": "3_1905479868474949634",
+          "start": 6,
+          "url": "https://t.co/SqoYu47K0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905479878096363811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发点老自拍 https://t.co/SqoYu47K0W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905479878096363811].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905479878096363811",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905479878096363811"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1905479865391783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGf14dWIAAuf28.jpg",
+        "width": 844
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1905479868407820288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGf2DsbMAAoN8E.jpg",
+        "width": 934
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1905479869129261057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGf2GYbgAEXDhm.jpg",
+        "width": 853
+      },
+      {
+        "height": 983,
+        "media_key": "3_1905479868474949634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGf2D8bgAIM7F6.jpg",
+        "width": 660
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1131,
+          "like_count": 36829,
+          "listed_count": 5,
+          "media_count": 1513,
+          "tweet_count": 13159
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

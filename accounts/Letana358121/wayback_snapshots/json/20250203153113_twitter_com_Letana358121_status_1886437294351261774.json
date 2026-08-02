@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1886119353172504576"
+      ],
+      "media_source_tweet_id": [
+        "1886119406540898414"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886437294351261774",
+    "created_at": "2025-02-03T15:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T16:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886437294351261774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1001013388330192896",
+          "start": 3,
+          "username": "ichiipsy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXzbRvQc3T",
+          "end": 62,
+          "expanded_url": "https://x.com/visualfeastwang/status/1886119406540898414/video/1",
+          "media_key": "13_1886119353172504576",
+          "start": 39,
+          "url": "https://t.co/IXzbRvQc3T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886437294351261774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886209641983676476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichiipsy: 自動化された猫用のトイレ\nこれは便利かも…。\n\n https://t.co/IXzbRvQc3T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35733,
+        "height": 1024,
+        "media_key": "13_1886119353172504576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1886119353172504576/img/sC6p4x9kjbYDCzs5.jpg",
+        "public_metrics": {
+          "view_count": 1225614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1886119353172504576/vid/avc1/320x568/XLIQiFzgF_envMNs.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1886119353172504576/vid/avc1/480x852/6DKnUYL4VhOvYzl2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1886119353172504576/vid/avc1/576x1024/BUkpAaR4BxTdzMcC.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1886119353172504576/pl/IOE4E5yEqWNbe0NT.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1886119353172504576"
+          ],
+          "media_source_tweet_id": [
+            "1886119406540898414"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886437294351261774",
+        "created_at": "2025-02-03T15:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886437294351261774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1001013388330192896",
+              "start": 3,
+              "username": "ichiipsy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXzbRvQc3T",
+              "end": 62,
+              "expanded_url": "https://x.com/visualfeastwang/status/1886119406540898414/video/1",
+              "media_key": "13_1886119353172504576",
+              "start": 39,
+              "url": "https://t.co/IXzbRvQc3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886437294351261774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886209641983676476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichiipsy: 自動化された猫用のトイレ\nこれは便利かも…。\n\n https://t.co/IXzbRvQc3T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1886119353172504576"
+          ],
+          "media_source_tweet_id": [
+            "1886119406540898414"
+          ]
+        },
+        "author_id": "1001013388330192896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886209641983676476",
+        "created_at": "2025-02-03T00:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T01:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886209641983676476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXzbRvQc3T",
+              "end": 48,
+              "expanded_url": "https://x.com/visualfeastwang/status/1886119406540898414/video/1",
+              "media_key": "13_1886119353172504576",
+              "start": 25,
+              "url": "https://t.co/IXzbRvQc3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886209641983676476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 1961881,
+          "like_count": 2472,
+          "quote_count": 108,
+          "reply_count": 60,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "自動化された猫用のトイレ\nこれは便利かも…。\n\n https://t.co/IXzbRvQc3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 1078,
+          "like_count": 31487,
+          "listed_count": 4,
+          "media_count": 1403,
+          "tweet_count": 11691
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T08:12:44.000Z",
+        "description": "バーチャル精神科医/ なかの人は精神科医/精神保健指定医/日本精神神経学会 専門医/著書『頭んなか「メンヘラなとき」があります。』/ダイヤモンド・オンラインにて連載中https://t.co/I5UDrtT9HA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "diamond.jp/ud/authors/654…",
+                "end": 106,
+                "expanded_url": "https://diamond.jp/ud/authors/6549e2e5905bd4bb34000000",
+                "start": 83,
+                "url": "https://t.co/I5UDrtT9HA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "molbit.jp/column",
+                "end": 23,
+                "expanded_url": "https://molbit.jp/column",
+                "start": 0,
+                "url": "https://t.co/c699qScNFw"
+              }
+            ]
+          }
+        },
+        "id": "1001013388330192896",
+        "location": "バーチャル空間",
+        "name": "いっちー@バーチャル精神科医",
+        "pinned_tweet_id": "1717108496918053254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1088055575387070465/6bW5Ynxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76867,
+          "following_count": 879,
+          "like_count": 69881,
+          "listed_count": 768,
+          "media_count": 8125,
+          "tweet_count": 28452
+        },
+        "url": "https://t.co/c699qScNFw",
+        "username": "ichiipsy",
+        "verified": true
+      }
+    ]
+  }
+}

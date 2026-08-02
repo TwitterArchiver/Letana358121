@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1874509383411122591",
+    "created_at": "2025-01-02T07:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T08:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874721936502411504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "dumbstruc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874721936502411504",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874716577507258533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dumbstruc ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1874509383411122591",
+        "created_at": "2025-01-02T07:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T08:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874721936502411504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "dumbstruc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874721936502411504",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874716577507258533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dumbstruc ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1874716491637272576"
+          ]
+        },
+        "author_id": "1489203021536198657",
+        "conversation_id": "1874509383411122591",
+        "created_at": "2025-01-02T07:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T08:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874716577507258533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFengkFPy0",
+              "end": 37,
+              "expanded_url": "https://x.com/dumbstruc/status/1874716577507258533/photo/1",
+              "media_key": "16_1874716491637272576",
+              "start": 14,
+              "url": "https://t.co/LFengkFPy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874716577507258533",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874509383411122591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 https://t.co/LFengkFPy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1016,
+          "like_count": 30406,
+          "listed_count": 5,
+          "media_count": 1316,
+          "tweet_count": 10987
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "",
+        "id": "1489203021536198657",
+        "name": "GBC全自动bot",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 81,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "username": "dumbstruc",
+        "verified": false
+      }
+    ]
+  }
+}

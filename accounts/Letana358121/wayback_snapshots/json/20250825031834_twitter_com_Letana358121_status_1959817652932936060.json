@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1959179887081644414",
+    "created_at": "2025-08-25T03:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T04:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959817652932936060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        },
+        {
+          "end": 31,
+          "id": "1528798633168347137",
+          "start": 17,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959817652932936060",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959500326064857541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure @TomoriNao2022 那我不得不是北极熊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1959179887081644414",
+        "created_at": "2025-08-25T03:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T04:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959817652932936060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 31,
+              "id": "1528798633168347137",
+              "start": 17,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959817652932936060",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959500326064857541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure @TomoriNao2022 那我不得不是北极熊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1959179887081644414",
+        "created_at": "2025-08-24T06:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959500326064857541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959500326064857541",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959179887081644414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 信他不如信我是qsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1230,
+          "like_count": 40968,
+          "listed_count": 7,
+          "media_count": 1841,
+          "tweet_count": 15500
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我可能是全网第一个因为身高和唧唧打不了中二的人 我身高两米三 唧唧长度30 每次反手的时候会摸到自己的唧唧 还时不时判定不上air sega就不能考虑一下我们这种又高又大的男生吗 真的好苦恼啊 我真的很想玩中二节奏这个游戏 我之前玩舞萌和Phigros的时候怎么就没这个问题 ❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "7sRef",
+        "name": "水彩翎🍋",
+        "pinned_tweet_id": "1958802147761332521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894427491246083/an3vCJp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7939,
+          "following_count": 1360,
+          "like_count": 44665,
+          "listed_count": 11,
+          "media_count": 3233,
+          "tweet_count": 25994
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "1894341414131306854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17640,
+          "following_count": 558,
+          "like_count": 10812,
+          "listed_count": 57,
+          "media_count": 2264,
+          "tweet_count": 9785
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2065446317388636494",
+    "created_at": "2026-06-12T15:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455510523126243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455510523126243",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065446317388636494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres 怎么在这里调情呀（爱看）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065446317388636494].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065446317388636494",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065446317388636494"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2065446317388636494",
+        "created_at": "2026-06-12T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455510523126243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455510523126243",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065446317388636494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres 怎么在这里调情呀（爱看）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3386,
+          "following_count": 1513,
+          "like_count": 56996,
+          "listed_count": 7,
+          "media_count": 2319,
+          "tweet_count": 20941
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "一起去往博爾蓋塞的神殿，這位穿過秦淮夜色而來的戀人@Diamond_Kokoro\n願恨意給予我們關懷彼此的勇氣@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Diamond_Kokoro"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "location": "agender",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 148,
+          "like_count": 10025,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 5756
+        },
+        "username": "irisdesombres",
+        "verified": false
+      }
+    ]
+  }
+}

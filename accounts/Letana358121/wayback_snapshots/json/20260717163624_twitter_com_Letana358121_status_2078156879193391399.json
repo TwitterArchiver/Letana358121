@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078156879193391399",
+    "created_at": "2026-07-17T16:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078156879193391399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1048022597823164416",
+          "start": 3,
+          "username": "HiallouL"
+        },
+        {
+          "end": 24,
+          "id": "1150753335881826305",
+          "start": 14,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078156879193391399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078148234065928411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiallouL: @acacia038 跨性别生错了身体这话就很扯，顺性别生错了脑子还差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078156879193391399",
+        "created_at": "2026-07-17T16:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078156879193391399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1048022597823164416",
+              "start": 3,
+              "username": "HiallouL"
+            },
+            {
+              "end": 24,
+              "id": "1150753335881826305",
+              "start": 14,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078156879193391399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148234065928411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiallouL: @acacia038 跨性别生错了身体这话就很扯，顺性别生错了脑子还差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "2078115152726016367",
+        "created_at": "2026-07-17T16:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078148234065928411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148234065928411",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078115152726016367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 跨性别生错了身体这话就很扯，顺性别生错了脑子还差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 1556,
+          "like_count": 61115,
+          "listed_count": 7,
+          "media_count": 2405,
+          "tweet_count": 21930
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "2070738663303159964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 1395,
+          "like_count": 22701,
+          "listed_count": 5,
+          "media_count": 1052,
+          "tweet_count": 6693
+        },
+        "url": "",
+        "username": "HiallouL",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "故事的下文  明天再讲给你听\n实习新梦旅者，Melty land 搜寻ing⋯\n术力口跨女 欢迎同好扩列！",
+        "id": "1150753335881826305",
+        "name": "Charlotte F. aka suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 302,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

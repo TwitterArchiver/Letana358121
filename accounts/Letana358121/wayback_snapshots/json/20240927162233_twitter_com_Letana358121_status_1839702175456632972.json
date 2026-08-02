@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839695003792392381",
+    "created_at": "2024-09-27T16:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T17:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839702175456632972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881154222472912896",
+          "start": 0,
+          "username": "SeluneMoonbow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839702175456632972",
+    "in_reply_to_user_id": "881154222472912896",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839702085295869972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeluneMoonbow 🥺🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839702085295869972].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839702085295869972",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839702085295869972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839695003792392381",
+        "created_at": "2024-09-27T16:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839702175456632972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881154222472912896",
+              "start": 0,
+              "username": "SeluneMoonbow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839702175456632972",
+        "in_reply_to_user_id": "881154222472912896",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839702085295869972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeluneMoonbow 🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 929,
+          "like_count": 28870,
+          "listed_count": 3,
+          "tweet_count": 9288
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T14:15:12.000Z",
+        "description": "成分是一只后现代萌萌人 || 随便挂点：🏳️‍🌈🏳️‍⚧️🏴❤️🧡💛💚💙💜🤎🖤🩵🩷🤍💛💜🤍💚♀️⚧️ || 老婆 @QiuNing_ 超级超级可爱~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "881154222472912896",
+        "name": "昕月🏳️‍⚧️",
+        "pinned_tweet_id": "1761742159081087247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761743798370283520/Vvyn42Oc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 671,
+          "like_count": 64678,
+          "listed_count": 3,
+          "tweet_count": 23627
+        },
+        "username": "SeluneMoonbow",
+        "verified": false
+      }
+    ]
+  }
+}

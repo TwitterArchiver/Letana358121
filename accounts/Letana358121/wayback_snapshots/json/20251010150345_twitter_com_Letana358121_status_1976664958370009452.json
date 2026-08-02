@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976664922538020864"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976664958370009452",
+    "created_at": "2025-10-10T15:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976664958370009452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rOW32tKtU",
+          "end": 72,
+          "expanded_url": "https://x.com/Letana358121/status/1976664958370009452/photo/1",
+          "media_key": "3_1976664922538020864",
+          "start": 49,
+          "url": "https://t.co/9rOW32tKtU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976664958370009452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好美啊濡羽。。。每个版本的濡羽都在我的背景上。。。而且称号是大都会6全员999级的称号。。。 https://t.co/9rOW32tKtU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976664922538020864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26GRjPakAAtHpx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976664922538020864"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976664958370009452",
+        "created_at": "2025-10-10T15:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976664958370009452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rOW32tKtU",
+              "end": 72,
+              "expanded_url": "https://x.com/Letana358121/status/1976664958370009452/photo/1",
+              "media_key": "3_1976664922538020864",
+              "start": 49,
+              "url": "https://t.co/9rOW32tKtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976664958370009452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好美啊濡羽。。。每个版本的濡羽都在我的背景上。。。而且称号是大都会6全员999级的称号。。。 https://t.co/9rOW32tKtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 1258,
+          "like_count": 42183,
+          "listed_count": 8,
+          "media_count": 1887,
+          "tweet_count": 15975
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

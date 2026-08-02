@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1905971375631691858",
+    "created_at": "2025-03-30T04:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T05:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906201141391552551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634583145684299776",
+          "start": 0,
+          "username": "hemengzealan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906201141391552551",
+    "in_reply_to_user_id": "1634583145684299776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906179039485923407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hemengzealan 原来这么多广府人港澳台人都并非中国人了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-30T04:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906201141391552551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634583145684299776",
+              "start": 0,
+              "username": "hemengzealan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906201141391552551",
+        "in_reply_to_user_id": "1634583145684299776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906179039485923407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hemengzealan 原来这么多广府人港澳台人都并非中国人了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634583145684299776",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-30T02:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T03:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906179039485923407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906179039485923407",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905971375631691858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 真是难绷，随便找个中国网友就知道“抽烟喝酒烫头”是相声于谦梗，就楼主和评论区还在那一本正经分析什么“规训”，“扼杀爱美天性”....\n怎么，蠢货也有聚集效应吗？\n没文化不是你的错，哪怕随便找个AI问问啊~~也好过这么傲慢地出来现大眼吧....您说是不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1132,
+          "like_count": 36989,
+          "listed_count": 5,
+          "media_count": 1516,
+          "tweet_count": 13222
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T15:52:53.000Z",
+        "description": "",
+        "id": "1634583145684299776",
+        "name": "lafuria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832660184982024196/lVwgbEzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 152,
+          "like_count": 2041,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "username": "hemengzealan",
+        "verified": true
+      }
+    ]
+  }
+}

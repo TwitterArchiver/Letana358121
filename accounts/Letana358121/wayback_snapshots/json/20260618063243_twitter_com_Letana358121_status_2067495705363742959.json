@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2067495482696618147",
+    "created_at": "2026-06-18T06:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067495705363742959"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067495705363742959",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067495482696618147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还在想这个东西到底是什么药。。因为这边的医生只会英语药名。。我一直在想啥东西啊这么新方案吗。。合着一查哦普瑞啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2067495482696618147",
+        "created_at": "2026-06-18T06:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067495705363742959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067495705363742959",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067495482696618147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还在想这个东西到底是什么药。。因为这边的医生只会英语药名。。我一直在想啥东西啊这么新方案吗。。合着一查哦普瑞啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2067495482696618147",
+        "created_at": "2026-06-18T06:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067495482696618147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067495482696618147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天复诊跟医生说了一下最近语言组织能力很不过关的问题 然后还有因为吃药导致很迟钝，最近总是因为这些焦虑，然后医生跟我说我这边大部分的抗焦虑药都试过了不太适合我，但是我们有一个新的方案你可以试一下，于是得到了一天300mg普瑞巴林。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 1532,
+          "like_count": 57968,
+          "listed_count": 7,
+          "media_count": 2332,
+          "tweet_count": 21078
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829869796365910023"
+      ],
+      "media_source_tweet_id": [
+        "1829870174553719166"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2030633237257867568",
+    "created_at": "2026-03-08T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030633237257867568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "836241160028856320",
+          "start": 3,
+          "username": "de7ta9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBcndbcuCy",
+          "end": 35,
+          "expanded_url": "https://x.com/de7ta9/status/1829870174553719166/photo/1",
+          "media_key": "3_1829869796365910023",
+          "start": 12,
+          "url": "https://t.co/TBcndbcuCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030633237257867568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829870174553719166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de7ta9: https://t.co/TBcndbcuCy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030633237257867568].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030633237257867568",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030633237257867568"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_1829869796365910023",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWUA4n2bQAcUMmf.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829869796365910023"
+          ]
+        },
+        "author_id": "836241160028856320",
+        "conversation_id": "1829870174553719166",
+        "created_at": "2024-08-31T13:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T14:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829870174553719166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBcndbcuCy",
+              "end": 23,
+              "expanded_url": "https://x.com/de7ta9/status/1829870174553719166/photo/1",
+              "media_key": "3_1829869796365910023",
+              "start": 0,
+              "url": "https://t.co/TBcndbcuCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829870174553719166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4774,
+          "impression_count": 571591,
+          "like_count": 18831,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 2249
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TBcndbcuCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 1342,
+          "like_count": 47348,
+          "listed_count": 7,
+          "media_count": 2137,
+          "tweet_count": 18129
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-27T15:46:43.000Z",
+        "description": "よろしくね！【Fantia】https://t.co/uh1hc6WdH1 【Patreon】https://t.co/mWQfnFB87Y 【DLSite】https://t.co/cFCCWojyDO 【FANZA】https://t.co/gGshqxoatC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/TtPUh",
+                "end": 37,
+                "expanded_url": "https://x.gd/TtPUh",
+                "start": 14,
+                "url": "https://t.co/uh1hc6WdH1"
+              },
+              {
+                "display_url": "x.gd/MYiLf",
+                "end": 70,
+                "expanded_url": "https://x.gd/MYiLf",
+                "start": 47,
+                "url": "https://t.co/mWQfnFB87Y"
+              },
+              {
+                "display_url": "x.gd/PJ8Pu",
+                "end": 102,
+                "expanded_url": "https://x.gd/PJ8Pu",
+                "start": 79,
+                "url": "https://t.co/cFCCWojyDO"
+              },
+              {
+                "display_url": "x.gd/YDXu6",
+                "end": 133,
+                "expanded_url": "https://x.gd/YDXu6",
+                "start": 110,
+                "url": "https://t.co/gGshqxoatC"
+              }
+            ]
+          }
+        },
+        "id": "836241160028856320",
+        "location": "ウィンキスト",
+        "name": "Δ⁹",
+        "pinned_tweet_id": "2030085797194703199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914526825549910016/UNiNcZak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203088,
+          "following_count": 70,
+          "like_count": 21890,
+          "listed_count": 1583,
+          "media_count": 115,
+          "tweet_count": 1057
+        },
+        "username": "de7ta9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1794749274129138014",
+    "created_at": "2024-05-26T16:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T17:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794768256156528836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1250936338469097472",
+          "start": 0,
+          "username": "kunzegu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794768256156528836",
+    "in_reply_to_user_id": "1250936338469097472",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794749274129138014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunzegu3 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1794749274129138014",
+        "created_at": "2024-05-26T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794768256156528836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1250936338469097472",
+              "start": 0,
+              "username": "kunzegu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794768256156528836",
+        "in_reply_to_user_id": "1250936338469097472",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794749274129138014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunzegu3 蹲蹲"
+      },
+      {
+        "attachments": {},
+        "author_id": "1250936338469097472",
+        "conversation_id": "1794749274129138014",
+        "created_at": "2024-05-26T15:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794749274129138014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794749274129138014",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要适合吃的假阳玩具推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 579,
+          "like_count": 20704,
+          "listed_count": 3,
+          "tweet_count": 6381
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T23:58:01.000Z",
+        "description": "在木桶饭窝窝窝 / 清水 / mtf/x / 泛 / 纯三次 / 维3 / mean girl / 原号@kunzegu0密码忘了 / 不键政 / Aprendiendo español 🇦🇷 / فري فلسطين 🇵🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "kunzegu0"
+              }
+            ]
+          }
+        },
+        "id": "1250936338469097472",
+        "location": "الأُرْدُن/الصين🇯🇴🇨🇳",
+        "name": "小鸡炖鸡肉🐤 Tal vez un pollo راحيل",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783918786757955584/gnQfl2hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 170,
+          "like_count": 11910,
+          "listed_count": 2,
+          "tweet_count": 1189
+        },
+        "username": "kunzegu3",
+        "verified": false
+      }
+    ]
+  }
+}

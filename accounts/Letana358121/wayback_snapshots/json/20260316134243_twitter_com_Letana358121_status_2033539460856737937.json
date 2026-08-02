@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2033526296844841060",
+    "created_at": "2026-03-16T13:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033539460856737937"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "香香",
+          "probability": 0.5257,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793705926614228992",
+          "start": 0,
+          "username": "asahinaXmafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033539460856737937",
+    "in_reply_to_user_id": "1793705926614228992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033526296844841060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahinaXmafuyu 香香捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2033526287218921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiJYlcaUAAuegP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2033526287252529152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiJYlkbIAAoUoN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2033526296844841060",
+        "created_at": "2026-03-16T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033539460856737937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "香香",
+              "probability": 0.5257,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793705926614228992",
+              "start": 0,
+              "username": "asahinaXmafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033539460856737937",
+        "in_reply_to_user_id": "1793705926614228992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033526296844841060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahinaXmafuyu 香香捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033526287218921472",
+            "3_2033526287252529152"
+          ]
+        },
+        "author_id": "1793705926614228992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033526296844841060",
+        "created_at": "2026-03-16T12:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033526296844841060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GChaK4OY3O",
+              "end": 29,
+              "expanded_url": "https://x.com/asahinaXmafuyu/status/2033526296844841060/photo/1",
+              "media_key": "3_2033526287218921472",
+              "start": 6,
+              "url": "https://t.co/GChaK4OY3O"
+            },
+            {
+              "display_url": "pic.x.com/GChaK4OY3O",
+              "end": 29,
+              "expanded_url": "https://x.com/asahinaXmafuyu/status/2033526296844841060/photo/1",
+              "media_key": "3_2033526287252529152",
+              "start": 6,
+              "url": "https://t.co/GChaK4OY3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526296844841060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整点漂亮饭 https://t.co/GChaK4OY3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 1359,
+          "like_count": 47932,
+          "listed_count": 7,
+          "media_count": 2155,
+          "tweet_count": 18311
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T18:10:09.000Z",
+        "description": "无性恋(Romantic Asexual) 20↑……别谈打舞萌的…",
+        "id": "1793705926614228992",
+        "location": "誰もいないセカイ",
+        "name": "Own💜",
+        "pinned_tweet_id": "1922165522096922898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000259471747256320/7KGuu6CW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 172,
+          "like_count": 2328,
+          "listed_count": 2,
+          "media_count": 697,
+          "tweet_count": 5765
+        },
+        "username": "asahinaXmafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

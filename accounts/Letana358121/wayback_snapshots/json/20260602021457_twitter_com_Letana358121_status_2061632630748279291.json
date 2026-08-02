@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2061632630748279291",
+    "created_at": "2026-06-02T02:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061632630748279291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arcaea_cn/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/arcaea_cn/status/2061630836747980880",
+          "start": 30,
+          "url": "https://t.co/NVXffBsnMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061632630748279291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061630836747980880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心理疾病这个词给我一种是我自己主动得病而不是被动得病的感觉 https://t.co/NVXffBsnMr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061632630748279291",
+        "created_at": "2026-06-02T02:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061632630748279291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arcaea_cn/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/arcaea_cn/status/2061630836747980880",
+              "start": 30,
+              "url": "https://t.co/NVXffBsnMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061632630748279291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061630836747980880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理疾病这个词给我一种是我自己主动得病而不是被动得病的感觉 https://t.co/NVXffBsnMr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472424972362878976",
+        "conversation_id": "2061630836747980880",
+        "created_at": "2026-06-02T02:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061630836747980880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061630836747980880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌心理疾病这个词一般我都说精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 1477,
+          "like_count": 56233,
+          "listed_count": 6,
+          "media_count": 2298,
+          "tweet_count": 20604
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T04:34:12.000Z",
+        "description": "我没有我想象中恶毒，好失望。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hinabemi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hinabemi",
+                "start": 0,
+                "url": "https://t.co/Y6sJtFFfCS"
+              }
+            ]
+          }
+        },
+        "id": "1472424972362878976",
+        "location": "lowest world",
+        "name": "Lilac",
+        "pinned_tweet_id": "2061624874989392044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935367593738543104/KSC57OXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 253,
+          "like_count": 24596,
+          "listed_count": 5,
+          "media_count": 2163,
+          "tweet_count": 20826
+        },
+        "url": "https://t.co/Y6sJtFFfCS",
+        "username": "arcaea_cn",
+        "verified": false
+      }
+    ]
+  }
+}

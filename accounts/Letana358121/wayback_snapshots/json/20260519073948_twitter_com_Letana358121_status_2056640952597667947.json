@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2056640486446956760",
+    "created_at": "2026-05-19T07:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056640952597667947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473159080143376385",
+          "start": 0,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056640952597667947",
+    "in_reply_to_user_id": "1473159080143376385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056640486446956760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jacque1ineWong 在当前环境下保全自己积蓄力量吧。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2056640486446956760",
+        "created_at": "2026-05-19T07:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056640952597667947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473159080143376385",
+              "start": 0,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056640952597667947",
+        "in_reply_to_user_id": "1473159080143376385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056640486446956760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jacque1ineWong 在当前环境下保全自己积蓄力量吧。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "conversation_id": "2056640486446956760",
+        "created_at": "2026-05-19T07:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056640486446956760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/letana358121/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/letana358121/status/2056638369267163157",
+              "start": 66,
+              "url": "https://t.co/xCCjG86tQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056640486446956760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056638369267163157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我完全没有必要不计一切成本地公开我的跨儿身份 不说世界上了 就单单大陆的跨儿职业历程来说 我们因为公开身份而导致的悲剧还不够多吗？ https://t.co/xCCjG86tQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 1455,
+          "like_count": 54152,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20140
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨🏳️‍⚧️猎头 | Career Advisor for MTFs | Specialized in BD/MKT/PM/Front-Middle Offices for Web3/Web2 Tech Company, Firms",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/jacque1inewong",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/jacque1inewong",
+                "start": 0,
+                "url": "https://t.co/4VcYD8QOuv"
+              }
+            ]
+          }
+        },
+        "id": "1473159080143376385",
+        "location": "Macau",
+        "name": "茉莉奶绿黄奕缘（猎头版）",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 653,
+          "like_count": 36208,
+          "listed_count": 10,
+          "media_count": 688,
+          "tweet_count": 12751
+        },
+        "url": "https://t.co/4VcYD8QOuv",
+        "username": "Jacque1ineWong",
+        "verified": true
+      }
+    ]
+  }
+}

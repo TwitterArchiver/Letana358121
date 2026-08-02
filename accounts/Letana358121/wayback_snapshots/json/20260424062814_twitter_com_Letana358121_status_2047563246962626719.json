@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2047263171468280306",
+    "created_at": "2026-04-24T06:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047563246962626719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        },
+        {
+          "end": 20,
+          "id": "1527652153392701442",
+          "start": 13,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047563246962626719",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047516153002729788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer @ctf7zi 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047516153002729788].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047516153002729788",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047516153002729788"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2047263171468280306",
+        "created_at": "2026-04-24T06:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047563246962626719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            },
+            {
+              "end": 20,
+              "id": "1527652153392701442",
+              "start": 13,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047563246962626719",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047516153002729788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer @ctf7zi 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 1418,
+          "like_count": 51426,
+          "listed_count": 8,
+          "media_count": 2245,
+          "tweet_count": 19439
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 609,
+          "like_count": 59215,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5955
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "name": "玔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 502,
+          "like_count": 24010,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 7835
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1992275867922555378",
+    "created_at": "2025-11-22T18:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T19:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992292620438307156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1705567020501303296",
+          "start": 0,
+          "username": "Layl4hS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992292620438307156",
+    "in_reply_to_user_id": "1705567020501303296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992292045856326025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Layl4hS 我求你了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1992275867922555378",
+        "created_at": "2025-11-22T18:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992292620438307156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1705567020501303296",
+              "start": 0,
+              "username": "Layl4hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992292620438307156",
+        "in_reply_to_user_id": "1705567020501303296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992292045856326025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Layl4hS 我求你了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705567020501303296",
+        "conversation_id": "1992275867922555378",
+        "created_at": "2025-11-22T18:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992292045856326025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992292045856326025",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992275867922555378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2890,
+          "following_count": 1289,
+          "like_count": 43884,
+          "listed_count": 7,
+          "media_count": 1958,
+          "tweet_count": 16809
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T12:57:34.000Z",
+        "description": "mammalians",
+        "id": "1705567020501303296",
+        "name": "辣味鱼丸喵",
+        "pinned_tweet_id": "1990734215508283809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990418364536438784/tVbxdyJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 292,
+          "like_count": 3913,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 2667
+        },
+        "username": "Layl4hS",
+        "verified": false
+      }
+    ]
+  }
+}

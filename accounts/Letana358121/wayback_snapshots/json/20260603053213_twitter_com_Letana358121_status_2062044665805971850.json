@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062044266541834240"
+      ],
+      "media_source_tweet_id": [
+        "2062044281481892223"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2062044665805971850",
+    "created_at": "2026-06-03T05:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062044665805971850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h59l86NdLh",
+          "end": 50,
+          "expanded_url": "https://x.com/Diamond_Kokoro/status/2062044281481892223/photo/1",
+          "media_key": "3_2062044266541834240",
+          "start": 27,
+          "url": "https://t.co/h59l86NdLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062044665805971850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062044281481892223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 誰有妳委屈啊 https://t.co/h59l86NdLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2062044266541834240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3aVdJbYAA5yAG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062044266541834240"
+          ],
+          "media_source_tweet_id": [
+            "2062044281481892223"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2062044665805971850",
+        "created_at": "2026-06-03T05:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062044665805971850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h59l86NdLh",
+              "end": 50,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2062044281481892223/photo/1",
+              "media_key": "3_2062044266541834240",
+              "start": 27,
+              "url": "https://t.co/h59l86NdLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062044665805971850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062044281481892223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 誰有妳委屈啊 https://t.co/h59l86NdLh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062044266541834240"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2062044281481892223",
+        "created_at": "2026-06-03T05:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062044281481892223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h59l86NdLh",
+              "end": 30,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2062044281481892223/photo/1",
+              "media_key": "3_2062044266541834240",
+              "start": 7,
+              "url": "https://t.co/h59l86NdLh"
+            },
+            {
+              "display_url": "x.com/hiime0/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hiime0/status/2062034383276810669",
+              "start": 31,
+              "url": "https://t.co/xhFlEu0X3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062044281481892223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062034383276810669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誰有妳委屈啊 https://t.co/h59l86NdLh https://t.co/xhFlEu0X3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 1481,
+          "like_count": 56461,
+          "listed_count": 6,
+          "media_count": 2302,
+          "tweet_count": 20660
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 147,
+          "like_count": 7952,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 5633
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

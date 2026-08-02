@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2055480531119202743",
+    "created_at": "2026-05-16T02:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055480531119202743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055480531119202743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055322716375519475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 你们这些二元贼，我草你们妈，就那么喜欢非黑即白、非男即女的傻逼规则，我去你妈的草泥马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2055480531119202743",
+        "created_at": "2026-05-16T02:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055480531119202743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055480531119202743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055322716375519475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 你们这些二元贼，我草你们妈，就那么喜欢非黑即白、非男即女的傻逼规则，我去你妈的草泥马"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2055322716375519475",
+        "created_at": "2026-05-15T16:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055322716375519475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055322716375519475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2128,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些二元贼，我草你们妈，就那么喜欢非黑即白、非男即女的傻逼规则，我去你妈的草泥马"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 1451,
+          "like_count": 53854,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20107
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 745,
+          "like_count": 5060,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 4399
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1913662620307189954",
+    "created_at": "2025-04-20T11:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T12:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913916964239729052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819659817763459072",
+          "start": 0,
+          "username": "duxin12th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913916964239729052",
+    "in_reply_to_user_id": "1819659817763459072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913916292681306155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxin12th 现在新的要求是不能在领子下面了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913916292681306155].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913916292681306155",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913916292681306155"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1913662620307189954",
+        "created_at": "2025-04-20T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913916964239729052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819659817763459072",
+              "start": 0,
+              "username": "duxin12th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913916964239729052",
+        "in_reply_to_user_id": "1819659817763459072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913916292681306155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxin12th 现在新的要求是不能在领子下面了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 1144,
+          "like_count": 37902,
+          "listed_count": 5,
+          "media_count": 1567,
+          "tweet_count": 13840
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T09:01:34.000Z",
+        "description": "已是◼️◼️◼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dadudalalully1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dadudalalully1",
+                "start": 0,
+                "url": "https://t.co/OKclDfoecl"
+              }
+            ]
+          }
+        },
+        "id": "1819659817763459072",
+        "location": "都心大青楼",
+        "name": "🐍都心🐊",
+        "pinned_tweet_id": "1912940705577631972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901630791425359872/YPORsy7W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 948,
+          "like_count": 28178,
+          "listed_count": 5,
+          "media_count": 2934,
+          "tweet_count": 21595
+        },
+        "url": "https://t.co/OKclDfoecl",
+        "username": "duxin12th",
+        "verified": true
+      }
+    ]
+  }
+}

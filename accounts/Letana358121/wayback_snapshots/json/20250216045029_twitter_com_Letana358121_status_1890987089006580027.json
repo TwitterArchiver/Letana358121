@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1890695863082872832"
+      ],
+      "media_source_tweet_id": [
+        "1890695950353547480"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1890987089006580027",
+    "created_at": "2025-02-16T04:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T05:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890987089006580027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531145919722188803",
+          "start": 3,
+          "username": "AkaneY_banu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rWFEhNrMV0",
+          "end": 45,
+          "expanded_url": "https://x.com/AkaneY_banu/status/1890695950353547480/video/1",
+          "media_key": "13_1890695863082872832",
+          "start": 22,
+          "url": "https://t.co/rWFEhNrMV0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890987089006580027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1872
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890695950353547480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaneY_banu: 気分転換 https://t.co/rWFEhNrMV0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31753,
+        "height": 1280,
+        "media_key": "13_1890695863082872832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1890695863082872832/img/dCoF6_VJGXVB8pEU.jpg",
+        "public_metrics": {
+          "view_count": 64114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1890695863082872832/vid/avc1/320x568/TwNph_cQBCXxobca.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1890695863082872832/vid/avc1/480x852/VatKr5r2oazva6QJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1890695863082872832/vid/avc1/720x1280/JPeMnCeqPaG_hWWp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1890695863082872832/pl/t2oCFfaZb3fHamn-.m3u8?tag=14&v=e11"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1890695863082872832"
+          ],
+          "media_source_tweet_id": [
+            "1890695950353547480"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1890987089006580027",
+        "created_at": "2025-02-16T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890987089006580027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531145919722188803",
+              "start": 3,
+              "username": "AkaneY_banu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWFEhNrMV0",
+              "end": 45,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1890695950353547480/video/1",
+              "media_key": "13_1890695863082872832",
+              "start": 22,
+              "url": "https://t.co/rWFEhNrMV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890987089006580027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1872
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890695950353547480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaneY_banu: 気分転換 https://t.co/rWFEhNrMV0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1890695863082872832"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "conversation_id": "1890695950353547480",
+        "created_at": "2025-02-15T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890695950353547480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWFEhNrMV0",
+              "end": 28,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1890695950353547480/video/1",
+              "media_key": "13_1890695863082872832",
+              "start": 5,
+              "url": "https://t.co/rWFEhNrMV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890695950353547480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 207991,
+          "like_count": 10928,
+          "quote_count": 240,
+          "reply_count": 98,
+          "retweet_count": 1872
+        },
+        "reply_settings": "everyone",
+        "text": "気分転換 https://t.co/rWFEhNrMV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 1095,
+          "like_count": 32540,
+          "listed_count": 4,
+          "media_count": 1431,
+          "tweet_count": 11986
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1886022165667139916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878150523565785088/PVqZn2jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53930,
+          "following_count": 88,
+          "like_count": 8362,
+          "listed_count": 356,
+          "media_count": 520,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

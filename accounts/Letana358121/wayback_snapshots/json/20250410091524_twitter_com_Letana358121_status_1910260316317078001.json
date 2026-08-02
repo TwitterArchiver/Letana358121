@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1910256668979474662",
+    "created_at": "2025-04-10T09:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T10:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910260316317078001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910260316317078001",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910256668979474662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 卧槽我玩完后面也这样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910256668979474662].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910256668979474662",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910256668979474662"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1910256668979474662",
+        "created_at": "2025-04-10T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910260316317078001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910260316317078001",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910256668979474662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 卧槽我玩完后面也这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 1138,
+          "like_count": 37963,
+          "listed_count": 5,
+          "media_count": 1540,
+          "tweet_count": 13548
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "⁺₊✶ 𝙴𝚝𝚎𝚛𝚗𝚊𝚕 𝚍𝚊𝚠𝚗 ⟡₊⁺",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908387660873228288/LieoUHxa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14489,
+          "following_count": 2750,
+          "like_count": 51559,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 15065
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

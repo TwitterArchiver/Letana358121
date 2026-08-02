@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2071942882471325862",
+    "created_at": "2026-07-01T03:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072158741286514770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588788265070362625",
+          "start": 0,
+          "username": "astenlinger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072158741286514770",
+    "in_reply_to_user_id": "1588788265070362625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072111185156251813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astenlinger 是人就不应该被这样杀死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2071942882471325862",
+        "created_at": "2026-07-01T03:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072158741286514770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588788265070362625",
+              "start": 0,
+              "username": "astenlinger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072158741286514770",
+        "in_reply_to_user_id": "1588788265070362625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072111185156251813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astenlinger 是人就不应该被这样杀死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588788265070362625",
+        "conversation_id": "2071942882471325862",
+        "created_at": "2026-07-01T00:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072111185156251813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072111185156251813",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071942882471325862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 推特杀中国人的如何评价？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 1546,
+          "like_count": 59358,
+          "listed_count": 7,
+          "media_count": 2364,
+          "tweet_count": 21507
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T07:00:30.000Z",
+        "description": "",
+        "id": "1588788265070362625",
+        "name": "astenlinger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962547116875943936/N3LvX4Gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 344,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "astenlinger",
+        "verified": false
+      }
+    ]
+  }
+}

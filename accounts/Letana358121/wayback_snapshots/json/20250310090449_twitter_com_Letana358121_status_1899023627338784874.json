@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1899003706923708896",
+    "created_at": "2025-03-10T09:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T10:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899023627338784874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "dumbstruc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899023627338784874",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899003706923708896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dumbstruc 男的，香草。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1899003706923708896",
+        "created_at": "2025-03-10T09:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T10:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899023627338784874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "dumbstruc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899023627338784874",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899003706923708896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dumbstruc 男的，香草。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489203021536198657",
+        "conversation_id": "1899003706923708896",
+        "created_at": "2025-03-10T07:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T08:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899003706923708896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899003706923708896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认识一下\n我是男的\n怎么还不回我？\n我是男的\n信号不好吗？\n喂喂喂？\n我是男的\nI'm male"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 1119,
+          "like_count": 34820,
+          "listed_count": 4,
+          "media_count": 1476,
+          "tweet_count": 12578
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "猫人无限恒久，永远激推！！！",
+        "id": "1489203021536198657",
+        "name": "GBC全自动bot",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 137,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 425
+        },
+        "username": "dumbstruc",
+        "verified": false
+      }
+    ]
+  }
+}

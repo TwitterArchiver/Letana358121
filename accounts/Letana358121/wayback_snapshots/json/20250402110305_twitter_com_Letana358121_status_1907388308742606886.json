@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1907373275522732340",
+    "created_at": "2025-04-02T11:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907388308742606886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1256791095939227648",
+          "start": 0,
+          "username": "PantingEYEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907388308742606886",
+    "in_reply_to_user_id": "1256791095939227648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907373275522732340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PantingEYEs 去哪里啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95016,
+        "height": 864,
+        "media_key": "7_1907372975864864768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907372975864864768/pu/img/OleobJY6YW_poIcV.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907372975864864768/pu/vid/avc1/320x576/nF55R61L2NqPm0LF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907372975864864768/pu/vid/avc1/480x864/LEzd4VDYqAqI1tDB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907372975864864768/pu/pl/c8xwuPSszG2E-ujP.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1907373275522732340",
+        "created_at": "2025-04-02T11:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907388308742606886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1256791095939227648",
+              "start": 0,
+              "username": "PantingEYEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907388308742606886",
+        "in_reply_to_user_id": "1256791095939227648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907373275522732340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PantingEYEs 去哪里啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907372975864864768"
+          ]
+        },
+        "author_id": "1256791095939227648",
+        "conversation_id": "1907373275522732340",
+        "created_at": "2025-04-02T10:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907373275522732340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYHwr2R6tl",
+              "end": 36,
+              "expanded_url": "https://x.com/PantingEYEs/status/1907373275522732340/video/1",
+              "media_key": "7_1907372975864864768",
+              "start": 13,
+              "url": "https://t.co/OYHwr2R6tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907373275522732340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【Vlog】兔兔旅行记. https://t.co/OYHwr2R6tl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 1134,
+          "like_count": 37301,
+          "listed_count": 5,
+          "media_count": 1525,
+          "tweet_count": 13334
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T03:42:18.000Z",
+        "description": "⛓️「自切以來性欲高漲」🐶//💉避免麻煩當我男的就好，不許問我⚠️否則我會很不爽💊//現居台中上學//推特不定時更新//🎬推文圖片經過數字合成處理💾💾💾//✨請多多點讚我的推文🍭//簡介下方網址是家醫院，如果有病的話可以去看🏥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "szgjyy.com",
+                "end": 23,
+                "expanded_url": "http://szgjyy.com",
+                "start": 0,
+                "url": "https://t.co/4h5q3sErS2"
+              }
+            ]
+          }
+        },
+        "id": "1256791095939227648",
+        "name": "璟鵝🪿",
+        "pinned_tweet_id": "1795703646740779344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546760362745556992/hUtgehwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5086,
+          "following_count": 83,
+          "like_count": 371,
+          "listed_count": 33,
+          "media_count": 20,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/4h5q3sErS2",
+        "username": "PantingEYEs",
+        "verified": false
+      }
+    ]
+  }
+}

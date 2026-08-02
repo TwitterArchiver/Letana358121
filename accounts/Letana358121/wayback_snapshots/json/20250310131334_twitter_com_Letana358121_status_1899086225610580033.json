@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899086223312142336"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1899086175991656719",
+    "created_at": "2025-03-10T13:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T14:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899086225610580033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673336380552871936",
+          "start": 0,
+          "username": "notyoursharky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dicUoyhKtf",
+          "end": 38,
+          "expanded_url": "https://x.com/Letana358121/status/1899086225610580033/photo/1",
+          "media_key": "3_1899086223312142336",
+          "start": 15,
+          "url": "https://t.co/dicUoyhKtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899086225610580033",
+    "in_reply_to_user_id": "1673336380552871936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899086175991656719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notyoursharky https://t.co/dicUoyhKtf"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1899086175991656719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1899086175991656719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1899086175991656719"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899086223312142336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glro27pbwAAAoyC.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899086223312142336"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1899086175991656719",
+        "created_at": "2025-03-10T13:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899086225610580033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673336380552871936",
+              "start": 0,
+              "username": "notyoursharky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dicUoyhKtf",
+              "end": 38,
+              "expanded_url": "https://x.com/Letana358121/status/1899086225610580033/photo/1",
+              "media_key": "3_1899086223312142336",
+              "start": 15,
+              "url": "https://t.co/dicUoyhKtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899086225610580033",
+        "in_reply_to_user_id": "1673336380552871936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899086175991656719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notyoursharky https://t.co/dicUoyhKtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1119,
+          "like_count": 34829,
+          "listed_count": 4,
+          "media_count": 1477,
+          "tweet_count": 12589
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T14:24:50.000Z",
+        "description": "Childless cat lady",
+        "id": "1673336380552871936",
+        "name": "荷光",
+        "pinned_tweet_id": "1850130668661211571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896391721807663104/TrzzaDeu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1657,
+          "like_count": 17866,
+          "listed_count": 3,
+          "media_count": 581,
+          "tweet_count": 3928
+        },
+        "username": "notyoursharky",
+        "verified": false
+      }
+    ]
+  }
+}

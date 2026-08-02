@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1814961735633150204",
+    "created_at": "2024-07-21T09:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T10:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814962666730909851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669725959178551296",
+          "start": 0,
+          "username": "CanonLailah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814962666730909851",
+    "in_reply_to_user_id": "1669725959178551296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814961735633150204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanonLailah 滚蛋我问你要不要做爱你说不要😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1814961735633150204].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1814961735633150204",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1814961735633150204"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1814961735633150204",
+        "created_at": "2024-07-21T09:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T10:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814962666730909851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669725959178551296",
+              "start": 0,
+              "username": "CanonLailah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814962666730909851",
+        "in_reply_to_user_id": "1669725959178551296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814961735633150204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanonLailah 滚蛋我问你要不要做爱你说不要😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 793,
+          "like_count": 22442,
+          "listed_count": 2,
+          "tweet_count": 7269
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T15:19:32.000Z",
+        "description": "被世界操烂了｜日记本｜爱看不看这是我的号",
+        "id": "1669725959178551296",
+        "location": "豬排咖哩蓋飯有限公司",
+        "name": "勒啊拉一勒啊拉",
+        "pinned_tweet_id": "1782631793700827270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814802038037094404/9NA3q0jX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 370,
+          "like_count": 10431,
+          "listed_count": 0,
+          "tweet_count": 6509
+        },
+        "username": "CanonLailah",
+        "verified": false
+      }
+    ]
+  }
+}

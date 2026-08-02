@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1827743286062453046",
+    "created_at": "2024-08-25T16:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T17:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827743286062453046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CASANOVA425386…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/CASANOVA425386/status/1827382518435475510",
+          "start": 25,
+          "url": "https://t.co/55GQQ8DD02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827743286062453046",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827382518435475510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因為沒人疼沒人愛只有發在這裡才勉強有些人看得到。 https://t.co/55GQQ8DD02"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1827743286062453046",
+        "created_at": "2024-08-25T16:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827743286062453046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CASANOVA425386…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CASANOVA425386/status/1827382518435475510",
+              "start": 25,
+              "url": "https://t.co/55GQQ8DD02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827743286062453046",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827382518435475510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因為沒人疼沒人愛只有發在這裡才勉強有些人看得到。 https://t.co/55GQQ8DD02"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798224231702134784",
+        "conversation_id": "1827382518435475510",
+        "created_at": "2024-08-24T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827382518435475510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827382518435475510",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22334,
+          "like_count": 52,
+          "quote_count": 9,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大家会选择在小蓝鸟上分享日常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 880,
+          "like_count": 26755,
+          "listed_count": 3,
+          "tweet_count": 8401
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T05:24:15.000Z",
+        "description": "dom 优先回复关注 QQ：2092751600",
+        "id": "1798224231702134784",
+        "location": "世界中心呼唤爱的野兽",
+        "name": "CASANOVA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800076055707041792/wOyIcgOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "CASANOVA425386",
+        "verified": false
+      }
+    ]
+  }
+}

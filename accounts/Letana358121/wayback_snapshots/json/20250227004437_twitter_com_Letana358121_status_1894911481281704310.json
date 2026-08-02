@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1894720388120432697",
+    "created_at": "2025-02-27T00:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T01:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894911481281704310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894911481281704310",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894720388120432697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 兄弟，你好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_1894720377781121024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GktmJRpWcAAdHEl.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1894720388120432697",
+        "created_at": "2025-02-27T00:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T01:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894911481281704310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894911481281704310",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894720388120432697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 兄弟，你好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894720377781121024"
+          ]
+        },
+        "author_id": "1828062670580543488",
+        "conversation_id": "1894720388120432697",
+        "created_at": "2025-02-26T12:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894720388120432697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1iQk1RrYv",
+              "end": 32,
+              "expanded_url": "https://x.com/CallHtheXtime/status/1894720388120432697/photo/1",
+              "media_key": "3_1894720377781121024",
+              "start": 9,
+              "url": "https://t.co/V1iQk1RrYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894720388120432697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1381,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫耀个耳钉行不行 https://t.co/V1iQk1RrYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 1100,
+          "like_count": 33466,
+          "listed_count": 4,
+          "media_count": 1453,
+          "tweet_count": 12240
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "纯乐子人/多面不粘锅/高强度冲浪/私信秒回/抽象屌丝大手/互fo私信就行/没事发发梗图发发疯/爱正常人/一切遵从理性/希望不让喜欢我的人失望",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi",
+        "pinned_tweet_id": "1893222413455810586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893175418787680256/AzH6QYD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 233,
+          "like_count": 1312,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2904
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

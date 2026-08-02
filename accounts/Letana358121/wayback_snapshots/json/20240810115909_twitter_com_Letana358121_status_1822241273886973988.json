@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1822241273886973988",
+    "created_at": "2024-08-10T11:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T12:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822241273886973988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1124935580490448896",
+          "start": 3,
+          "username": "YuDii77515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822241273886973988",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822004326551974017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuDii77515: 你们戴套啊，别他妈又生一堆傻逼出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1822241273886973988",
+        "created_at": "2024-08-10T11:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T12:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822241273886973988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1124935580490448896",
+              "start": 3,
+              "username": "YuDii77515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822241273886973988",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822004326551974017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuDii77515: 你们戴套啊，别他妈又生一堆傻逼出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124935580490448896",
+        "conversation_id": "1822004326551974017",
+        "created_at": "2024-08-09T20:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T21:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822004326551974017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822004326551974017",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27983,
+          "like_count": 399,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "你们戴套啊，别他妈又生一堆傻逼出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶ユ！",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 844,
+          "like_count": 24455,
+          "listed_count": 2,
+          "tweet_count": 7983
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T07:15:17.000Z",
+        "description": "对，怎样，弄死我？",
+        "id": "1124935580490448896",
+        "location": "🚪13140🤣👉",
+        "name": "玉皇大帝",
+        "pinned_tweet_id": "1774103231322587351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765975890583056385/Um9SkX-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22215,
+          "following_count": 159,
+          "like_count": 5512,
+          "listed_count": 27,
+          "tweet_count": 5494
+        },
+        "username": "YuDii77515",
+        "verified": false
+      }
+    ]
+  }
+}

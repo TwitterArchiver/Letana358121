@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1884909501632901204",
+    "created_at": "2025-01-30T15:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T16:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884984217140162671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596672061035859968",
+          "start": 0,
+          "username": "karasu1stgen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884984217140162671",
+    "in_reply_to_user_id": "1596672061035859968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884909501632901204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasu1stgen 疯了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1884909501632901204",
+        "created_at": "2025-01-30T15:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884984217140162671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596672061035859968",
+              "start": 0,
+              "username": "karasu1stgen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884984217140162671",
+        "in_reply_to_user_id": "1596672061035859968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884909501632901204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasu1stgen 疯了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596672061035859968",
+        "conversation_id": "1884909501632901204",
+        "created_at": "2025-01-30T10:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884909501632901204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884909501632901204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "zyn老師有沒有同人本子什麼的🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 1070,
+          "like_count": 31233,
+          "listed_count": 4,
+          "media_count": 1396,
+          "tweet_count": 11610
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T01:07:53.000Z",
+        "description": "性別不明 发的什么我也不到 敢和我表白我殺了你 壞敵蜜🔥@Mona_pray 新年快乐 我恭喜你发财",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "Mona_pray"
+              }
+            ]
+          }
+        },
+        "id": "1596672061035859968",
+        "location": "酒吧",
+        "name": "這是啪，啪，沒了",
+        "pinned_tweet_id": "1871826372378906816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884247170989035520/gw7Qqs92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 655,
+          "like_count": 74979,
+          "listed_count": 11,
+          "media_count": 556,
+          "tweet_count": 37570
+        },
+        "username": "karasu1stgen",
+        "verified": false
+      }
+    ]
+  }
+}

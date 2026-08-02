@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1865743435279573146",
+    "created_at": "2024-12-08T14:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T15:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865764959365554468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 26,
+          "id": "1768631748257361920",
+          "start": 13,
+          "username": "nieniebuding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865764959365554468",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865749404361293902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @nieniebuding 赫赫你线下也很木头"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1865749404361293902].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1865749404361293902",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1865749404361293902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1865743435279573146",
+        "created_at": "2024-12-08T14:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865764959365554468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 26,
+              "id": "1768631748257361920",
+              "start": 13,
+              "username": "nieniebuding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865764959365554468",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865749404361293902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @nieniebuding 赫赫你线下也很木头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1001,
+          "like_count": 29532,
+          "listed_count": 4,
+          "media_count": 1257,
+          "tweet_count": 10514
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "永久锁推 / 彼女 @nieniebuding @KURANAGA3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "nieniebuding"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "KURANAGA3"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "常州",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1352,
+          "like_count": 46584,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 1909
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T13:34:27.000Z",
+        "description": "含糖MtF🍥｜终于进化家长党｜游戏王｜娱乐伙伴｜退役高中生｜INFP｜45萌新｜鳊鱼八十｜车万｜请找我玩呜呜｜想变可爱｜绝赞发病中  想变成猫 蔚蓝大神 和宇宙中飞行的不可思议涅涅子，还请不要扎伤我      姐姐大人@Smilewei114514 糖罐子@Sa1ntM0n1ka 我的内脏 @0xSorrowRain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "Smilewei114514"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "Sa1ntM0n1ka"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "0xSorrowRain"
+              }
+            ]
+          }
+        },
+        "id": "1768631748257361920",
+        "location": "簫·零落緋如故",
+        "name": "宇佐见涅子🍥🍮「寝不足」",
+        "pinned_tweet_id": "1834058575863501273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821400607296454656/xhukTfvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 983,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3599
+        },
+        "username": "nieniebuding",
+        "verified": false
+      }
+    ]
+  }
+}

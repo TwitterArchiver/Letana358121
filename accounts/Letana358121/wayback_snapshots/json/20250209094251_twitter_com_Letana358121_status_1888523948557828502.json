@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1888283526371713511",
+    "created_at": "2025-02-09T09:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T10:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888523948557828502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1567126711510204416",
+          "start": 0,
+          "username": "YukiYukiAmeAme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888523948557828502",
+    "in_reply_to_user_id": "1567126711510204416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888459606235709804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiYukiAmeAme 这是我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1888459606235709804].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1888459606235709804",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1888459606235709804"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1888283526371713511",
+        "created_at": "2025-02-09T09:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888523948557828502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1567126711510204416",
+              "start": 0,
+              "username": "YukiYukiAmeAme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888523948557828502",
+        "in_reply_to_user_id": "1567126711510204416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888459606235709804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiYukiAmeAme 这是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 1086,
+          "like_count": 31963,
+          "listed_count": 4,
+          "media_count": 1414,
+          "tweet_count": 11841
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T12:25:07.000Z",
+        "description": "黒羽詩織/一只守着墓地的乌鸦。喜欢的人：@Jiangyineko 阿P：@Asiya_Tukimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Jiangyineko"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Asiya_Tukimi"
+              }
+            ]
+          }
+        },
+        "id": "1567126711510204416",
+        "location": "まじょのかた",
+        "name": "🐦‍⬛鸦鸦牌皇室贵族小点心🍮 （兔兔布丁版）",
+        "pinned_tweet_id": "1879666442750267833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888269875854086144/12CY_-sB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 221,
+          "like_count": 570,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1282
+        },
+        "username": "YukiYukiAmeAme",
+        "verified": false
+      }
+    ]
+  }
+}

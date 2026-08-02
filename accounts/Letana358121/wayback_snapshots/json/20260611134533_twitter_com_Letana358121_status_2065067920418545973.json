@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2064735569385795842",
+    "created_at": "2026-06-11T13:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065067920418545973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898590878387875840",
+          "start": 0,
+          "username": "Eureka2223232"
+        },
+        {
+          "end": 27,
+          "id": "1806849464386416640",
+          "start": 15,
+          "username": "tangeorange"
+        },
+        {
+          "end": 43,
+          "id": "1704469304077611008",
+          "start": 28,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065067920418545973",
+    "in_reply_to_user_id": "1898590878387875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065067538892079163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka2223232 @tangeorange @jiaoyanboluooo 我真不行了吧这就是不翻车的理由吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065067538892079163].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065067538892079163",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065067538892079163"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2064735569385795842",
+        "created_at": "2026-06-11T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065067920418545973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898590878387875840",
+              "start": 0,
+              "username": "Eureka2223232"
+            },
+            {
+              "end": 27,
+              "id": "1806849464386416640",
+              "start": 15,
+              "username": "tangeorange"
+            },
+            {
+              "end": 43,
+              "id": "1704469304077611008",
+              "start": 28,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065067920418545973",
+        "in_reply_to_user_id": "1898590878387875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065067538892079163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka2223232 @tangeorange @jiaoyanboluooo 我真不行了吧这就是不翻车的理由吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3377,
+          "following_count": 1512,
+          "like_count": 56805,
+          "listed_count": 7,
+          "media_count": 2315,
+          "tweet_count": 20920
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T04:25:26.000Z",
+        "description": "HK 女｜病嬌｜我有一隻可愛的小妹妹貓咪@dyingyuzu ❤️｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "dyingyuzu"
+              }
+            ]
+          }
+        },
+        "id": "1898590878387875840",
+        "location": "柚子的身體裡",
+        "name": "优莱卡Eureka 阮玲玉 2th",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029622059924594688/M8LS4htO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 322,
+          "like_count": 6135,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 307
+        },
+        "username": "Eureka2223232",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\nbff @maoxianACT @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "maoxianACT"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tangeror"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 2802,
+          "like_count": 8819,
+          "listed_count": 4,
+          "media_count": 1268,
+          "tweet_count": 8531
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 3883,
+          "like_count": 27563,
+          "listed_count": 11,
+          "media_count": 1428,
+          "tweet_count": 5940
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

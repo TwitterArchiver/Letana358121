@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1815646658492866776",
+    "created_at": "2024-07-23T16:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T17:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815786504280740053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779430406569213952",
+          "start": 0,
+          "username": "exynos240"
+        },
+        {
+          "end": 20,
+          "id": "1763628605308129280",
+          "start": 11,
+          "username": "mtf_nmsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815786504280740053",
+    "in_reply_to_user_id": "1779430406569213952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815646658492866776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exynos240 @mtf_nmsl 好杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1815646658492866776",
+        "created_at": "2024-07-23T16:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T17:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815786504280740053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779430406569213952",
+              "start": 0,
+              "username": "exynos240"
+            },
+            {
+              "end": 20,
+              "id": "1763628605308129280",
+              "start": 11,
+              "username": "mtf_nmsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815786504280740053",
+        "in_reply_to_user_id": "1779430406569213952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815646658492866776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exynos240 @mtf_nmsl 好杀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815646653421854720",
+            "3_1815646654684340224"
+          ]
+        },
+        "author_id": "1779430406569213952",
+        "conversation_id": "1815646658492866776",
+        "created_at": "2024-07-23T07:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T08:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815646658492866776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763628605308129280",
+              "start": 4,
+              "username": "mtf_nmsl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Mtv2BLgWsd",
+              "end": 37,
+              "expanded_url": "https://twitter.com/exynos240/status/1815646658492866776/photo/1",
+              "media_key": "3_1815646653421854720",
+              "start": 14,
+              "url": "https://t.co/Mtv2BLgWsd"
+            },
+            {
+              "display_url": "pic.twitter.com/Mtv2BLgWsd",
+              "end": 37,
+              "expanded_url": "https://twitter.com/exynos240/status/1815646658492866776/photo/1",
+              "media_key": "3_1815646654684340224",
+              "start": 14,
+              "url": "https://t.co/Mtv2BLgWsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815646658492866776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1096,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一击必杀@mtf_nmsl https://t.co/Mtv2BLgWsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 814,
+          "like_count": 22656,
+          "listed_count": 2,
+          "tweet_count": 7351
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T08:44:49.000Z",
+        "description": "姓名：任秉慧\n手机：13934514716\n地址：山西省太原市小店区坞城街道体育路亲\n贤苑小区2号楼603",
+        "id": "1779430406569213952",
+        "location": "zyn亲生母亲",
+        "name": "任秉慧",
+        "pinned_tweet_id": "1789226439633735860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789225969171275776/DgwgvZwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 216,
+          "like_count": 812,
+          "listed_count": 0,
+          "tweet_count": 327
+        },
+        "username": "exynos240",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T18:13:33.000Z",
+        "description": "",
+        "id": "1763628605308129280",
+        "name": "无响应失败小狗",
+        "pinned_tweet_id": "1814040129205584178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808555763994103808/JdYpcykV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 19,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 2175
+        },
+        "username": "mtf_nmsl",
+        "verified": false
+      }
+    ]
+  }
+}

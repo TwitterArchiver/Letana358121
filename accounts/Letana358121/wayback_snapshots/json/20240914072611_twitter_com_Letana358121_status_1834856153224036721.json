@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1834819115980058761",
+    "created_at": "2024-09-14T07:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T08:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834856153224036721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521276666689261568",
+          "start": 0,
+          "username": "Yue_0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834856153224036721",
+    "in_reply_to_user_id": "1521276666689261568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834847877430231398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_0404 北京有喜欢的人。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1834819115980058761",
+        "created_at": "2024-09-14T07:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834856153224036721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521276666689261568",
+              "start": 0,
+              "username": "Yue_0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834856153224036721",
+        "in_reply_to_user_id": "1521276666689261568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834847877430231398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_0404 北京有喜欢的人。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521276666689261568",
+        "conversation_id": "1834819115980058761",
+        "created_at": "2024-09-14T06:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T07:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834847877430231398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834847877430231398",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834819115980058761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 北京有啥好的，一点意思没有，我跑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 895,
+          "like_count": 28245,
+          "listed_count": 3,
+          "tweet_count": 8938
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T23:53:27.000Z",
+        "description": "Yuèyue：“因为有自知之明，所以我包容万事万物；因为曾历经黑暗，所以我可以同情同理。”",
+        "id": "1521276666689261568",
+        "name": "钥钥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827259873094217728/Egy3bzp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 8,
+          "like_count": 2521,
+          "listed_count": 0,
+          "tweet_count": 2885
+        },
+        "username": "Yue_0404",
+        "verified": false
+      }
+    ]
+  }
+}

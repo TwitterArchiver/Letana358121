@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073704645298655232"
+      ],
+      "media_source_tweet_id": [
+        "2073731064703713468"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2074346219204415671",
+    "created_at": "2026-07-07T04:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074346219204415671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2586822086",
+          "start": 3,
+          "username": "ikezakimisa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzXVFV4stC",
+          "end": 53,
+          "expanded_url": "https://x.com/ikezakimisa/status/2073731064703713468/photo/1",
+          "media_key": "3_2073704645298655232",
+          "start": 30,
+          "url": "https://t.co/BzXVFV4stC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074346219204415671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073731064703713468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikezakimisa: ん～～可愛く描けたｿﾞ🎨 https://t.co/BzXVFV4stC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2073704645298655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdHY1AakAAlGSo.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073704645298655232"
+          ],
+          "media_source_tweet_id": [
+            "2073731064703713468"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2074346219204415671",
+        "created_at": "2026-07-07T04:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074346219204415671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2586822086",
+              "start": 3,
+              "username": "ikezakimisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzXVFV4stC",
+              "end": 53,
+              "expanded_url": "https://x.com/ikezakimisa/status/2073731064703713468/photo/1",
+              "media_key": "3_2073704645298655232",
+              "start": 30,
+              "url": "https://t.co/BzXVFV4stC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074346219204415671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073731064703713468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikezakimisa: ん～～可愛く描けたｿﾞ🎨 https://t.co/BzXVFV4stC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073704645298655232"
+          ]
+        },
+        "author_id": "2586822086",
+        "conversation_id": "2073731064703713468",
+        "created_at": "2026-07-05T11:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073731064703713468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzXVFV4stC",
+              "end": 36,
+              "expanded_url": "https://x.com/ikezakimisa/status/2073731064703713468/photo/1",
+              "media_key": "3_2073704645298655232",
+              "start": 13,
+              "url": "https://t.co/BzXVFV4stC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073731064703713468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1946,
+          "impression_count": 319174,
+          "like_count": 15862,
+          "quote_count": 49,
+          "reply_count": 37,
+          "retweet_count": 1268
+        },
+        "reply_settings": "everyone",
+        "text": "ん～～可愛く描けたｿﾞ🎨 https://t.co/BzXVFV4stC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 1559,
+          "like_count": 59962,
+          "listed_count": 7,
+          "media_count": 2379,
+          "tweet_count": 21684
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-25T04:05:27.000Z",
+        "description": "二次元美少年狂信者👶\nFantia💟https://t.co/tSWHhfzYFJ\nDLsite💗https://t.co/OtMTXqPI2S\nFANZA💞https://t.co/TZh47aUXzH\n虎🐯https://t.co/cugPC44uoI\nメ🍈https://t.co/0LMJKAQF3X\nBOOTH🎪https://t.co/oErlF9tLfX\nﾌﾞﾙｽｶ🦋https://t.co/NT9nJuhdQl\n肆ノ島來世🎴@r_snsm\n\n⚠無断使用/転載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 228,
+                "start": 221,
+                "username": "r_snsm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/Fb432",
+                "end": 41,
+                "expanded_url": "http://x.gd/Fb432",
+                "start": 18,
+                "url": "https://t.co/tSWHhfzYFJ"
+              },
+              {
+                "display_url": "x.gd/j6SvV",
+                "end": 72,
+                "expanded_url": "http://x.gd/j6SvV",
+                "start": 49,
+                "url": "https://t.co/OtMTXqPI2S"
+              },
+              {
+                "display_url": "x.gd/pBx0g",
+                "end": 102,
+                "expanded_url": "http://x.gd/pBx0g",
+                "start": 79,
+                "url": "https://t.co/TZh47aUXzH"
+              },
+              {
+                "display_url": "x.gd/PYBCR",
+                "end": 128,
+                "expanded_url": "http://x.gd/PYBCR",
+                "start": 105,
+                "url": "https://t.co/cugPC44uoI"
+              },
+              {
+                "display_url": "x.gd/JJMWm",
+                "end": 154,
+                "expanded_url": "http://x.gd/JJMWm",
+                "start": 131,
+                "url": "https://t.co/0LMJKAQF3X"
+              },
+              {
+                "display_url": "x.gd/GBSa1",
+                "end": 184,
+                "expanded_url": "http://x.gd/GBSa1",
+                "start": 161,
+                "url": "https://t.co/oErlF9tLfX"
+              },
+              {
+                "display_url": "x.gd/xDbDr",
+                "end": 214,
+                "expanded_url": "http://x.gd/xDbDr",
+                "start": 191,
+                "url": "https://t.co/NT9nJuhdQl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/hitokui",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/hitokui",
+                "start": 0,
+                "url": "https://t.co/nrKMRg3hc0"
+              }
+            ]
+          }
+        },
+        "id": "2586822086",
+        "location": "✉ikezakimisa🌟gmail.com ❌個人依頼",
+        "name": "池咲ミサ♂フィギュア予約受付中",
+        "pinned_tweet_id": "2058849945432805739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267849871903449089/5K6DASnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162941,
+          "following_count": 419,
+          "like_count": 11649,
+          "listed_count": 1418,
+          "media_count": 359,
+          "tweet_count": 21352
+        },
+        "url": "https://t.co/nrKMRg3hc0",
+        "username": "ikezakimisa",
+        "verified": true
+      }
+    ]
+  }
+}

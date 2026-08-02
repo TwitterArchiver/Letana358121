@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1889681882540830793",
+    "created_at": "2025-02-12T15:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889692019704078659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889692019704078659",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889681882540830793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO 不得不抽的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1889681882540830793",
+        "created_at": "2025-02-12T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889692019704078659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889692019704078659",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889681882540830793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 不得不抽的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "1889681882540830793",
+        "created_at": "2025-02-12T14:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T15:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889681882540830793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889681882540830793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我原本是個男的，他們說抽煙會短，然後抽著抽著就變成了女的，不好意思哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 1092,
+          "like_count": 32259,
+          "listed_count": 4,
+          "media_count": 1423,
+          "tweet_count": 11904
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀 病み垢@kanochan_umxxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "kanochan_umxxi"
+              }
+            ]
+          }
+        },
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882510966296018944/CbAGQTHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 44,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 168
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

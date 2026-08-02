@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1866857523497800137",
+    "created_at": "2024-12-11T15:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T16:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866873585278783681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596416860752207872",
+          "start": 0,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866873585278783681",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866870787464208550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longlinlon 其实我觉得真没贴切，贝利亚起码还能召唤一堆怪兽来跟他们一起对打的，我们就单纯的就是被欺凌而已"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866870787464208550].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866870787464208550",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866870787464208550"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1866857523497800137",
+        "created_at": "2024-12-11T15:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866873585278783681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866873585278783681",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866870787464208550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 其实我觉得真没贴切，贝利亚起码还能召唤一堆怪兽来跟他们一起对打的，我们就单纯的就是被欺凌而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1015,
+          "like_count": 29641,
+          "listed_count": 4,
+          "media_count": 1264,
+          "tweet_count": 10580
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2303,
+          "like_count": 185349,
+          "listed_count": 8,
+          "media_count": 1008,
+          "tweet_count": 12036
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

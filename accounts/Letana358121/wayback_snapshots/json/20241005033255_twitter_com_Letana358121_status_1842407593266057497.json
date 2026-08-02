@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1842407593266057497",
+    "created_at": "2024-10-05T03:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T04:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842407593266057497"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "美神降",
+          "probability": 0.5146,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Equal02_/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Equal02_/status/1842336540825157698",
+          "start": 6,
+          "url": "https://t.co/fO7nzxgAl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842407593266057497",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842336540825157698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美神降临。 https://t.co/fO7nzxgAl8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1842407593266057497",
+        "created_at": "2024-10-05T03:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T04:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842407593266057497"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "美神降",
+              "probability": 0.5146,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Equal02_/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Equal02_/status/1842336540825157698",
+              "start": 6,
+              "url": "https://t.co/fO7nzxgAl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842407593266057497",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842336540825157698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美神降临。 https://t.co/fO7nzxgAl8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842336537511616512"
+          ]
+        },
+        "author_id": "1363757767329255424",
+        "conversation_id": "1842336540825157698",
+        "created_at": "2024-10-04T22:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T23:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842336540825157698"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zNULNOoM9",
+              "end": 39,
+              "expanded_url": "https://x.com/Equal02_/status/1842336540825157698/photo/1",
+              "media_key": "3_1842336537511616512",
+              "start": 16,
+              "url": "https://t.co/4zNULNOoM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842336540825157698",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1067,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "濡羽。\n#maimai_art https://t.co/4zNULNOoM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 943,
+          "like_count": 29545,
+          "listed_count": 4,
+          "tweet_count": 9438
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T07:49:34.000Z",
+        "description": "=ph 低浮上◆無断転載禁止◆staticequalx@gmail.com",
+        "id": "1363757767329255424",
+        "location": "LowestWorld",
+        "name": "EqualNemuX🍨",
+        "pinned_tweet_id": "1725797517374476626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780021497274445824/qQj7OP-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 363,
+          "like_count": 600,
+          "listed_count": 14,
+          "tweet_count": 757
+        },
+        "username": "Equal02_",
+        "verified": false
+      }
+    ]
+  }
+}

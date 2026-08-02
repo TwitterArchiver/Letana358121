@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2072369363165057428",
+    "created_at": "2026-07-03T05:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072914557014872435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856073016691847168",
+          "start": 0,
+          "username": "wayback112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072914557014872435",
+    "in_reply_to_user_id": "1856073016691847168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072369363165057428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wayback112 带我去玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2072361532042936321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKB1WOagAEVl9e.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2072369363165057428",
+        "created_at": "2026-07-03T05:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072914557014872435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856073016691847168",
+              "start": 0,
+              "username": "wayback112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072914557014872435",
+        "in_reply_to_user_id": "1856073016691847168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072369363165057428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wayback112 带我去玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072361532042936321"
+          ]
+        },
+        "author_id": "1856073016691847168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2072369363165057428",
+        "created_at": "2026-07-01T17:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:17:55.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072369118569984058",
+          "2072369267299987512",
+          "2072369363165057428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSrEskaAXn",
+              "end": 163,
+              "expanded_url": "https://x.com/wayback112/status/2072369363165057428/photo/1",
+              "media_key": "3_2072361532042936321",
+              "start": 140,
+              "url": "https://t.co/XSrEskaAXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072369363165057428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在最不想旅游只想天天打游戏的年纪，却跟着学校组织的游学活动和被父母强行拉着自驾游，最大的回忆的只是车上和同学，我弟联机玩手机\n\n前往酒泉的路上四个同学坐在大巴最后连元气骑士\n\n青海海拔4000m的地方堵车，父母一个开车一个在吸氧，相互抱怨着吵架，我和我弟在后排cf手游刷挑战\n…\n\n我真的游玩过吗，或许吧\n如果你问我，敦煌莫高窟最有意思的是什么，其实我没有欣赏那些千年艺术的高尚审美，即便我去了两次，也只是听歌做任务般跟着人流看完，想着怎么回酒店躺着打游戏\n\n唯一能让我驻足欣赏的的，便是与壁画一同在保护玻璃后，百年以来，从民国至21世纪的“到此一游”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3030,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在最不想旅游只想天天打游戏的年纪，却跟着学校组织的游学活动和被父母强行拉着自驾游，最大的回忆的只是车上和同学，我弟联机玩手机\n\n前往酒泉的路上四个同学坐在大巴最后连元气骑士\n\n青海海拔4000m的地方堵车，父母一个开车一个在吸氧，相互抱怨着吵架，我和我弟在后排cf手游刷挑战\n… https://t.co/XSrEskaAXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 1548,
+          "like_count": 59583,
+          "listed_count": 7,
+          "media_count": 2369,
+          "tweet_count": 21562
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T20:34:39.000Z",
+        "description": "世界签证有效期至2029.11/不坚定的逃亡主义者🫤/05/珠海上学/喜欢打游戏/擅长什么都不擅长/😈友跨含糖缺爱小南梁～/精神状态很稳定吗🧐/摆烂睡觉领域大神😋/忘掉了过去，懒得想未来，只好醉生梦死在当下🙃",
+        "id": "1856073016691847168",
+        "location": "临终关怀医院(100光年内可飞)",
+        "name": "稳定岛",
+        "pinned_tweet_id": "2065191172126253442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980054535272792064/5964VhT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 84,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "wayback112",
+        "verified": true
+      }
+    ]
+  }
+}

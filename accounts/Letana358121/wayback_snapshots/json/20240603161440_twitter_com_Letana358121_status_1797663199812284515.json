@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1797663094472425711",
+    "created_at": "2024-06-03T16:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T17:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797663199812284515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797663199812284515",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797663094472425711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 好看~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1797663094472425711",
+        "created_at": "2024-06-03T16:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797663199812284515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797663199812284515",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797663094472425711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 好看~"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797663091318304768"
+          ]
+        },
+        "author_id": "1721522192175767552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "1797663094472425711",
+        "created_at": "2024-06-03T16:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797663094472425711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZTdMZBkI3U",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1797663094472425711/photo/1",
+              "media_key": "3_1797663091318304768",
+              "start": 67,
+              "url": "https://t.co/ZTdMZBkI3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797663094472425711",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忙了半天终于搞了个比较满意的字体\n西文字体是Samsung Sharp Sans，medium字重\n中文字体是微软正黑，bold字重 https://t.co/ZTdMZBkI3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 587,
+          "like_count": 20945,
+          "listed_count": 2,
+          "tweet_count": 6497
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "我們相信，只要堅定，就能清晰。在巨響來臨前，我們一定會先見到燦爛的光 。 /❤️ @Letana358121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Letana358121"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika 🍥",
+        "pinned_tweet_id": "1786069724679512373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792396738831257600/eFQtGYha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1009,
+          "like_count": 31193,
+          "listed_count": 11,
+          "tweet_count": 2022
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

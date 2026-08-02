@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1794733994002829415",
+    "created_at": "2024-05-26T14:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T15:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794738809491632478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633638115918352385",
+          "start": 0,
+          "username": "amsonia17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794738809491632478",
+    "in_reply_to_user_id": "1633638115918352385",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794738174121722182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amsonia17 不理解（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1794733994002829415",
+        "created_at": "2024-05-26T14:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T15:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794738809491632478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633638115918352385",
+              "start": 0,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794738809491632478",
+        "in_reply_to_user_id": "1633638115918352385",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794738174121722182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amsonia17 不理解（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1633638115918352385",
+        "conversation_id": "1794733994002829415",
+        "created_at": "2024-05-26T14:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T15:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794738174121722182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794738174121722182",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794733994002829415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 因为过于可爱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 579,
+          "like_count": 20680,
+          "listed_count": 3,
+          "tweet_count": 6375
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T01:17:51.000Z",
+        "description": "PhD最后一年 | 追寻研究与生活的梦想 | 🏳️‍⚧️",
+        "id": "1633638115918352385",
+        "location": "Boston",
+        "name": "Amsonia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636533856491667464/M8TCIerj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 451,
+          "like_count": 8137,
+          "listed_count": 0,
+          "tweet_count": 1996
+        },
+        "username": "amsonia17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1840437773901471871",
+    "created_at": "2024-09-29T17:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T18:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840437773901471871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1753355639949291521",
+          "start": 3,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840437773901471871",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840397447308439557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jesuisnoirdeL: 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1840437773901471871",
+        "created_at": "2024-09-29T17:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T18:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840437773901471871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1753355639949291521",
+              "start": 3,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840437773901471871",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840397447308439557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jesuisnoirdeL: 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1840397447308439557",
+        "created_at": "2024-09-29T14:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T15:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840397447308439557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocontextgayy/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nocontextgayy/status/1840396059853332834",
+              "start": 2,
+              "url": "https://t.co/iREGddZMBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840397447308439557",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840396059853332834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/iREGddZMBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 942,
+          "like_count": 29012,
+          "listed_count": 3,
+          "tweet_count": 9331
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "06 fine art / Art contemporain local de Shanghai / Asian Gay stand with LBTQ",
+        "id": "1753355639949291521",
+        "location": "Shanghaï / Lafayette ",
+        "name": "L老师今天草什么",
+        "pinned_tweet_id": "1839317152026996747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814020372171194368/8sYaq8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 503,
+          "like_count": 39118,
+          "listed_count": 3,
+          "tweet_count": 23461
+        },
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

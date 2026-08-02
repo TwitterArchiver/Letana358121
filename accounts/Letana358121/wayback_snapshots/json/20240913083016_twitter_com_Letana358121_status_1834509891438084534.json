@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1834509891438084534",
+    "created_at": "2024-09-13T08:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T09:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834509891438084534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kwaiikunai_oO/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Kwaiikunai_oO/status/1834509809921786276",
+          "start": 8,
+          "url": "https://t.co/SDvLEIsIeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834509891438084534",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834509809921786276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赫赫我的钱。。 https://t.co/SDvLEIsIeZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1834509891438084534",
+        "created_at": "2024-09-13T08:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T09:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834509891438084534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kwaiikunai_oO/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Kwaiikunai_oO/status/1834509809921786276",
+              "start": 8,
+              "url": "https://t.co/SDvLEIsIeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834509891438084534",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834509809921786276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赫赫我的钱。。 https://t.co/SDvLEIsIeZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834509801990356993"
+          ]
+        },
+        "author_id": "1734928362894983168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1834509809921786276",
+        "created_at": "2024-09-13T08:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T09:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834509809921786276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1669543422586421248",
+              "start": 9,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/talsdr2y4y",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Kwaiikunai_oO/status/1834509809921786276/photo/1",
+              "media_key": "3_1834509801990356993",
+              "start": 23,
+              "url": "https://t.co/TaLSDR2y4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834509809921786276",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sanaka買瘋了@Letana358121 https://t.co/TaLSDR2y4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 895,
+          "like_count": 28169,
+          "listed_count": 3,
+          "tweet_count": 8915
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀",
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "pinned_tweet_id": "1737838478988337654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796576244601081856/P-H9eBOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 37,
+          "like_count": 80,
+          "listed_count": 1,
+          "tweet_count": 44
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

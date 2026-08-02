@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1869392244253569045",
+    "created_at": "2024-12-19T04:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T05:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869594428501098988"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "好耶",
+          "probability": 0.5147,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750148599726718976",
+          "start": 0,
+          "username": "t7love_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869594428501098988",
+    "in_reply_to_user_id": "1750148599726718976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869594291305402482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t7love_ovo 好耶（！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1869392244253569045",
+        "created_at": "2024-12-19T04:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T05:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869594428501098988"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "好耶",
+              "probability": 0.5147,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750148599726718976",
+              "start": 0,
+              "username": "t7love_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869594428501098988",
+        "in_reply_to_user_id": "1750148599726718976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869594291305402482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t7love_ovo 好耶（！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750148599726718976",
+        "conversation_id": "1869392244253569045",
+        "created_at": "2024-12-19T04:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T05:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869594291305402482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869594291305402482",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869392244253569045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 喜欢你的头发啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1014,
+          "like_count": 29912,
+          "listed_count": 5,
+          "media_count": 1284,
+          "tweet_count": 10744
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T13:28:45.000Z",
+        "description": "晚安",
+        "id": "1750148599726718976",
+        "location": "坟场",
+        "name": "98秒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851537335713955841/s_BwFQWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 187,
+          "like_count": 8536,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1262
+        },
+        "username": "t7love_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

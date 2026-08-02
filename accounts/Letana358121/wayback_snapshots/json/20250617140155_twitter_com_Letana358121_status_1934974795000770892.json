@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934974780203208705"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1934974795000770892",
+    "created_at": "2025-06-17T14:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934974795000770892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2GCkPTwd18",
+          "end": 37,
+          "expanded_url": "https://x.com/Letana358121/status/1934974795000770892/photo/1",
+          "media_key": "3_1934974780203208705",
+          "start": 14,
+          "url": "https://t.co/2GCkPTwd18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934974795000770892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手上的颜料要两周才能掉。。 https://t.co/2GCkPTwd18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934974780203208705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtppT4daEAElgQO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934974780203208705"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1934974795000770892",
+        "created_at": "2025-06-17T14:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934974795000770892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GCkPTwd18",
+              "end": 37,
+              "expanded_url": "https://x.com/Letana358121/status/1934974795000770892/photo/1",
+              "media_key": "3_1934974780203208705",
+              "start": 14,
+              "url": "https://t.co/2GCkPTwd18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934974795000770892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手上的颜料要两周才能掉。。 https://t.co/2GCkPTwd18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 1180,
+          "like_count": 40385,
+          "listed_count": 5,
+          "media_count": 1716,
+          "tweet_count": 14871
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "1975113873838780548",
+    "created_at": "2025-10-06T08:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975114658031054909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975114658031054909",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975113873838780548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 寿司🐺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "1975113873838780548",
+        "created_at": "2025-10-06T08:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975114658031054909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975114658031054909",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975113873838780548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 寿司🐺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "1975113873838780548",
+        "created_at": "2025-10-06T08:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975113873838780548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975113873838780548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子最大的遗憾是没和 sanaka 吃上寿司郎😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 1251,
+          "like_count": 42072,
+          "listed_count": 8,
+          "media_count": 1881,
+          "tweet_count": 15913
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "这里是⑨级无敌聪明得猫抓板! | 想成为水母猫@AsabaSeiya451 | 🍥友跨顺男 | 心理学苦手 | 真人会回fo哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "AsabaSeiya451"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "猫抓板",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972226255006449664/EX3Xxvyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 274,
+          "like_count": 1572,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 499
+        },
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

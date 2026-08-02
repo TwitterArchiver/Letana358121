@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1886283344280994045",
+    "created_at": "2025-02-03T06:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886296377975767482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "dumbstruc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886296377975767482",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886283344280994045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dumbstruc 肚子好色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1886283344280994045",
+        "created_at": "2025-02-03T06:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886296377975767482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "dumbstruc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886296377975767482",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886283344280994045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dumbstruc 肚子好色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886283341957390336"
+          ]
+        },
+        "author_id": "1489203021536198657",
+        "conversation_id": "1886283344280994045",
+        "created_at": "2025-02-03T05:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886283344280994045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEpI1MikVi",
+              "end": 28,
+              "expanded_url": "https://x.com/dumbstruc/status/1886283344280994045/photo/1",
+              "media_key": "3_1886283341957390336",
+              "start": 5,
+              "url": "https://t.co/NEpI1MikVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886283344280994045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫休息 https://t.co/NEpI1MikVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1069,
+          "like_count": 31418,
+          "listed_count": 4,
+          "media_count": 1403,
+          "tweet_count": 11663
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "",
+        "id": "1489203021536198657",
+        "name": "GBC全自动bot",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 106,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "username": "dumbstruc",
+        "verified": false
+      }
+    ]
+  }
+}

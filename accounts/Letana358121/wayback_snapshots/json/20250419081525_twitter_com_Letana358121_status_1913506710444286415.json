@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1913465918296064128",
+    "created_at": "2025-04-19T08:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T09:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913506710444286415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "ESY_yujue0189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913506710444286415",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913465918296064128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ESY_yujue0189 真的很会搓了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1913465893130260480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go3_F4Ha0AAjK6M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1913465918296064128",
+        "created_at": "2025-04-19T08:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913506710444286415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "ESY_yujue0189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913506710444286415",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913465918296064128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ESY_yujue0189 真的很会搓了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913465893130260480"
+          ]
+        },
+        "author_id": "1761739613436321792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913465918296064128",
+        "created_at": "2025-04-19T05:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913465918296064128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5gtB9MYg9",
+              "end": 30,
+              "expanded_url": "https://x.com/ESY_yujue0189/status/1913465918296064128/photo/1",
+              "media_key": "3_1913465893130260480",
+              "start": 7,
+              "url": "https://t.co/N5gtB9MYg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913465918296064128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纵连区up主 https://t.co/N5gtB9MYg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1142,
+          "like_count": 37800,
+          "listed_count": 5,
+          "media_count": 1563,
+          "tweet_count": 13797
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "随处可见的、普通的，喜欢着音游的男孩子。\n键证恶俗会直接block\n世间唯一的宝物 @Sakura_Yukihane\n暂离中，24/06/18 准时准点销号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "Sakura_Yukihane"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "中国大陆重庆市宅漫游音游窝",
+        "name": "我是雨爵_YJGAME",
+        "pinned_tweet_id": "1906655219137790030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860492146249465856/IcpHRwln_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 628,
+          "like_count": 22182,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 5171
+        },
+        "username": "ESY_yujue0189",
+        "verified": false
+      }
+    ]
+  }
+}

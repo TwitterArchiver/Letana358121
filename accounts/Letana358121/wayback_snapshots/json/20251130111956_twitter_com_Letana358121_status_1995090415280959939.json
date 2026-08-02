@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1994741995726909449",
+    "created_at": "2025-11-30T11:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995090415280959939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "AmeAlways"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995090415280959939",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994741995726909449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAlways 送我一个好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_1994741992031752231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66_Re2bkCchup3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1994741995726909449",
+        "created_at": "2025-11-30T11:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995090415280959939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "AmeAlways"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995090415280959939",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994741995726909449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAlways 送我一个好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994741992031752231"
+          ]
+        },
+        "author_id": "1489203021536198657",
+        "conversation_id": "1994741995726909449",
+        "created_at": "2025-11-29T12:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994741995726909449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAilI4PSaV",
+              "end": 34,
+              "expanded_url": "https://x.com/AmeAlways/status/1994741995726909449/photo/1",
+              "media_key": "3_1994741992031752231",
+              "start": 11,
+              "url": "https://t.co/mAilI4PSaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994741995726909449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1103,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了个专注达的手机壳 https://t.co/mAilI4PSaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2890,
+          "following_count": 1306,
+          "like_count": 44270,
+          "listed_count": 7,
+          "media_count": 1987,
+          "tweet_count": 16932
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "猫人无限恒久，永远激推！！！\n💞女嘉宾@42lzmr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "42lzmr"
+              }
+            ]
+          }
+        },
+        "id": "1489203021536198657",
+        "name": "AmeAlways",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 362,
+          "like_count": 3810,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1229
+        },
+        "username": "AmeAlways",
+        "verified": false
+      }
+    ]
+  }
+}

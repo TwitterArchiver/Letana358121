@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2079486540959621556",
+    "created_at": "2026-07-21T08:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079486540959621556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2267124525",
+          "start": 3,
+          "username": "ACzymay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079486540959621556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079484282356035725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACzymay: 本质狗哨政治，你那股“支持虐待动物”和制造虚假两难的味儿都收不住了，赶紧给我有多远滚多远吧。我强烈支持对你全家人工干预人类种群数量！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2079486540959621556",
+        "created_at": "2026-07-21T08:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079486540959621556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2267124525",
+              "start": 3,
+              "username": "ACzymay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079486540959621556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079484282356035725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACzymay: 本质狗哨政治，你那股“支持虐待动物”和制造虚假两难的味儿都收不住了，赶紧给我有多远滚多远吧。我强烈支持对你全家人工干预人类种群数量！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2267124525",
+        "conversation_id": "2079484282356035725",
+        "created_at": "2026-07-21T08:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079484282356035725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moegcat/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Moegcat/status/2079368871530975730",
+              "start": 67,
+              "url": "https://t.co/PYoi2wRRlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484282356035725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079368871530975730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质狗哨政治，你那股“支持虐待动物”和制造虚假两难的味儿都收不住了，赶紧给我有多远滚多远吧。我强烈支持对你全家人工干预人类种群数量！ https://t.co/PYoi2wRRlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3531,
+          "following_count": 1562,
+          "like_count": 61440,
+          "listed_count": 7,
+          "media_count": 2412,
+          "tweet_count": 22056
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-07T15:45:21.000Z",
+        "description": "全世界无产者，联合起来\n本人爱狗人士",
+        "id": "2267124525",
+        "name": "辩证唯物主义",
+        "pinned_tweet_id": "2071771187730899399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067643506965745664/M0qEsHNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 27,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "ACzymay",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1889799503382978722",
+    "created_at": "2025-02-13T03:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T04:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889872218395648058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889872218395648058",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889799503382978722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo 陪我吃飯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1889799503382978722",
+        "created_at": "2025-02-13T03:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T04:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889872218395648058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889872218395648058",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889799503382978722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo 陪我吃飯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889799497754222597"
+          ]
+        },
+        "author_id": "1351485882696548357",
+        "conversation_id": "1889799503382978722",
+        "created_at": "2025-02-12T22:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T23:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889799503382978722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmd3nrjBa2",
+              "end": 29,
+              "expanded_url": "https://x.com/OnlyAppleCanDo/status/1889799503382978722/photo/1",
+              "media_key": "3_1889799497754222597",
+              "start": 6,
+              "url": "https://t.co/cmd3nrjBa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889799503382978722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前往澳門（ https://t.co/cmd3nrjBa2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1092,
+          "like_count": 32294,
+          "listed_count": 4,
+          "media_count": 1423,
+          "tweet_count": 11917
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "@neko_qmq的绒布球",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "neko_qmq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.maowow.cloudns.be",
+                "end": 23,
+                "expanded_url": "http://blog.maowow.cloudns.be/",
+                "start": 0,
+                "url": "https://t.co/ztra7IAqYt"
+              }
+            ]
+          }
+        },
+        "id": "1351485882696548357",
+        "location": "NYC(Live in) Travel in HK",
+        "name": "?meow？🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882312938964574208/oTEr2fap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 698,
+          "like_count": 34078,
+          "listed_count": 5,
+          "media_count": 1740,
+          "tweet_count": 7922
+        },
+        "url": "https://t.co/ztra7IAqYt",
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      }
+    ]
+  }
+}

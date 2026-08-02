@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1828711967303098702",
+    "created_at": "2024-08-28T10:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T11:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828737356779704689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828737356779704689",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828711967303098702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisnoirdeL 襪這是在哪個島，待到什麼時候呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1828711967303098702",
+        "created_at": "2024-08-28T10:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T11:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828737356779704689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828737356779704689",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828711967303098702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisnoirdeL 襪這是在哪個島，待到什麼時候呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1828711967303098702",
+        "created_at": "2024-08-28T08:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T09:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828711967303098702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jesuisnoirdeL/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/jesuisnoirdeL/status/1828709471696396487",
+              "start": 76,
+              "url": "https://t.co/hP2S1HtKWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828711967303098702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828709471696396487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天最震惊的一件事是MO HK以为我是个跨女，在客人信息里给我留的she/her，然后导致经理写的欢迎信上面是Ms.❓❓❓\n我这下从跨女之友变成跨女了 https://t.co/hP2S1HtKWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 880,
+          "like_count": 27014,
+          "listed_count": 3,
+          "tweet_count": 8430
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "fine art / Art contemporain local de Shanghai 2006",
+        "id": "1753355639949291521",
+        "location": "Shanghaï / Lafayette ",
+        "name": "L in 🇲🇴（速来面基）",
+        "pinned_tweet_id": "1828622599930421428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814020372171194368/8sYaq8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 480,
+          "like_count": 31602,
+          "listed_count": 3,
+          "tweet_count": 19186
+        },
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

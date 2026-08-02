@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1915371723119354113",
+    "created_at": "2025-04-25T03:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T04:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915614503326409017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855964593417486336",
+          "start": 0,
+          "username": "seraikuyuuha"
+        },
+        {
+          "end": 27,
+          "id": "149891783",
+          "start": 14,
+          "username": "Kobaryo_2b1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915614503326409017",
+    "in_reply_to_user_id": "1855964593417486336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915608465575497733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seraikuyuuha @Kobaryo_2b1c 。。你踏马。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1915371723119354113",
+        "created_at": "2025-04-25T03:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915614503326409017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855964593417486336",
+              "start": 0,
+              "username": "seraikuyuuha"
+            },
+            {
+              "end": 27,
+              "id": "149891783",
+              "start": 14,
+              "username": "Kobaryo_2b1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915614503326409017",
+        "in_reply_to_user_id": "1855964593417486336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915608465575497733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seraikuyuuha @Kobaryo_2b1c 。。你踏马。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855964593417486336",
+        "conversation_id": "1915371723119354113",
+        "created_at": "2025-04-25T03:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915608465575497733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 27,
+              "id": "149891783",
+              "start": 14,
+              "username": "Kobaryo_2b1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915608465575497733",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915371723119354113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @Kobaryo_2b1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1149,
+          "like_count": 38261,
+          "listed_count": 5,
+          "media_count": 1585,
+          "tweet_count": 13959
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T13:24:12.000Z",
+        "description": "你管我什么性别｜可能会散发负能量｜不谈任何敏感话题｜不参与任何吵架｜不键政｜普通彩笔音游人｜音乐是精神食粮｜会随地fo人请勿介意｜中文 English OK 日本語 Français 学习中",
+        "id": "1855964593417486336",
+        "location": "弭刻日",
+        "name": "iphory",
+        "pinned_tweet_id": "1897938475556782271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881363978405982209/RQP5Y8Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 533,
+          "like_count": 6800,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 413
+        },
+        "username": "seraikuyuuha",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-30T14:17:24.000Z",
+        "description": "❏ 作曲 / 編曲 / イラスト / デザイン等\n❏ 楽曲提供: D4DJ、SEGA、TAITO、WACCA、アリス・ギア・アイギス、東方ダンマクカグラ、Arcaea、神椿市協奏中。等\n\n❖ https://t.co/Fj3rbQDFim\n❖ https://t.co/uxuPmECOCE\n❖ @hitnex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "hitnex"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Kobaryo",
+                "end": 119,
+                "expanded_url": "http://youtube.com/c/Kobaryo",
+                "start": 96,
+                "url": "https://t.co/Fj3rbQDFim"
+              },
+              {
+                "display_url": "pixiv.me/mdkb",
+                "end": 145,
+                "expanded_url": "http://pixiv.me/mdkb",
+                "start": 122,
+                "url": "https://t.co/uxuPmECOCE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kobaryo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kobaryo",
+                "start": 0,
+                "url": "https://t.co/bcOfK2ajJo"
+              }
+            ]
+          }
+        },
+        "id": "149891783",
+        "location": "ご依頼等→ cutemachine268@gmail.com",
+        "name": "Kobaryo",
+        "pinned_tweet_id": "1782001718286483706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510608573667373056/roCBB1VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65273,
+          "following_count": 1403,
+          "like_count": 162184,
+          "listed_count": 367,
+          "media_count": 4289,
+          "tweet_count": 26398
+        },
+        "url": "https://t.co/bcOfK2ajJo",
+        "username": "Kobaryo_2b1c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078511094264635747",
+    "created_at": "2026-07-19T14:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078852387603919206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "751786831470034945",
+          "start": 0,
+          "username": "safufuruarua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078852387603919206",
+    "in_reply_to_user_id": "751786831470034945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078511094264635747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@safufuruarua 这个是哪一家呀好快的出货"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078511082088620032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNha0RWa4AAcIhN.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078511082096988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNha0RYakAAqHRm.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078511082067648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNha0RRa4AAJQKB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078511094264635747",
+        "created_at": "2026-07-19T14:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078852387603919206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "751786831470034945",
+              "start": 0,
+              "username": "safufuruarua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078852387603919206",
+        "in_reply_to_user_id": "751786831470034945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078511094264635747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safufuruarua 这个是哪一家呀好快的出货"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078511082088620032",
+            "3_2078511082096988160",
+            "3_2078511082067648512"
+          ]
+        },
+        "author_id": "751786831470034945",
+        "conversation_id": "2078511094264635747",
+        "created_at": "2026-07-18T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078511094264635747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvQdxKfLiG",
+              "end": 32,
+              "expanded_url": "https://x.com/safufuruarua/status/2078511094264635747/photo/1",
+              "media_key": "3_2078511082088620032",
+              "start": 9,
+              "url": "https://t.co/pvQdxKfLiG"
+            },
+            {
+              "display_url": "pic.x.com/pvQdxKfLiG",
+              "end": 32,
+              "expanded_url": "https://x.com/safufuruarua/status/2078511094264635747/photo/1",
+              "media_key": "3_2078511082096988160",
+              "start": 9,
+              "url": "https://t.co/pvQdxKfLiG"
+            },
+            {
+              "display_url": "pic.x.com/pvQdxKfLiG",
+              "end": 32,
+              "expanded_url": "https://x.com/safufuruarua/status/2078511094264635747/photo/1",
+              "media_key": "3_2078511082067648512",
+              "start": 9,
+              "url": "https://t.co/pvQdxKfLiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078511094264635747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 124584,
+          "like_count": 2835,
+          "quote_count": 3,
+          "reply_count": 93,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "萤火虫出了萤石捏 https://t.co/pvQdxKfLiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 1562,
+          "like_count": 61470,
+          "listed_count": 7,
+          "media_count": 2411,
+          "tweet_count": 22028
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-09T14:35:22.000Z",
+        "description": "",
+        "id": "751786831470034945",
+        "name": "硬盘",
+        "pinned_tweet_id": "1721836797783675079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537292877902286848/fQ0j3pQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36122,
+          "following_count": 1811,
+          "like_count": 12587,
+          "listed_count": 181,
+          "media_count": 946,
+          "tweet_count": 3104
+        },
+        "url": "",
+        "username": "safufuruarua",
+        "verified": false
+      }
+    ]
+  }
+}

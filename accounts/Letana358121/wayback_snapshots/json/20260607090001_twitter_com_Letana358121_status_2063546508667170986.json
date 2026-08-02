@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2063527443303162317",
+    "created_at": "2026-06-07T09:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063546508667170986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063546508667170986",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063527443303162317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 我也想来玩但是我要回澳门"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063527424948867072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMfQoxakAAvTnp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063527424923770880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMfQorboAAF4jF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063527424953036800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMfQoyaMAAeMqs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2063527443303162317",
+        "created_at": "2026-06-07T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063546508667170986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063546508667170986",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063527443303162317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 我也想来玩但是我要回澳门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063527424948867072",
+            "3_2063527424923770880",
+            "3_2063527424953036800"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063527443303162317",
+        "created_at": "2026-06-07T07:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063527443303162317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOpioYj7cS",
+              "end": 41,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2063527443303162317/photo/1",
+              "media_key": "3_2063527424948867072",
+              "start": 18,
+              "url": "https://t.co/vOpioYj7cS"
+            },
+            {
+              "display_url": "pic.x.com/vOpioYj7cS",
+              "end": 41,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2063527443303162317/photo/1",
+              "media_key": "3_2063527424923770880",
+              "start": 18,
+              "url": "https://t.co/vOpioYj7cS"
+            },
+            {
+              "display_url": "pic.x.com/vOpioYj7cS",
+              "end": 41,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2063527443303162317/photo/1",
+              "media_key": "3_2063527424953036800",
+              "start": 18,
+              "url": "https://t.co/vOpioYj7cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063527443303162317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拱北新开的商场，人好多，有一台舞萌 https://t.co/vOpioYj7cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 1500,
+          "like_count": 57087,
+          "listed_count": 6,
+          "media_count": 2310,
+          "tweet_count": 20786
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / 社畜 / Vibe Coding / sbwmc / 全网首台maimai痛四轮车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live / 同好会回关/ 日本語を勉強しています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 1554,
+          "like_count": 18984,
+          "listed_count": 32,
+          "media_count": 10735,
+          "tweet_count": 49936
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

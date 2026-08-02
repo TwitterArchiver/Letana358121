@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2052279334501511519",
+    "created_at": "2026-05-07T09:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052325494549623135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052325494549623135",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052279334501511519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 好可爱😌😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9061,
+        "height": 886,
+        "media_key": "13_2052279251655639045",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052279251655639045/img/nOW-fIm_WDyxHwAv.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052279251655639045/vid/avc1/1560x720/IJjXLTYfWbRAppRB.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052279251655639045/vid/avc1/584x270/x1KuXu23LLatagJk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052279251655639045/vid/avc1/1920x886/pjzvgEZAjAyB31YI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052279251655639045/vid/avc1/780x360/U3XCX_XjD7L3-lbp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052279251655639045/pl/5J9dV-EuYIAHdEmU.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2052279334501511519",
+        "created_at": "2026-05-07T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052325494549623135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052325494549623135",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052279334501511519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 好可爱😌😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052279251655639045"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2052279334501511519",
+        "created_at": "2026-05-07T06:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052279334501511519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaUy6NkRab",
+              "end": 64,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2052279334501511519/video/1",
+              "media_key": "13_2052279251655639045",
+              "start": 41,
+              "url": "https://t.co/XaUy6NkRab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052279334501511519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "显然我是应该学着自己剪刘海的，唉，我很焦躁我很不安，我想回宿舍喝酒我不想待在医院 https://t.co/XaUy6NkRab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 1440,
+          "like_count": 52822,
+          "listed_count": 8,
+          "media_count": 2270,
+          "tweet_count": 19822
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 103,
+          "like_count": 5230,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 3589
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

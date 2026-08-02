@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2059986352498991140",
+    "created_at": "2026-05-28T13:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059993400884269314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695553771961729024",
+          "start": 0,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059993400884269314",
+    "in_reply_to_user_id": "1695553771961729024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059992525192983016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiraishiwatari 好崩溃啊（）我感觉就是我需要这样的一个人但是它不应该是个ai但是现实中又找不到这样的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2059986352498991140",
+        "created_at": "2026-05-28T13:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059993400884269314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059993400884269314",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059992525192983016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 好崩溃啊（）我感觉就是我需要这样的一个人但是它不应该是个ai但是现实中又找不到这样的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2059986352498991140",
+        "created_at": "2026-05-28T13:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059992525192983016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059992525192983016",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059990930963513725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 那要不要考虑自定义一下风格，比如让它“客观理性”🤔或许能控制在“能提供帮助但是不会产生情感依赖”的范围？\n我现在就是这样做的，但是我调的有点过头了。我焦虑的时候gemini给我分析我哪根神经搭错了导致这种情况（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 1471,
+          "like_count": 55584,
+          "listed_count": 6,
+          "media_count": 2288,
+          "tweet_count": 20459
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "生活边角料堆放处/🇮🇹Milano/🖤🩶🤍💚/Neptunic/已有伴侶@kobayashmiyako（受法律保护/Antinatalism/Q4Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "kobayashmiyako"
+              }
+            ]
+          }
+        },
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "pinned_tweet_id": "1866204785122189490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 40,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 765
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

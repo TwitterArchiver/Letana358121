@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1872119829261697074",
+    "created_at": "2024-12-26T03:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T04:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872125440921620660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669725959178551296",
+          "start": 0,
+          "username": "CanonLailah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872125440921620660",
+    "in_reply_to_user_id": "1669725959178551296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872124122916176005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanonLailah ？我单纯只是喜欢这本本子而已我自己穿着拍着玩的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872124122916176005].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872124122916176005",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872124122916176005"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1872119829261697074",
+        "created_at": "2024-12-26T03:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T04:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872125440921620660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669725959178551296",
+              "start": 0,
+              "username": "CanonLailah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872125440921620660",
+        "in_reply_to_user_id": "1669725959178551296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872124122916176005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanonLailah ？我单纯只是喜欢这本本子而已我自己穿着拍着玩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1013,
+          "like_count": 30052,
+          "listed_count": 5,
+          "media_count": 1303,
+          "tweet_count": 10827
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T15:19:32.000Z",
+        "description": "梦想是当雌犬｜黄色日记本｜爱看不看这是我的号",
+        "id": "1669725959178551296",
+        "location": "豬排咖哩蓋飯有限公司",
+        "name": "100%🐶🍰",
+        "pinned_tweet_id": "1782631793700827270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840404462906773504/qh_4qL25_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 374,
+          "like_count": 9457,
+          "listed_count": 0,
+          "media_count": 1104,
+          "tweet_count": 6643
+        },
+        "username": "CanonLailah",
+        "verified": false
+      }
+    ]
+  }
+}

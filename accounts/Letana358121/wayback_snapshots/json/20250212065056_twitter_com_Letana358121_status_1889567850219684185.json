@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1889563985810432048",
+    "created_at": "2025-02-12T06:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T07:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889567850219684185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "dumbstruc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889567850219684185",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889563985810432048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dumbstruc jijiyingle"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1889563985810432048",
+        "created_at": "2025-02-12T06:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889567850219684185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "dumbstruc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889567850219684185",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889563985810432048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dumbstruc jijiyingle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889563976968847360"
+          ]
+        },
+        "author_id": "1489203021536198657",
+        "conversation_id": "1889563985810432048",
+        "created_at": "2025-02-12T06:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889563985810432048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kRQkzXWHD",
+              "end": 38,
+              "expanded_url": "https://x.com/dumbstruc/status/1889563985810432048/photo/1",
+              "media_key": "3_1889563976968847360",
+              "start": 15,
+              "url": "https://t.co/2kRQkzXWHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889563985810432048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BA的c服真的纯机率装扮。。 https://t.co/2kRQkzXWHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 1092,
+          "like_count": 32221,
+          "listed_count": 4,
+          "media_count": 1423,
+          "tweet_count": 11894
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "",
+        "id": "1489203021536198657",
+        "name": "GBC全自动bot",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 122,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 268
+        },
+        "username": "dumbstruc",
+        "verified": false
+      }
+    ]
+  }
+}

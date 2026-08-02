@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1959263833715101807",
+    "created_at": "2025-08-23T16:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T17:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959297214703956328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1004362078956613632",
+          "start": 0,
+          "username": "OliviaWantsHugs"
+        },
+        {
+          "end": 33,
+          "id": "1807107145756008448",
+          "start": 17,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959297214703956328",
+    "in_reply_to_user_id": "1004362078956613632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959270400111845845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaWantsHugs @KagurazakaAzure 并不可怕（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1959263833715101807",
+        "created_at": "2025-08-23T16:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959297214703956328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1004362078956613632",
+              "start": 0,
+              "username": "OliviaWantsHugs"
+            },
+            {
+              "end": 33,
+              "id": "1807107145756008448",
+              "start": 17,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959297214703956328",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959270400111845845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaWantsHugs @KagurazakaAzure 并不可怕（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "1959263833715101807",
+        "created_at": "2025-08-23T15:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959270400111845845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959270400111845845",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959263833715101807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 太可怕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 1229,
+          "like_count": 40926,
+          "listed_count": 6,
+          "media_count": 1839,
+          "tweet_count": 15495
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "Colourful & Free \\ 可爱妹妹: @Azuelle \\ 萨摩耶bot \\ 淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "O泡耶奶 🇸🇬 狗白白",
+        "pinned_tweet_id": "1938860014598508927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 514,
+          "like_count": 23956,
+          "listed_count": 20,
+          "media_count": 1342,
+          "tweet_count": 24831
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我可能是全网第一个因为身高和唧唧打不了中二的人 我身高两米三 唧唧长度30 每次反手的时候会摸到自己的唧唧 还时不时判定不上air sega就不能考虑一下我们这种又高又大的男生吗 真的好苦恼啊 我真的很想玩中二节奏这个游戏 我之前玩舞萌和Phigros的时候怎么就没这个问题 ❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "7sRef",
+        "name": "水彩翎🍋",
+        "pinned_tweet_id": "1958802147761332521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894427491246083/an3vCJp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7946,
+          "following_count": 1353,
+          "like_count": 44549,
+          "listed_count": 11,
+          "media_count": 3217,
+          "tweet_count": 25835
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

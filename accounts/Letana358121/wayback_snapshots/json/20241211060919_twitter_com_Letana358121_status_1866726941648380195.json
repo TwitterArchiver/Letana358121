@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1866326512192164209",
+    "created_at": "2024-12-11T06:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T07:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866726941648380195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1371854214352232452",
+          "start": 0,
+          "username": "Nyaru8964"
+        },
+        {
+          "end": 27,
+          "id": "1658664482632253441",
+          "start": 11,
+          "username": "light3198018950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866726941648380195",
+    "in_reply_to_user_id": "1371854214352232452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866713506135040373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyaru8964 @light3198018950 我嘞个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1866326512192164209",
+        "created_at": "2024-12-11T06:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T07:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866726941648380195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1371854214352232452",
+              "start": 0,
+              "username": "Nyaru8964"
+            },
+            {
+              "end": 27,
+              "id": "1658664482632253441",
+              "start": 11,
+              "username": "light3198018950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866726941648380195",
+        "in_reply_to_user_id": "1371854214352232452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866713506135040373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyaru8964 @light3198018950 我嘞个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371854214352232452",
+        "conversation_id": "1866326512192164209",
+        "created_at": "2024-12-11T05:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T06:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866713506135040373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 30,
+              "id": "1658664482632253441",
+              "start": 14,
+              "username": "light3198018950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866713506135040373",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866343320592822669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @light3198018950 tonyncl啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 1015,
+          "like_count": 29617,
+          "listed_count": 4,
+          "media_count": 1262,
+          "tweet_count": 10565
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T16:02:03.000Z",
+        "description": "男的 打点音游 玩点cosplay  🚪50",
+        "id": "1371854214352232452",
+        "name": "千宵",
+        "pinned_tweet_id": "1605397982593286144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604033786098126849/_rsGhUD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 228,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 228
+        },
+        "username": "Nyaru8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "性别未知，喜欢特定的一个人，忠贞不渝地爱着",
+        "id": "1658664482632253441",
+        "name": "UNKOWN PERSON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817501872762302464/SxBhVhpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 104
+        },
+        "username": "light3198018950",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078732769145069686",
+    "created_at": "2026-07-19T07:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078739224007000421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078739224007000421",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078739095984226582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio 我走了直接去三院陪朋友复诊然后去广州了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078732769145069686",
+        "created_at": "2026-07-19T07:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078739224007000421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078739224007000421",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078739095984226582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio 我走了直接去三院陪朋友复诊然后去广州了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "2078732769145069686",
+        "created_at": "2026-07-19T07:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078739095984226582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078739095984226582",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078732769145069686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 要去拿凝膠嘛👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 1560,
+          "like_count": 61317,
+          "listed_count": 7,
+          "media_count": 2410,
+          "tweet_count": 22002
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰  ｜Best Linux @debian｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "debian"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "RenkoUsagi1155"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mio.mtf.im",
+                "end": 23,
+                "expanded_url": "https://mio.mtf.im/",
+                "start": 0,
+                "url": "https://t.co/pXwKl7p7Cy"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000262071259377664/pPzK0Ja7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 928,
+          "like_count": 80865,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 4778
+        },
+        "url": "https://t.co/pXwKl7p7Cy",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

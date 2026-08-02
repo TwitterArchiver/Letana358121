@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2007703097683091798",
+    "created_at": "2026-01-04T06:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007704129825845560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489203021536198657",
+          "start": 0,
+          "username": "AmeAlways"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007704129825845560",
+    "in_reply_to_user_id": "1489203021536198657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007703097683091798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAlways 那把你发来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2007703097683091798",
+        "created_at": "2026-01-04T06:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007704129825845560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489203021536198657",
+              "start": 0,
+              "username": "AmeAlways"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007704129825845560",
+        "in_reply_to_user_id": "1489203021536198657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007703097683091798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAlways 那把你发来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489203021536198657",
+        "conversation_id": "2007703097683091798",
+        "created_at": "2026-01-04T06:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007703097683091798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmeAlways/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/AmeAlways/status/2006580720186327512",
+              "start": 20,
+              "url": "https://t.co/e44HKRozro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007703097683091798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006580720186327512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来你们只喜欢看女嘉宾而不喜欢我💔💔💔 https://t.co/e44HKRozro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004434726015393792/K6H51c2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 1330,
+          "like_count": 45714,
+          "listed_count": 7,
+          "media_count": 2050,
+          "tweet_count": 17511
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "猫人无限恒久，永远激推！！！\n💞女嘉宾@42lzmr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "42lzmr"
+              }
+            ]
+          }
+        },
+        "id": "1489203021536198657",
+        "name": "AmeAlways",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 433,
+          "like_count": 4300,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 1347
+        },
+        "username": "AmeAlways",
+        "verified": false
+      }
+    ]
+  }
+}

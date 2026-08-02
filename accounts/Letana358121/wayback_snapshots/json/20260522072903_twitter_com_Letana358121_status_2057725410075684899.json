@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2057630015475564929",
+    "created_at": "2026-05-22T07:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057725410075684899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1284435626146664449",
+          "start": 0,
+          "username": "Fay_EXXXXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057725410075684899",
+    "in_reply_to_user_id": "1284435626146664449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057725320573423629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fay_EXXXXX 呜呜呜呜好饿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2057630015475564929",
+        "created_at": "2026-05-22T07:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057725410075684899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1284435626146664449",
+              "start": 0,
+              "username": "Fay_EXXXXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057725410075684899",
+        "in_reply_to_user_id": "1284435626146664449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057725320573423629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fay_EXXXXX 呜呜呜呜好饿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284435626146664449",
+        "conversation_id": "2057630015475564929",
+        "created_at": "2026-05-22T07:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057725320573423629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057725320573423629",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057630015475564929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 你不是说要减肥，怎么还吃零食😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057332241186062336/wcVxEx7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 1457,
+          "like_count": 54711,
+          "listed_count": 7,
+          "media_count": 2280,
+          "tweet_count": 20232
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-18T10:32:04.000Z",
+        "description": "其實關你撚事.",
+        "id": "1284435626146664449",
+        "location": "Hong Kong",
+        "name": "Yaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013644245454757888/ta4YQrdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 92,
+          "like_count": 1378,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 295
+        },
+        "username": "Fay_EXXXXX",
+        "verified": false
+      }
+    ]
+  }
+}

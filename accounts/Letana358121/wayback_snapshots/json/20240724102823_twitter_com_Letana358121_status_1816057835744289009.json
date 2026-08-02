@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1816028196174958628",
+    "created_at": "2024-07-24T10:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T11:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816057835744289009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Keio_1nokashira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816057835744289009",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816055321267228968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keio_1nokashira 现在不在了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1816055321267228968].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1816055321267228968",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1816055321267228968"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1816028196174958628",
+        "created_at": "2024-07-24T10:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T11:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816057835744289009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Keio_1nokashira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816057835744289009",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816055321267228968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keio_1nokashira 现在不在了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 812,
+          "like_count": 22688,
+          "listed_count": 2,
+          "tweet_count": 7359
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "",
+        "id": "1688233455363219456",
+        "location": "渋谷駅",
+        "name": "京王井の頭線",
+        "pinned_tweet_id": "1815815900253327466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814323453111177216/Y7AdaD8a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 2066,
+          "like_count": 99679,
+          "listed_count": 12,
+          "tweet_count": 18504
+        },
+        "username": "Keio_1nokashira",
+        "verified": false
+      }
+    ]
+  }
+}

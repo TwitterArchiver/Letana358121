@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894631127576367104"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1894631131745849693",
+    "created_at": "2025-02-26T06:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T07:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894631131745849693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDzfr7MRVl",
+          "end": 36,
+          "expanded_url": "https://x.com/Letana358121/status/1894631131745849693/photo/1",
+          "media_key": "3_1894631127576367104",
+          "start": 13,
+          "url": "https://t.co/YDzfr7MRVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894631131745849693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是肩宽可以窄一点就好了 https://t.co/YDzfr7MRVl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894631131745849693].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894631131745849693",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894631131745849693"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1871,
+        "media_key": "3_1894631127576367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GksU-OuWUAAGApI.jpg",
+        "width": 1016
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 1100,
+          "like_count": 33381,
+          "listed_count": 4,
+          "media_count": 1452,
+          "tweet_count": 12218
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

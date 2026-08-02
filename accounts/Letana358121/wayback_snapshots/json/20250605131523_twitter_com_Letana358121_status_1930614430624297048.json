@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1930614430624297048",
+    "created_at": "2025-06-05T13:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930614430624297048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1867539520771829761",
+          "start": 3,
+          "username": "Caonimabiefanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930614430624297048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930144140886716428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Caonimabiefanwo: 我越来越感觉“美”是钱堆出来的  不止是那种先天长得美  就是一种精致感  必须要钱才能达到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1930614430624297048",
+        "created_at": "2025-06-05T13:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930614430624297048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1867539520771829761",
+              "start": 3,
+              "username": "Caonimabiefanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930614430624297048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930144140886716428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Caonimabiefanwo: 我越来越感觉“美”是钱堆出来的  不止是那种先天长得美  就是一种精致感  必须要钱才能达到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867539520771829761",
+        "conversation_id": "1930144140886716428",
+        "created_at": "2025-06-04T06:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930144140886716428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930144140886716428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 70220,
+          "like_count": 872,
+          "quote_count": 7,
+          "reply_count": 60,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我越来越感觉“美”是钱堆出来的  不止是那种先天长得美  就是一种精致感  必须要钱才能达到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 1181,
+          "like_count": 40040,
+          "listed_count": 6,
+          "media_count": 1686,
+          "tweet_count": 14728
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "ENTP 一个分享生活碎碎念的小女孩 不爱看就滚远点 推广自辩。推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/8d7cd2d866cf",
+                "end": 23,
+                "expanded_url": "https://pan.quark.cn/s/8d7cd2d866cf",
+                "start": 0,
+                "url": "https://t.co/yaWUWRIoSo"
+              }
+            ]
+          }
+        },
+        "id": "1867539520771829761",
+        "location": "高清无码照片👀",
+        "name": "爆浆奶黄包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926659543435472896/AgNMky_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12224,
+          "following_count": 975,
+          "like_count": 32727,
+          "listed_count": 9,
+          "media_count": 602,
+          "tweet_count": 8063
+        },
+        "url": "https://t.co/yaWUWRIoSo",
+        "username": "Caonimabiefanwo",
+        "verified": false
+      }
+    ]
+  }
+}

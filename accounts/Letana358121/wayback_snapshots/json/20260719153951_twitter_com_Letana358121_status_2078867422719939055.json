@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078550852923756848",
+    "created_at": "2026-07-19T15:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078867422719939055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078867422719939055",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078550852923756848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile 看的好想哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078550852923756848",
+        "created_at": "2026-07-19T15:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078867422719939055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078867422719939055",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078550852923756848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 看的好想哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041687695424950273",
+        "conversation_id": "2078550852923756848",
+        "created_at": "2026-07-18T18:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078550852923756848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078550852923756848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你遇到了一个人，他看起来很真诚\n你放下所有防备不想辜负他\n可是，他给你上了人生的一课\n他对你好是真的，他不敢负责也是真的\n他没有坏到故意玩弄你，也没爱到坚定选择你\n他是在自己舒服和不侵害利益的范围里对你好\n他就是一个割裂的普通人\n有片刻的真情，也有刻在骨子里的自私\n有愧疚的感知，也有逃避责任的懦弱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1722,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你遇到了一个人，他看起来很真诚\n你放下所有防备不想辜负他\n可是，他给你上了人生的一课\n他对你好是真的，他不敢负责也是真的\n他没有坏到故意玩弄你，也没爱到坚定选择你\n他是在自己舒服和不侵害利益的范围里对你好\n他就是一个割裂的普通人\n有片刻的真情，也有刻在骨子里的自私"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 1562,
+          "like_count": 61493,
+          "listed_count": 7,
+          "media_count": 2411,
+          "tweet_count": 22033
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "name": "cc🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 32,
+          "like_count": 2232,
+          "listed_count": 7,
+          "media_count": 56,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true
+      }
+    ]
+  }
+}

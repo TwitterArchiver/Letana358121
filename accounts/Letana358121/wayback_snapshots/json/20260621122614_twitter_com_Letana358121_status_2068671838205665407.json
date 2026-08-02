@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2068671838205665407",
+    "created_at": "2026-06-21T12:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068671838205665407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NrsimhaScratch…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/NrsimhaScratch/status/2068663229631631814",
+          "start": 9,
+          "url": "https://t.co/vQwaC21NhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068671838205665407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068663229631631814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我操轮子也干了 https://t.co/vQwaC21NhL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2068671838205665407",
+        "created_at": "2026-06-21T12:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068671838205665407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NrsimhaScratch…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/NrsimhaScratch/status/2068663229631631814",
+              "start": 9,
+              "url": "https://t.co/vQwaC21NhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068671838205665407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068663229631631814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我操轮子也干了 https://t.co/vQwaC21NhL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793305845444612096",
+        "conversation_id": "2068570111292965301",
+        "created_at": "2026-06-21T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068663229631631814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068663229631631814",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068570111292965301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 性别是脉轮的事，男魂的人能量中心在海底轮，女魂的人能量中心在心轮，所以只有真正的男人能从海底轮升起昆达利尼，脑回路的差异也源自这里。男的以证明自己不是性无能来自信，女的以证明自己有魅力来自信。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1536,
+          "like_count": 58320,
+          "listed_count": 7,
+          "media_count": 2341,
+          "tweet_count": 21202
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:40:32.000Z",
+        "description": "Anything that hinders the progress of times is Adharm. Adharm will be crushed by Sudarśana cakra.",
+        "id": "1793305845444612096",
+        "name": "नैवेद्यः",
+        "pinned_tweet_id": "2012550384372621679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022691133969829892/FHNGoNhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 206,
+          "like_count": 2183,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2233
+        },
+        "url": "",
+        "username": "NrsimhaScratch",
+        "verified": false
+      }
+    ]
+  }
+}

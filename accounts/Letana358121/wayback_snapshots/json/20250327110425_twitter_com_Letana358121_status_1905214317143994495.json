@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1905210978654138383",
+    "created_at": "2025-03-27T11:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T12:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905214317143994495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431776320019517445",
+          "start": 0,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905214317143994495",
+    "in_reply_to_user_id": "1431776320019517445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905210978654138383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraRettosei 我天哪这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1905210975579684864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCrSb2aQAAszqh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1905210978654138383",
+        "created_at": "2025-03-27T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905214317143994495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431776320019517445",
+              "start": 0,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905214317143994495",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905210978654138383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraRettosei 我天哪这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905210975579684864"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "conversation_id": "1905210978654138383",
+        "created_at": "2025-03-27T10:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905210978654138383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGT9kjrwrW",
+              "end": 32,
+              "expanded_url": "https://x.com/KiraRettosei/status/1905210978654138383/photo/1",
+              "media_key": "3_1905210975579684864",
+              "start": 9,
+              "url": "https://t.co/DGT9kjrwrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905210978654138383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经是大朋友了！ https://t.co/DGT9kjrwrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1129,
+          "like_count": 36762,
+          "listed_count": 5,
+          "media_count": 1509,
+          "tweet_count": 13138
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n高中三年生，淡网。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Hangzhou,China",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1896573786364994016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 2606,
+          "like_count": 37149,
+          "listed_count": 7,
+          "media_count": 902,
+          "tweet_count": 15351
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

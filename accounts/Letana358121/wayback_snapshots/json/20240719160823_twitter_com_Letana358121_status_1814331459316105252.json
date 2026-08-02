@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1814329970468299121",
+    "created_at": "2024-07-19T16:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T17:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814331459316105252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "Goldogburger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814331459316105252",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814329970468299121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldogburger 宝宝我把我的扔子送给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1814329970468299121",
+        "created_at": "2024-07-19T16:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T17:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814331459316105252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "Goldogburger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814331459316105252",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814329970468299121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldogburger 宝宝我把我的扔子送给你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1814329970468299121",
+        "created_at": "2024-07-19T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814329970468299121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814329970468299121",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遵循几年前的狗门堡的意愿 留好长发了 在做脱毛了 约了SRS和声带手术了 日常不讲话虽然长得丑但也算pass了 打上雌针了 我的性别焦虑目前真的就集中在声音和胸部了😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1804794431243202907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 791,
+          "like_count": 22393,
+          "listed_count": 2,
+          "tweet_count": 7231
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "INFP-T｜100%浓缩金毛小狗汁🐶｜我补药闯荡浆糊了 只想过煎蛋的生活",
+        "id": "1717903248764317696",
+        "location": "✨",
+        "name": "金狗豪门堡🍔🐶",
+        "pinned_tweet_id": "1776317554774122638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802265427550371841/1xrDYNZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 284,
+          "like_count": 1880,
+          "listed_count": 0,
+          "tweet_count": 1296
+        },
+        "username": "Goldogburger",
+        "verified": false
+      }
+    ]
+  }
+}

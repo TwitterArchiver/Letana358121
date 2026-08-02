@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2064235707439398995",
+    "created_at": "2026-06-09T06:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064235707439398995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1048022597823164416",
+          "start": 3,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064235707439398995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064211819410096191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiallouL: 那些说现实中没遇到过lgbtq+的，有没有可能你身边的彩虹人士压根儿不敢也不想向你出柜呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2064235707439398995",
+        "created_at": "2026-06-09T06:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064235707439398995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1048022597823164416",
+              "start": 3,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064235707439398995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064211819410096191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiallouL: 那些说现实中没遇到过lgbtq+的，有没有可能你身边的彩虹人士压根儿不敢也不想向你出柜呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "2064211819410096191",
+        "created_at": "2026-06-09T05:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064211819410096191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064211819410096191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些说现实中没遇到过lgbtq+的，有没有可能你身边的彩虹人士压根儿不敢也不想向你出柜呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 1506,
+          "like_count": 57490,
+          "listed_count": 6,
+          "media_count": 2314,
+          "tweet_count": 20868
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "2063972770111979923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1378,
+          "like_count": 21656,
+          "listed_count": 5,
+          "media_count": 1026,
+          "tweet_count": 6379
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

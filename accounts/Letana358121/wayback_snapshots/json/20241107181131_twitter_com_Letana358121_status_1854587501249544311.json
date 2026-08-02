@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1854568979777323274",
+    "created_at": "2024-11-07T18:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T19:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854587501249544311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823743287762804736",
+          "start": 0,
+          "username": "dyingmacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854587501249544311",
+    "in_reply_to_user_id": "1823743287762804736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854568979777323274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyingmacao 来捅我我就亲吻你的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1854568979777323274].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1854568979777323274",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1854568979777323274"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1854568979777323274",
+        "created_at": "2024-11-07T18:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T19:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854587501249544311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823743287762804736",
+              "start": 0,
+              "username": "dyingmacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854587501249544311",
+        "in_reply_to_user_id": "1823743287762804736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854568979777323274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyingmacao 来捅我我就亲吻你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 977,
+          "like_count": 28992,
+          "listed_count": 3,
+          "tweet_count": 10083
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T15:27:50.000Z",
+        "description": "@deadmacao の鍵垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "deadmacao"
+              }
+            ]
+          }
+        },
+        "id": "1823743287762804736",
+        "name": "くらもとちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839528182871150592/nCxMNS6k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 55,
+          "like_count": 1205,
+          "listed_count": 0,
+          "tweet_count": 380
+        },
+        "username": "dyingmacao",
+        "verified": false
+      }
+    ]
+  }
+}

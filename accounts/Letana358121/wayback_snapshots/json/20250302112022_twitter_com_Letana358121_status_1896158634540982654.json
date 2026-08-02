@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1896158088719474731",
+    "created_at": "2025-03-02T11:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T12:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896158634540982654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "Z3r0GPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896158634540982654",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896158582049239063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3r0GPT 并不可爱（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1896158088719474731",
+        "created_at": "2025-03-02T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896158634540982654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "Z3r0GPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896158634540982654",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896158582049239063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3r0GPT 并不可爱（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "1896158088719474731",
+        "created_at": "2025-03-02T11:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896158582049239063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896158582049239063",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896158088719474731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 可愛捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1101,
+          "like_count": 33725,
+          "listed_count": 4,
+          "media_count": 1461,
+          "tweet_count": 12314
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "print(“THEWORLDG0FUCKYOURSELF”)",
+        "id": "1862861397304225792",
+        "location": "Outer Heaven ",
+        "name": "Z3r0GPT V1.03",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882305231968784384/fQ3CMdQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 109,
+          "like_count": 5469,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1480
+        },
+        "username": "Z3r0GPT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2037389383406362966",
+    "created_at": "2026-03-27T04:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037390734303912305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576817436476596224",
+          "start": 0,
+          "username": "nullusername_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037390734303912305",
+    "in_reply_to_user_id": "1576817436476596224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037389383406362966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nullusername_ 是因为有定义正常人这个概念的权力的人本来就不是啥好东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2037389383406362966",
+        "created_at": "2026-03-27T04:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037390734303912305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576817436476596224",
+              "start": 0,
+              "username": "nullusername_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037390734303912305",
+        "in_reply_to_user_id": "1576817436476596224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037389383406362966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nullusername_ 是因为有定义正常人这个概念的权力的人本来就不是啥好东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576817436476596224",
+        "conversation_id": "2037389383406362966",
+        "created_at": "2026-03-27T04:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037389383406362966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037389383406362966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我討厭的人實在太多了是不是因爲我自己有問題？。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037193028532920323/uLPfNhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 1390,
+          "like_count": 49030,
+          "listed_count": 8,
+          "media_count": 2183,
+          "tweet_count": 18680
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T06:12:35.000Z",
+        "description": "超绝西瓜虫",
+        "id": "1576817436476596224",
+        "name": "kagami_iiiiii",
+        "pinned_tweet_id": "2035116066179813814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027115203985350656/1rGnvSnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 399,
+          "like_count": 6483,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1827
+        },
+        "username": "nullusername_",
+        "verified": false
+      }
+    ]
+  }
+}

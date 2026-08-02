@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1826297646404817310",
+    "created_at": "2024-08-21T21:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T22:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826366777678553452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804416392885866498",
+          "start": 0,
+          "username": "spasmodingg111C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826366777678553452",
+    "in_reply_to_user_id": "1804416392885866498",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826297646404817310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spasmodingg111C 喊爸爸像高中男宿捨。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1826297646404817310",
+        "created_at": "2024-08-21T21:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T22:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826366777678553452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804416392885866498",
+              "start": 0,
+              "username": "spasmodingg111C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826366777678553452",
+        "in_reply_to_user_id": "1804416392885866498",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826297646404817310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spasmodingg111C 喊爸爸像高中男宿捨。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804416392885866498",
+        "conversation_id": "1826297646404817310",
+        "created_at": "2024-08-21T16:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826297646404817310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826297646404817310",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们都喊 妈妈 不喊 爸爸\n要是评论区里面一堆人刷爸爸 一定很好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 874,
+          "like_count": 26254,
+          "listed_count": 3,
+          "tweet_count": 8319
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T07:29:37.000Z",
+        "description": "Cantonese. #cantonia eng/粤/普 @spasmmmm0d1c     酷爱counter strike。 推友寻回中\nAnytime,I love u.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "cantonia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "spasmmmm0d1c"
+              }
+            ]
+          }
+        },
+        "id": "1804416392885866498",
+        "location": "cantonia",
+        "name": "Spasmod1c💚🧡💙",
+        "pinned_tweet_id": "1804469594683248935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804419766586613760/bumuzqc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 399,
+          "like_count": 4394,
+          "listed_count": 0,
+          "tweet_count": 6364
+        },
+        "username": "spasmodingg111C",
+        "verified": false
+      }
+    ]
+  }
+}

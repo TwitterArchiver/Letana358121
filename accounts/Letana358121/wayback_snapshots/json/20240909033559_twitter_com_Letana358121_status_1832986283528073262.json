@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1832984184387768552",
+    "created_at": "2024-09-09T03:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T04:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832986283528073262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TruePuppyL0ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832986283528073262",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832986003096953124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruePuppyL0ve 当时学校要唱这个。。。妈的就学会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1832984184387768552",
+        "created_at": "2024-09-09T03:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T04:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832986283528073262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TruePuppyL0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832986283528073262",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832986003096953124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruePuppyL0ve 当时学校要唱这个。。。妈的就学会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1832984184387768552",
+        "created_at": "2024-09-09T03:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T04:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832986003096953124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832986003096953124",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832985368226152590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 牛逼我都不會、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 897,
+          "like_count": 27877,
+          "listed_count": 3,
+          "tweet_count": 8792
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "死掉的願望都變成星星、匯聚在銀河、我們會在一起@mukusuzu_miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "mukusuzu_miku"
+              }
+            ]
+          }
+        },
+        "id": "1717903248764317696",
+        "location": "🌌",
+        "name": "20% 🍭+30%🐶+50%❤️=100%🌟",
+        "pinned_tweet_id": "1832081100639998058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832474164332261376/bQndELEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 291,
+          "like_count": 2184,
+          "listed_count": 0,
+          "tweet_count": 65
+        },
+        "username": "TruePuppyL0ve",
+        "verified": false
+      }
+    ]
+  }
+}

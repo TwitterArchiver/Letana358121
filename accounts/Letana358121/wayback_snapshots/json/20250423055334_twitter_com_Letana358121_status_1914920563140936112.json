@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1914868272803287093",
+    "created_at": "2025-04-23T05:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T06:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914920563140936112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "ESY_yujue0189"
+        },
+        {
+          "end": 26,
+          "id": "1685499489493323776",
+          "start": 15,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914920563140936112",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914868272803287093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ESY_yujue0189 @GuiMengNya 喜欢中二口球姐？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1914868272803287093",
+        "created_at": "2025-04-23T05:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914920563140936112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "ESY_yujue0189"
+            },
+            {
+              "end": 26,
+              "id": "1685499489493323776",
+              "start": 15,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914920563140936112",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914868272803287093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ESY_yujue0189 @GuiMengNya 喜欢中二口球姐？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "1914868272803287093",
+        "created_at": "2025-04-23T02:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914868272803287093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1685499489493323776",
+              "start": 6,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/1914457405938934208",
+              "start": 18,
+              "url": "https://t.co/UdtRFMxl03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914868272803287093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914457405938934208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非二等奖不要@GuiMengNya https://t.co/UdtRFMxl03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 1145,
+          "like_count": 38183,
+          "listed_count": 5,
+          "media_count": 1580,
+          "tweet_count": 13917
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "随处可见的、普通的，喜欢着音游的男孩子。\n键证恶俗会直接block\n世间唯一的宝物 @Sakura_Yukihane\n暂离中，24/06/18 准时准点销号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "Sakura_Yukihane"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "中国大陆重庆市宅漫游音游窝",
+        "name": "我是雨爵_YJGAME",
+        "pinned_tweet_id": "1906655219137790030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860492146249465856/IcpHRwln_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 640,
+          "like_count": 22355,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5245
+        },
+        "username": "ESY_yujue0189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/「文字形容不了我」/，坐标杭州的一只无证猫猫，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，🥺@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 215,
+          "like_count": 3368,
+          "listed_count": 7,
+          "media_count": 107,
+          "tweet_count": 1025
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

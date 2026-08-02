@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1895462742716535136",
+    "created_at": "2025-02-28T13:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895462742716535136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miniTtut/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/miniTtut/status/1894743357735538760",
+          "start": 9,
+          "url": "https://t.co/yMMYtBDMz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895462742716535136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894743357735538760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "letana转的 https://t.co/yMMYtBDMz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36726,
+        "height": 1280,
+        "media_key": "13_1894743270518935552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1894743270518935552/img/gr3Ija0Ak0TPIsWq.jpg",
+        "public_metrics": {
+          "view_count": 206
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894743270518935552/vid/avc1/320x568/krzV3wgg7j-u_m0n.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894743270518935552/vid/avc1/480x852/X26XQBJe7WExp_RX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894743270518935552/vid/avc1/720x1280/o3kv3GkxuLXTAJAi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1894743270518935552/pl/BSw7Jn8ZPC6mZXN9.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1895462742716535136",
+        "created_at": "2025-02-28T13:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895462742716535136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miniTtut/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/miniTtut/status/1894743357735538760",
+              "start": 9,
+              "url": "https://t.co/yMMYtBDMz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895462742716535136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894743357735538760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "letana转的 https://t.co/yMMYtBDMz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1894743270518935552"
+          ]
+        },
+        "author_id": "1724599672529141760",
+        "conversation_id": "1894743357735538760",
+        "created_at": "2025-02-26T13:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T14:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894743357735538760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "男娘"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "捆绑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "3039883009",
+              "start": 21,
+              "username": "taigafan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMGXOgMxlS",
+              "end": 92,
+              "expanded_url": "https://x.com/miniTtut/status/1894743357735538760/video/1",
+              "media_key": "13_1894743270518935552",
+              "start": 69,
+              "url": "https://t.co/iMGXOgMxlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894743357735538760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 703,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半分钟挣扎纯享版（x）\n虽然直臂很痛！但是@taigafan 老师技术特别好，所以也很舒服www\n但是还是很痛的在扭动…\n#男娘 #捆绑 https://t.co/iMGXOgMxlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1103,
+          "like_count": 33614,
+          "listed_count": 4,
+          "media_count": 1455,
+          "tweet_count": 12261
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T01:26:30.000Z",
+        "description": "ﾉ欢迎约绳！是小南梁（#捆绑 #sm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "捆绑"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "sm"
+              }
+            ]
+          }
+        },
+        "id": "1724599672529141760",
+        "name": "小月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763438577575497728/1PHATX2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 477,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 180
+        },
+        "username": "miniTtut",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2061751476029198846",
+    "created_at": "2026-06-02T10:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061751476029198846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinxin20202020…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/xinxin20202020/status/2061656437294833740",
+          "start": 45,
+          "url": "https://t.co/GXhO1avCSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061751476029198846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061656437294833740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推翻了引力由物体质量所决定的定律，一根50g不到的几把就可以吸引着全世界所有事物围着它转 https://t.co/GXhO1avCSo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2061751476029198846",
+        "created_at": "2026-06-02T10:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061751476029198846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinxin20202020…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xinxin20202020/status/2061656437294833740",
+              "start": 45,
+              "url": "https://t.co/GXhO1avCSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061751476029198846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061656437294833740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推翻了引力由物体质量所决定的定律，一根50g不到的几把就可以吸引着全世界所有事物围着它转 https://t.co/GXhO1avCSo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969552731189866497",
+        "conversation_id": "2061503310620717164",
+        "created_at": "2026-06-02T03:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061656437294833740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547289009201844228",
+              "start": 0,
+              "username": "ji_chunsheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061656437294833740",
+        "in_reply_to_user_id": "1547289009201844228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6594,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061503310620717164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chunsheng 这傻逼广告真能把男人看阳痿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 1477,
+          "like_count": 56289,
+          "listed_count": 6,
+          "media_count": 2300,
+          "tweet_count": 20619
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-02T12:39:19.000Z",
+        "description": "有国才有家,\n有塔才有沙,\n盖楼先盖第三层,\n有你才生你的妈。\n粉蛆、穆畜、鹅粉死一边去。",
+        "id": "969552731189866497",
+        "location": "人在火星，开发地产",
+        "name": "鹅鹅鹅爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000403082606505984/fjR89Sto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 978,
+          "like_count": 5600,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 4767
+        },
+        "username": "xinxin20202020",
+        "verified": false
+      }
+    ]
+  }
+}

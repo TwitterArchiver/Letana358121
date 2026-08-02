@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2056639078607749129",
+    "created_at": "2026-05-19T07:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056639078607749129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Letana358121/status/2056638369267163157",
+          "start": 55,
+          "url": "https://t.co/hjnubxbh4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056639078607749129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056638369267163157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我其实并没有太在意这些事情，并且我柜门早就爆了🤓🤓但是感觉就是不融入就显得我很异类同时学校没有无障碍。。 https://t.co/hjnubxbh4F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2056639078607749129",
+        "created_at": "2026-05-19T07:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056639078607749129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Letana358121/status/2056638369267163157",
+              "start": 55,
+              "url": "https://t.co/hjnubxbh4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056639078607749129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056638369267163157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我其实并没有太在意这些事情，并且我柜门早就爆了🤓🤓但是感觉就是不融入就显得我很异类同时学校没有无障碍。。 https://t.co/hjnubxbh4F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2056638369267163157",
+        "created_at": "2026-05-19T07:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056638369267163157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056638369267163157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人还是太社会性动物了。。要是承认自己的跨性别身份不会使我的生活受到很多阻碍我也会这样光明正大的承认的而不是在学校继续当深柜长发男连说话都要克制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 1455,
+          "like_count": 54140,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20138
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

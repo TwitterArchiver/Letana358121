@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1829529439635644621",
+    "created_at": "2024-08-30T15:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T16:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829547130824106335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825483882113970176",
+          "start": 0,
+          "username": "ke1212122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829547130824106335",
+    "in_reply_to_user_id": "1825483882113970176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829546707157451114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ke1212122 怎麼會這樣（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1829529439635644621",
+        "created_at": "2024-08-30T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829547130824106335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825483882113970176",
+              "start": 0,
+              "username": "ke1212122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829547130824106335",
+        "in_reply_to_user_id": "1825483882113970176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829546707157451114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ke1212122 怎麼會這樣（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825483882113970176",
+        "conversation_id": "1829529439635644621",
+        "created_at": "2024-08-30T15:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T16:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829546707157451114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829546707157451114",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829529439635644621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 有时候刷不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 882,
+          "like_count": 27320,
+          "listed_count": 3,
+          "tweet_count": 8494
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T10:44:54.000Z",
+        "description": "MTX/BPD/从中辨认出自己",
+        "id": "1825483882113970176",
+        "location": "扭曲",
+        "name": "渴🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828796936532418561/SU4Qdn2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 191,
+          "like_count": 1488,
+          "listed_count": 0,
+          "tweet_count": 323
+        },
+        "username": "ke1212122",
+        "verified": false
+      }
+    ]
+  }
+}

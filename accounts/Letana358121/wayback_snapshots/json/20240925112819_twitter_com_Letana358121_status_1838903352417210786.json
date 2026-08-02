@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "847869481888096256",
+          "name": "Gambling"
+        }
+      }
+    ],
+    "conversation_id": "1838897898123075803",
+    "created_at": "2024-09-25T11:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T12:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838903352417210786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810566149882720256",
+          "start": 0,
+          "username": "wanshengjie1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838903352417210786",
+    "in_reply_to_user_id": "1810566149882720256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838897898123075803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanshengjie1121 不要沉迷賭博呀（尖叫）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "1838897898123075803",
+        "created_at": "2024-09-25T11:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838903352417210786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810566149882720256",
+              "start": 0,
+              "username": "wanshengjie1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838903352417210786",
+        "in_reply_to_user_id": "1810566149882720256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838897898123075803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanshengjie1121 不要沉迷賭博呀（尖叫）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810566149882720256",
+        "conversation_id": "1838897898123075803",
+        "created_at": "2024-09-25T11:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T12:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838897898123075803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanshengjie112…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/wanshengjie1121/status/1838759464004129206",
+              "start": 44,
+              "url": "https://t.co/X3QaqiVHUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838897898123075803",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838759464004129206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢我的门槛哥赞助的钱呜呜呜，我爱你！然后……21点！！启动！！会翻盘的！！会赢得！！ https://t.co/X3QaqiVHUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 919,
+          "like_count": 29088,
+          "listed_count": 3,
+          "tweet_count": 9204
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T06:46:30.000Z",
+        "description": "24岁过期男娘，可以叫我小万！  175/55  四爱/一爱；，自恋狂，超喜欢自拍！mua！最好的好闺蜜 @AiharaShizuku  @mantianxing_fly  有防骚扰门槛55谢谢你！😚；",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "AiharaShizuku"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "mantianxing_fly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wanshengjie1121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wanshengjie1121",
+                "start": 0,
+                "url": "https://t.co/ilHdVtK3VZ"
+              }
+            ]
+          }
+        },
+        "id": "1810566149882720256",
+        "location": "你心里❤️",
+        "name": "✟°ʚ万圣节ɞ°✟",
+        "pinned_tweet_id": "1820007776040419487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819370466764902400/3zPFd8gx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 435,
+          "like_count": 7019,
+          "listed_count": 1,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/ilHdVtK3VZ",
+        "username": "wanshengjie1121",
+        "verified": false
+      }
+    ]
+  }
+}

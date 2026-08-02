@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1937880450741186934",
+    "created_at": "2025-06-25T14:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T15:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937881619727278582"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "你也好美",
+          "probability": 0.7066,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705934998673686528",
+          "start": 0,
+          "username": "KatoRosa220201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937881619727278582",
+    "in_reply_to_user_id": "1705934998673686528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937881091999965440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KatoRosa220201 你也好美🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1937880450741186934",
+        "created_at": "2025-06-25T14:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937881619727278582"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "你也好美",
+              "probability": 0.7066,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705934998673686528",
+              "start": 0,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937881619727278582",
+        "in_reply_to_user_id": "1705934998673686528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937881091999965440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KatoRosa220201 你也好美🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705934998673686528",
+        "conversation_id": "1937880450741186934",
+        "created_at": "2025-06-25T14:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937881091999965440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937881091999965440",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937880450741186934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 宝贝我也美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 1193,
+          "like_count": 40521,
+          "listed_count": 5,
+          "media_count": 1747,
+          "tweet_count": 15037
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "Mtf🏳️‍⚧️/持证含糖🍥/PEK/hrt.22.2.1/INFJ/Cos/Like the wind of the wilderness, unfettered and impassioned. /Love U three thousand @Trac3r_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "Trac3r_"
+              }
+            ]
+          }
+        },
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1936575563097117040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725194103938564100/TqRZF2un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 263,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 263
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

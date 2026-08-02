@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1924812544428146741",
+    "created_at": "2025-05-20T14:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T15:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924834261141749798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793705926614228992",
+          "start": 0,
+          "username": "asahinaXmafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924834261141749798",
+    "in_reply_to_user_id": "1793705926614228992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924812544428146741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahinaXmafuyu 是的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1924812544428146741",
+        "created_at": "2025-05-20T14:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924834261141749798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793705926614228992",
+              "start": 0,
+              "username": "asahinaXmafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924834261141749798",
+        "in_reply_to_user_id": "1793705926614228992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924812544428146741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahinaXmafuyu 是的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793705926614228992",
+        "conversation_id": "1924812544428146741",
+        "created_at": "2025-05-20T13:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924812544428146741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924812544428146741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社交模式应该转为完全不需要社交\n不断的从0开始拉关系很痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1163,
+          "like_count": 39288,
+          "listed_count": 5,
+          "media_count": 1646,
+          "tweet_count": 14471
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T18:10:09.000Z",
+        "description": "回避型后遗症 幸福无缘 焦虑 腐烂 绝望 无性恋(Romantic Asexual) 20↑ 超级重力陰キャ 这里没有小A",
+        "id": "1793705926614228992",
+        "location": "誰もいないセカイ",
+        "name": "まふゆ",
+        "pinned_tweet_id": "1922165522096922898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917426804928962562/fISjlXlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 149,
+          "like_count": 1240,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 3404
+        },
+        "username": "asahinaXmafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

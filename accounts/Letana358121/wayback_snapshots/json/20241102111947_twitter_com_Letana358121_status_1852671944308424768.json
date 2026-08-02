@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1852671630079844352"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1852671944308424768",
+    "created_at": "2024-11-02T11:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T12:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852671944308424768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29dGjCl1nf",
+          "end": 38,
+          "expanded_url": "https://x.com/Letana358121/status/1852671944308424768/video/1",
+          "media_key": "7_1852671630079844352",
+          "start": 15,
+          "url": "https://t.co/29dGjCl1nf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852671944308424768",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在药效里唱歌。但是后面不会了 https://t.co/29dGjCl1nf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852671944308424768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852671944308424768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852671944308424768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25891,
+        "height": 1280,
+        "media_key": "7_1852671630079844352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1852671630079844352/pu/img/udd4sAV29EJ0NmIg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852671630079844352/pu/vid/avc1/320x568/D4RibhgV_0ra8Eif.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852671630079844352/pu/vid/avc1/480x852/uXDPifMsOc_0zANB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852671630079844352/pu/vid/avc1/720x1280/NhOtOyiibB75BK48.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1852671630079844352/pu/pl/UvUlV2kFMr1sepEl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 975,
+          "like_count": 28874,
+          "listed_count": 3,
+          "tweet_count": 10018
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2039236495404683744",
+    "created_at": "2026-04-01T07:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039236495404683744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Astdeitee/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Astdeitee/status/2039223663489376490",
+          "start": 3,
+          "url": "https://t.co/niigivz0gw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039236495404683744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039223663489376490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼 https://t.co/niigivz0gw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039223660964397056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzHHYlawAAAf8u.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2039236495404683744",
+        "created_at": "2026-04-01T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039236495404683744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Astdeitee/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Astdeitee/status/2039223663489376490",
+              "start": 3,
+              "url": "https://t.co/niigivz0gw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039236495404683744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039223663489376490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/niigivz0gw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039223660964397056"
+          ]
+        },
+        "author_id": "1668917712851181568",
+        "conversation_id": "2039223663489376490",
+        "created_at": "2026-04-01T06:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039223663489376490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6v4q2JQVVU",
+              "end": 28,
+              "expanded_url": "https://x.com/Astdeitee/status/2039223663489376490/photo/1",
+              "media_key": "3_2039223660964397056",
+              "start": 5,
+              "url": "https://t.co/6v4q2JQVVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039223663489376490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤭🤭🤭🤭 https://t.co/6v4q2JQVVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037193028532920323/uLPfNhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 1391,
+          "like_count": 49424,
+          "listed_count": 8,
+          "media_count": 2194,
+          "tweet_count": 18842
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 500,
+          "like_count": 44795,
+          "listed_count": 0,
+          "media_count": 974,
+          "tweet_count": 27091
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

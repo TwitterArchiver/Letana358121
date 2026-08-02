@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049374490736660480"
+      ],
+      "media_source_tweet_id": [
+        "2049374531186524369"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2049423090300666143",
+    "created_at": "2026-04-29T09:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049423090300666143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577295976758677504",
+          "start": 3,
+          "username": "sun_4x3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rHGinwUAF",
+          "end": 36,
+          "expanded_url": "https://x.com/sun_4x3/status/2049374531186524369/photo/1",
+          "media_key": "3_2049374490736660480",
+          "start": 13,
+          "url": "https://t.co/6rHGinwUAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049423090300666143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049374531186524369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sun_4x3: https://t.co/6rHGinwUAF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049423090300666143].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049423090300666143",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049423090300666143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2049374490736660480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDXPcQbEAAfKC9.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049374490736660480"
+          ]
+        },
+        "author_id": "1577295976758677504",
+        "conversation_id": "2049374531186524369",
+        "created_at": "2026-04-29T06:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049374531186524369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rHGinwUAF",
+              "end": 23,
+              "expanded_url": "https://x.com/sun_4x3/status/2049374531186524369/photo/1",
+              "media_key": "3_2049374490736660480",
+              "start": 0,
+              "url": "https://t.co/6rHGinwUAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049374531186524369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 2117,
+          "like_count": 424,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6rHGinwUAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 1436,
+          "like_count": 52319,
+          "listed_count": 8,
+          "media_count": 2257,
+          "tweet_count": 19639
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T13:55:42.000Z",
+        "description": "樹洞兼塗鴉亂葬崗。\n※這不是水星號，只是最近水星多",
+        "id": "1577295976758677504",
+        "location": "pixiv.net/users/40586327",
+        "name": "𣊭𣊭𣊭",
+        "pinned_tweet_id": "1857492100151181725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577346447413944320/52mq4e5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6715,
+          "following_count": 0,
+          "like_count": 225,
+          "listed_count": 41,
+          "media_count": 301,
+          "tweet_count": 688
+        },
+        "username": "sun_4x3",
+        "verified": false
+      }
+    ]
+  }
+}

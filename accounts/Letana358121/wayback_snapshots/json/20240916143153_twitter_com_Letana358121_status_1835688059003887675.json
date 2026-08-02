@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1835688059003887675",
+    "created_at": "2024-09-16T14:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T15:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835688059003887675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1717903248764317696",
+          "start": 3,
+          "username": "TWshouzhuabing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835688059003887675",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835640599975952595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TWshouzhuabing: 男的：能不能不要總是說國男國男又不是所有的男的都這樣\n還是男的：喲版本T0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1835688059003887675",
+        "created_at": "2024-09-16T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835688059003887675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1717903248764317696",
+              "start": 3,
+              "username": "TWshouzhuabing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835688059003887675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835640599975952595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TWshouzhuabing: 男的：能不能不要總是說國男國男又不是所有的男的都這樣\n還是男的：喲版本T0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1835640599975952595",
+        "created_at": "2024-09-16T11:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T12:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835640599975952595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835640599975952595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男的：能不能不要總是說國男國男又不是所有的男的都這樣\n還是男的：喲版本T0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 896,
+          "like_count": 28437,
+          "listed_count": 3,
+          "tweet_count": 8991
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "友跨路人",
+        "id": "1717903248764317696",
+        "location": "🫓",
+        "name": "［賭上廚師生涯的手抓餅］加腸一塊加蛋一塊油條一塊錢倆辣條五毛一包雞排三塊錢火雞面加十塊開業活動送芝士",
+        "pinned_tweet_id": "1834172491675435265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835397848265084930/NHs90-OQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 292,
+          "like_count": 2251,
+          "listed_count": 0,
+          "tweet_count": 234
+        },
+        "username": "TWshouzhuabing",
+        "verified": false
+      }
+    ]
+  }
+}

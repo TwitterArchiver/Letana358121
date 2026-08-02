@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1873969759630614578",
+    "created_at": "2024-12-31T05:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T06:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873969759630614578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1733133470447341568",
+          "start": 3,
+          "username": "overclockedQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873969759630614578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873947322402693335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overclockedQWQ: 这里是一个自介\n关于昵称：超频/芥末都可以💕💕\n⚠️这里有：擦边｜涩图｜分享日常\n\n✨本人高二在读，和父母半切割状态\n除了门槛就没有别的收入了😔😔\n路过的人可以过过我的门吗\n🥺💕💕永远爱你们🥺💕\n\n🚪52/128/288，详细见下图（p4…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873969759630614578].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873969759630614578",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873969759630614578"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873947318233554944",
+            "3_1873947318485176320",
+            "3_1873947319517011972",
+            "3_1873947318992715776"
+          ]
+        },
+        "author_id": "1733133470447341568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1873947322402693335",
+        "created_at": "2024-12-31T04:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873947322402693335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiA7t1H21v",
+              "end": 183,
+              "expanded_url": "https://x.com/overclockedQWQ/status/1873947322402693335/photo/1",
+              "media_key": "3_1873947318233554944",
+              "start": 160,
+              "url": "https://t.co/EiA7t1H21v"
+            },
+            {
+              "display_url": "pic.x.com/EiA7t1H21v",
+              "end": 183,
+              "expanded_url": "https://x.com/overclockedQWQ/status/1873947322402693335/photo/1",
+              "media_key": "3_1873947318485176320",
+              "start": 160,
+              "url": "https://t.co/EiA7t1H21v"
+            },
+            {
+              "display_url": "pic.x.com/EiA7t1H21v",
+              "end": 183,
+              "expanded_url": "https://x.com/overclockedQWQ/status/1873947322402693335/photo/1",
+              "media_key": "3_1873947319517011972",
+              "start": 160,
+              "url": "https://t.co/EiA7t1H21v"
+            },
+            {
+              "display_url": "pic.x.com/EiA7t1H21v",
+              "end": 183,
+              "expanded_url": "https://x.com/overclockedQWQ/status/1873947322402693335/photo/1",
+              "media_key": "3_1873947318992715776",
+              "start": 160,
+              "url": "https://t.co/EiA7t1H21v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873947322402693335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 305,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是一个自介\n关于昵称：超频/芥末都可以💕💕\n⚠️这里有：擦边｜涩图｜分享日常\n\n✨本人高二在读，和父母半切割状态\n除了门槛就没有别的收入了😔😔\n路过的人可以过过我的门吗\n🥺💕💕永远爱你们🥺💕\n\n🚪52/128/288，详细见下图（p4是军火展示\n【转赞评这条  周一晚抽两个13. 14）\n[p4是军火展示😈😈😈] https://t.co/EiA7t1H21v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1016,
+          "like_count": 30270,
+          "listed_count": 5,
+          "media_count": 1312,
+          "tweet_count": 10931
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:36:43.000Z",
+        "description": "日常推｜随缘掉落生活照及擦边🥺｜互fo会先查成分😢｜喜欢我可以给我打钱😋｜⚠️血图  od  负能⚠️介意请善用屏蔽",
+        "id": "1733133470447341568",
+        "location": "鹈鹕镇  哈维的诊所     🚪52/128/288",
+        "name": "✟超频✟",
+        "pinned_tweet_id": "1865701679561388348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869378842093408256/xeCcr7OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6072,
+          "following_count": 516,
+          "like_count": 2822,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 3051
+        },
+        "username": "overclockedQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

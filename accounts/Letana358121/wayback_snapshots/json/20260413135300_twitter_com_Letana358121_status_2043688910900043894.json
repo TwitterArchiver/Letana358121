@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2043522183654514934",
+    "created_at": "2026-04-13T13:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043688910900043894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Ikks0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043688910900043894",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043686215900446870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikks0413 不是，我家是那种有是室外光源的但是澳门你也知道晚上路灯不灭的我房间床对着的是一条在澳门算得上很大的路。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043686215900446870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043686215900446870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043686215900446870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2043522183654514934",
+        "created_at": "2026-04-13T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043688910900043894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Ikks0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043688910900043894",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043686215900446870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikks0413 不是，我家是那种有是室外光源的但是澳门你也知道晚上路灯不灭的我房间床对着的是一条在澳门算得上很大的路。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 1409,
+          "like_count": 50397,
+          "listed_count": 8,
+          "media_count": 2216,
+          "tweet_count": 19155
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtFree｜Asexual/Agender｜Intel新芽衣滞华汁做题国难长毛人妖垮处 ｜ただ夏の匂いに目を瞑りたい｜◂Ⓘ▸ ｜🐖❤️@Lyrica_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Lyrica_1005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/vac9121CFI"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "粥白粥粥白🍥🌛🕊️🕊️",
+        "pinned_tweet_id": "2040716391289131504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040262760144175104/Kyeycx3d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 983,
+          "like_count": 131201,
+          "listed_count": 15,
+          "media_count": 4611,
+          "tweet_count": 32280
+        },
+        "url": "https://t.co/vac9121CFI",
+        "username": "Ikks0413",
+        "verified": false
+      }
+    ]
+  }
+}

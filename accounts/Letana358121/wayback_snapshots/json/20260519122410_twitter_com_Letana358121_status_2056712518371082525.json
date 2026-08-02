@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+          "id": "2054422303950196736",
+          "name": "ALPHA DRIVE ONE Spoiler Party"
+        }
+      }
+    ],
+    "conversation_id": "2056712276871373265",
+    "created_at": "2026-05-19T12:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056712518371082525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753355639949291521",
+          "start": 0,
+          "username": "jesuisprofL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056712518371082525",
+    "in_reply_to_user_id": "1753355639949291521",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056712434757607935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jesuisprofL OMG。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+              "id": "2054422303950196736",
+              "name": "ALPHA DRIVE ONE Spoiler Party"
+            }
+          }
+        ],
+        "conversation_id": "2056712276871373265",
+        "created_at": "2026-05-19T12:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056712518371082525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753355639949291521",
+              "start": 0,
+              "username": "jesuisprofL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712518371082525",
+        "in_reply_to_user_id": "1753355639949291521",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712434757607935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jesuisprofL OMG。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "2056712276871373265",
+        "created_at": "2026-05-19T12:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056712434757607935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712434757607935",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712276871373265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 妳說的對但是@號前面不加符號會變成回覆而不是post"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1456,
+          "like_count": 54203,
+          "listed_count": 8,
+          "media_count": 2277,
+          "tweet_count": 20151
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🇺🇸🇧🇪 US/CN/FR, non-binary gay 𝙁𝙐𝘾𝙆 𝙄𝘾𝙀",
+        "id": "1753355639949291521",
+        "location": "Paris, France",
+        "name": "Kév 🇭🇰",
+        "pinned_tweet_id": "2046280957364445660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903355355578654720/5w5gZkcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 847,
+          "like_count": 61076,
+          "listed_count": 1,
+          "media_count": 9861,
+          "tweet_count": 41347
+        },
+        "username": "jesuisprofL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2072907028352360489",
+    "created_at": "2026-07-03T05:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072909099990462822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473159080143376385",
+          "start": 0,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072909099990462822",
+    "in_reply_to_user_id": "1473159080143376385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072907028352360489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jacque1ineWong 羡慕。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2072907021045960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRx8_HbkAAPuuT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2072907028352360489",
+        "created_at": "2026-07-03T05:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072909099990462822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473159080143376385",
+              "start": 0,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072909099990462822",
+        "in_reply_to_user_id": "1473159080143376385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072907028352360489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jacque1ineWong 羡慕。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072907021045960704"
+          ]
+        },
+        "author_id": "1473159080143376385",
+        "conversation_id": "2072907028352360489",
+        "created_at": "2026-07-03T04:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072907028352360489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/budrVdOYfb",
+              "end": 27,
+              "expanded_url": "https://x.com/Jacque1ineWong/status/2072907028352360489/photo/1",
+              "media_key": "3_2072907021045960704",
+              "start": 4,
+              "url": "https://t.co/budrVdOYfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072907028352360489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "望周知 https://t.co/budrVdOYfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 1548,
+          "like_count": 59565,
+          "listed_count": 7,
+          "media_count": 2368,
+          "tweet_count": 21556
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨🏳️‍⚧️One day I’ll be free.",
+        "id": "1473159080143376385",
+        "location": "Macau",
+        "name": "茉莉奶绿黄奕缘",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 562,
+          "like_count": 39141,
+          "listed_count": 12,
+          "media_count": 702,
+          "tweet_count": 13457
+        },
+        "url": "",
+        "username": "Jacque1ineWong",
+        "verified": true
+      }
+    ]
+  }
+}

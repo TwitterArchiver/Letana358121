@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1876324953878093862",
+    "created_at": "2025-01-06T17:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T18:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876324953878093862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtfGuiMeng/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mtfGuiMeng/status/1875059856757166241",
+          "start": 4,
+          "url": "https://t.co/Y91J9n57fm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876324953878093862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875059856757166241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "脑残。 https://t.co/Y91J9n57fm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1876324953878093862",
+        "created_at": "2025-01-06T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876324953878093862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtfGuiMeng/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mtfGuiMeng/status/1875059856757166241",
+              "start": 4,
+              "url": "https://t.co/Y91J9n57fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876324953878093862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875059856757166241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑残。 https://t.co/Y91J9n57fm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875059853342932992"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1875059856757166241",
+        "created_at": "2025-01-03T06:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875059856757166241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7iKouUIrI",
+              "end": 55,
+              "expanded_url": "https://x.com/mtfGuiMeng/status/1875059856757166241/photo/1",
+              "media_key": "3_1875059853342932992",
+              "start": 32,
+              "url": "https://t.co/w7iKouUIrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875059856757166241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1020,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【华立潮品】中二节奏情趣系列口球点亮你的日常出勤，赶快抢购吧！ https://t.co/w7iKouUIrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 1019,
+          "like_count": 30524,
+          "listed_count": 5,
+          "media_count": 1324,
+          "tweet_count": 11038
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "06.11.15/高中早七晚五双休，坐标杭州无证单身猫猫🍥喵，🚪25，#INTJ，音游人，摆烂中准备死，不管怎么说都是不折不扣的纯爱党！好妹妹@Hai_Hayn，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Hai_Hayn"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🏳‍⚧️🍥",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837418739912114176/BnpbtlSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 131,
+          "like_count": 826,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 631
+        },
+        "username": "mtfGuiMeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851187571315060736"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1851187574829977734",
+    "created_at": "2024-10-29T09:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T10:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851187574829977734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzpneZmS2V",
+          "end": 27,
+          "expanded_url": "https://x.com/Letana358121/status/1851187574829977734/photo/1",
+          "media_key": "3_1851187571315060736",
+          "start": 4,
+          "url": "https://t.co/pzpneZmS2V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851187574829977734",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好看 https://t.co/pzpneZmS2V"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851187574829977734].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851187574829977734",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851187574829977734"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1851187571315060736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbC9ScDaMAA3K5g.jpg",
+        "width": 1125
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 974,
+          "like_count": 28564,
+          "listed_count": 3,
+          "tweet_count": 9921
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

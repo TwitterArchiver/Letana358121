@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999736105332322304"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999736155961721079",
+    "created_at": "2025-12-13T07:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999736155961721079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dxkaqAR0oo",
+          "end": 33,
+          "expanded_url": "https://x.com/Letana358121/status/1999736155961721079/photo/1",
+          "media_key": "3_1999736105332322304",
+          "start": 10,
+          "url": "https://t.co/dxkaqAR0oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999736155961721079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好吃非常美味啊 https://t.co/dxkaqAR0oo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999736105332322304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8B9ZIrbMAAQ24X.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999736105332322304"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999736155961721079",
+        "created_at": "2025-12-13T07:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999736155961721079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxkaqAR0oo",
+              "end": 33,
+              "expanded_url": "https://x.com/Letana358121/status/1999736155961721079/photo/1",
+              "media_key": "3_1999736105332322304",
+              "start": 10,
+              "url": "https://t.co/dxkaqAR0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999736155961721079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好吃非常美味啊 https://t.co/dxkaqAR0oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999369865732456448/O9dSoxIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 1302,
+          "like_count": 44865,
+          "listed_count": 7,
+          "media_count": 2006,
+          "tweet_count": 17128
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

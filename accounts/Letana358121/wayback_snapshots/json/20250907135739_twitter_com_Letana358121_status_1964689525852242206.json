@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1964616145920753748",
+    "created_at": "2025-09-07T13:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T14:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964689525852242206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964689525852242206",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964616145920753748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 非常正确啊。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1964616145920753748",
+        "created_at": "2025-09-07T13:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T14:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964689525852242206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964689525852242206",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964616145920753748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 非常正确啊。！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1964616144418934784"
+          ]
+        },
+        "author_id": "1840008766135103488",
+        "conversation_id": "1964616145920753748",
+        "created_at": "2025-09-07T09:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T10:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964616145920753748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964616145920753748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人都喜欢看美丽的乳房，所以男人隆胸难道不是一个很正常的事吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 1236,
+          "like_count": 41440,
+          "listed_count": 7,
+          "media_count": 1853,
+          "tweet_count": 15668
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "伟大与疯狂，光荣与梦想",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "1921228890732712121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923498092516573185/UQ5TgMeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16547,
+          "following_count": 2053,
+          "like_count": 4120,
+          "listed_count": 63,
+          "media_count": 815,
+          "tweet_count": 11302
+        },
+        "username": "nande198900",
+        "verified": false
+      }
+    ]
+  }
+}

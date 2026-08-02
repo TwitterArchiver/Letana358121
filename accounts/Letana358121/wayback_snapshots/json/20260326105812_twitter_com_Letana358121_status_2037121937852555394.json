@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037121914502868992"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2037121937852555394",
+    "created_at": "2026-03-26T10:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037121937852555394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XeziLNEDOg",
+          "end": 27,
+          "expanded_url": "https://x.com/Letana358121/status/2037121937852555394/video/1",
+          "media_key": "7_2037121914502868992",
+          "start": 4,
+          "url": "https://t.co/XeziLNEDOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037121937852555394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何异味 https://t.co/XeziLNEDOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12074,
+        "height": 1280,
+        "media_key": "7_2037121914502868992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037121914502868992/pu/img/mYiW7C8XlAuxvNA4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037121914502868992/pu/vid/avc1/320x568/tc08KFk6oEzI3dC4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037121914502868992/pu/vid/avc1/480x852/cnfo681dxhU6fnsQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037121914502868992/pu/vid/avc1/720x1280/kXpCD1Fb5zMXxKbo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037121914502868992/pu/pl/MDStJelh7gRaRKUZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037121914502868992"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2037121937852555394",
+        "created_at": "2026-03-26T10:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037121937852555394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeziLNEDOg",
+              "end": 27,
+              "expanded_url": "https://x.com/Letana358121/status/2037121937852555394/video/1",
+              "media_key": "7_2037121914502868992",
+              "start": 4,
+              "url": "https://t.co/XeziLNEDOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037121937852555394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何异味 https://t.co/XeziLNEDOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 1390,
+          "like_count": 48994,
+          "listed_count": 8,
+          "media_count": 2182,
+          "tweet_count": 18667
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

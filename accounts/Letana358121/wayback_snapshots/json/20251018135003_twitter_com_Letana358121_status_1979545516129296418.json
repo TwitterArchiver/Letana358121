@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1979545516129296418",
+    "created_at": "2025-10-18T13:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979545516129296418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979545516129296418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我曹推特bug也太多了吧之前是敏感图像打不开现在是敏感图像关不掉。。。妈的血图扑脸吓死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1979545516129296418",
+        "created_at": "2025-10-18T13:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979545516129296418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979545516129296418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我曹推特bug也太多了吧之前是敏感图像打不开现在是敏感图像关不掉。。。妈的血图扑脸吓死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 1270,
+          "like_count": 42541,
+          "listed_count": 8,
+          "media_count": 1904,
+          "tweet_count": 16147
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

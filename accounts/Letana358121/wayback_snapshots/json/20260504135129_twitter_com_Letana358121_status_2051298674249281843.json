@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2051298530057457842",
+    "created_at": "2026-05-04T13:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051298674249281843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051298674249281843",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051298530057457842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天幻想自己是一個童年被愛著的女孩可惜事實是我不被愛著還是個人妖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2051298530057457842",
+        "created_at": "2026-05-04T13:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051298674249281843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051298674249281843",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051298530057457842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天幻想自己是一個童年被愛著的女孩可惜事實是我不被愛著還是個人妖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2051298530057457842",
+        "created_at": "2026-05-04T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051298530057457842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051298530057457842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想逃避現實好想逃避現實啊啊啊啊啊啊啊啊啊為什麼為什麼為什麼就是好想好想逃避現實我每天在我的腦子都會有另一個人生一個幸福的人生為什麼為什麼為什麼我沒法獲得它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3225,
+          "following_count": 1441,
+          "like_count": 52689,
+          "listed_count": 8,
+          "media_count": 2265,
+          "tweet_count": 19759
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

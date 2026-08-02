@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2055975922977984824",
+    "created_at": "2026-05-17T13:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056001907043569746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056001907043569746",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055975922977984824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 我曹我昨天刚去吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2055975641519173632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhK8_ObMAAABDW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2055975641523363840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhK8_PbIAAkUV_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2055975641531756544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhK8_RbMAAzH0i.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2055975641531748352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhK8_RbEAAt9Wu.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2055975922977984824",
+        "created_at": "2026-05-17T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056001907043569746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056001907043569746",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975922977984824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 我曹我昨天刚去吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055975641519173632",
+            "3_2055975641523363840",
+            "3_2055975641531756544",
+            "3_2055975641531748352"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055975922977984824",
+        "created_at": "2026-05-17T11:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:36:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055975796721008955",
+          "2055975922977984824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvOUZi8Ulk",
+              "end": 36,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2055975922977984824/photo/1",
+              "media_key": "3_2055975641519173632",
+              "start": 13,
+              "url": "https://t.co/DvOUZi8Ulk"
+            },
+            {
+              "display_url": "pic.x.com/DvOUZi8Ulk",
+              "end": 36,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2055975922977984824/photo/1",
+              "media_key": "3_2055975641523363840",
+              "start": 13,
+              "url": "https://t.co/DvOUZi8Ulk"
+            },
+            {
+              "display_url": "pic.x.com/DvOUZi8Ulk",
+              "end": 36,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2055975922977984824/photo/1",
+              "media_key": "3_2055975641531756544",
+              "start": 13,
+              "url": "https://t.co/DvOUZi8Ulk"
+            },
+            {
+              "display_url": "pic.x.com/DvOUZi8Ulk",
+              "end": 36,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2055975922977984824/photo/1",
+              "media_key": "3_2055975641531748352",
+              "start": 13,
+              "url": "https://t.co/DvOUZi8Ulk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055975922977984824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广东省中山市 JB美味屋 https://t.co/DvOUZi8Ulk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1453,
+          "like_count": 53961,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20117
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / 社畜 / Vibe Coding / sbwmc / 全网第一台maimaiでらっくす四轮痛车车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 1610,
+          "like_count": 18809,
+          "listed_count": 31,
+          "media_count": 10646,
+          "tweet_count": 49504
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

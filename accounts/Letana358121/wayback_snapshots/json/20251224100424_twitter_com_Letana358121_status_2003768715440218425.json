@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2003768715440218425",
+    "created_at": "2025-12-24T10:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T11:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003768715440218425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2003761640270127490",
+          "start": 8,
+          "url": "https://t.co/xPisVJA757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003768715440218425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003761640270127490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈的笑死我了 https://t.co/xPisVJA757"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2003768715440218425",
+        "created_at": "2025-12-24T10:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003768715440218425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2003761640270127490",
+              "start": 8,
+              "url": "https://t.co/xPisVJA757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003768715440218425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003761640270127490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的笑死我了 https://t.co/xPisVJA757"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2003761640270127490",
+        "created_at": "2025-12-24T09:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003761640270127490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003761640270127490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人在台湾出车祸。\n\n交警：你怎么把路虎开到人家赛百味里面了？\n中国人：店员刚刚跟我说开发票要把载具拿过去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999369865732456448/O9dSoxIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 1303,
+          "like_count": 45046,
+          "listed_count": 7,
+          "media_count": 2037,
+          "tweet_count": 17315
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22120,
+          "following_count": 197,
+          "like_count": 692,
+          "listed_count": 72,
+          "media_count": 97,
+          "tweet_count": 21841
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

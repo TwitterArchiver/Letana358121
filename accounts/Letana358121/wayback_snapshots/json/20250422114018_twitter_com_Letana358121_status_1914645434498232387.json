@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1914643662882976194",
+    "created_at": "2025-04-22T11:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914645434498232387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721653382480269312",
+          "start": 0,
+          "username": "ShiTiao80173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914645434498232387",
+    "in_reply_to_user_id": "1721653382480269312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914643662882976194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiTiao80173 叫两声"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1914643662882976194",
+        "created_at": "2025-04-22T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914645434498232387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721653382480269312",
+              "start": 0,
+              "username": "ShiTiao80173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914645434498232387",
+        "in_reply_to_user_id": "1721653382480269312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914643662882976194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiTiao80173 叫两声"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721653382480269312",
+        "conversation_id": "1914643662882976194",
+        "created_at": "2025-04-22T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914643662882976194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914643662882976194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将不再给任何其他人当狗😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1145,
+          "like_count": 38094,
+          "listed_count": 5,
+          "media_count": 1580,
+          "tweet_count": 13906
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T22:19:00.000Z",
+        "description": "月球作息🌑｜纯贱人｜我是完蛋女王♡还在不断的努力站起来吗🧀\n提问箱https://t.co/GJFUzXmew5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheezykawaovo2",
+                "end": 56,
+                "expanded_url": "https://ngl.link/cheezykawaovo2",
+                "start": 33,
+                "url": "https://t.co/GJFUzXmew5"
+              }
+            ]
+          }
+        },
+        "id": "1721653382480269312",
+        "location": "奶酪的孔洞中",
+        "name": "雾芝士条🧀",
+        "pinned_tweet_id": "1910499448217911408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765528493700284416/Uainj0gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 830,
+          "like_count": 21348,
+          "listed_count": 1,
+          "media_count": 559,
+          "tweet_count": 5345
+        },
+        "username": "ShiTiao80173",
+        "verified": false
+      }
+    ]
+  }
+}

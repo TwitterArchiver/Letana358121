@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1824760719818240182",
+    "created_at": "2024-08-17T12:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T13:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824789603620143413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 23,
+          "id": "1490707122291867648",
+          "start": 13,
+          "username": "ACENANAMI"
+        },
+        {
+          "end": 34,
+          "id": "1817906917391380480",
+          "start": 24,
+          "username": "duxin11th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824789603620143413",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824786638784040998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @ACENANAMI @duxin11th 吃屎去吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1824786638784040998].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824786638784040998",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1824786638784040998"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1824760719818240182",
+        "created_at": "2024-08-17T12:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T13:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824789603620143413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 23,
+              "id": "1490707122291867648",
+              "start": 13,
+              "username": "ACENANAMI"
+            },
+            {
+              "end": 34,
+              "id": "1817906917391380480",
+              "start": 24,
+              "username": "duxin11th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824789603620143413",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824786638784040998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @ACENANAMI @duxin11th 吃屎去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 865,
+          "like_count": 25433,
+          "listed_count": 2,
+          "tweet_count": 8178
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "永雏塔黑猫",
+        "pinned_tweet_id": "1804543524790284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1105,
+          "like_count": 39319,
+          "listed_count": 9,
+          "tweet_count": 3478
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "成人的無恥讓她感到噁心，孩子的無知也讓她感到噁心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "black-souls.fandom.com/wiki/Grimm",
+                "end": 23,
+                "expanded_url": "https://black-souls.fandom.com/wiki/Grimm",
+                "start": 0,
+                "url": "https://t.co/5dqeIhztJW"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "location": "這世界不該是我們的 爸爸和媽媽也不該有的",
+        "name": "🩷🎀七海•葉米爾🎀🩷🩸",
+        "pinned_tweet_id": "1823452773595414845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824212708113387524/ej9TsN7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 600,
+          "like_count": 79362,
+          "listed_count": 5,
+          "tweet_count": 9413
+        },
+        "url": "https://t.co/5dqeIhztJW",
+        "username": "ACENANAMI",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:56:12.000Z",
+        "description": "Necessary Discrepancy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dadudalalully1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/dadudalalully1",
+                "start": 0,
+                "url": "https://t.co/bTvMGvSe7l"
+              }
+            ]
+          }
+        },
+        "id": "1817906917391380480",
+        "location": "竹林里",
+        "name": "✝️蚀·都心✝️",
+        "pinned_tweet_id": "1823963838657564775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824523513891336192/2gbC_Dhy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 215,
+          "like_count": 1746,
+          "listed_count": 0,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/bTvMGvSe7l",
+        "username": "duxin11th",
+        "verified": false
+      }
+    ]
+  }
+}

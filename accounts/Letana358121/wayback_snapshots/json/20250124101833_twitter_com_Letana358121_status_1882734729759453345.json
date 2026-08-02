@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1882732495600484649",
+    "created_at": "2025-01-24T10:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T11:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882734729759453345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TWshouzhuabing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882734729759453345",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882732831660720377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWshouzhuabing ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1882732495600484649",
+        "created_at": "2025-01-24T10:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T11:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882734729759453345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TWshouzhuabing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882734729759453345",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882732831660720377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWshouzhuabing ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1882732495600484649",
+        "created_at": "2025-01-24T10:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T11:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882732831660720377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882732831660720377",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882732495600484649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尤其是那个叫sanaka的 看完不小心冲了两发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1047,
+          "like_count": 30649,
+          "listed_count": 5,
+          "media_count": 1373,
+          "tweet_count": 11357
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "狗王",
+        "id": "1717903248764317696",
+        "location": "🫓",
+        "name": "雞蛋淡旦但灌餅",
+        "pinned_tweet_id": "1855619151479574939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873622345035968512/CoBTDvdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 303,
+          "like_count": 2605,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 902
+        },
+        "username": "TWshouzhuabing",
+        "verified": false
+      }
+    ]
+  }
+}

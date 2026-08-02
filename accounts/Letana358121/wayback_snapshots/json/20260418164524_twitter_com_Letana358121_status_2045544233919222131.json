@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2045544233919222131",
+    "created_at": "2026-04-18T16:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045544233919222131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/Letana358121/status/2045543582942265625",
+          "start": 51,
+          "url": "https://t.co/DkCYvIXOwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045544233919222131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543582942265625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对当事人或许是甜蜜的，然后留给世间一开始是痛苦，当人死多了上升宏大叙事后就变成了一群人的政治幻觉狂欢 https://t.co/DkCYvIXOwx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2045544233919222131",
+        "created_at": "2026-04-18T16:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045544233919222131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Letana358121/status/2045543582942265625",
+              "start": 51,
+              "url": "https://t.co/DkCYvIXOwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045544233919222131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543582942265625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对当事人或许是甜蜜的，然后留给世间一开始是痛苦，当人死多了上升宏大叙事后就变成了一群人的政治幻觉狂欢 https://t.co/DkCYvIXOwx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2045543582942265625",
+        "created_at": "2026-04-18T16:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543582942265625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045543582942265625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡的味道是裹了糖衣的右美沙芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 1413,
+          "like_count": 50797,
+          "listed_count": 8,
+          "media_count": 2224,
+          "tweet_count": 19272
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

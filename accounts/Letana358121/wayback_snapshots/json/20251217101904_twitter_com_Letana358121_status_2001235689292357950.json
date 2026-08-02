@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2001235674213834754"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2001235689292357950",
+    "created_at": "2025-12-17T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001235689292357950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSrPqr1uLQ",
+          "end": 30,
+          "expanded_url": "https://x.com/Letana358121/status/2001235689292357950/video/1",
+          "media_key": "7_2001235674213834754",
+          "start": 7,
+          "url": "https://t.co/GSrPqr1uLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001235689292357950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "低脂小视频。 https://t.co/GSrPqr1uLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3640,
+        "height": 1280,
+        "media_key": "7_2001235674213834754",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001235674213834754/pu/img/J9bjfpBJVI67LztH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001235674213834754/pu/vid/avc1/320x710/FNdQOm9_cBPeyZbJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001235674213834754/pu/vid/avc1/480x1066/q3s_1XO2pxxmoXd-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001235674213834754/pu/vid/avc1/576x1280/i8qA2wnrBJ1R5hqG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001235674213834754/pu/pl/OMVx5xOBPZ88D8nn.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001235674213834754"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2001235689292357950",
+        "created_at": "2025-12-17T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001235689292357950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSrPqr1uLQ",
+              "end": 30,
+              "expanded_url": "https://x.com/Letana358121/status/2001235689292357950/video/1",
+              "media_key": "7_2001235674213834754",
+              "start": 7,
+              "url": "https://t.co/GSrPqr1uLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001235689292357950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "低脂小视频。 https://t.co/GSrPqr1uLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999369865732456448/O9dSoxIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1304,
+          "like_count": 44643,
+          "listed_count": 7,
+          "media_count": 2016,
+          "tweet_count": 17204
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

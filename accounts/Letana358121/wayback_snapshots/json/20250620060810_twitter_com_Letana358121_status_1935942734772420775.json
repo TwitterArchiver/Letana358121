@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1935942734772420775",
+    "created_at": "2025-06-20T06:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T07:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935942734772420775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ServalCandle/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ServalCandle/status/1935937756511039933",
+          "start": 3,
+          "url": "https://t.co/YSUbfCgvVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935942734772420775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935937756511039933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼 https://t.co/YSUbfCgvVF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1935942734772420775",
+        "created_at": "2025-06-20T06:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T07:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935942734772420775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1935937756511039933",
+              "start": 3,
+              "url": "https://t.co/YSUbfCgvVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935942734772420775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935937756511039933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/YSUbfCgvVF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1935236559865032920",
+        "created_at": "2025-06-20T05:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935937756511039933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864382188705468424",
+              "start": 0,
+              "username": "Patchouli1453"
+            },
+            {
+              "end": 28,
+              "id": "1669543422586421248",
+              "start": 15,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935937756511039933",
+        "in_reply_to_user_id": "1864382188705468424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935322021002625305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patchouli1453 @Letana358121 哪怕这会导致我自己也不能HRT\n\n我依然会支持（（（\n\n因为很好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 1183,
+          "like_count": 40475,
+          "listed_count": 5,
+          "media_count": 1720,
+          "tweet_count": 14910
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "電波系大笨貓 ◉▼◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "💖傻貓𝕮𝖆𝖓𝖉𝖑𝖊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935644057989947392/25wFsPjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31918,
+          "following_count": 345,
+          "like_count": 224156,
+          "listed_count": 103,
+          "media_count": 7859,
+          "tweet_count": 52265
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

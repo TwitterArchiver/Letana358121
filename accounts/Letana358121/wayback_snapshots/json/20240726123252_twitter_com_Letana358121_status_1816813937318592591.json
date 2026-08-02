@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1816795400424292392",
+    "created_at": "2024-07-26T12:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T13:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816813937318592591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669725959178551296",
+          "start": 0,
+          "username": "CanonLailah"
+        },
+        {
+          "end": 27,
+          "id": "1715424211018403840",
+          "start": 13,
+          "username": "Mukusuzu_miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816813937318592591",
+    "in_reply_to_user_id": "1669725959178551296",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816795400424292392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanonLailah @Mukusuzu_miku 我也想要。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1816795400424292392].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1816795400424292392",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1816795400424292392"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1816795400424292392",
+        "created_at": "2024-07-26T12:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816813937318592591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669725959178551296",
+              "start": 0,
+              "username": "CanonLailah"
+            },
+            {
+              "end": 27,
+              "id": "1715424211018403840",
+              "start": 13,
+              "username": "Mukusuzu_miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816813937318592591",
+        "in_reply_to_user_id": "1669725959178551296",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816795400424292392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanonLailah @Mukusuzu_miku 我也想要。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808729518200532995/lYKLOiVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 823,
+          "like_count": 22867,
+          "listed_count": 2,
+          "tweet_count": 7423
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T15:19:32.000Z",
+        "description": "梦想是当雌犬｜日记本｜爱看不看这是我的号",
+        "id": "1669725959178551296",
+        "location": "豬排咖哩蓋飯有限公司",
+        "name": "勒啊拉一勒啊拉",
+        "pinned_tweet_id": "1782631793700827270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814802038037094404/9NA3q0jX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 368,
+          "like_count": 10449,
+          "listed_count": 0,
+          "tweet_count": 6536
+        },
+        "username": "CanonLailah",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T17:46:29.000Z",
+        "description": "这里是眯酷(^ω^)/ she./坐标贱狗星/泛性恋/性别是貓貓～/留超长发ing... / 发发日常就好啦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/FYpBf8pcB7"
+              }
+            ]
+          }
+        },
+        "id": "1715424211018403840",
+        "location": "賤狗星",
+        "name": "板烧眯酷堡",
+        "pinned_tweet_id": "1726839598935138707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740467233854554112/H3l7bMfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 795,
+          "like_count": 12326,
+          "listed_count": 1,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/FYpBf8pcB7",
+        "username": "Mukusuzu_miku",
+        "verified": false
+      }
+    ]
+  }
+}

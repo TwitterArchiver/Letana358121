@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1897925275259715693",
+    "created_at": "2025-03-07T08:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T09:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897925275259715693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaneY_banu/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AkaneY_banu/status/1897629732151386577",
+          "start": 5,
+          "url": "https://t.co/bpTUbM1mkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897925275259715693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897629732151386577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美神降临 https://t.co/bpTUbM1mkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897629723880259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlW8LgcbAAAn40T.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1897925275259715693",
+        "created_at": "2025-03-07T08:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897925275259715693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaneY_banu/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AkaneY_banu/status/1897629732151386577",
+              "start": 5,
+              "url": "https://t.co/bpTUbM1mkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897925275259715693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897629732151386577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美神降临 https://t.co/bpTUbM1mkI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897629723880259584"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1897629732151386577",
+        "created_at": "2025-03-06T12:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897629732151386577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "AveMujicaフリーライブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfdk19CEu1",
+              "end": 57,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1897629732151386577/photo/1",
+              "media_key": "3_1897629723880259584",
+              "start": 34,
+              "url": "https://t.co/tfdk19CEu1"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1897626771832639977",
+              "start": 58,
+              "url": "https://t.co/Vha0xiPvmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897629732151386577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 102101,
+          "like_count": 5972,
+          "quote_count": 52,
+          "reply_count": 41,
+          "retweet_count": 938
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897626771832639977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#AveMujicaフリーライブ \nご視聴ありがとうございました💜 https://t.co/tfdk19CEu1 https://t.co/Vha0xiPvmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 1114,
+          "like_count": 34442,
+          "listed_count": 4,
+          "media_count": 1473,
+          "tweet_count": 12488
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1897315442534031680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878150523565785088/PVqZn2jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60325,
+          "following_count": 85,
+          "like_count": 8712,
+          "listed_count": 370,
+          "media_count": 553,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

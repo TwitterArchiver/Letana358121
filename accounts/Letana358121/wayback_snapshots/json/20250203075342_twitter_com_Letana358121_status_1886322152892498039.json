@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1886299107804753980",
+    "created_at": "2025-02-03T07:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886322152892498039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 24,
+          "id": "708700717",
+          "start": 13,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886322152892498039",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886321168514474168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @GuajavaDuo 我不黑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1886321168514474168].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1886321168514474168",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1886321168514474168"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1886299107804753980",
+        "created_at": "2025-02-03T07:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886322152892498039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 24,
+              "id": "708700717",
+              "start": 13,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886322152892498039",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886321168514474168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @GuajavaDuo 我不黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1069,
+          "like_count": 31443,
+          "listed_count": 4,
+          "media_count": 1403,
+          "tweet_count": 11676
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "mtx🏳️‍⚧️/永久锁推 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫「🏳️‍⚧️」",
+        "pinned_tweet_id": "1878589499758043288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873906145099935744/CkpOKBHa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 1387,
+          "like_count": 49396,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2090
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "世界上唯一爱我的迷你鸡巴灵魂伴侣╰⁠(⁠⸝⁠⸝⁠⸝⁠´⁠꒳⁠`⁠⸝⁠⸝⁠⸝⁠)⁠╯ @pbpp10521715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "pbpp10521715"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/refixxx/",
+                "end": 23,
+                "expanded_url": "https://www.flickr.com/photos/refixxx/",
+                "start": 0,
+                "url": "https://t.co/FFz09g0lB2"
+              }
+            ]
+          }
+        },
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "蒜泥小贝",
+        "pinned_tweet_id": "1883397140120281446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875182720122511361/5nrCvrCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5413,
+          "following_count": 1378,
+          "like_count": 7240,
+          "listed_count": 51,
+          "media_count": 21408,
+          "tweet_count": 340882
+        },
+        "url": "https://t.co/FFz09g0lB2",
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2047628577424773407",
+    "created_at": "2026-04-25T03:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047874686625657078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1388165242740371457",
+          "start": 0,
+          "username": "Lee65535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047874686625657078",
+    "in_reply_to_user_id": "1388165242740371457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047874509727011275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee65535 笑尿两滴。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2047628577424773407",
+        "created_at": "2026-04-25T03:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047874686625657078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1388165242740371457",
+              "start": 0,
+              "username": "Lee65535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047874686625657078",
+        "in_reply_to_user_id": "1388165242740371457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047874509727011275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee65535 笑尿两滴。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388165242740371457",
+        "conversation_id": "2047628577424773407",
+        "created_at": "2026-04-25T03:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047874509727011275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047874509727011275",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047628577424773407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 多元：指凑齐了东北逼山东逼河南逼广东逼etc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 1421,
+          "like_count": 51496,
+          "listed_count": 8,
+          "media_count": 2249,
+          "tweet_count": 19465
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T16:16:05.000Z",
+        "description": "中文/English | 🏳️‍⚧️🏳️‍🌈 | she/her | Proud owner of Blåhaj | 你觉得我是什么成分我就是什么成分🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lee65536",
+                "end": 23,
+                "expanded_url": "https://t.me/lee65536",
+                "start": 0,
+                "url": "https://t.co/MYXiDVxB7g"
+              }
+            ]
+          }
+        },
+        "id": "1388165242740371457",
+        "location": "Santa Clara, CA",
+        "name": "Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583326483300306947/YpbDhzim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3923,
+          "following_count": 592,
+          "like_count": 167692,
+          "listed_count": 3,
+          "media_count": 744,
+          "tweet_count": 10988
+        },
+        "url": "https://t.co/MYXiDVxB7g",
+        "username": "Lee65535",
+        "verified": false
+      }
+    ]
+  }
+}

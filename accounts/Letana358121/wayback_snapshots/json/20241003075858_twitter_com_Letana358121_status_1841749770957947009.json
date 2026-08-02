@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1841749294505984003"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1841749770957947009",
+    "created_at": "2024-10-03T07:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T08:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841749770957947009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7ab3dE4d8",
+          "end": 23,
+          "expanded_url": "https://x.com/Letana358121/status/1841749770957947009/video/1",
+          "media_key": "7_1841749294505984003",
+          "start": 0,
+          "url": "https://t.co/O7ab3dE4d8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841749770957947009",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/O7ab3dE4d8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4713,
+        "height": 1280,
+        "media_key": "7_1841749294505984003",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1841749294505984003/pu/img/USMAtVvmkIX9LvDN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841749294505984003/pu/vid/avc1/320x568/RE4SFMAs1RjOsU90.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841749294505984003/pu/vid/avc1/480x852/Vh3tJI7OFixAbUq6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841749294505984003/pu/vid/avc1/720x1280/0fse1JUxJtvB_IDg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1841749294505984003/pu/pl/1EbQ3Vj6aubRMyYy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841749294505984003"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1841749770957947009",
+        "created_at": "2024-10-03T07:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T08:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841749770957947009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7ab3dE4d8",
+              "end": 23,
+              "expanded_url": "https://x.com/Letana358121/status/1841749770957947009/video/1",
+              "media_key": "7_1841749294505984003",
+              "start": 0,
+              "url": "https://t.co/O7ab3dE4d8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841749770957947009",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O7ab3dE4d8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 943,
+          "like_count": 29322,
+          "listed_count": 3,
+          "tweet_count": 9399
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1896835461961887747",
+    "created_at": "2025-03-04T09:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T10:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896848417265275178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896848417265275178",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896846674879983810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 你更丑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1896846674879983810].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1896846674879983810",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1896846674879983810"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1896835461961887747",
+        "created_at": "2025-03-04T09:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896848417265275178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896848417265275178",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896846674879983810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 你更丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1105,
+          "like_count": 33942,
+          "listed_count": 4,
+          "media_count": 1465,
+          "tweet_count": 12372
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "mtx🏳️‍⚧️/永久锁推 / 彼女 @NeneK0SMTWTF5_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "NeneK0SMTWTF5_"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫「🏳️‍⚧️」",
+        "pinned_tweet_id": "1878589499758043288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873906145099935744/CkpOKBHa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 1389,
+          "like_count": 49374,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 2127
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

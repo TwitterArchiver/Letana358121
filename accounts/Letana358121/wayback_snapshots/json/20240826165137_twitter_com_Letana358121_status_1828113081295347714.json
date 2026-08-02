@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1828104291489595764",
+    "created_at": "2024-08-26T16:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T17:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828113081295347714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821062402173276160",
+          "start": 0,
+          "username": "mantianxing7ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828113081295347714",
+    "in_reply_to_user_id": "1821062402173276160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828104291489595764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mantianxing7ff 蹭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1828104291489595764",
+        "created_at": "2024-08-26T16:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T17:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828113081295347714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821062402173276160",
+              "start": 0,
+              "username": "mantianxing7ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828113081295347714",
+        "in_reply_to_user_id": "1821062402173276160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828104291489595764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mantianxing7ff 蹭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821062402173276160",
+        "conversation_id": "1828104291489595764",
+        "created_at": "2024-08-26T16:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T17:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828104291489595764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828104291489595764",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊烦死了，之前一直喜欢打cs休闲打原因就是大家会一直聊天吹牛逼什么的，现在休闲大家都好沉默啊啊啊啊啊啊啊啊啊！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 881,
+          "like_count": 26865,
+          "listed_count": 3,
+          "tweet_count": 8415
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:55:17.000Z",
+        "description": "l06lMTX|我恨od",
+        "id": "1821062402173276160",
+        "name": "满星星🍥",
+        "pinned_tweet_id": "1828016758713704721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825027101436923904/ky3l4aq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 126,
+          "like_count": 269,
+          "listed_count": 0,
+          "tweet_count": 322
+        },
+        "username": "mantianxing7ff",
+        "verified": false
+      }
+    ]
+  }
+}

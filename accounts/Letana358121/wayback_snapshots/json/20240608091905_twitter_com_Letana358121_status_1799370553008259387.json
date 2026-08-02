@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799367920222638199",
+    "created_at": "2024-06-08T09:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T10:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799370553008259387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799370553008259387",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799367920222638199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 可以和我們粵猴一樣在水裡洗一下再吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1799367920222638199",
+        "created_at": "2024-06-08T09:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799370553008259387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799370553008259387",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799367920222638199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 可以和我們粵猴一樣在水裡洗一下再吃"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1799367920222638199",
+        "created_at": "2024-06-08T09:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799367920222638199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799367920222638199",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有不辣的泡椒味零食\n我觉得酸酸辣辣的东西很好吃 但是泡椒辣的我实在是受不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 591,
+          "like_count": 21163,
+          "listed_count": 2,
+          "tweet_count": 6591
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜点赞关注不代表立场",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "魔法香嘎",
+        "pinned_tweet_id": "1777051573228863856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797030932131483650/EGcrkmS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 876,
+          "like_count": 25013,
+          "listed_count": 2,
+          "tweet_count": 8913
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

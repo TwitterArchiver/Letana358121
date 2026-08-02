@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993120038245797888"
+      ],
+      "media_source_tweet_id": [
+        "1993120040431108220"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1993272383306973425",
+    "created_at": "2025-11-25T10:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993272383306973425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "915373851449495558",
+          "start": 3,
+          "username": "Yutana_Bingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8lfmNOwAMI",
+          "end": 86,
+          "expanded_url": "https://x.com/Yutana_Bingo/status/1993120040431108220/photo/1",
+          "media_key": "3_1993120038245797888",
+          "start": 63,
+          "url": "https://t.co/8lfmNOwAMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993272383306973425",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1866
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993120040431108220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yutana_Bingo: Use one art to convince people to follow you https://t.co/8lfmNOwAMI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1993120038245797888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6j8HWJakAA0xF5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993120038245797888"
+          ],
+          "media_source_tweet_id": [
+            "1993120040431108220"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1993272383306973425",
+        "created_at": "2025-11-25T10:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993272383306973425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "915373851449495558",
+              "start": 3,
+              "username": "Yutana_Bingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lfmNOwAMI",
+              "end": 86,
+              "expanded_url": "https://x.com/Yutana_Bingo/status/1993120040431108220/photo/1",
+              "media_key": "3_1993120038245797888",
+              "start": 63,
+              "url": "https://t.co/8lfmNOwAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993272383306973425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1866
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993120040431108220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yutana_Bingo: Use one art to convince people to follow you https://t.co/8lfmNOwAMI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993120038245797888"
+          ]
+        },
+        "author_id": "915373851449495558",
+        "conversation_id": "1993120040431108220",
+        "created_at": "2025-11-25T00:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993120040431108220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lfmNOwAMI",
+              "end": 68,
+              "expanded_url": "https://x.com/Yutana_Bingo/status/1993120040431108220/photo/1",
+              "media_key": "3_1993120038245797888",
+              "start": 45,
+              "url": "https://t.co/8lfmNOwAMI"
+            },
+            {
+              "display_url": "x.com/Zi_Yang_iii/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Zi_Yang_iii/status/1992883784010866901",
+              "start": 69,
+              "url": "https://t.co/ds2IJ31vQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993120040431108220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8539,
+          "impression_count": 976833,
+          "like_count": 32106,
+          "quote_count": 49,
+          "reply_count": 44,
+          "retweet_count": 1866
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992883784010866901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Use one art to convince people to follow you https://t.co/8lfmNOwAMI https://t.co/ds2IJ31vQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1297,
+          "like_count": 44072,
+          "listed_count": 7,
+          "media_count": 1968,
+          "tweet_count": 16863
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-04T00:31:47.000Z",
+        "description": "ゆうやです。イラストと漫画を描きます。無断転載禁止。\nB站：优哉君 https://t.co/NnrCWVvWy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2069020?spm_id…",
+                "end": 57,
+                "expanded_url": "https://space.bilibili.com/2069020?spm_id_from=333.1365.0.0",
+                "start": 34,
+                "url": "https://t.co/NnrCWVvWy1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9921924",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9921924",
+                "start": 0,
+                "url": "https://t.co/GsijP8N1vN"
+              }
+            ]
+          }
+        },
+        "id": "915373851449495558",
+        "location": "Jiangsu",
+        "name": "优哉君/沛原优哉（はいはら　ゆうや）",
+        "pinned_tweet_id": "1844183567510970779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246770991813935104/QB7_JsFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14851,
+          "following_count": 2209,
+          "like_count": 2307,
+          "listed_count": 79,
+          "media_count": 302,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/GsijP8N1vN",
+        "username": "Yutana_Bingo",
+        "verified": true
+      }
+    ]
+  }
+}

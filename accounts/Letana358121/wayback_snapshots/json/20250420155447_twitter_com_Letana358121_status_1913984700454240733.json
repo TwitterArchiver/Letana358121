@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913984696717123585"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1913984700454240733",
+    "created_at": "2025-04-20T15:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913984700454240733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P4PRPeSigK",
+          "end": 29,
+          "expanded_url": "https://x.com/Letana358121/status/1913984700454240733/photo/1",
+          "media_key": "3_1913984696717123585",
+          "start": 6,
+          "url": "https://t.co/P4PRPeSigK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913984700454240733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发骚产物。 https://t.co/P4PRPeSigK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913984700454240733].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913984700454240733",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913984700454240733"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1913984696717123585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_W8OFboAESU5M.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 1144,
+          "like_count": 37938,
+          "listed_count": 5,
+          "media_count": 1569,
+          "tweet_count": 13857
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

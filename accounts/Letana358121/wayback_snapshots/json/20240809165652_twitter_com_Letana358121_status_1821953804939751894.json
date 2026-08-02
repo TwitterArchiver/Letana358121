@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1821827784790188446",
+    "created_at": "2024-08-09T16:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T17:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821953804939751894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789528204207915008",
+          "start": 0,
+          "username": "YukiKitsuneSuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821953804939751894",
+    "in_reply_to_user_id": "1789528204207915008",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821952795530182994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiKitsuneSuki 在天津。。回來找你玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1821827784790188446",
+        "created_at": "2024-08-09T16:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821953804939751894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "YukiKitsuneSuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821953804939751894",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821952795530182994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiKitsuneSuki 在天津。。回來找你玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789528204207915008",
+        "conversation_id": "1821827784790188446",
+        "created_at": "2024-08-09T16:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821952795530182994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821952795530182994",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821950683240640902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 快来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 846,
+          "like_count": 24314,
+          "listed_count": 2,
+          "tweet_count": 7949
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "鹿乃/白上フブキ/泠鸢 | Majoring in Aeronautical Engineering | Freelance photographer & illustrator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukikitsune",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukikitsune",
+                "start": 0,
+                "url": "https://t.co/EwT01dFQh1"
+              }
+            ]
+          }
+        },
+        "id": "1789528204207915008",
+        "location": "關閘",
+        "name": "狐🍧",
+        "pinned_tweet_id": "1817964226469839135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815080406523457536/2e22_nsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 60,
+          "like_count": 9297,
+          "listed_count": 0,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/EwT01dFQh1",
+        "username": "YukiKitsuneSuki",
+        "verified": false
+      }
+    ]
+  }
+}

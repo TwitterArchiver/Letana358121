@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2047480647242105122",
+    "created_at": "2026-04-24T07:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047577400624714098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035712367607365633",
+          "start": 0,
+          "username": "LilyTing0222"
+        },
+        {
+          "end": 25,
+          "id": "1165517957688020992",
+          "start": 14,
+          "username": "y_talkroom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047577400624714098",
+    "in_reply_to_user_id": "2035712367607365633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047559323799454048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LilyTing0222 @y_talkroom 澳门口岸那边的也这样，显示屏不显示国旗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2047480647242105122",
+        "created_at": "2026-04-24T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047577400624714098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035712367607365633",
+              "start": 0,
+              "username": "LilyTing0222"
+            },
+            {
+              "end": 25,
+              "id": "1165517957688020992",
+              "start": 14,
+              "username": "y_talkroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047577400624714098",
+        "in_reply_to_user_id": "2035712367607365633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047559323799454048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LilyTing0222 @y_talkroom 澳门口岸那边的也这样，显示屏不显示国旗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035712367607365633",
+        "conversation_id": "2047480647242105122",
+        "created_at": "2026-04-24T06:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047559323799454048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165517957688020992",
+              "start": 0,
+              "username": "y_talkroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559323799454048",
+        "in_reply_to_user_id": "1165517957688020992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047480647242105122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_talkroom 機場管理處貼的吧。每天一堆有病的小粉紅在機場大呼小叫的，任誰也受不了。\n我看大概率遲些時候機場的 money changer 櫃檯，那欄 ‘Taiwan Dollar’ 的台灣國旗也會被隱蔽掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 1418,
+          "like_count": 51461,
+          "listed_count": 8,
+          "media_count": 2247,
+          "tweet_count": 19448
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T13:37:51.000Z",
+        "description": "",
+        "id": "2035712367607365633",
+        "name": "Lily Ting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047065270225907712/_RJ1glFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 109,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 179
+        },
+        "username": "LilyTing0222",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T06:55:20.000Z",
+        "description": "「什麼都略懂一點，生活更精彩一些」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ytalkroom",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@ytalkroom",
+                "start": 0,
+                "url": "https://t.co/dfRAkhRbEi"
+              }
+            ]
+          }
+        },
+        "id": "1165517957688020992",
+        "location": "Kuala Lumpur",
+        "name": "歪。講堂 Y.Talkroom",
+        "pinned_tweet_id": "2046755871590699271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165518075514347520/z1PEThrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5386,
+          "following_count": 240,
+          "like_count": 3412,
+          "listed_count": 15,
+          "media_count": 2335,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/dfRAkhRbEi",
+        "username": "y_talkroom",
+        "verified": true
+      }
+    ]
+  }
+}

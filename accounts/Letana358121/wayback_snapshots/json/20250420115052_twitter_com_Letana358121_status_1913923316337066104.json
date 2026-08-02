@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1913919618168537392",
+    "created_at": "2025-04-20T11:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T12:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913923316337066104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913923316337066104",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913919618168537392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO 我俩啥时候一起拍呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13166,
+        "height": 1280,
+        "media_key": "13_1913919560899764224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913919560899764224/img/zP-8WuerxDF0iNCq.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913919560899764224/vid/avc1/320x568/ka4V3uw4VrnXdj5f.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913919560899764224/vid/avc1/480x852/uK2uFysF8fums45o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913919560899764224/vid/avc1/720x1280/eu9A0EHAAgjZypeC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913919560899764224/pl/zT-UtW8-sFUgnNpM.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1913919618168537392",
+        "created_at": "2025-04-20T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913923316337066104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913923316337066104",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913919618168537392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 我俩啥时候一起拍呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913919560899764224"
+          ]
+        },
+        "author_id": "1734928362894983168",
+        "conversation_id": "1913919618168537392",
+        "created_at": "2025-04-20T11:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913919618168537392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdrQXvq0j4",
+              "end": 27,
+              "expanded_url": "https://x.com/Kwaiikunai_oO/status/1913919618168537392/video/1",
+              "media_key": "13_1913919560899764224",
+              "start": 4,
+              "url": "https://t.co/DdrQXvq0j4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913919618168537392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😔🤚💔 https://t.co/DdrQXvq0j4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 1144,
+          "like_count": 37908,
+          "listed_count": 5,
+          "media_count": 1567,
+          "tweet_count": 13843
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀 病み垢@kanochan_umxxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "kanochan_umxxi"
+              }
+            ]
+          }
+        },
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904508683599638528/5GMfID02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 57,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 230
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

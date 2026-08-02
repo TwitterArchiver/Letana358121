@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2072518129910186318",
+    "created_at": "2026-07-02T03:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072520906187133026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072520906187133026",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072520551877558745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yorei_puewwoc 对啊就是天天考这种题，我知道个屁同花顺。。。。我看这种题就脑子里想帝皇剑放同花顺斩的时候往剑里塞了哪几张牌。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2072518129910186318",
+        "created_at": "2026-07-02T03:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520906187133026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520906187133026",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072520551877558745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yorei_puewwoc 对啊就是天天考这种题，我知道个屁同花顺。。。。我看这种题就脑子里想帝皇剑放同花顺斩的时候往剑里塞了哪几张牌。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2072518129910186318",
+        "created_at": "2026-07-02T03:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520551877558745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520551877558745",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072518129910186318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 从去除了大小王的扑克牌中抽取五张牌，求抽到同花顺的概率（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 1547,
+          "like_count": 59473,
+          "listed_count": 7,
+          "media_count": 2366,
+          "tweet_count": 21532
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "location": "第三公园",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062555853778309120/Zs3A2qZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 726,
+          "like_count": 80136,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 15407
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": true
+      }
+    ]
+  }
+}

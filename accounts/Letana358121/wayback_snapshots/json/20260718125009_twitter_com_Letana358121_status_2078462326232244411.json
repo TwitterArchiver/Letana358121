@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078426642796654946",
+    "created_at": "2026-07-18T12:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078462326232244411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SayoriCat8964"
+        },
+        {
+          "end": 30,
+          "id": "1641643457214300161",
+          "start": 15,
+          "username": "satsuki__sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078462326232244411",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078434879713550648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SayoriCat8964 @satsuki__sekai 豪基米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078426642796654946",
+        "created_at": "2026-07-18T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078462326232244411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SayoriCat8964"
+            },
+            {
+              "end": 30,
+              "id": "1641643457214300161",
+              "start": 15,
+              "username": "satsuki__sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078462326232244411",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078434879713550648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SayoriCat8964 @satsuki__sekai 豪基米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "2078426642796654946",
+        "created_at": "2026-07-18T11:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078434879713550648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1641643457214300161",
+              "start": 0,
+              "username": "satsuki__sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078434879713550648",
+        "in_reply_to_user_id": "1641643457214300161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078434342238298484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsuki__sekai 呜呜🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 1557,
+          "like_count": 61197,
+          "listed_count": 7,
+          "media_count": 2407,
+          "tweet_count": 21950
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3238,
+          "following_count": 1258,
+          "like_count": 150921,
+          "listed_count": 13,
+          "media_count": 1744,
+          "tweet_count": 22713
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:28:03.000Z",
+        "description": "サツキ セカイ｜请不要找我要互关 ｜🇨🇦 ｜ 绝赞恋爱中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/satsuki69587",
+                "end": 23,
+                "expanded_url": "https://ngl.link/satsuki69587",
+                "start": 0,
+                "url": "https://t.co/VjHEIaQkd2"
+              }
+            ]
+          }
+        },
+        "id": "1641643457214300161",
+        "location": "BC",
+        "name": "月月神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054753976239919104/equ6ZsF-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1071,
+          "like_count": 67113,
+          "listed_count": 4,
+          "media_count": 2215,
+          "tweet_count": 25349
+        },
+        "url": "https://t.co/VjHEIaQkd2",
+        "username": "satsuki__sekai",
+        "verified": false
+      }
+    ]
+  }
+}

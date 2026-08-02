@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1866028217125175778",
+    "created_at": "2024-12-10T04:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T05:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866342945848488208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 31,
+          "id": "1004362078956613632",
+          "start": 15,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866342945848488208",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866028217125175778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @OliviaWantsHugs 我重生了，重生到因为听重生小说被室友推下楼的前一刻，我发誓我要夺回听重生小说的权利，夺回我的人生"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866028217125175778].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866028217125175778",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866028217125175778"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1866028217125175778",
+        "created_at": "2024-12-10T04:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T05:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866342945848488208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 31,
+              "id": "1004362078956613632",
+              "start": 15,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866342945848488208",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866028217125175778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @OliviaWantsHugs 我重生了，重生到因为听重生小说被室友推下楼的前一刻，我发誓我要夺回听重生小说的权利，夺回我的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1012,
+          "like_count": 29583,
+          "listed_count": 4,
+          "media_count": 1259,
+          "tweet_count": 10543
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "「奇跡を待つより捨て身の努力よ」\n「奇跡を待つより地道な努力よ」\n\n*注: 请不要当面问我的性别，问性别一律视为性骚扰; 实在好奇请自行探究/打听",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "🩵Karmen🌘",
+        "pinned_tweet_id": "1858562607663509813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866046325076430848/emfgMK-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 783,
+          "like_count": 40271,
+          "listed_count": 2,
+          "media_count": 1375,
+          "tweet_count": 32246
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "Liberty & Love & Life \\ 新加坡第一枕头公主 \\ 中文不好 \\ #AAA6ixty8ight返图bot \\ 本体喵喵叫幼年萨摩耶 \\ 里号: @OliviaNeedsHugs \\ 最可爱的妹妹: @Azuelle \\ M&sub&喜欢绳子不跟香草谈恋爱 \\ 宫寒怕冷空调最低24度 \\ 爱听重生爽文",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 43,
+                "tag": "AAA6ixty8ight返图bot"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "OliviaNeedsHugs"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "Olivia⭕🍐🐸重生之坐标新加坡全球可飞过来二周目",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 1023,
+          "like_count": 22338,
+          "listed_count": 17,
+          "media_count": 1112,
+          "tweet_count": 19274
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

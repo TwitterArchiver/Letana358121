@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2042551483628163312",
+    "created_at": "2026-04-10T10:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042554017612730841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1620479004506730496",
+          "start": 0,
+          "username": "sjzmrfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042554017612730841",
+    "in_reply_to_user_id": "1620479004506730496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042551483628163312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjzmrfz 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 104675,
+        "height": 1080,
+        "media_key": "13_2042550658885414912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042550658885414912/img/8RPWu6kDg5TTkLQM.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042550658885414912/vid/avc1/360x270/TEbBUjz_Dacv1ykk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042550658885414912/vid/avc1/480x360/Z_hGQWVDbZ4bvDGz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042550658885414912/vid/avc1/960x720/npI41V3pFuESqysu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042550658885414912/pl/k96vPxage_oziPHJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2042551483628163312",
+        "created_at": "2026-04-10T10:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042554017612730841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1620479004506730496",
+              "start": 0,
+              "username": "sjzmrfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042554017612730841",
+        "in_reply_to_user_id": "1620479004506730496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042551483628163312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjzmrfz 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042550658885414912"
+          ]
+        },
+        "author_id": "1620479004506730496",
+        "conversation_id": "2042551483628163312",
+        "created_at": "2026-04-10T10:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042551483628163312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUYJ1HGMyR",
+              "end": 29,
+              "expanded_url": "https://x.com/sjzmrfz/status/2042551483628163312/video/1",
+              "media_key": "13_2042550658885414912",
+              "start": 6,
+              "url": "https://t.co/DUYJ1HGMyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042551483628163312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们要干嘛 https://t.co/DUYJ1HGMyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 1408,
+          "like_count": 50169,
+          "listed_count": 8,
+          "media_count": 2207,
+          "tweet_count": 19056
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:48:04.000Z",
+        "description": "线下🚪100\n只回关自己认识的人所以别私信问我了\n改成奇怪的名字是怕被现实里朋友发现\n不定期删推因为我废话太多了\n普通明日方舟，碧蓝档案，nikke玩家\n06年，19岁，已成年\ntg群https://t.co/M8SlHgT9oh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R19_K2lkL24wZ…",
+                "end": 115,
+                "expanded_url": "https://t.me/+R19_K2lkL24wZmM1",
+                "start": 92,
+                "url": "https://t.co/M8SlHgT9oh"
+              }
+            ]
+          }
+        },
+        "id": "1620479004506730496",
+        "location": "广深/京津",
+        "name": "炽火叶",
+        "pinned_tweet_id": "2013221972767801589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040035501764489216/qCQZx_QV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7988,
+          "following_count": 527,
+          "like_count": 36827,
+          "listed_count": 43,
+          "media_count": 282,
+          "tweet_count": 2790
+        },
+        "username": "sjzmrfz",
+        "verified": false
+      }
+    ]
+  }
+}

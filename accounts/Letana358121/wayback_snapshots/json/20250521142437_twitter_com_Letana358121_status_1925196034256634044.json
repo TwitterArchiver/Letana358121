@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1925195993987137719",
+    "created_at": "2025-05-21T14:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T15:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925196034256634044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925196034256634044",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925195993987137719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叽里咕噜说啥呢。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1925195993987137719",
+        "created_at": "2025-05-21T14:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925196034256634044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925196034256634044",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925195993987137719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叽里咕噜说啥呢。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1925195993987137719",
+        "created_at": "2025-05-21T14:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925195993987137719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925195993987137719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉苏格拉底对于正义这件事情有点魔怔了。。。不好的便掩埋，不去提。好的就要歌颂。教育也要教出遵循正义的人，让他们成为国家的一个齿轮。可是这样的教育出来的小白花在面对真的社会的时候真的可以顶住不崩溃吗？还有当所有人都接受这种理念的时候那他们个人的思想是不是就在教育中被正义的洪流掩埋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 1164,
+          "like_count": 39344,
+          "listed_count": 5,
+          "media_count": 1646,
+          "tweet_count": 14485
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

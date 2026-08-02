@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1840280945628496203",
+    "created_at": "2024-09-29T07:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T08:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840291698217291825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TWshouzhuabing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840291698217291825",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840284047953817629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWshouzhuabing （已脱光）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1840280945628496203",
+        "created_at": "2024-09-29T07:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T08:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840291698217291825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TWshouzhuabing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840291698217291825",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840284047953817629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWshouzhuabing （已脱光）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1840280945628496203",
+        "created_at": "2024-09-29T06:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T07:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840284047953817629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840284047953817629",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840280945628496203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 草草你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 939,
+          "like_count": 28950,
+          "listed_count": 3,
+          "tweet_count": 9315
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "主播跑路了去賣雞蛋灌餅了",
+        "id": "1717903248764317696",
+        "location": "🫓",
+        "name": "雞蛋淡旦但灌餅",
+        "pinned_tweet_id": "1834172491675435265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839355097710727168/4RacINcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 293,
+          "like_count": 2318,
+          "listed_count": 0,
+          "tweet_count": 314
+        },
+        "username": "TWshouzhuabing",
+        "verified": false
+      }
+    ]
+  }
+}

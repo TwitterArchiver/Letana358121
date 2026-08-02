@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1983165560981713399",
+    "created_at": "2025-11-02T07:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984885589116956718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674119719878811648",
+          "start": 0,
+          "username": "chen912091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984885589116956718",
+    "in_reply_to_user_id": "1674119719878811648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984391909293638002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen912091 你喺度讲乜春？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1983165560981713399",
+        "created_at": "2025-11-02T07:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984885589116956718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674119719878811648",
+              "start": 0,
+              "username": "chen912091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984885589116956718",
+        "in_reply_to_user_id": "1674119719878811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984391909293638002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen912091 你喺度讲乜春？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674119719878811648",
+        "conversation_id": "1983165560981713399",
+        "created_at": "2025-10-31T22:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T23:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984391909293638002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984391909293638002",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983165560981713399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 滴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 1275,
+          "like_count": 43165,
+          "listed_count": 8,
+          "media_count": 1927,
+          "tweet_count": 16432
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T18:17:21.000Z",
+        "description": "",
+        "id": "1674119719878811648",
+        "name": "陳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685161115431649280/XTRaiAjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 183,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "chen912091",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1860887772334362690",
+    "created_at": "2024-11-25T03:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T04:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860893812358570295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 23,
+          "id": "1668917712851181568",
+          "start": 13,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860893812358570295",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860892654495785345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @Astdeitee 肥吉米"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1860892654495785345].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1860892654495785345",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1860892654495785345"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1860887772334362690",
+        "created_at": "2024-11-25T03:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T04:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860893812358570295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 23,
+              "id": "1668917712851181568",
+              "start": 13,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860893812358570295",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860892654495785345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @Astdeitee 肥吉米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 995,
+          "like_count": 29518,
+          "listed_count": 4,
+          "tweet_count": 10299
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "永久锁推 / 彼女 @nieniebuding @KURANAGA3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "nieniebuding"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "KURANAGA3"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1307,
+          "like_count": 44066,
+          "listed_count": 5,
+          "tweet_count": 1795
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "苏联T-95坦克sinoque版的现代化改型，其设计工作由苏联乌拉尔坦克城于2003年展开，并于2011年正式投入量产。",
+        "id": "1668917712851181568",
+        "name": "T-95SM",
+        "pinned_tweet_id": "1846812720550891855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 514,
+          "like_count": 28891,
+          "listed_count": 3,
+          "tweet_count": 13886
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

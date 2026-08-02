@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884508321224523776"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1884507330458558969",
+    "created_at": "2025-01-29T07:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T08:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884508324198244868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5X6klRhF5R",
+          "end": 55,
+          "expanded_url": "https://x.com/Letana358121/status/1884508324198244868/photo/1",
+          "media_key": "3_1884508321224523776",
+          "start": 32,
+          "url": "https://t.co/5X6klRhF5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884508324198244868",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884507330458558969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 这人还把我开出跨籍了，有点好笑的 https://t.co/5X6klRhF5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_1884508321224523776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiceVWbbAAAiGFD.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884508321224523776"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1884507330458558969",
+        "created_at": "2025-01-29T07:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T08:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884508324198244868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5X6klRhF5R",
+              "end": 55,
+              "expanded_url": "https://x.com/Letana358121/status/1884508324198244868/photo/1",
+              "media_key": "3_1884508321224523776",
+              "start": 32,
+              "url": "https://t.co/5X6klRhF5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884508324198244868",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884507330458558969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 这人还把我开出跨籍了，有点好笑的 https://t.co/5X6klRhF5R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1884507330458558969",
+        "created_at": "2025-01-29T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884507330458558969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ffrthjjkmpp/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ffrthjjkmpp/status/1881666357189861392",
+              "start": 9,
+              "url": "https://t.co/kLdGyMobNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884507330458558969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881666357189861392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸦片战争你忘了？ https://t.co/kLdGyMobNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 1067,
+          "like_count": 31076,
+          "listed_count": 3,
+          "media_count": 1389,
+          "tweet_count": 11551
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "你好我是柏树|精神状态是量子叠加态|成分复杂|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|逃生舱@Cypress_Sucidal|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Cypress_Sucidal"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/iBEVtehwcv"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（开不了蓝标版）",
+        "pinned_tweet_id": "1883661844365431078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879802636679122945/fVKfaiio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 763,
+          "like_count": 12770,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/iBEVtehwcv",
+        "username": "CypressAlbert",
+        "verified": false
+      }
+    ]
+  }
+}

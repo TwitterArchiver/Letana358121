@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1837846506331840727",
+    "created_at": "2024-09-22T13:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T14:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837846780052230440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837846780052230440",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837846506331840727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 你答应我的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1837846506331840727",
+        "created_at": "2024-09-22T13:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T14:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837846780052230440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837846780052230440",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837846506331840727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 你答应我的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721522192175767552",
+        "conversation_id": "1837846506331840727",
+        "created_at": "2024-09-22T13:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T14:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837846506331840727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sa1ntM0n1ka/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1837844855533547682",
+              "start": 25,
+              "url": "https://t.co/dTL8302CjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837846506331840727",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837844855533547682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我只是单纯想死\n死掉就不用考虑这么多了。。。 https://t.co/dTL8302CjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 921,
+          "like_count": 28842,
+          "listed_count": 3,
+          "tweet_count": 9125
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫「Πρεγκαμπαλίνη」",
+        "pinned_tweet_id": "1834053596129919222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1188,
+          "like_count": 42450,
+          "listed_count": 8,
+          "tweet_count": 4187
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

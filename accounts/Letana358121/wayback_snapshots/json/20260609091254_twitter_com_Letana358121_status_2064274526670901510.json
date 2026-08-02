@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2064259003384041665",
+    "created_at": "2026-06-09T09:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064274526670901510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064274526670901510",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064259003384041665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko 起码是Windows系统."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064258991677657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW4nbNaUAAi_xQ.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2064259003384041665",
+        "created_at": "2026-06-09T09:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064274526670901510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064274526670901510",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064259003384041665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko 起码是Windows系统."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064258991677657088"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2064259003384041665",
+        "created_at": "2026-06-09T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064259003384041665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mm9VbYM5mu",
+              "end": 41,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2064259003384041665/photo/1",
+              "media_key": "3_2064258991677657088",
+              "start": 18,
+              "url": "https://t.co/mm9VbYM5mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064259003384041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好笑吗\n我只看到了个绝望的准大学生 https://t.co/mm9VbYM5mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 1507,
+          "like_count": 57527,
+          "listed_count": 7,
+          "media_count": 2314,
+          "tweet_count": 20873
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 206,
+          "like_count": 4806,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 1575
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

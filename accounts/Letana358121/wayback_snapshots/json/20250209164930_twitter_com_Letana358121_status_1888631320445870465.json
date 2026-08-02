@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1888226435091087781",
+    "created_at": "2025-02-09T16:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T17:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888631320445870465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462571593100521472",
+          "start": 0,
+          "username": "liu3256650648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888631320445870465",
+    "in_reply_to_user_id": "1462571593100521472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888625354077806631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu3256650648 就是呜呜，她还喜欢发chiikawa表情包来着。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1888226435091087781",
+        "created_at": "2025-02-09T16:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888631320445870465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462571593100521472",
+              "start": 0,
+              "username": "liu3256650648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888631320445870465",
+        "in_reply_to_user_id": "1462571593100521472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888625354077806631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu3256650648 就是呜呜，她还喜欢发chiikawa表情包来着。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462571593100521472",
+        "conversation_id": "1888226435091087781",
+        "created_at": "2025-02-09T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888625354077806631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888625354077806631",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888226435091087781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 语音输入？\n感觉是  嗯嗯  好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 1089,
+          "like_count": 32005,
+          "listed_count": 4,
+          "media_count": 1416,
+          "tweet_count": 11852
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T00:00:24.000Z",
+        "description": "分享喜欢的涩涩/更新随缘\n欢迎聊天分享涩涩😚",
+        "id": "1462571593100521472",
+        "location": "互联网边缘",
+        "name": "普通玩家",
+        "pinned_tweet_id": "1777167171032133693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623001357056884736/gPs1fx4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49346,
+          "following_count": 102,
+          "like_count": 42,
+          "listed_count": 149,
+          "media_count": 893,
+          "tweet_count": 2137
+        },
+        "username": "liu3256650648",
+        "verified": false
+      }
+    ]
+  }
+}

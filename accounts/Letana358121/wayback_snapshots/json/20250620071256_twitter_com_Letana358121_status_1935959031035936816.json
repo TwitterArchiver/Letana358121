@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1935958204565102937",
+    "created_at": "2025-06-20T07:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935959031035936816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850755206040006656",
+          "start": 0,
+          "username": "moeKiwiSAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935959031035936816",
+    "in_reply_to_user_id": "850755206040006656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935958204565102937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKiwiSAMA 想买个抽风机，还有喷涂的机器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1935958204565102937",
+        "created_at": "2025-06-20T07:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935959031035936816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850755206040006656",
+              "start": 0,
+              "username": "moeKiwiSAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935959031035936816",
+        "in_reply_to_user_id": "850755206040006656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935958204565102937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKiwiSAMA 想买个抽风机，还有喷涂的机器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850755206040006656",
+        "conversation_id": "1935958204565102937",
+        "created_at": "2025-06-20T07:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935958204565102937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935958204565102937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买个气动偏心抛光机，还有空压机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 1183,
+          "like_count": 40479,
+          "listed_count": 5,
+          "media_count": 1721,
+          "tweet_count": 14914
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T17:00:22.000Z",
+        "description": "| 蝈蝻 | 💰 没钱没车没房 | 欠银行160万 | 📷 with A7M3 |  ⛰️ Male to Alpine Linux | 有只暹罗🐱 | 这是我正宫 @langua___ | ❤️  @DaHuangCore | 蔚忠贤 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "langua___"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "DaHuangCore"
+              }
+            ]
+          }
+        },
+        "id": "850755206040006656",
+        "location": "Your Heart 💕",
+        "name": "🧂🧂🧂 Kiwi 🧂🧂🧂",
+        "pinned_tweet_id": "1880644171062714791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841802643951550464/eKqQdfGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 938,
+          "like_count": 13095,
+          "listed_count": 10,
+          "media_count": 2505,
+          "tweet_count": 5303
+        },
+        "username": "moeKiwiSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

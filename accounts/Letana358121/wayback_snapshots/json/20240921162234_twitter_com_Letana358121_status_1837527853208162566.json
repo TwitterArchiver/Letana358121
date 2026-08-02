@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837527849537847296"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1837527853208162566",
+    "created_at": "2024-09-21T16:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T17:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837527853208162566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fscie5wo0f",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Letana358121/status/1837527853208162566/photo/1",
+          "media_key": "3_1837527849537847296",
+          "start": 25,
+          "url": "https://t.co/FsCiE5Wo0f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837527853208162566",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "野生的女鬼出现了！\n：杀掉⬅️\n：拐走\n：不理睬 https://t.co/FsCiE5Wo0f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837527853208162566].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837527853208162566",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837527853208162566"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1837527849537847296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYA11_CXQAAw06Q.jpg",
+        "width": 987
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 920,
+          "like_count": 28761,
+          "listed_count": 3,
+          "tweet_count": 9098
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

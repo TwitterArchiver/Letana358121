@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2001609847176073688",
+    "created_at": "2025-12-19T08:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001939577179910269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902289150562463744",
+          "start": 0,
+          "username": "rootusr002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001939577179910269",
+    "in_reply_to_user_id": "1902289150562463744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001702328945328262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rootusr002 其实指的就是1999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2001609847176073688",
+        "created_at": "2025-12-19T08:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001939577179910269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902289150562463744",
+              "start": 0,
+              "username": "rootusr002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001939577179910269",
+        "in_reply_to_user_id": "1902289150562463744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001702328945328262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rootusr002 其实指的就是1999"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902289150562463744",
+        "conversation_id": "2001609847176073688",
+        "created_at": "2025-12-18T17:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001702328945328262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001702328945328262",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5623,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001609847176073688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 虽然不玩1999但是b游戏广告太多了，现在提到暴雨就想到1999"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999369865732456448/O9dSoxIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1302,
+          "like_count": 44734,
+          "listed_count": 7,
+          "media_count": 2018,
+          "tweet_count": 17235
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:20:59.000Z",
+        "description": "",
+        "id": "1902289150562463744",
+        "name": "L3c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997545981420974080/jHrO70QU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 137,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 320
+        },
+        "username": "rootusr002",
+        "verified": true
+      }
+    ]
+  }
+}

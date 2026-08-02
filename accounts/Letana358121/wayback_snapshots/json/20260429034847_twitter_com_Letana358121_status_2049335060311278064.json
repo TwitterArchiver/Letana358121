@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2049335060311278064",
+    "created_at": "2026-04-29T03:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049335060311278064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaominz_film/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xiaominz_film/status/2049010883649765680",
+          "start": 3,
+          "url": "https://t.co/kWuni3yy3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049335060311278064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049010883649765680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅！ https://t.co/kWuni3yy3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135113,
+        "height": 1570,
+        "media_key": "13_2049010778645417984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049010778645417984/img/_09FT1Sbnlwsyfav.jpg",
+        "public_metrics": {
+          "view_count": 28934
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/886x1570/3pfq46PYbbwZwVTD.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/320x566/cAQKRvCxQfQR1aRa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/480x850/UO0RpnTo1eeaxiZI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/pl/R98BixEImkEMWVmA.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/720x1274/1lcS9Wk6mVJg0Rf1.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2049335060311278064",
+        "created_at": "2026-04-29T03:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049335060311278064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaominz_film/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xiaominz_film/status/2049010883649765680",
+              "start": 3,
+              "url": "https://t.co/kWuni3yy3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049335060311278064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049010883649765680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅！ https://t.co/kWuni3yy3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049010778645417984"
+          ]
+        },
+        "author_id": "1582899597323939841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2049010883649765680",
+        "created_at": "2026-04-28T06:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049010883649765680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJ1LEAxmr9",
+              "end": 108,
+              "expanded_url": "https://x.com/xiaominz_film/status/2049010883649765680/video/1",
+              "media_key": "13_2049010778645417984",
+              "start": 85,
+              "url": "https://t.co/cJ1LEAxmr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049010883649765680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 67137,
+          "like_count": 559,
+          "quote_count": 24,
+          "reply_count": 205,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "这位留胡子的跨性别男性是牛津大学的讲师。\n\n牛津大学一直被评为世界排名第一的大学。\n\n这就是“教育”下一代领导者的人。😡\n\n如果世界不能回归常识，那就只能奔向穷途末路！ https://t.co/cJ1LEAxmr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3196,
+          "following_count": 1436,
+          "like_count": 52287,
+          "listed_count": 8,
+          "media_count": 2257,
+          "tweet_count": 19617
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T01:01:05.000Z",
+        "description": "电影让人生如此美丽｜百花奖｜国内外影展多次获奖者｜演员｜导演｜制片人｜电影投资制作发行｜油管https://t.co/li3gcUvh4c\n电报：https://t.co/Z0pAC9rL4c\n工作邮箱cftiteam@hotmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZXMFILM",
+                "end": 69,
+                "expanded_url": "http://youtube.com/@ZXMFILM",
+                "start": 46,
+                "url": "https://t.co/li3gcUvh4c"
+              },
+              {
+                "display_url": "t.me/+N5v_boxNvGk1N…",
+                "end": 96,
+                "expanded_url": "https://t.me/+N5v_boxNvGk1NTIx",
+                "start": 73,
+                "url": "https://t.co/Z0pAC9rL4c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@zhima.sima?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@zhima.sima?_t=ZM-8sJL7wRcUGj&_r=1",
+                "start": 0,
+                "url": "https://t.co/urFkrAP7B8"
+              }
+            ]
+          }
+        },
+        "id": "1582899597323939841",
+        "name": "张晓敏电影人",
+        "pinned_tweet_id": "2049245220861304853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841590887253737472/-aZ3p3Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16750,
+          "following_count": 40,
+          "like_count": 119705,
+          "listed_count": 35,
+          "media_count": 1282,
+          "tweet_count": 25136
+        },
+        "url": "https://t.co/urFkrAP7B8",
+        "username": "xiaominz_film",
+        "verified": true
+      }
+    ]
+  }
+}

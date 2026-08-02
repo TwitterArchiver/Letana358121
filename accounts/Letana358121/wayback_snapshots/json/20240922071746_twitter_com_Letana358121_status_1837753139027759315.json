@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1837720991143014428",
+    "created_at": "2024-09-22T07:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T08:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837753139027759315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837753139027759315",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837752950674149708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1837720991143014428",
+        "created_at": "2024-09-22T07:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T08:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837753139027759315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837753139027759315",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837752950674149708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "1837720991143014428",
+        "created_at": "2024-09-22T07:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T08:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837752950674149708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837752950674149708",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837721729789317455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 😋好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 921,
+          "like_count": 28821,
+          "listed_count": 3,
+          "tweet_count": 9117
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "我有异姓症 | 🧀 | Programmer | Nekomancer. Wish all my friends live long and prosper. 笨蛋大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "qiyishi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 2838,
+          "like_count": 34071,
+          "listed_count": 5,
+          "tweet_count": 15445
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": true
+      }
+    ]
+  }
+}

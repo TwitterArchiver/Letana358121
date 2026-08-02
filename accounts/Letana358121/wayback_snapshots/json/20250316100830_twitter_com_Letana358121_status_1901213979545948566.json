@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1901176524344066186",
+    "created_at": "2025-03-16T10:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T11:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901213979545948566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431776320019517445",
+          "start": 0,
+          "username": "KiraRettosei"
+        },
+        {
+          "end": 27,
+          "id": "831495289441628160",
+          "start": 14,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901213979545948566",
+    "in_reply_to_user_id": "1431776320019517445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901201749274394994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraRettosei @changwei1006 可以很爽的玩赛车游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1901176524344066186",
+        "created_at": "2025-03-16T10:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T11:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901213979545948566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431776320019517445",
+              "start": 0,
+              "username": "KiraRettosei"
+            },
+            {
+              "end": 27,
+              "id": "831495289441628160",
+              "start": 14,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901213979545948566",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901201749274394994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraRettosei @changwei1006 可以很爽的玩赛车游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431776320019517445",
+        "conversation_id": "1901176524344066186",
+        "created_at": "2025-03-16T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901201749274394994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901201749274394994",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901176524344066186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 这种显示器到底是干啥用的，毕竟主要内容都在左边，程序员就得长时间侧着脑袋看东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 1128,
+          "like_count": 35498,
+          "listed_count": 4,
+          "media_count": 1491,
+          "tweet_count": 12758
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n高中三年生，淡网。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Hangzhou,China",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1896573786364994016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 2584,
+          "like_count": 36460,
+          "listed_count": 7,
+          "media_count": 892,
+          "tweet_count": 15007
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "Computer Science&Electronic Engineering💻/CrossDresser🌈/ WSPC/NTUST ECE/PingCAP FrontEnd https://t.co/lHrG2ZN1A4\n\nQQ/WeChat:867597730 Weibo FB 知乎 Instagram同名\n\n无性恋&纯爱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/cw1997",
+                "end": 111,
+                "expanded_url": "http://github.com/cw1997",
+                "start": 88,
+                "url": "https://t.co/lHrG2ZN1A4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "http://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/NH0oiOZsBc"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17696,
+          "following_count": 4287,
+          "like_count": 108681,
+          "listed_count": 128,
+          "media_count": 5256,
+          "tweet_count": 16842
+        },
+        "url": "https://t.co/NH0oiOZsBc",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

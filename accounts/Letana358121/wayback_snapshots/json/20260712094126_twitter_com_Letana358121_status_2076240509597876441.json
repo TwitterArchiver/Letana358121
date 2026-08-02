@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2076231785034518908",
+    "created_at": "2026-07-12T09:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076240509597876441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763121326234185728",
+          "start": 0,
+          "username": "Liu1368941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076240509597876441",
+    "in_reply_to_user_id": "1763121326234185728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076231785034518908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu1368941 智人TV。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2076231785034518908",
+        "created_at": "2026-07-12T09:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076240509597876441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763121326234185728",
+              "start": 0,
+              "username": "Liu1368941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076240509597876441",
+        "in_reply_to_user_id": "1763121326234185728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076231785034518908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu1368941 智人TV。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763121326234185728",
+        "conversation_id": "2076231785034518908",
+        "created_at": "2026-07-12T09:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076231785034518908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu1368941/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/liu1368941/status/2076165675010437252",
+              "start": 13,
+              "url": "https://t.co/WC0s4xCgpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076231785034518908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076165675010437252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她不会把钥匙从锁里拔出来 https://t.co/WC0s4xCgpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 1557,
+          "like_count": 60639,
+          "listed_count": 7,
+          "media_count": 2390,
+          "tweet_count": 21812
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "enfp\n脑部肛裂症患者",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012333353681539072/3n8_8IFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 159,
+          "like_count": 43735,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 4700
+        },
+        "url": "",
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

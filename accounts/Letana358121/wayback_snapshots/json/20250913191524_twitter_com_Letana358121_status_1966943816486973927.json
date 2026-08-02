@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1966652232910115094",
+    "created_at": "2025-09-13T19:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966943816486973927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1530815428473155585",
+          "start": 0,
+          "username": "cxh28830392"
+        },
+        {
+          "end": 25,
+          "id": "1811398941969367040",
+          "start": 13,
+          "username": "wengenguyi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966943816486973927",
+    "in_reply_to_user_id": "1530815428473155585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966891448755995009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxh28830392 @wengenguyi4 mg的00系啥子那的机体貌似素质都不太好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1966652232910115094",
+        "created_at": "2025-09-13T19:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966943816486973927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1530815428473155585",
+              "start": 0,
+              "username": "cxh28830392"
+            },
+            {
+              "end": 25,
+              "id": "1811398941969367040",
+              "start": 13,
+              "username": "wengenguyi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966943816486973927",
+        "in_reply_to_user_id": "1530815428473155585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966891448755995009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxh28830392 @wengenguyi4 mg的00系啥子那的机体貌似素质都不太好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530815428473155585",
+        "conversation_id": "1966652232910115094",
+        "created_at": "2025-09-13T15:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966891448755995009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811398941969367040",
+              "start": 0,
+              "username": "wengenguyi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966891448755995009",
+        "in_reply_to_user_id": "1811398941969367040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966652232910115094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wengenguyi4 都被绿了 买个mg吧…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 1234,
+          "like_count": 41572,
+          "listed_count": 6,
+          "media_count": 1858,
+          "tweet_count": 15719
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T07:37:06.000Z",
+        "description": "",
+        "id": "1530815428473155585",
+        "name": "高卷杏",
+        "pinned_tweet_id": "1812536182112399402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753427590776573952/iuwavp8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 198,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 186
+        },
+        "username": "cxh28830392",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T13:55:43.000Z",
+        "description": "马应龙，我操你妈！",
+        "id": "1811398941969367040",
+        "name": "文亘古遗🐒四代目（马应龙猎妈版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897521670015082498/qq-RU76h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30152,
+          "following_count": 745,
+          "like_count": 25457,
+          "listed_count": 84,
+          "media_count": 1127,
+          "tweet_count": 6552
+        },
+        "username": "wengenguyi4",
+        "verified": false
+      }
+    ]
+  }
+}

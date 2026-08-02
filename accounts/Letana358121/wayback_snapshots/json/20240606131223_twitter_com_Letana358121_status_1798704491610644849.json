@@ -1,0 +1,169 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1798434474994307112",
+    "created_at": "2024-06-06T13:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T14:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798704491610644849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723029117665517568",
+          "start": 0,
+          "username": "Goldenglow_0107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798704491610644849",
+    "in_reply_to_user_id": "1723029117665517568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798434474994307112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldenglow_0107 我也想，我想快點20歲就可以去srs了。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1798434474994307112].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1798434474994307112",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1798434474994307112"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1798434474994307112",
+        "created_at": "2024-06-06T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798704491610644849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1723029117665517568",
+              "start": 0,
+              "username": "Goldenglow_0107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798704491610644849",
+        "in_reply_to_user_id": "1723029117665517568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798434474994307112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldenglow_0107 我也想，我想快點20歲就可以去srs了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 588,
+          "like_count": 21068,
+          "listed_count": 2,
+          "tweet_count": 6548
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T17:25:40.000Z",
+        "description": "@KagurazakaSusie的里账",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "KagurazakaSusie"
+              }
+            ]
+          }
+        },
+        "id": "1723029117665517568",
+        "location": "維多利亞，卡拉頓城「綠意火花」",
+        "name": "🍥Kagurazaka Mizuki🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798347995051855872/ctPzTiJ-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 394,
+          "like_count": 13656,
+          "listed_count": 3,
+          "tweet_count": 3218
+        },
+        "username": "Goldenglow_0107",
+        "verified": false
+      }
+    ]
+  }
+}

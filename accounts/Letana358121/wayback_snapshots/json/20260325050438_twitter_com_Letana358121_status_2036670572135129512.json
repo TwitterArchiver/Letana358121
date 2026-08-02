@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2036668636837167587",
+    "created_at": "2026-03-25T05:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036670572135129512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705567020501303296",
+          "start": 0,
+          "username": "HaShiHuinHuin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036670572135129512",
+    "in_reply_to_user_id": "1705567020501303296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036670440505229490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaShiHuinHuin 你是好狗狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2036668636837167587",
+        "created_at": "2026-03-25T05:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036670572135129512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705567020501303296",
+              "start": 0,
+              "username": "HaShiHuinHuin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036670572135129512",
+        "in_reply_to_user_id": "1705567020501303296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036670440505229490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaShiHuinHuin 你是好狗狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705567020501303296",
+        "conversation_id": "2036668636837167587",
+        "created_at": "2026-03-25T05:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036670440505229490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036670440505229490",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036668636837167587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 對不起⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3138,
+          "following_count": 1385,
+          "like_count": 48872,
+          "listed_count": 8,
+          "media_count": 2175,
+          "tweet_count": 18636
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T12:57:34.000Z",
+        "description": "mammalian、獨自堅強",
+        "id": "1705567020501303296",
+        "location": "亞馬烏羅提",
+        "name": "農逼",
+        "pinned_tweet_id": "2013498002581651891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022039599791718400/Yo1ZHJzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 316,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 278
+        },
+        "username": "HaShiHuinHuin",
+        "verified": false
+      }
+    ]
+  }
+}

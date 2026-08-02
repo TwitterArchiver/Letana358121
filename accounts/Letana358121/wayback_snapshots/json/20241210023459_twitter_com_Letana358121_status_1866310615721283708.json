@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1866307798197285211",
+    "created_at": "2024-12-10T02:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T03:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866310615721283708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866310615721283708",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866307798197285211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 他的瓜还少吗。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1866307798197285211",
+        "created_at": "2024-12-10T02:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866310615721283708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866310615721283708",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866307798197285211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 他的瓜还少吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866307793965256704"
+          ]
+        },
+        "author_id": "1779154402588172288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866307798197285211",
+        "created_at": "2024-12-10T02:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866307798197285211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH0Dq9NfHe",
+              "end": 55,
+              "expanded_url": "https://x.com/_Nikisade/status/1866307798197285211/photo/1",
+              "media_key": "3_1866307793965256704",
+              "start": 32,
+              "url": "https://t.co/UH0Dq9NfHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866307798197285211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个搜索推荐算法是不是认为LK MAS AP就等于有瓜啊，，， https://t.co/UH0Dq9NfHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1012,
+          "like_count": 29575,
+          "listed_count": 4,
+          "media_count": 1258,
+          "tweet_count": 10536
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1865039764396593627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 443,
+          "like_count": 97204,
+          "listed_count": 8,
+          "media_count": 730,
+          "tweet_count": 16893
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

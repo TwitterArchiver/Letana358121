@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2078051329516413274",
+    "created_at": "2026-07-17T09:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078051329516413274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015583135480811520",
+          "start": 3,
+          "username": "OvooLOO3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078051329516413274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078006833483300945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvooLOO3o: 人到底怎么接受自己长得丑这件事 我真的最近每天都在因为这件事哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2078051329516413274",
+        "created_at": "2026-07-17T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078051329516413274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015583135480811520",
+              "start": 3,
+              "username": "OvooLOO3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078051329516413274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078006833483300945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvooLOO3o: 人到底怎么接受自己长得丑这件事 我真的最近每天都在因为这件事哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2078006833483300945",
+        "created_at": "2026-07-17T06:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078006833483300945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078006833483300945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1575,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "人到底怎么接受自己长得丑这件事 我真的最近每天都在因为这件事哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 1556,
+          "like_count": 61048,
+          "listed_count": 7,
+          "media_count": 2401,
+          "tweet_count": 21916
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "幸运e的小苏碎碎念",
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056951951657672704/rY5x-zpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 697,
+          "like_count": 20751,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 6576
+        },
+        "url": "",
+        "username": "OvooLOO3o",
+        "verified": false
+      }
+    ]
+  }
+}

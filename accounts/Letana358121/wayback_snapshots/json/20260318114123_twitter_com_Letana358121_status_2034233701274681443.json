@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2034100272197472574",
+    "created_at": "2026-03-18T11:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T12:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034233701274681443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033390478658514944",
+          "start": 0,
+          "username": "shuai_yu123456"
+        },
+        {
+          "end": 32,
+          "id": "1990556428520861701",
+          "start": 16,
+          "username": "Androme84683021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034233701274681443",
+    "in_reply_to_user_id": "2033390478658514944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034233288177430588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuai_yu123456 @Androme84683021 说这些话其实不是为了反驳他，只是希望我的想法能被更多志同道合的人看到，告诉他们这个世界上不是只有你抱着这种理想，这其实是更重要的事情啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2034100272197472574",
+        "created_at": "2026-03-18T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034233701274681443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033390478658514944",
+              "start": 0,
+              "username": "shuai_yu123456"
+            },
+            {
+              "end": 32,
+              "id": "1990556428520861701",
+              "start": 16,
+              "username": "Androme84683021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034233701274681443",
+        "in_reply_to_user_id": "2033390478658514944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034233288177430588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuai_yu123456 @Androme84683021 说这些话其实不是为了反驳他，只是希望我的想法能被更多志同道合的人看到，告诉他们这个世界上不是只有你抱着这种理想，这其实是更重要的事情啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033390478658514944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2034100272197472574",
+        "created_at": "2026-03-18T11:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034233288177430588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 30,
+              "id": "1990556428520861701",
+              "start": 14,
+              "username": "Androme84683021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034233288177430588",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034229938593960148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @Androme84683021 你别更他聊了，他一用ai的中共水军你能说过他。你看我发点习近平图片让他闭嘴🤐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 1369,
+          "like_count": 48146,
+          "listed_count": 8,
+          "media_count": 2159,
+          "tweet_count": 18378
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T03:51:25.000Z",
+        "description": "",
+        "id": "2033390478658514944",
+        "name": "。。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033391665356890112/CgdgQ8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "shuai_yu123456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T23:03:51.000Z",
+        "description": "",
+        "id": "1990556428520861701",
+        "name": "Andromeda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990593760221433857/Kk9Nl15v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 164
+        },
+        "username": "Androme84683021",
+        "verified": false
+      }
+    ]
+  }
+}

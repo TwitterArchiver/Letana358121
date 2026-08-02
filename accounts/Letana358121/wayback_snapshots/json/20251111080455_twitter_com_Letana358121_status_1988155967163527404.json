@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1988155967163527404",
+    "created_at": "2025-11-11T08:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T09:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988155967163527404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Letana358121/status/1988155891385069869",
+          "start": 18,
+          "url": "https://t.co/NPo8UYs2PW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988155967163527404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988155891385069869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我本人也道德底线极低就是了（） https://t.co/NPo8UYs2PW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1988155967163527404",
+        "created_at": "2025-11-11T08:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988155967163527404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Letana358121/status/1988155891385069869",
+              "start": 18,
+              "url": "https://t.co/NPo8UYs2PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988155967163527404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988155891385069869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我本人也道德底线极低就是了（） https://t.co/NPo8UYs2PW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1988143530922185212",
+        "created_at": "2025-11-11T08:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988155891385069869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630596839530708994",
+              "start": 0,
+              "username": "Shell_WO_Ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988155891385069869",
+        "in_reply_to_user_id": "1630596839530708994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988155596395475454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shell_WO_Ghost 为了炒作连道德都不要了属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Can I be the winder of this broken world?/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 1283,
+          "like_count": 43493,
+          "listed_count": 7,
+          "media_count": 1937,
+          "tweet_count": 16557
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1921410373644693605",
+    "created_at": "2025-05-11T06:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T07:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921446040391049591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782422588792418304",
+          "start": 0,
+          "username": "Teia20010914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921446040391049591",
+    "in_reply_to_user_id": "1782422588792418304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921410373644693605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teia20010914 捅死"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1921410373644693605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1921410373644693605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1921410373644693605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1921410373644693605",
+        "created_at": "2025-05-11T06:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921446040391049591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782422588792418304",
+              "start": 0,
+              "username": "Teia20010914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921446040391049591",
+        "in_reply_to_user_id": "1782422588792418304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921410373644693605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teia20010914 捅死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 1156,
+          "like_count": 38851,
+          "listed_count": 5,
+          "media_count": 1622,
+          "tweet_count": 14262
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T14:54:10.000Z",
+        "description": "是@Anastasia195113 的影子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1782422588792418304",
+        "name": "Teia",
+        "pinned_tweet_id": "1916118856998723726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782424112947941376/PeI8FZcG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 124,
+          "like_count": 414,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1244
+        },
+        "username": "Teia20010914",
+        "verified": false
+      }
+    ]
+  }
+}

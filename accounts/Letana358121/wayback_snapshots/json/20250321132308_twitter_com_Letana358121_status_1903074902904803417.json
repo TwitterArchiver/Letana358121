@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1902921422676119746",
+    "created_at": "2025-03-21T13:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T14:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903074902904803417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1567126711510204416",
+          "start": 0,
+          "username": "YukiYukiAmeAme"
+        },
+        {
+          "end": 31,
+          "id": "1490675894238986251",
+          "start": 16,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903074902904803417",
+    "in_reply_to_user_id": "1567126711510204416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903067990280769710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiYukiAmeAme @SyndicalismCat 看看腿子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1902921422676119746",
+        "created_at": "2025-03-21T13:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903074902904803417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1567126711510204416",
+              "start": 0,
+              "username": "YukiYukiAmeAme"
+            },
+            {
+              "end": 31,
+              "id": "1490675894238986251",
+              "start": 16,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903074902904803417",
+        "in_reply_to_user_id": "1567126711510204416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903067990280769710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiYukiAmeAme @SyndicalismCat 看看腿子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567126711510204416",
+        "conversation_id": "1902921422676119746",
+        "created_at": "2025-03-21T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903067990280769710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903067990280769710",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902921422676119746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 还有那种加好友没几句就发看看腿子的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 1129,
+          "like_count": 36125,
+          "listed_count": 5,
+          "media_count": 1504,
+          "tweet_count": 12954
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T12:25:07.000Z",
+        "description": "黒羽詩織/一只守着墓地的乌鸦。喜欢的人：@Jiangyineko 阿P：@Asiya_Tukimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Jiangyineko"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Asiya_Tukimi"
+              }
+            ]
+          }
+        },
+        "id": "1567126711510204416",
+        "location": "はかいし",
+        "name": "🐦‍⬛鸦鸦牌皇室贵族小点心🍮 （兔兔布丁版）",
+        "pinned_tweet_id": "1879666442750267833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889284660389408768/pqvJmYdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 241,
+          "like_count": 770,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1678
+        },
+        "username": "YukiYukiAmeAme",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "非二元/she her/含键政/民主社会主义/对政治人物态度不代表赞同其立场或意识形态/ 哈基汪@Nekomimiawa @4s7Ra1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Nekomimiawa"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "4s7Ra1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻哈基米",
+        "pinned_tweet_id": "1888584972245909717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903069831714471936/8IC461GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 1171,
+          "like_count": 124829,
+          "listed_count": 9,
+          "media_count": 1434,
+          "tweet_count": 18122
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

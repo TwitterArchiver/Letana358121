@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1799052588555624936",
+    "created_at": "2024-06-08T12:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T13:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799420623573352791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799420623573352791",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799090430623244735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda @neko_ruyue 我他媽笑崩潰了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1799052588555624936",
+        "created_at": "2024-06-08T12:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T13:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799420623573352791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799420623573352791",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799090430623244735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda @neko_ruyue 我他媽笑崩潰了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "1799052588555624936",
+        "created_at": "2024-06-07T14:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T15:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799090430623244735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799090430623244735",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11259,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799052588555624936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 她考一本，我考冈本，我们都有光明的未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1799418289040638260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 594,
+          "like_count": 21177,
+          "listed_count": 2,
+          "tweet_count": 6599
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "You are safe with me🏳️‍⚧️. Gentle and strong. Forever programmer. Wish all my friends live long and prosper. Sunshine: @Iceblue_Sakura, Sister:@qiyishi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "username": "qiyishi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1726269267803594878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 2615,
+          "like_count": 28133,
+          "listed_count": 6,
+          "tweet_count": 10505
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2071812380120752383",
+    "created_at": "2026-07-01T04:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072179879358157008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "kukukumik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072179879358157008",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071812380120752383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukukumik0 我再也不玩了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2071812380120752383",
+        "created_at": "2026-07-01T04:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072179879358157008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072179879358157008",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071812380120752383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 我再也不玩了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554692587151593472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2071812380120752383",
+        "created_at": "2026-06-30T04:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071812380120752383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lily0727K/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Lily0727K/status/2071741128232018137",
+              "start": 33,
+              "url": "https://t.co/LVLBArl8xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071812380120752383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24796,
+          "like_count": 335,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071741128232018137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到了吗，即便是东大毕业的医学生，沾上街机音游也会变成这样的弱智 https://t.co/LVLBArl8xs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 1547,
+          "like_count": 59371,
+          "listed_count": 7,
+          "media_count": 2365,
+          "tweet_count": 21512
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2064711108519411875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1557,
+          "like_count": 56311,
+          "listed_count": 13,
+          "media_count": 555,
+          "tweet_count": 19556
+        },
+        "url": "",
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

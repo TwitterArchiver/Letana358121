@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2038577167768891629",
+    "created_at": "2026-03-30T13:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038615447395053635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521011247931551744",
+          "start": 0,
+          "username": "KumaNikuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038615447395053635",
+    "in_reply_to_user_id": "1521011247931551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038577167768891629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KumaNikuko 外人说反而觉得没什么但是对已经出柜的家里人（甚至明确表示过理解支持）还这样说就还是会感觉突然被攻击了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2038577167768891629",
+        "created_at": "2026-03-30T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038615447395053635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521011247931551744",
+              "start": 0,
+              "username": "KumaNikuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038615447395053635",
+        "in_reply_to_user_id": "1521011247931551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038577167768891629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KumaNikuko 外人说反而觉得没什么但是对已经出柜的家里人（甚至明确表示过理解支持）还这样说就还是会感觉突然被攻击了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521011247931551744",
+        "conversation_id": "2038577167768891629",
+        "created_at": "2026-03-30T11:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038577167768891629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/letana358121/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/letana358121/status/2038228662139699574",
+              "start": 38,
+              "url": "https://t.co/DpoFn741sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038577167768891629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2378,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038228662139699574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换做半年前我也会这样，但不知道怎么回事，最近被我爸叫“儿子”也不会应激了… https://t.co/DpoFn741sV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037193028532920323/uLPfNhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 1389,
+          "like_count": 49252,
+          "listed_count": 8,
+          "media_count": 2192,
+          "tweet_count": 18773
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T06:19:03.000Z",
+        "description": "⤴️代碼女孩人格測試瘋批branch （v2023.01） 🧁初階·風爐烘焙術士 ☕️ 初階·咖啡萃取學徒（不會拉花）👭戀愛屬性是“跨拉”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ClaraLaverne",
+                "end": 23,
+                "expanded_url": "https://t.me/ClaraLaverne",
+                "start": 0,
+                "url": "https://t.co/X44QqRtHfK"
+              }
+            ]
+          }
+        },
+        "id": "1521011247931551744",
+        "location": "Brisbane, Queensland",
+        "name": "𝓒𝓵𝓪𝓻𝓪 🎏",
+        "pinned_tweet_id": "2028130500955562400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819149371851653121/IjvsGXJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 796,
+          "like_count": 110629,
+          "listed_count": 9,
+          "media_count": 2018,
+          "tweet_count": 25418
+        },
+        "url": "https://t.co/X44QqRtHfK",
+        "username": "KumaNikuko",
+        "verified": false
+      }
+    ]
+  }
+}

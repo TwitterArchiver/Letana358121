@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1827255636389982671",
+    "created_at": "2024-08-24T08:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T09:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827269098973360371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1531874472893894656",
+          "start": 0,
+          "username": "pofengjm"
+        },
+        {
+          "end": 25,
+          "id": "1647815138450505730",
+          "start": 10,
+          "username": "yaming00742313"
+        },
+        {
+          "end": 34,
+          "id": "1775505096081825792",
+          "start": 26,
+          "username": "mzd1966"
+        },
+        {
+          "end": 51,
+          "id": "1619618000159793152",
+          "start": 35,
+          "username": "mandycheung8964"
+        },
+        {
+          "end": 63,
+          "id": "1421441894823854086",
+          "start": 52,
+          "username": "ChenGhost1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827269098973360371",
+    "in_reply_to_user_id": "1531874472893894656",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827255636389982671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pofengjm @yaming00742313 @mzd1966 @mandycheung8964 @ChenGhost1 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1827255636389982671",
+        "created_at": "2024-08-24T08:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T09:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827269098973360371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1531874472893894656",
+              "start": 0,
+              "username": "pofengjm"
+            },
+            {
+              "end": 25,
+              "id": "1647815138450505730",
+              "start": 10,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 34,
+              "id": "1775505096081825792",
+              "start": 26,
+              "username": "mzd1966"
+            },
+            {
+              "end": 51,
+              "id": "1619618000159793152",
+              "start": 35,
+              "username": "mandycheung8964"
+            },
+            {
+              "end": 63,
+              "id": "1421441894823854086",
+              "start": 52,
+              "username": "ChenGhost1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827269098973360371",
+        "in_reply_to_user_id": "1531874472893894656",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827255636389982671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pofengjm @yaming00742313 @mzd1966 @mandycheung8964 @ChenGhost1 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827255633911087104"
+          ]
+        },
+        "author_id": "1531874472893894656",
+        "conversation_id": "1827255636389982671",
+        "created_at": "2024-08-24T08:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T09:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827255636389982671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1669543422586421248",
+              "start": 22,
+              "username": "Letana358121"
+            },
+            {
+              "end": 51,
+              "id": "1647815138450505730",
+              "start": 36,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 66,
+              "id": "1775505096081825792",
+              "start": 58,
+              "username": "mzd1966"
+            },
+            {
+              "end": 89,
+              "id": "1619618000159793152",
+              "start": 73,
+              "username": "mandycheung8964"
+            },
+            {
+              "end": 101,
+              "id": "1421441894823854086",
+              "start": 90,
+              "username": "ChenGhost1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1825657579248418816/jEwF_WvN?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1825657579248418816/jEwF_WvN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+              "url": "https://t.co/5sPK9AOOMA"
+            },
+            {
+              "display_url": "pic.x.com/y7m8edu6r1",
+              "end": 153,
+              "expanded_url": "https://twitter.com/pofengjm/status/1827255636389982671/photo/1",
+              "media_key": "3_1827255633911087104",
+              "start": 130,
+              "url": "https://t.co/Y7M8edu6R1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827255636389982671",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Letana358121 @yaming00742313\n👰 配偶: @mzd1966\n👶 孩子: @mandycheung8964 @ChenGhost1\n\n➡️ https://t.co/5sPK9AOOMA https://t.co/Y7M8edu6R1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 879,
+          "like_count": 26545,
+          "listed_count": 3,
+          "tweet_count": 8363
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:20.000Z",
+        "description": "07年，嚮往死亡，永遠喜歡囡囡（主人）@mandycheung8964，憎惡大陸的教育體制，嚮往台灣，中度抑鬱（有诊断），希望逃離家庭，mtf🏳️‍⚧️，已出櫃，家長黨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "mandycheung8964"
+              }
+            ]
+          }
+        },
+        "id": "1531874472893894656",
+        "location": "长春",
+        "name": "雛菊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822885734141005824/Ly9paNQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 85,
+          "like_count": 206,
+          "listed_count": 1,
+          "tweet_count": 131
+        },
+        "username": "pofengjm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（为生民立命）🙂",
+        "pinned_tweet_id": "1824811916034007316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784893238341459968/c_rdFaYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6756,
+          "following_count": 976,
+          "like_count": 5115,
+          "listed_count": 11,
+          "tweet_count": 1789
+        },
+        "username": "yaming00742313",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T12:46:27.000Z",
+        "description": "欢迎互fo/毛泽东思想拯救世界/吴非本生爹/本帐号即日起只进行正常发推与交流，不参与任何讨论辩论活动/司马套皮扑街仔@aoxiongdiguo5/大号@xijinping_bot被傻逼搞没了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "aoxiongdiguo5"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "xijinping_bot"
+              }
+            ]
+          }
+        },
+        "id": "1775505096081825792",
+        "location": "转型失败",
+        "name": "陈伯达",
+        "pinned_tweet_id": "1822460789959332144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801911709461807104/9gTHNeF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 934,
+          "like_count": 9145,
+          "listed_count": 7,
+          "tweet_count": 4838
+        },
+        "username": "mzd1966",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T08:47:17.000Z",
+        "description": "🇬🇧🇭🇰🇹🇼\n非專業社會學，哲學及神學學者。\n女權，多元文化主義者。友🏳️‍⚧️。永遠愛你宝宝@pofengjm 。\n會中文（繁體簡體），英語還有粵語。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "pofengjm"
+              }
+            ]
+          }
+        },
+        "id": "1619618000159793152",
+        "location": "Free HongKong",
+        "name": "Mandy Cheung",
+        "pinned_tweet_id": "1810827806672310514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785908720674975744/Gnk78Irj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 104,
+          "like_count": 16799,
+          "listed_count": 0,
+          "tweet_count": 1922
+        },
+        "username": "mandycheung8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T12:05:41.000Z",
+        "description": "叹别于红霞清风，不知东方既白",
+        "id": "1421441894823854086",
+        "location": "应许之地",
+        "name": "Huakai_XL",
+        "pinned_tweet_id": "1819754723874160836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421449075006705666/1bUxlmru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 613,
+          "like_count": 5157,
+          "listed_count": 0,
+          "tweet_count": 1712
+        },
+        "username": "ChenGhost1",
+        "verified": false
+      }
+    ]
+  }
+}

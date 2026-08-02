@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1832067196010610970",
+    "created_at": "2024-09-07T01:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T02:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832229010908312007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832229010908312007",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832067196010610970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka 那你买了给我一瓶（伸手）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1832067196010610970",
+        "created_at": "2024-09-07T01:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T02:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832229010908312007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832229010908312007",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832067196010610970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka 那你买了给我一瓶（伸手）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721522192175767552",
+        "conversation_id": "1832067196010610970",
+        "created_at": "2024-09-06T14:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T15:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832067196010610970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sa1ntM0n1ka/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1831835807482835126",
+              "start": 34,
+              "url": "https://t.co/qbN3mKeeuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832067196010610970",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831835807482835126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级搞笑，下午本来答应别人把药退了，结果商家不同意退款（还没发货） https://t.co/qbN3mKeeuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 895,
+          "like_count": 27689,
+          "listed_count": 3,
+          "tweet_count": 8722
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫 「无定义性别」",
+        "pinned_tweet_id": "1827809738136203423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1134,
+          "like_count": 41098,
+          "listed_count": 8,
+          "tweet_count": 3946
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

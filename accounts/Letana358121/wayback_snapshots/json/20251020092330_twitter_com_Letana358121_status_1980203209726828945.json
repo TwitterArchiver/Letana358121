@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1980192100550660459",
+    "created_at": "2025-10-20T09:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T10:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980203209726828945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "jiuwuwu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980203209726828945",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980203015933223377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuwuwu22 因为你的毛囊是凸出来的，然后你用刮胡刀刮的话，可能会刮破毛囊，然后就很容易真菌感染，这几天记得消毒一下嘴唇那一块，然后尽量就是吃点清淡的，然后就尽量就是让嘴唇那边不要碰到食物或者别的东西，然后多消毒。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1980203015933223377].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1980203015933223377",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1980203015933223377"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1980192100550660459",
+        "created_at": "2025-10-20T09:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980203209726828945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "jiuwuwu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980203209726828945",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980203015933223377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuwuwu22 因为你的毛囊是凸出来的，然后你用刮胡刀刮的话，可能会刮破毛囊，然后就很容易真菌感染，这几天记得消毒一下嘴唇那一块，然后尽量就是吃点清淡的，然后就尽量就是让嘴唇那边不要碰到食物或者别的东西，然后多消毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1977691900917543376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 1272,
+          "like_count": 42534,
+          "listed_count": 8,
+          "media_count": 1907,
+          "tweet_count": 16187
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "胡言乱语领域大神",
+        "id": "1261344091075260416",
+        "name": "尖叫面包",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980140380872933376/rZ-m_jB3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 760,
+          "like_count": 26817,
+          "listed_count": 0,
+          "media_count": 2190,
+          "tweet_count": 20154
+        },
+        "username": "jiuwuwu22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2053779987032068291",
+    "created_at": "2026-05-11T10:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053789064550293952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768185082307862528",
+          "start": 0,
+          "username": "xiaogozz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053789064550293952",
+    "in_reply_to_user_id": "1768185082307862528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053785779252711534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogozz 做自己也挺好的，只要开心怎样都行，而且二元社会确实融入了就会被各种压迫和歧视。。。总归是要推翻的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2053779987032068291",
+        "created_at": "2026-05-11T10:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053789064550293952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768185082307862528",
+              "start": 0,
+              "username": "xiaogozz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053789064550293952",
+        "in_reply_to_user_id": "1768185082307862528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053785779252711534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogozz 做自己也挺好的，只要开心怎样都行，而且二元社会确实融入了就会被各种压迫和歧视。。。总归是要推翻的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768185082307862528",
+        "conversation_id": "2053779987032068291",
+        "created_at": "2026-05-11T10:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053785779252711534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053785779252711534",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053779987032068291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 我一直觉得有些跨女在网上的表达看起来就像是只想要成为\"药娘\"，融入药娘的圈子而非融入社会成为女性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 1436,
+          "like_count": 53258,
+          "listed_count": 8,
+          "media_count": 2273,
+          "tweet_count": 19976
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T07:59:16.000Z",
+        "description": "黑羽呆猫/一只旅游的猫咪                                                                                                         \n另一半@Kraehe_YukI     阿p @Uturo_Bune",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Kraehe_YukI"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "Uturo_Bune"
+              }
+            ]
+          }
+        },
+        "id": "1768185082307862528",
+        "location": "交给我吧，什么都可以交给我",
+        "name": "猫猫牌小鸟烤袜袜🧦(洗头一直洗不掉洗发液)",
+        "pinned_tweet_id": "2048960821380956415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051512282342187008/POaASoP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 33,
+          "like_count": 1376,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 1106
+        },
+        "username": "xiaogozz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923608282620375040"
+      ],
+      "media_source_tweet_id": [
+        "1923608291772612847"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1925423991499755830",
+    "created_at": "2025-05-22T05:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T06:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925423991499755830"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "gundam"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681222180426911744",
+          "start": 3,
+          "username": "jjero2647"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EoZP3isXNQ",
+          "end": 61,
+          "expanded_url": "https://x.com/jjero2647/status/1923608291772612847/photo/1",
+          "media_key": "3_1923608282620375040",
+          "start": 38,
+          "url": "https://t.co/EoZP3isXNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925423991499755830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923608291772612847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jjero2647: 고양이 포—즈\n猫ポーズ \n\n#gundam https://t.co/EoZP3isXNQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923608282620375040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrIHipSWMAAD5VK.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923608282620375040"
+          ],
+          "media_source_tweet_id": [
+            "1923608291772612847"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1925423991499755830",
+        "created_at": "2025-05-22T05:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925423991499755830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "gundam"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681222180426911744",
+              "start": 3,
+              "username": "jjero2647"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoZP3isXNQ",
+              "end": 61,
+              "expanded_url": "https://x.com/jjero2647/status/1923608291772612847/photo/1",
+              "media_key": "3_1923608282620375040",
+              "start": 38,
+              "url": "https://t.co/EoZP3isXNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925423991499755830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923608291772612847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jjero2647: 고양이 포—즈\n猫ポーズ \n\n#gundam https://t.co/EoZP3isXNQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923608282620375040"
+          ]
+        },
+        "author_id": "1681222180426911744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1923608291772612847",
+        "created_at": "2025-05-17T05:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T06:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923608291772612847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "gundam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoZP3isXNQ",
+              "end": 46,
+              "expanded_url": "https://x.com/jjero2647/status/1923608291772612847/photo/1",
+              "media_key": "3_1923608282620375040",
+              "start": 23,
+              "url": "https://t.co/EoZP3isXNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923608291772612847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 111368,
+          "like_count": 5017,
+          "quote_count": 74,
+          "reply_count": 8,
+          "retweet_count": 1143
+        },
+        "reply_settings": "everyone",
+        "text": "고양이 포—즈\n猫ポーズ \n\n#gundam https://t.co/EoZP3isXNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1165,
+          "like_count": 39365,
+          "listed_count": 5,
+          "media_count": 1646,
+          "tweet_count": 14491
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T08:39:51.000Z",
+        "description": "🐙illustrator//25년도 하반기(8월~12월) 외주 문의 받고 있습니다. contact: jjero2647@naver.com jjero2647@gmail.com// 보고싶은데 아무도 안그려줘서 결국 직접 그리는 사람. //🚫 AI //commission X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/jjero2647",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/jjero2647",
+                "start": 0,
+                "url": "https://t.co/0iOQWbcAzW"
+              }
+            ]
+          }
+        },
+        "id": "1681222180426911744",
+        "name": "롱이 LONG(25외주문의)",
+        "pinned_tweet_id": "1902662379487564064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875382547439611904/w_OG34H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 405,
+          "like_count": 6305,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 6584
+        },
+        "url": "https://t.co/0iOQWbcAzW",
+        "username": "jjero2647",
+        "verified": false
+      }
+    ]
+  }
+}

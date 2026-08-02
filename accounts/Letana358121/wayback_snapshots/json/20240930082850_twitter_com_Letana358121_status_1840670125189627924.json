@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1840670125189627924",
+    "created_at": "2024-09-30T08:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T09:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840670125189627924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490707122291867648",
+          "start": 4,
+          "username": "ACENANAMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840670125189627924",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和 @ACENANAMI 吃萨莉亚这个，这个沙比吃了一大堆我点了好多结果她全部清盘了我靠啊明明人看着这么瘦怎么这么能吃呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1840670125189627924",
+        "created_at": "2024-09-30T08:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T09:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840670125189627924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490707122291867648",
+              "start": 4,
+              "username": "ACENANAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840670125189627924",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和 @ACENANAMI 吃萨莉亚这个，这个沙比吃了一大堆我点了好多结果她全部清盘了我靠啊明明人看着这么瘦怎么这么能吃呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 941,
+          "like_count": 29044,
+          "listed_count": 3,
+          "tweet_count": 9336
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "一直對此感到驕傲，直到死亡為止\n愛人：@nanami7isly\n媽媽：@Susiethegamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "nanami7isly"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Susiethegamer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "black-souls.fandom.com/wiki/Grimm",
+                "end": 23,
+                "expanded_url": "https://black-souls.fandom.com/wiki/Grimm",
+                "start": 0,
+                "url": "https://t.co/5dqeIhztJW"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "name": "葉米爾•愛麗絲",
+        "pinned_tweet_id": "1837017039741018121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836234220924231680/QGp6L1Ay_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 611,
+          "like_count": 86013,
+          "listed_count": 4,
+          "tweet_count": 10449
+        },
+        "url": "https://t.co/5dqeIhztJW",
+        "username": "ACENANAMI",
+        "verified": false
+      }
+    ]
+  }
+}

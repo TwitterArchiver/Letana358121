@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1865433624234938439",
+    "created_at": "2024-12-08T06:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T07:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865649949041676750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587260925039771648",
+          "start": 0,
+          "username": "Chloelostlife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865649949041676750",
+    "in_reply_to_user_id": "1587260925039771648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865433624234938439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloelostlife 去年就塌了今年再塌一次那也正常。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1865433624234938439",
+        "created_at": "2024-12-08T06:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T07:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865649949041676750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587260925039771648",
+              "start": 0,
+              "username": "Chloelostlife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865649949041676750",
+        "in_reply_to_user_id": "1587260925039771648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865433624234938439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloelostlife 去年就塌了今年再塌一次那也正常。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587260925039771648",
+        "conversation_id": "1865433624234938439",
+        "created_at": "2024-12-07T16:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865433624234938439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865433624234938439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连Tonyncl也塌了?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1002,
+          "like_count": 29504,
+          "listed_count": 4,
+          "media_count": 1255,
+          "tweet_count": 10500
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T01:51:18.000Z",
+        "description": "糜烂，糜烂",
+        "id": "1587260925039771648",
+        "location": "垃圾堆",
+        "name": "Chloe",
+        "pinned_tweet_id": "1855210382375211047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861807316036685829/y0n2DopZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 333,
+          "like_count": 21212,
+          "listed_count": 0,
+          "media_count": 1422,
+          "tweet_count": 4046
+        },
+        "username": "Chloelostlife",
+        "verified": false
+      }
+    ]
+  }
+}

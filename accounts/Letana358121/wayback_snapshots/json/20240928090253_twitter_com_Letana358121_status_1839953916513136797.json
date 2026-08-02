@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1839951818497159463",
+    "created_at": "2024-09-28T09:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T10:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839953916513136797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1727665885543034880",
+          "start": 0,
+          "username": "S1fr404"
+        },
+        {
+          "end": 18,
+          "id": "1411354219802546178",
+          "start": 9,
+          "username": "RuriAkai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839953916513136797",
+    "in_reply_to_user_id": "1727665885543034880",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839951818497159463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1fr404 @RuriAkai 那我呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839951818497159463",
+        "created_at": "2024-09-28T09:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T10:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839953916513136797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1727665885543034880",
+              "start": 0,
+              "username": "S1fr404"
+            },
+            {
+              "end": 18,
+              "id": "1411354219802546178",
+              "start": 9,
+              "username": "RuriAkai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839953916513136797",
+        "in_reply_to_user_id": "1727665885543034880",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839951818497159463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1fr404 @RuriAkai 那我呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839951809764569091"
+          ]
+        },
+        "author_id": "1727665885543034880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1839951818497159463",
+        "created_at": "2024-09-28T08:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T09:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839951818497159463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chvioc7x3m",
+              "end": 27,
+              "expanded_url": "https://twitter.com/S1fr404/status/1839951818497159463/photo/1",
+              "media_key": "3_1839951809764569091",
+              "start": 4,
+              "url": "https://t.co/CHVIoC7x3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839951818497159463",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貼貼🥹 https://t.co/CHVIoC7x3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 934,
+          "like_count": 28908,
+          "listed_count": 3,
+          "tweet_count": 9300
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T12:30:53.000Z",
+        "description": "Why are we still here? Just to suffer?",
+        "id": "1727665885543034880",
+        "location": "Central & Western District",
+        "name": "C1pher",
+        "pinned_tweet_id": "1831883785040007286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833084637989785600/Y5WOulec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 270,
+          "like_count": 23152,
+          "listed_count": 0,
+          "tweet_count": 2673
+        },
+        "username": "S1fr404",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T16:01:04.000Z",
+        "description": "🏳️‍⚧️ 跨性别女孩 | 坐标 🇲🇴 大学生 | 头像是自设oc | ❤️@Mete0rFie1d | 是小酒鬼，本命 Asahi 和 Strong Zero🍺 | 喜欢V家和摇滚 | 会在VRChat中寻找乐趣和安慰 | 喜欢小猫🐱和贴贴抱抱💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Mete0rFie1d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurichan.work",
+                "end": 23,
+                "expanded_url": "https://rurichan.work",
+                "start": 0,
+                "url": "https://t.co/p2gr4L9TWx"
+              }
+            ]
+          }
+        },
+        "id": "1411354219802546178",
+        "location": "Macau",
+        "name": "赤井 瑠璃❄️🏳️‍⚧️",
+        "pinned_tweet_id": "1829865553772880112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794061156468027396/Lbb2M0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 245,
+          "like_count": 1680,
+          "listed_count": 4,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/p2gr4L9TWx",
+        "username": "RuriAkai",
+        "verified": false
+      }
+    ]
+  }
+}

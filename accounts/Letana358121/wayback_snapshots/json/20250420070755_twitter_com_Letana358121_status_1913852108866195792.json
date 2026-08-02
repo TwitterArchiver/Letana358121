@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1913837372942565819",
+    "created_at": "2025-04-20T07:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913852108866195792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1823743287762804736",
+          "start": 0,
+          "username": "dyingyuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913852108866195792",
+    "in_reply_to_user_id": "1823743287762804736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913837372942565819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyingyuzu 什么，时间这么快，你都半年了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913837372942565819].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913837372942565819",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913837372942565819"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1913837372942565819",
+        "created_at": "2025-04-20T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913852108866195792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1823743287762804736",
+              "start": 0,
+              "username": "dyingyuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913852108866195792",
+        "in_reply_to_user_id": "1823743287762804736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913837372942565819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyingyuzu 什么，时间这么快，你都半年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 1143,
+          "like_count": 37871,
+          "listed_count": 5,
+          "media_count": 1566,
+          "tweet_count": 13826
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T15:27:50.000Z",
+        "description": "@yuzuchanqwq 的鍵垢 / 依存したい / 自殘od / 地雷女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1823743287762804736",
+        "location": "埼玉 川口市",
+        "name": "ゆずちゃん",
+        "pinned_tweet_id": "1891144903528173911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878441691549663232/GlL0uKh7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 97,
+          "like_count": 3894,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1284
+        },
+        "username": "dyingyuzu",
+        "verified": false
+      }
+    ]
+  }
+}

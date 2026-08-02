@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2058220490968158384",
+    "created_at": "2026-05-23T16:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058220490968158384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Letana358121/status/2058218369816441189",
+          "start": 57,
+          "url": "https://t.co/JBi9yNbPcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058220490968158384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058218369816441189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次感冒发烧都会突然情绪崩溃然后喊着要抱抱之类的字哭然后哭昏过去，但是要是真的有人给我抱我倒是被抱着会睡得很安心 https://t.co/JBi9yNbPcV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2058220490968158384",
+        "created_at": "2026-05-23T16:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058220490968158384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Letana358121/status/2058218369816441189",
+              "start": 57,
+              "url": "https://t.co/JBi9yNbPcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058220490968158384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058218369816441189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次感冒发烧都会突然情绪崩溃然后喊着要抱抱之类的字哭然后哭昏过去，但是要是真的有人给我抱我倒是被抱着会睡得很安心 https://t.co/JBi9yNbPcV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2058218369816441189",
+        "created_at": "2026-05-23T16:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058218369816441189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058218369816441189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要一个拥抱，我不知道为什么一到这个病情这个阶段我就特别特别想要人抱我没人抱我我就哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057332241186062336/wcVxEx7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1456,
+          "like_count": 54830,
+          "listed_count": 6,
+          "media_count": 2280,
+          "tweet_count": 20270
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

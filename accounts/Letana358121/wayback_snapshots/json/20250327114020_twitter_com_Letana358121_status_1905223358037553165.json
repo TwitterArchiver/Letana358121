@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905223337548406785"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1905223358037553165",
+    "created_at": "2025-03-27T11:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T12:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905223358037553165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8epg5CeMRA",
+          "end": 36,
+          "expanded_url": "https://x.com/Letana358121/status/1905223358037553165/video/1",
+          "media_key": "7_1905223337548406785",
+          "start": 13,
+          "url": "https://t.co/8epg5CeMRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905223358037553165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝你看起来智商低低的🥺 https://t.co/8epg5CeMRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3369,
+        "height": 1280,
+        "media_key": "7_1905223337548406785",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905223337548406785/pu/img/m1Q5ynQgHBVKuYKR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905223337548406785/pu/vid/avc1/320x568/Fz7Oq4AHEA5ch02C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905223337548406785/pu/vid/avc1/480x852/XEpbqnyCr0hkMVDt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905223337548406785/pu/vid/avc1/720x1280/Ku-LOdBZtrdjzQbi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905223337548406785/pu/pl/eGL94dYK8TiDqb3A.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905223337548406785"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1905223358037553165",
+        "created_at": "2025-03-27T11:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905223358037553165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8epg5CeMRA",
+              "end": 36,
+              "expanded_url": "https://x.com/Letana358121/status/1905223358037553165/video/1",
+              "media_key": "7_1905223337548406785",
+              "start": 13,
+              "url": "https://t.co/8epg5CeMRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905223358037553165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你看起来智商低低的🥺 https://t.co/8epg5CeMRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1129,
+          "like_count": 36766,
+          "listed_count": 5,
+          "media_count": 1510,
+          "tweet_count": 13140
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

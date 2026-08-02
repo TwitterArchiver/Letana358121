@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1933901185515417861",
+    "created_at": "2025-06-14T15:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933903842909052934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721653382480269312",
+          "start": 0,
+          "username": "ShiTiao80173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933903842909052934",
+    "in_reply_to_user_id": "1721653382480269312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933901185515417861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiTiao80173 来我家~（~）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1933901183355412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaY4UibYAAy271.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1933901185515417861",
+        "created_at": "2025-06-14T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933903842909052934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721653382480269312",
+              "start": 0,
+              "username": "ShiTiao80173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933903842909052934",
+        "in_reply_to_user_id": "1721653382480269312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933901185515417861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiTiao80173 来我家~（~）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933901183355412480"
+          ]
+        },
+        "author_id": "1721653382480269312",
+        "conversation_id": "1933901185515417861",
+        "created_at": "2025-06-14T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933901185515417861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsJJUXDaxL",
+              "end": 32,
+              "expanded_url": "https://x.com/ShiTiao80173/status/1933901185515417861/photo/1",
+              "media_key": "3_1933901183355412480",
+              "start": 9,
+              "url": "https://t.co/HsJJUXDaxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933901185515417861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烫你）😈❤️‍🔥 https://t.co/HsJJUXDaxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1933535880771420267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 1182,
+          "like_count": 40226,
+          "listed_count": 5,
+          "media_count": 1709,
+          "tweet_count": 14801
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T22:19:00.000Z",
+        "description": "Poltergeist｜不是黄推｜月球作息🌑｜傻逼下头恋爱脑｜缺爱b实践者｜纯贱人｜纯爱单相思｜我是完蛋女王♡还在不断的努力站起来吗🧀\n提问箱https://t.co/GJFUzXmew5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheezykawaovo2",
+                "end": 94,
+                "expanded_url": "https://ngl.link/cheezykawaovo2",
+                "start": 71,
+                "url": "https://t.co/GJFUzXmew5"
+              }
+            ]
+          }
+        },
+        "id": "1721653382480269312",
+        "location": "奶酪的孔洞中",
+        "name": "雾芝士条🧀",
+        "pinned_tweet_id": "1910499448217911408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765528493700284416/Uainj0gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 953,
+          "like_count": 28784,
+          "listed_count": 1,
+          "media_count": 693,
+          "tweet_count": 7284
+        },
+        "username": "ShiTiao80173",
+        "verified": false
+      }
+    ]
+  }
+}

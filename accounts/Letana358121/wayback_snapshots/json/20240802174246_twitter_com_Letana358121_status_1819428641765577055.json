@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819428638384967682"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1819428641765577055",
+    "created_at": "2024-08-02T17:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T18:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819428641765577055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/xrT6heglZk",
+          "end": 118,
+          "expanded_url": "https://twitter.com/Letana358121/status/1819428641765577055/photo/1",
+          "media_key": "3_1819428638384967682",
+          "start": 95,
+          "url": "https://t.co/xrT6heglZk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819428641765577055",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为我有很严重的肋骨外翻，所以我看起来比较胖.但是实际上都是因为下面的地方被那个肋骨外翻顶出来了，然后其实那些肉全是肌肉。。。。我真的很崩溃，可能我这辈子就没有办法拥有一个比较好看的裸体吧 https://t.co/xrT6heglZk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1819428641765577055].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1819428641765577055",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1819428641765577055"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1819428638384967682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT_otPUb0AIjiCx.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1816024481053495514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819417004539105280/FjrCNQJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 831,
+          "like_count": 23349,
+          "listed_count": 2,
+          "tweet_count": 7695
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

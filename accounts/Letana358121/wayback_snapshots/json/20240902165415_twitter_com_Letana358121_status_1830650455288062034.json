@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1830650455288062034",
+    "created_at": "2024-09-02T16:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T17:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830650455288062034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sanaka2142/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Sanaka2142/status/1830650151465271385",
+          "start": 15,
+          "url": "https://t.co/Hrshic6wog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830650455288062034",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830650151465271385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "門檻哥。。我的門檻哥在哪。。 https://t.co/Hrshic6wog"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1830650455288062034",
+        "created_at": "2024-09-02T16:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T17:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830650455288062034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sanaka2142/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Sanaka2142/status/1830650151465271385",
+              "start": 15,
+              "url": "https://t.co/Hrshic6wog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830650455288062034",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830650151465271385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "門檻哥。。我的門檻哥在哪。。 https://t.co/Hrshic6wog"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829930360303730689",
+        "conversation_id": "1830650151465271385",
+        "created_at": "2024-09-02T16:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T17:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830650151465271385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830650151465271385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉你們到底誰可以成為我第一個門檻哥。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1829934248733921425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 894,
+          "like_count": 27774,
+          "listed_count": 3,
+          "tweet_count": 8604
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T17:13:15.000Z",
+        "description": "MtF/高中生/🇲🇴/🏳️‍⚧️/本體可能是一隻很想被愛的笨小狗/正在試圖接澀澀的活來補貼生活費/生活賬號@Letana358121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Letana358121"
+              }
+            ]
+          }
+        },
+        "id": "1829930360303730689",
+        "location": "小狗星皇家大宮殿",
+        "name": "SANAKA🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1830187264401686847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829931809557348352/bc9wIDjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 80,
+          "like_count": 84,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "Sanaka2142",
+        "verified": false
+      }
+    ]
+  }
+}

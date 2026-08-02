@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1825134120995037360",
+    "created_at": "2024-08-18T11:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T12:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825136303509495860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "Goldogburger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825136303509495860",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825136142880227418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldogburger 臉好看人身材也很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1825134120995037360",
+        "created_at": "2024-08-18T11:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T12:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825136303509495860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "Goldogburger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825136303509495860",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825136142880227418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldogburger 臉好看人身材也很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1825134120995037360",
+        "created_at": "2024-08-18T11:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T12:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825136142880227418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825136142880227418",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825135688628711919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 窝 窝只有脸能看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1823440461559947608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 868,
+          "like_count": 25661,
+          "listed_count": 2,
+          "tweet_count": 8231
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "INFP-T｜100%浓缩金毛小狗汁🐶｜我补药闯荡浆糊了 只想过煎蛋的生活｜目前公认最可怕的哈基狗",
+        "id": "1717903248764317696",
+        "location": "✨",
+        "name": "金狗豪门堡🍔🐶",
+        "pinned_tweet_id": "1776317554774122638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818950733690978304/aKE-_Qs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 287,
+          "like_count": 2327,
+          "listed_count": 0,
+          "tweet_count": 1662
+        },
+        "username": "Goldogburger",
+        "verified": false
+      }
+    ]
+  }
+}

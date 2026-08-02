@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1951301638972645384"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1951301765166731359",
+    "created_at": "2025-08-01T15:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951301765166731359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xZ2JUV3nz",
+          "end": 23,
+          "expanded_url": "https://x.com/Letana358121/status/1951301765166731359/video/1",
+          "media_key": "7_1951301638972645384",
+          "start": 0,
+          "url": "https://t.co/4xZ2JUV3nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951301765166731359",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4xZ2JUV3nz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15225,
+        "height": 1280,
+        "media_key": "7_1951301638972645384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951301638972645384/pu/img/SeQCOwuTJ0FY2MEf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951301638972645384/pu/vid/avc1/320x568/Qpb8t18yHgP2-16c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951301638972645384/pu/vid/avc1/480x852/WL2v2fMIBkLN88Jj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951301638972645384/pu/vid/avc1/720x1280/9yAmj927SIGxjnaq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951301638972645384/pu/pl/Z7AiKTxWh8yeZgvm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951301638972645384"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1951301765166731359",
+        "created_at": "2025-08-01T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951301765166731359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xZ2JUV3nz",
+              "end": 23,
+              "expanded_url": "https://x.com/Letana358121/status/1951301765166731359/video/1",
+              "media_key": "7_1951301638972645384",
+              "start": 0,
+              "url": "https://t.co/4xZ2JUV3nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951301765166731359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4xZ2JUV3nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1947008718425534692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922543374504230913/valXe0ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 1211,
+          "like_count": 40291,
+          "listed_count": 6,
+          "media_count": 1821,
+          "tweet_count": 15337
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

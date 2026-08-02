@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995894028861411328"
+      ],
+      "media_source_tweet_id": [
+        "1995894034402033725"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "1996198110469734602",
+    "created_at": "2025-12-03T12:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996198110469734602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XAI2FiYxxx",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1995894034402033725/photo/1",
+          "media_key": "3_1995894028861411328",
+          "start": 11,
+          "url": "https://t.co/XAI2FiYxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996198110469734602",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995894034402033725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/XAI2FiYxxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1995894028861411328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LXC2ebkAAvK7j.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995894028861411328"
+          ],
+          "media_source_tweet_id": [
+            "1995894034402033725"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "1996198110469734602",
+        "created_at": "2025-12-03T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996198110469734602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAI2FiYxxx",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1995894034402033725/photo/1",
+              "media_key": "3_1995894028861411328",
+              "start": 11,
+              "url": "https://t.co/XAI2FiYxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996198110469734602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995894034402033725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/XAI2FiYxxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995894028861411328"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1995894034402033725",
+        "created_at": "2025-12-02T16:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995894034402033725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAI2FiYxxx",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1995894034402033725/photo/1",
+              "media_key": "3_1995894028861411328",
+              "start": 0,
+              "url": "https://t.co/XAI2FiYxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995894034402033725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 49353,
+          "like_count": 1633,
+          "quote_count": 15,
+          "reply_count": 24,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XAI2FiYxxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991694831253614597/EWKr7CNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 1305,
+          "like_count": 44373,
+          "listed_count": 7,
+          "media_count": 1992,
+          "tweet_count": 16991
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94825,
+          "following_count": 2734,
+          "like_count": 43598,
+          "listed_count": 133,
+          "media_count": 3231,
+          "tweet_count": 7557
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

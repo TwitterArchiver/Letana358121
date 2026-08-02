@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1789875079628591476",
+    "created_at": "2024-05-13T12:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T13:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790001625366458702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "760407362884608000",
+          "start": 0,
+          "username": "STEVENCHING1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790001625366458702",
+    "in_reply_to_user_id": "760407362884608000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789875079628591476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STEVENCHING1234 紫系挺简单的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1789875079628591476",
+        "created_at": "2024-05-13T12:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T13:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790001625366458702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "760407362884608000",
+              "start": 0,
+              "username": "STEVENCHING1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790001625366458702",
+        "in_reply_to_user_id": "760407362884608000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789875079628591476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STEVENCHING1234 紫系挺简单的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789875071705890816"
+          ]
+        },
+        "author_id": "760407362884608000",
+        "conversation_id": "1789875079628591476",
+        "created_at": "2024-05-13T04:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T05:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789875079628591476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZdLzow2R1B",
+              "end": 47,
+              "expanded_url": "https://twitter.com/STEVENCHING1234/status/1789875079628591476/photo/1",
+              "media_key": "3_1789875071705890816",
+              "start": 24,
+              "url": "https://t.co/ZdLzow2R1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789875079628591476",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫網友來選mai歌是我一生之中最大的錯誤www https://t.co/ZdLzow2R1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "歌劇總會結束的，但人生永不落幕。\n\n🇲🇴高中生/音遊/MtF/發瘋/自殘/",
+        "id": "1669543422586421248",
+        "location": "夢",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1789996090994868655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 552,
+          "like_count": 20162,
+          "listed_count": 3,
+          "tweet_count": 6111
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-02T09:30:17.000Z",
+        "description": "",
+        "id": "760407362884608000",
+        "location": "HK",
+        "name": "⑨Ching⑨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774697495165300736/UZhMzqBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 2651,
+          "like_count": 35415,
+          "listed_count": 2,
+          "tweet_count": 311
+        },
+        "username": "STEVENCHING1234",
+        "verified": false
+      }
+    ]
+  }
+}

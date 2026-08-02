@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2052601155897934254",
+    "created_at": "2026-05-08T13:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052738279733383366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        },
+        {
+          "end": 30,
+          "id": "1489468526826082312",
+          "start": 15,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 44,
+          "id": "1745799972576968705",
+          "start": 31,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052738279733383366",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052736229880299684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres @Diamond_Kokoro @bubblepipe42 其实我感觉也是，她确实一直在用自己在二元框架内能做到pass的能力引以为傲，从中受益了很难不怀疑其实是二元框架的维护者"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052736229880299684].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052736229880299684",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052736229880299684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2052601155897934254",
+        "created_at": "2026-05-08T13:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052738279733383366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 30,
+              "id": "1489468526826082312",
+              "start": 15,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 44,
+              "id": "1745799972576968705",
+              "start": 31,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052738279733383366",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052736229880299684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres @Diamond_Kokoro @bubblepipe42 其实我感觉也是，她确实一直在用自己在二元框架内能做到pass的能力引以为傲，从中受益了很难不怀疑其实是二元框架的维护者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3241,
+          "following_count": 1443,
+          "like_count": 53060,
+          "listed_count": 8,
+          "media_count": 2270,
+          "tweet_count": 19886
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "𝗔𝗴𝗲𝗻𝗱𝗲𝗿\n世上本无真品一说，可有的人比所谓真品更真\n仁慈而高贵的是你@Diamond_kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Diamond_kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 139,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 4699
+        },
+        "username": "irisdesombres",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 105,
+          "like_count": 5384,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 3712
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 917,
+          "like_count": 8282,
+          "listed_count": 5,
+          "media_count": 336,
+          "tweet_count": 2172
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1878711759202349168",
+    "created_at": "2025-01-13T07:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T08:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878711759202349168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Arrioame/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Arrioame/status/1878398077930758525",
+          "start": 7,
+          "url": "https://t.co/YGptWtKOdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878711759202349168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878398077930758525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媽的太好笑了 https://t.co/YGptWtKOdD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1878711759202349168",
+        "created_at": "2025-01-13T07:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T08:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878711759202349168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Arrioame/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Arrioame/status/1878398077930758525",
+              "start": 7,
+              "url": "https://t.co/YGptWtKOdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878711759202349168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878398077930758525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽的太好笑了 https://t.co/YGptWtKOdD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878398069668216832",
+            "3_1878398069668212736"
+          ]
+        },
+        "author_id": "1402236123494043651",
+        "conversation_id": "1878398077930758525",
+        "created_at": "2025-01-12T11:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878398077930758525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0X06H24ax",
+              "end": 33,
+              "expanded_url": "https://x.com/Arrioame/status/1878398077930758525/photo/1",
+              "media_key": "3_1878398069668216832",
+              "start": 10,
+              "url": "https://t.co/F0X06H24ax"
+            },
+            {
+              "display_url": "pic.x.com/F0X06H24ax",
+              "end": 33,
+              "expanded_url": "https://x.com/Arrioame/status/1878398077930758525/photo/1",
+              "media_key": "3_1878398069668212736",
+              "start": 10,
+              "url": "https://t.co/F0X06H24ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878398077930758525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 129632,
+          "like_count": 1188,
+          "quote_count": 81,
+          "reply_count": 96,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "盘点炮友性缩力时刻 https://t.co/F0X06H24ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1035,
+          "like_count": 30285,
+          "listed_count": 5,
+          "media_count": 1350,
+          "tweet_count": 11176
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T12:08:47.000Z",
+        "description": "一个什么都发的屌丝死宅女｜小女孩想互fo请直接私我｜现生刷到请默默滑走｜夜神月重度依赖🤓☝️",
+        "id": "1402236123494043651",
+        "location": "不约炮 不闲聊 不许发牛 不许得寸进尺 有🚪",
+        "name": "小泽玛丽苏",
+        "pinned_tweet_id": "1877330285626286496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870380255136907265/Yk1V8dgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 173,
+          "like_count": 737,
+          "listed_count": 14,
+          "media_count": 73,
+          "tweet_count": 738
+        },
+        "username": "Arrioame",
+        "verified": false
+      }
+    ]
+  }
+}

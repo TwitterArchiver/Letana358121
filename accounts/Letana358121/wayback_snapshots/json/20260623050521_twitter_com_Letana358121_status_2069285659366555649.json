@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068665655499583488"
+      ],
+      "media_source_tweet_id": [
+        "2068665710273056972"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2069285659366555649",
+    "created_at": "2026-06-23T05:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069285659366555649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803195947553529861",
+          "start": 3,
+          "username": "Chrono_genen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I86q8Qp8GF",
+          "end": 41,
+          "expanded_url": "https://x.com/Chrono_genen/status/2068665710273056972/video/1",
+          "media_key": "13_2068665655499583488",
+          "start": 18,
+          "url": "https://t.co/I86q8Qp8GF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069285659366555649",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068665710273056972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chrono_genen: https://t.co/I86q8Qp8GF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25002,
+        "height": 1920,
+        "media_key": "13_2068665655499583488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068665655499583488/img/oE0G57zT7ira0RUr.jpg",
+        "public_metrics": {
+          "view_count": 41351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068665655499583488/vid/avc1/320x568/EL9CrvCpZD2LzfsX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068665655499583488/vid/avc1/480x852/1LWzvMui5ZSkARkJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068665655499583488/vid/avc1/720x1280/Vk1B0WGeWl5-x5ZP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068665655499583488/pl/jbv8yB922g6vrqbl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068665655499583488"
+          ],
+          "media_source_tweet_id": [
+            "2068665710273056972"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2069285659366555649",
+        "created_at": "2026-06-23T05:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069285659366555649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803195947553529861",
+              "start": 3,
+              "username": "Chrono_genen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I86q8Qp8GF",
+              "end": 41,
+              "expanded_url": "https://x.com/Chrono_genen/status/2068665710273056972/video/1",
+              "media_key": "13_2068665655499583488",
+              "start": 18,
+              "url": "https://t.co/I86q8Qp8GF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069285659366555649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068665710273056972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chrono_genen: https://t.co/I86q8Qp8GF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068665655499583488"
+          ]
+        },
+        "author_id": "1803195947553529861",
+        "conversation_id": "2068665710273056972",
+        "created_at": "2026-06-21T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068665710273056972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I86q8Qp8GF",
+              "end": 23,
+              "expanded_url": "https://x.com/Chrono_genen/status/2068665710273056972/video/1",
+              "media_key": "13_2068665655499583488",
+              "start": 0,
+              "url": "https://t.co/I86q8Qp8GF"
+            },
+            {
+              "display_url": "x.com/kuromame81000/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kuromame81000/status/2068496359150531004",
+              "start": 24,
+              "url": "https://t.co/AaHghj1D5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068665710273056972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 247717,
+          "like_count": 3622,
+          "quote_count": 28,
+          "reply_count": 7,
+          "retweet_count": 701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068496359150531004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/I86q8Qp8GF https://t.co/AaHghj1D5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 1543,
+          "like_count": 58644,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21289
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T22:40:05.000Z",
+        "description": "天使です/東京/ブルー三段 Phi16.97 Chu17.13/ブルアカ",
+        "id": "1803195947553529861",
+        "location": "ヨルムンガンドの対義語、アササンソーディング。",
+        "name": "天使酒",
+        "pinned_tweet_id": "2062858251012853926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823570257711106/kr1VF7ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1961,
+          "like_count": 30655,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "Chrono_genen",
+        "verified": false
+      }
+    ]
+  }
+}

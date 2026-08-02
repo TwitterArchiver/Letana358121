@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2020440278457324001",
+    "created_at": "2026-02-08T12:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020468617129636155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327920679224795136",
+          "start": 0,
+          "username": "YNEKOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020468617129636155",
+    "in_reply_to_user_id": "1327920679224795136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020440278457324001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YNEKOWO 唉，一堆拿歌爱雪唱情色歌的真的是很疯狂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2020440278457324001",
+        "created_at": "2026-02-08T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020468617129636155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327920679224795136",
+              "start": 0,
+              "username": "YNEKOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020468617129636155",
+        "in_reply_to_user_id": "1327920679224795136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020440278457324001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YNEKOWO 唉，一堆拿歌爱雪唱情色歌的真的是很疯狂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327920679224795136",
+        "conversation_id": "2020440278457324001",
+        "created_at": "2026-02-08T10:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020440278457324001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020440278457324001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現在V家真的是瘋了 未成年歌姬都要搞得那麼噁心🤢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "愛したってのに　恋したってのに，\nきみはどうして変わっちゃうんだ。\n/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010052796020830208/rzFtGpWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2949,
+          "following_count": 1343,
+          "like_count": 46274,
+          "listed_count": 6,
+          "media_count": 2088,
+          "tweet_count": 17822
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T10:25:52.000Z",
+        "description": "GenderFlux(Neko/Xny) \nBuleSky:https://t.co/7X3dr1lgMT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ynekow…",
+                "end": 53,
+                "expanded_url": "https://bsky.app/profile/ynekowo.bsky.social",
+                "start": 30,
+                "url": "https://t.co/7X3dr1lgMT"
+              }
+            ]
+          }
+        },
+        "id": "1327920679224795136",
+        "location": "Neko's Republic of Neko planet",
+        "name": "🖤YNEKOWO",
+        "pinned_tweet_id": "1956143530692501931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775806056494714880/fv3oKngQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 132,
+          "like_count": 9365,
+          "listed_count": 1,
+          "media_count": 933,
+          "tweet_count": 4066
+        },
+        "username": "YNEKOWO",
+        "verified": false
+      }
+    ]
+  }
+}

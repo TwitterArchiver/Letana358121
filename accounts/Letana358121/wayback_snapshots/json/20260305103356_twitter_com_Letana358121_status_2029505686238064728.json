@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2029505686238064728",
+    "created_at": "2026-03-05T10:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029505686238064728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Letana358121/status/2029139059680088237",
+          "start": 19,
+          "url": "https://t.co/a1x8tqUSrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029505686238064728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029139059680088237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水课真的爽读。。。还是学校读的进去啊 https://t.co/a1x8tqUSrg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2029505686238064728",
+        "created_at": "2026-03-05T10:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029505686238064728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Letana358121/status/2029139059680088237",
+              "start": 19,
+              "url": "https://t.co/a1x8tqUSrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029505686238064728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029139059680088237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水课真的爽读。。。还是学校读的进去啊 https://t.co/a1x8tqUSrg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2029139059680088237",
+        "created_at": "2026-03-04T10:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029139059680088237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029139059680088237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在床上读偏学术的书真的读不进去。。。明天去学校水课的时候读吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "TECHNOPHOBIA/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027710801331814400/TFN_6xfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 1340,
+          "like_count": 47242,
+          "listed_count": 7,
+          "media_count": 2133,
+          "tweet_count": 18074
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1982955786688180425",
+    "created_at": "2025-10-28T05:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983037836439007741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717707158379454464",
+          "start": 0,
+          "username": "fang_danie121"
+        },
+        {
+          "end": 29,
+          "id": "1072109417200414720",
+          "start": 15,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983037836439007741",
+    "in_reply_to_user_id": "1717707158379454464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982993655255441581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang_danie121 @wangzhian8848 刁斤伞都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1982955786688180425",
+        "created_at": "2025-10-28T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983037836439007741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717707158379454464",
+              "start": 0,
+              "username": "fang_danie121"
+            },
+            {
+              "end": 29,
+              "id": "1072109417200414720",
+              "start": 15,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983037836439007741",
+        "in_reply_to_user_id": "1717707158379454464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982993655255441581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_danie121 @wangzhian8848 刁斤伞都不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717707158379454464",
+        "conversation_id": "1982955786688180425",
+        "created_at": "2025-10-28T02:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982993655255441581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982993655255441581",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9775,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982955786688180425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 李克强也成为了敏感词，据说习尽贫三个字也是敏感词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "被重力束缚的灵魂/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1981994739705770440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 1272,
+          "like_count": 42968,
+          "listed_count": 8,
+          "media_count": 1921,
+          "tweet_count": 16351
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T00:58:19.000Z",
+        "description": "投稿邮箱：danielfang121@gmail.com\n基督徒，诗人，自由职业者，异见份子，\n我的嘴除了赞美上帝，不会赞美任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCYlCl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCYlCldblgb_12kAaOtbZvJQ",
+                "start": 0,
+                "url": "https://t.co/nAozTV7SZv"
+              }
+            ]
+          }
+        },
+        "id": "1717707158379454464",
+        "name": "Daniel Fang",
+        "pinned_tweet_id": "1930525907544133893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977670189585174528/aBfxxSxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131762,
+          "following_count": 13850,
+          "like_count": 319080,
+          "listed_count": 531,
+          "media_count": 22478,
+          "tweet_count": 186558
+        },
+        "url": "https://t.co/nAozTV7SZv",
+        "username": "fang_danie121",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450365,
+          "following_count": 653,
+          "like_count": 645,
+          "listed_count": 3910,
+          "media_count": 6459,
+          "tweet_count": 18893
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

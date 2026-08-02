@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1914358138616389792",
+    "created_at": "2025-04-22T12:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T13:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914661366352224625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805655851786711040",
+          "start": 0,
+          "username": "meiriaikua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914661366352224625",
+    "in_reply_to_user_id": "1805655851786711040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914358138616389792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiriaikua 磕傻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 289,
+        "media_key": "3_1914358111667937286",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEqj1La4AY4zDC.jpg",
+        "width": 1200
+      },
+      {
+        "height": 767,
+        "media_key": "3_1914358104055271424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEqjY0a0AArtK1.jpg",
+        "width": 954
+      },
+      {
+        "height": 729,
+        "media_key": "3_1914358112016080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEqj2ebIAAc3PK.jpg",
+        "width": 1199
+      },
+      {
+        "height": 269,
+        "media_key": "3_1914358116671692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEqkH0aIAA8ku5.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1914358138616389792",
+        "created_at": "2025-04-22T12:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914661366352224625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805655851786711040",
+              "start": 0,
+              "username": "meiriaikua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914661366352224625",
+        "in_reply_to_user_id": "1805655851786711040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914358138616389792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiriaikua 磕傻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914358111667937286",
+            "3_1914358104055271424",
+            "3_1914358112016080896",
+            "3_1914358116671692800"
+          ]
+        },
+        "author_id": "1805655851786711040",
+        "conversation_id": "1914358138616389792",
+        "created_at": "2025-04-21T16:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T17:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914358138616389792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBdD0Khdgu",
+              "end": 53,
+              "expanded_url": "https://x.com/meiriaikua/status/1914358138616389792/photo/1",
+              "media_key": "3_1914358111667937286",
+              "start": 30,
+              "url": "https://t.co/OBdD0Khdgu"
+            },
+            {
+              "display_url": "pic.x.com/OBdD0Khdgu",
+              "end": 53,
+              "expanded_url": "https://x.com/meiriaikua/status/1914358138616389792/photo/1",
+              "media_key": "3_1914358104055271424",
+              "start": 30,
+              "url": "https://t.co/OBdD0Khdgu"
+            },
+            {
+              "display_url": "pic.x.com/OBdD0Khdgu",
+              "end": 53,
+              "expanded_url": "https://x.com/meiriaikua/status/1914358138616389792/photo/1",
+              "media_key": "3_1914358112016080896",
+              "start": 30,
+              "url": "https://t.co/OBdD0Khdgu"
+            },
+            {
+              "display_url": "pic.x.com/OBdD0Khdgu",
+              "end": 53,
+              "expanded_url": "https://x.com/meiriaikua/status/1914358138616389792/photo/1",
+              "media_key": "3_1914358116671692800",
+              "start": 30,
+              "url": "https://t.co/OBdD0Khdgu"
+            },
+            {
+              "display_url": "x.com/AItianlian/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/AItianlian/status/1913971686539772051",
+              "start": 54,
+              "url": "https://t.co/wds9c35Ogq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914358138616389792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913971686539772051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天言论大赏，只能说傻逼跨畜闹麻了，脑残程度不亚于Nagi https://t.co/OBdD0Khdgu https://t.co/wds9c35Ogq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 1145,
+          "like_count": 38123,
+          "listed_count": 5,
+          "media_count": 1580,
+          "tweet_count": 13912
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T17:34:52.000Z",
+        "description": "个人运营 \n政治露阴癖/低能反串狗/瞎骂恶俗人勿扰\n\n “吾杀汝辈，实救汝辈于世上诸苦，虽杀之，实爱之也”    欢迎各位爱跨雅士和跨性别私信交流、投稿、匿名传话（本人不对任何推友来稿言论做负责）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveMtF",
+                "end": 23,
+                "expanded_url": "http://t.me/LoveMtF",
+                "start": 0,
+                "url": "https://t.co/XJnCuDdMqg"
+              }
+            ]
+          }
+        },
+        "id": "1805655851786711040",
+        "name": "每日爱跨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877058901067100529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907179692698034176/xhNxc36z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 67,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/XJnCuDdMqg",
+        "username": "meiriaikua",
+        "verified": false
+      }
+    ]
+  }
+}

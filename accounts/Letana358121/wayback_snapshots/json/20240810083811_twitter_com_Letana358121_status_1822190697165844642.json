@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1822173344780665170",
+    "created_at": "2024-08-10T08:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T09:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822190697165844642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        },
+        {
+          "end": 22,
+          "id": "1602663153623388161",
+          "start": 13,
+          "username": "8964_wxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822190697165844642",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822190170415808712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer @8964_wxd 撞尾真的死媽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1822173344780665170",
+        "created_at": "2024-08-10T08:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822190697165844642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            },
+            {
+              "end": 22,
+              "id": "1602663153623388161",
+              "start": 13,
+              "username": "8964_wxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822190697165844642",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822190170415808712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer @8964_wxd 撞尾真的死媽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1822173344780665170",
+        "created_at": "2024-08-10T08:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822190170415808712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            },
+            {
+              "end": 23,
+              "id": "1602663153623388161",
+              "start": 14,
+              "username": "8964_wxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822190170415808712",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822187723840442408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 @8964_wxd 😭都怪jack老登"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🍥🐶ユ！",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1820916086725828739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 844,
+          "like_count": 24407,
+          "listed_count": 2,
+          "tweet_count": 7971
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "银河状我",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741507550200438784/Al2SDrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 546,
+          "like_count": 35685,
+          "listed_count": 4,
+          "tweet_count": 4248
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "狠狠攒钱整adx\n\n另外👮别来盯我了，这没你想看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.world/@xdw_2887",
+                "end": 23,
+                "expanded_url": "https://mastodon.world/@xdw_2887",
+                "start": 0,
+                "url": "https://t.co/cmUTtRtmx0"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811247042356039680/OqfyZSSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 3903,
+          "like_count": 42920,
+          "listed_count": 8,
+          "tweet_count": 6603
+        },
+        "url": "https://t.co/cmUTtRtmx0",
+        "username": "8964_wxd",
+        "verified": false
+      }
+    ]
+  }
+}

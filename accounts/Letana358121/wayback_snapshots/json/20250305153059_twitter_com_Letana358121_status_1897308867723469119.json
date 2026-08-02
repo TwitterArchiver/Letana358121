@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897308861490470912",
+        "3_1897308861163352064",
+        "3_1897308860207235073",
+        "3_1897308861863804928"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1897308867723469119",
+    "created_at": "2025-03-05T15:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T16:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897308867723469119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqT9WOhAuQ",
+          "end": 74,
+          "expanded_url": "https://x.com/Letana358121/status/1897308867723469119/photo/1",
+          "media_key": "3_1897308861490470912",
+          "start": 51,
+          "url": "https://t.co/EqT9WOhAuQ"
+        },
+        {
+          "display_url": "pic.x.com/EqT9WOhAuQ",
+          "end": 74,
+          "expanded_url": "https://x.com/Letana358121/status/1897308867723469119/photo/1",
+          "media_key": "3_1897308861163352064",
+          "start": 51,
+          "url": "https://t.co/EqT9WOhAuQ"
+        },
+        {
+          "display_url": "pic.x.com/EqT9WOhAuQ",
+          "end": 74,
+          "expanded_url": "https://x.com/Letana358121/status/1897308867723469119/photo/1",
+          "media_key": "3_1897308860207235073",
+          "start": 51,
+          "url": "https://t.co/EqT9WOhAuQ"
+        },
+        {
+          "display_url": "pic.x.com/EqT9WOhAuQ",
+          "end": 74,
+          "expanded_url": "https://x.com/Letana358121/status/1897308867723469119/photo/1",
+          "media_key": "3_1897308861863804928",
+          "start": 51,
+          "url": "https://t.co/EqT9WOhAuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897308867723469119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前我是自残自恨跨的时候你们好像很多人没看过，给你们回顾一下\n\n回顾完了就忘了吧，已经和过去切割了捏 https://t.co/EqT9WOhAuQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897308867723469119].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897308867723469119",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897308867723469119"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_1897308861490470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSYW25XIAAcmN7.jpg",
+        "width": 1189
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897308861163352064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSYW1rXsAAfk59.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897308860207235073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSYWyHagAEiaIi.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897308861863804928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSYW4SXwAAsExu.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1111,
+          "like_count": 34221,
+          "listed_count": 4,
+          "media_count": 1472,
+          "tweet_count": 12443
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

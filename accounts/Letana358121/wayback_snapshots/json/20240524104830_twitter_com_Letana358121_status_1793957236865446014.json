@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1793889918764401001",
+    "created_at": "2024-05-24T10:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T11:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793957236865446014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "DeadMacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793957236865446014",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793921935254159692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadMacao TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1793889918764401001",
+        "created_at": "2024-05-24T10:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T11:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793957236865446014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "DeadMacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793957236865446014",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793921935254159692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadMacao TT"
+      },
+      {
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1793889918764401001",
+        "created_at": "2024-05-24T08:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T09:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793921935254159692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793921935254159692",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793916232586158213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 不知道，上課又沒什麼用，而且我們還是英文天主教學校\n實在不明白 ;-;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Even if the world ends tomorrow,we still have a show to watch.\n/❤️@Sa1ntM0n1ka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Sa1ntM0n1ka"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1791064934845239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789947682846646272/QogeFc44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 576,
+          "like_count": 20615,
+          "listed_count": 3,
+          "tweet_count": 6343
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "08 🇲🇴🇭🇰/🇯🇵/🇬🇧/🏳️‍⚧️/純情/高中生/精神不安定",
+        "id": "1655093096710021120",
+        "location": "Macau",
+        "name": "デッドマカオ🇲🇴",
+        "pinned_tweet_id": "1784814179754619352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770410562935279616/BlSylyOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 160,
+          "like_count": 2390,
+          "listed_count": 0,
+          "tweet_count": 1540
+        },
+        "username": "DeadMacao",
+        "verified": false
+      }
+    ]
+  }
+}

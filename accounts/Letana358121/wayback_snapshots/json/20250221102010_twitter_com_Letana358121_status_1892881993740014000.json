@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1892881993740014000",
+    "created_at": "2025-02-21T10:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T11:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892881993740014000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1597945043251187712",
+          "start": 3,
+          "username": "RayestandRaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892881993740014000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892476785205342521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RayestandRaye: 我不歧视顺直，但他们休想要特权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1892881993740014000",
+        "created_at": "2025-02-21T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T11:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892881993740014000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1597945043251187712",
+              "start": 3,
+              "username": "RayestandRaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892881993740014000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892476785205342521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RayestandRaye: 我不歧视顺直，但他们休想要特权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "1892476785205342521",
+        "created_at": "2025-02-20T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892476785205342521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892476785205342521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14641,
+          "like_count": 308,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我不歧视顺直，但他们休想要特权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1099,
+          "like_count": 32979,
+          "listed_count": 4,
+          "media_count": 1443,
+          "tweet_count": 12111
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "死全家也要笑！",
+        "id": "1597945043251187712",
+        "location": "前往天国的道路",
+        "name": "Rayest",
+        "pinned_tweet_id": "1761444674458497366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876313955167346696/Gzdav97u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 693,
+          "like_count": 49421,
+          "listed_count": 7,
+          "media_count": 938,
+          "tweet_count": 10354
+        },
+        "username": "RayestandRaye",
+        "verified": false
+      }
+    ]
+  }
+}

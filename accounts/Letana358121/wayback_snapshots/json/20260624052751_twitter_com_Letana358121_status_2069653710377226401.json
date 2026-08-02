@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2069653710377226401",
+    "created_at": "2026-06-24T05:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069653710377226401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1650521797299953665",
+          "start": 3,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069653710377226401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069344498396930330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorei_puewwoc: 所以全世界就中国这个奇葩国家除了二次伤害受害者之外不会干别的了，也难怪德国留子强奸案过了这么长时间才有民间报道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069653710377226401",
+        "created_at": "2026-06-24T05:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069653710377226401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1650521797299953665",
+              "start": 3,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069653710377226401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069344498396930330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorei_puewwoc: 所以全世界就中国这个奇葩国家除了二次伤害受害者之外不会干别的了，也难怪德国留子强奸案过了这么长时间才有民间报道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069344498396930330",
+        "created_at": "2026-06-23T08:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069344498396930330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yorei_puewwoc/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yorei_puewwoc/status/2069344220566135067",
+              "start": 56,
+              "url": "https://t.co/GcAcDQUQSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069344498396930330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 747,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069344220566135067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以全世界就中国这个奇葩国家除了二次伤害受害者之外不会干别的了，也难怪德国留子强奸案过了这么长时间才有民间报道 https://t.co/GcAcDQUQSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 1543,
+          "like_count": 58819,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21314
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "Yorei Puewwoc | 非二进制 | 呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062555853778309120/Zs3A2qZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 723,
+          "like_count": 79720,
+          "listed_count": 3,
+          "media_count": 933,
+          "tweet_count": 15258
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": true
+      }
+    ]
+  }
+}

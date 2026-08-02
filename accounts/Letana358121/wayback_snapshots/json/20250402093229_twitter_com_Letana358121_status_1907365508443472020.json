@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1907364178743947685",
+    "created_at": "2025-04-02T09:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907365508443472020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907365508443472020",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907364178743947685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 我也想，一起攒钱去装一个吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1907364178743947685",
+        "created_at": "2025-04-02T09:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907365508443472020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907365508443472020",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907364178743947685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 我也想，一起攒钱去装一个吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1907364178743947685",
+        "created_at": "2025-04-02T09:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907364178743947685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907364178743947685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想有个批"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 1134,
+          "like_count": 37287,
+          "listed_count": 5,
+          "media_count": 1525,
+          "tweet_count": 13329
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "恋爱回避依存症",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903484596999901184/bH5SgvNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14112,
+          "following_count": 2722,
+          "like_count": 51084,
+          "listed_count": 18,
+          "media_count": 329,
+          "tweet_count": 14668
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2051943760129556941",
+    "created_at": "2026-05-06T12:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052002288286466416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565553094909276161",
+          "start": 0,
+          "username": "qianyuqiong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052002288286466416",
+    "in_reply_to_user_id": "1565553094909276161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051943760129556941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyuqiong 求一个尾杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13666,
+        "height": 1280,
+        "media_key": "7_2051943722745786371",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051943722745786371/pu/img/kZk-ZNp2cDfioCoZ.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051943722745786371/pu/vid/avc1/320x568/2AdfFwZ2vEVENrex.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051943722745786371/pu/vid/avc1/480x852/sgNjwDeoNn0wL3H0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051943722745786371/pu/vid/avc1/720x1280/VH6BQOgm6a9VIqFM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051943722745786371/pu/pl/R2RQBTbgBB7XvIxJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2051943760129556941",
+        "created_at": "2026-05-06T12:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052002288286466416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565553094909276161",
+              "start": 0,
+              "username": "qianyuqiong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052002288286466416",
+        "in_reply_to_user_id": "1565553094909276161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051943760129556941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyuqiong 求一个尾杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051943722745786371"
+          ]
+        },
+        "author_id": "1565553094909276161",
+        "conversation_id": "2051943760129556941",
+        "created_at": "2026-05-06T08:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051943760129556941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVhhbEYKdj",
+              "end": 72,
+              "expanded_url": "https://x.com/qianyuqiong/status/2051943760129556941/video/1",
+              "media_key": "7_2051943722745786371",
+              "start": 49,
+              "url": "https://t.co/XVhhbEYKdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051943760129556941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沉迷于自己的艺术中无法自拔了\n豆包豆包 帮我把成绩图分数改成100.5022，sss改成sss+ https://t.co/XVhhbEYKdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 1441,
+          "like_count": 52759,
+          "listed_count": 8,
+          "media_count": 2266,
+          "tweet_count": 19796
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T04:12:08.000Z",
+        "description": "/平平无奇武汉（退役）女高/爱好 （？粥 O π  舞萌舞萌舞萌舞萌怎么你了/真超檄橙晓桃樱白雪辉宙星祭祝極，超檄橙晓桃樱紫堇白雪辉爽煌宙星将确认/欢迎交友ww/只想当个正常人//中推圈好乱一堆破圈子都与我无关/时不时上线视奸👀一下大家的美好生活罢了/求求你们***别那么抽象了",
+        "id": "1565553094909276161",
+        "location": "距离你-0.1m",
+        "name": "浅羽穹(IP:罗德岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883986313604653060/4-ngtBT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1152,
+          "like_count": 11491,
+          "listed_count": 12,
+          "media_count": 376,
+          "tweet_count": 3700
+        },
+        "username": "qianyuqiong",
+        "verified": false
+      }
+    ]
+  }
+}

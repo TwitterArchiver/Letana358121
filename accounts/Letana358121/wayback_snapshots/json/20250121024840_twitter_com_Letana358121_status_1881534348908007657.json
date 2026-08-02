@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1881510443170287847",
+    "created_at": "2025-01-21T02:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881534348908007657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1683519375100510208",
+          "start": 0,
+          "username": "XTC_XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881534348908007657",
+    "in_reply_to_user_id": "1683519375100510208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881510443170287847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XTC_XYN 送我家里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1881510443170287847",
+        "created_at": "2025-01-21T02:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881534348908007657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1683519375100510208",
+              "start": 0,
+              "username": "XTC_XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881534348908007657",
+        "in_reply_to_user_id": "1683519375100510208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881510443170287847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XTC_XYN 送我家里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881510429681385472"
+          ]
+        },
+        "author_id": "1683519375100510208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881510443170287847",
+        "created_at": "2025-01-21T01:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881510443170287847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UC55h1RMV",
+              "end": 45,
+              "expanded_url": "https://x.com/XTC_XYN/status/1881510443170287847/photo/1",
+              "media_key": "3_1881510429681385472",
+              "start": 22,
+              "url": "https://t.co/9UC55h1RMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881510443170287847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人来我家找我玩吗我家迪拉熊天天闲着没人疼 https://t.co/9UC55h1RMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1870778480792916030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1047,
+          "like_count": 30466,
+          "listed_count": 5,
+          "media_count": 1363,
+          "tweet_count": 11293
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T16:48:08.000Z",
+        "description": "03/175/64，MtF泛性恋无对象，家里有maimai欢迎大家来找我玩和我交朋友呀，个人群451725436",
+        "id": "1683519375100510208",
+        "location": "武汉光谷",
+        "name": "仙桃草🍥",
+        "pinned_tweet_id": "1881510028554960916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881474736213082112/zxMD5P8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 35,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 432
+        },
+        "username": "XTC_XYN",
+        "verified": false
+      }
+    ]
+  }
+}

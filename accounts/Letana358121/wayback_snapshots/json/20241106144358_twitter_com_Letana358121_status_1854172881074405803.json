@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1854145621357437150",
+    "created_at": "2024-11-06T14:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T15:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854172881074405803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669305436254932993",
+          "start": 0,
+          "username": "arslanter13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854172881074405803",
+    "in_reply_to_user_id": "1669305436254932993",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854170272720695304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arslanter13 😔😔😔没你可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1854145621357437150",
+        "created_at": "2024-11-06T14:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854172881074405803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669305436254932993",
+              "start": 0,
+              "username": "arslanter13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854172881074405803",
+        "in_reply_to_user_id": "1669305436254932993",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854170272720695304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arslanter13 😔😔😔没你可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669305436254932993",
+        "conversation_id": "1854145621357437150",
+        "created_at": "2024-11-06T14:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854170272720695304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854170272720695304",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854162691465912600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 🥺你也可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🍥🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "距离您只有0.1km",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 976,
+          "like_count": 29005,
+          "listed_count": 3,
+          "tweet_count": 10072
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T11:27:02.000Z",
+        "description": "這是一個煙鬼酒鬼，一個在世界盡頭掙扎的偏執狂，一個得不到救贖的可憐人",
+        "id": "1669305436254932993",
+        "location": "海邊",
+        "name": "阿与华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791518994018766850/PcZ6d9iA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 415,
+          "like_count": 5616,
+          "listed_count": 1,
+          "tweet_count": 861
+        },
+        "username": "arslanter13",
+        "verified": false
+      }
+    ]
+  }
+}

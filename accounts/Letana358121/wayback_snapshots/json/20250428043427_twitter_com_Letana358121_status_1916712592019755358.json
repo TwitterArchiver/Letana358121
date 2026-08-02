@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1916712316554612772",
+    "created_at": "2025-04-28T04:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T05:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916712592019755358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541694630965690368",
+          "start": 0,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916712592019755358",
+    "in_reply_to_user_id": "1541694630965690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916712316554612772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yao_freezer 宝宝最棒！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916711647361818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmHFo3a4AA9O3v.jpg",
+        "width": 1420
+      },
+      {
+        "duration_ms": 17730,
+        "height": 1156,
+        "media_key": "13_1916712055106859009",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916712055106859009/img/UWEm78VxH8SzEHE6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916712055106859009/vid/avc1/320x512/azm2A7FBbNkGSEWl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916712055106859009/vid/avc1/480x770/de-GkbFu2bBinqsZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916712055106859009/vid/avc1/720x1156/yr5LMPt0KU7vBITB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916712055106859009/pl/vW3fz5b9PGIkHoSp.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1916712316554612772",
+        "created_at": "2025-04-28T04:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916712592019755358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541694630965690368",
+              "start": 0,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916712592019755358",
+        "in_reply_to_user_id": "1541694630965690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916712316554612772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_freezer 宝宝最棒！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916711647361818624",
+            "13_1916712055106859009"
+          ]
+        },
+        "author_id": "1541694630965690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916712316554612772",
+        "created_at": "2025-04-28T04:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916712316554612772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVsj8VYAtL",
+              "end": 35,
+              "expanded_url": "https://x.com/Yao_freezer/status/1916712316554612772/video/1",
+              "media_key": "3_1916711647361818624",
+              "start": 12,
+              "url": "https://t.co/bVsj8VYAtL"
+            },
+            {
+              "display_url": "pic.x.com/bVsj8VYAtL",
+              "end": 35,
+              "expanded_url": "https://x.com/Yao_freezer/status/1916712316554612772/video/1",
+              "media_key": "13_1916712055106859009",
+              "start": 12,
+              "url": "https://t.co/bVsj8VYAtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916712316554612772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Credits 理論值 https://t.co/bVsj8VYAtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881589196795904/8JlBjHXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 1151,
+          "like_count": 38436,
+          "listed_count": 5,
+          "media_count": 1589,
+          "tweet_count": 14029
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "猪基哈",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831451447357272070/mZ10Zgfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 611,
+          "like_count": 52000,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 5461
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

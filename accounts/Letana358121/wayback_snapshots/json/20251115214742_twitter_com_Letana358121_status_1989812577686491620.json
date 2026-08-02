@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "1989812136244306099",
+    "created_at": "2025-11-15T21:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T22:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989812577686491620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989812577686491620",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989812136244306099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 拍一张给我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9464,
+        "height": 1280,
+        "media_key": "7_1989812101716770816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989812101716770816/pu/img/_WB2Bb3-VD4eH6ZD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989812101716770816/pu/vid/avc1/320x568/tjmM4lCpcdB487g_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989812101716770816/pu/vid/avc1/480x852/XoCCEh8ZUjIcLS8g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989812101716770816/pu/vid/avc1/720x1280/ZPjQQJ5jOuf1HMTd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989812101716770816/pu/pl/KoZLXVLtleKjN5ih.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1989812136244306099",
+        "created_at": "2025-11-15T21:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989812577686491620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989812577686491620",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989812136244306099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 拍一张给我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989812101716770816"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "conversation_id": "1989812136244306099",
+        "created_at": "2025-11-15T21:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989812136244306099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kHE4cLXwJ",
+              "end": 45,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1989812136244306099/video/1",
+              "media_key": "7_1989812101716770816",
+              "start": 22,
+              "url": "https://t.co/4kHE4cLXwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989812136244306099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆月抛圣地之神秘大楼红鼎国际楼下这一块🤯 https://t.co/4kHE4cLXwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1989808297340445057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1285,
+          "like_count": 43742,
+          "listed_count": 7,
+          "media_count": 1940,
+          "tweet_count": 16688
+        },
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "生产日期2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人（底力恢复ing）|翻车2024.4.22|自切2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIozG7D"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14394,
+          "following_count": 385,
+          "like_count": 1491,
+          "listed_count": 23,
+          "media_count": 269,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/eYxEIozG7D",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}
