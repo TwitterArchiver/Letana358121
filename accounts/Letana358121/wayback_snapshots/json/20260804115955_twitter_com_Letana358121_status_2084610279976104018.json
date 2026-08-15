@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2084610279976104018",
+    "created_at": "2026-08-04T11:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084610279976104018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Baguette__9/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Baguette__9/status/2084025531960590838",
+          "start": 21,
+          "url": "https://t.co/ALrkiAHsnK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084610279976104018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084025531960590838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉他们过得也不是很健全其实就是麻木了。 https://t.co/ALrkiAHsnK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2084610279976104018",
+        "created_at": "2026-08-04T11:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084610279976104018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Baguette__9/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Baguette__9/status/2084025531960590838",
+              "start": 21,
+              "url": "https://t.co/ALrkiAHsnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084610279976104018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084025531960590838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉他们过得也不是很健全其实就是麻木了。 https://t.co/ALrkiAHsnK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544961704898940929",
+        "conversation_id": "2084025531960590838",
+        "created_at": "2026-08-02T21:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084025531960590838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084025531960590838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9780,
+          "like_count": 175,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得健全逼过的也没多幸福🥸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1563,
+          "like_count": 62462,
+          "listed_count": 8,
+          "media_count": 2443,
+          "tweet_count": 22281
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:29:17.000Z",
+        "description": "我已发现的内心的全部。",
+        "id": "1544961704898940929",
+        "name": "米安尿包",
+        "pinned_tweet_id": "2029043662118957411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878789814675521536/m2gOclDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 296,
+          "like_count": 12751,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 6874
+        },
+        "url": "",
+        "username": "Baguette__9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083561465265717248"
+      ],
+      "media_source_tweet_id": [
+        "2083561523654676642"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2084179609327931420",
+    "created_at": "2026-08-03T07:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084179609327931420"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920121082855751680",
+          "start": 3,
+          "username": "my62928"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcQLZT4raF",
+          "end": 44,
+          "expanded_url": "https://x.com/my62928/status/2083561523654676642/video/1",
+          "media_key": "13_2083561465265717248",
+          "start": 21,
+          "url": "https://t.co/IcQLZT4raF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084179609327931420",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083561523654676642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my62928: #maimai https://t.co/IcQLZT4raF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12025,
+        "height": 1080,
+        "media_key": "13_2083561465265717248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083561465265717248/img/anE-ItYRUiFJj4VV.jpg",
+        "public_metrics": {
+          "view_count": 46584
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561465265717248/vid/avc1/320x320/PHGF9_59ZJDoToOP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561465265717248/vid/avc1/540x540/Hd1nz548g0d1jn93.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561465265717248/vid/avc1/720x720/GPNzcRplws0SmDZ9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083561465265717248/pl/lhd-ozXN5ZM8EPmI.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083561465265717248"
+          ]
+        },
+        "author_id": "1920121082855751680",
+        "conversation_id": "2083561523654676642",
+        "created_at": "2026-08-01T14:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083561523654676642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcQLZT4raF",
+              "end": 31,
+              "expanded_url": "https://x.com/my62928/status/2083561523654676642/video/1",
+              "media_key": "13_2083561465265717248",
+              "start": 8,
+              "url": "https://t.co/IcQLZT4raF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083561523654676642",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 753,
+          "impression_count": 120031,
+          "like_count": 2907,
+          "quote_count": 35,
+          "reply_count": 1,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai https://t.co/IcQLZT4raF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083561465265717248"
+          ],
+          "media_source_tweet_id": [
+            "2083561523654676642"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2084179609327931420",
+        "created_at": "2026-08-03T07:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084179609327931420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920121082855751680",
+              "start": 3,
+              "username": "my62928"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcQLZT4raF",
+              "end": 44,
+              "expanded_url": "https://x.com/my62928/status/2083561523654676642/video/1",
+              "media_key": "13_2083561465265717248",
+              "start": 21,
+              "url": "https://t.co/IcQLZT4raF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084179609327931420",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083561523654676642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my62928: #maimai https://t.co/IcQLZT4raF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 1562,
+          "like_count": 62385,
+          "listed_count": 7,
+          "media_count": 2441,
+          "tweet_count": 22250
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T14:20:00.000Z",
+        "description": "えびちゃんです。\nホロライブ、maimai、ゲーム、日常のことをメインにポストします。よろしく！\nただの変人\n 最高のリア友→＠Miitukainohaji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Miitukainohaji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ebichannnnnn",
+                "end": 23,
+                "expanded_url": "https://lit.link/ebichannnnnn",
+                "start": 0,
+                "url": "https://t.co/WXNa4PG2lI"
+              }
+            ]
+          }
+        },
+        "id": "1920121082855751680",
+        "location": "Silent Hill",
+        "name": "箱推し世代えびちゃん⚔️🐱⌛️♌😈🧸🩵🦷🎀🐇🦄",
+        "pinned_tweet_id": "2030322417634295871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011981342393970688/JDKEBjVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1579,
+          "like_count": 44301,
+          "listed_count": 9,
+          "media_count": 1385,
+          "tweet_count": 14603
+        },
+        "url": "https://t.co/WXNa4PG2lI",
+        "username": "my62928",
+        "verified": false
+      }
+    ]
+  }
+}

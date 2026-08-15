@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2086783006220726693",
+    "created_at": "2026-08-10T14:10:20.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086817425362911258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086817425362911258",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086793997641748972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 还真是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2086783006220726693",
+        "created_at": "2026-08-10T14:10:20.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086817425362911258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086817425362911258",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086793997641748972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 还真是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "2086783006220726693",
+        "created_at": "2026-08-10T12:37:14.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086793997641748972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086793997641748972",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086783006220726693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 可是互相窝尿到对方身上很神圣啊（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2086817425362911258",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 1565,
+          "like_count": 62878,
+          "listed_count": 8,
+          "media_count": 2455,
+          "tweet_count": 22375
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "厨师，专业烹煮何包蛋",
+        "id": "708700717",
+        "is_identity_verified": false,
+        "location": "長安東路三十三巷",
+        "most_recent_tweet_id": "2086793997641748972",
+        "name": "河又猫",
+        "pinned_tweet_id": "2068393022346187015",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708700717/1781889056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085380124434989056/MwdrnzJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9292,
+          "following_count": 1775,
+          "like_count": 8391,
+          "listed_count": 61,
+          "media_count": 22784,
+          "tweet_count": 350328
+        },
+        "url": "",
+        "username": "GuajavaDuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

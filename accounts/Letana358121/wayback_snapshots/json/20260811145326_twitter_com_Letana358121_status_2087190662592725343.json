@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2087190662592725343",
+    "created_at": "2026-08-11T14:53:26.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087190662592725343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10Lystra/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/10Lystra/status/2087189272059056625",
+          "start": 39,
+          "url": "https://t.co/jOZEMgeBhO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087190662592725343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087189272059056625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃之前不知道要出去吃饭，结果吃完一个碗麻辣烫之后吃寿司郎还是吃了一百多块。 https://t.co/jOZEMgeBhO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2087189053762363394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcvYtCW4AIDxIJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087189053762416640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcvYtCXsAAl4Xt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2087190662592725343",
+        "created_at": "2026-08-11T14:53:26.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087190662592725343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/10Lystra/status/2087189272059056625",
+              "start": 39,
+              "url": "https://t.co/jOZEMgeBhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087190662592725343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087189272059056625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃之前不知道要出去吃饭，结果吃完一个碗麻辣烫之后吃寿司郎还是吃了一百多块。 https://t.co/jOZEMgeBhO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087189053762363394",
+            "3_2087189053762416640"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087189272059056625",
+        "created_at": "2026-08-11T14:47:55.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087189272059056625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1904539885769457665",
+              "start": 12,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 37,
+              "id": "1669543422586421248",
+              "start": 24,
+              "username": "Letana358121"
+            },
+            {
+              "end": 52,
+              "id": "1843518394056015872",
+              "start": 38,
+              "username": "xxxx123yyy545"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJJ9qoO3sJ",
+              "end": 76,
+              "expanded_url": "https://x.com/10Lystra/status/2087189272059056625/photo/1",
+              "media_key": "3_2087189053762363394",
+              "start": 53,
+              "url": "https://t.co/AJJ9qoO3sJ"
+            },
+            {
+              "display_url": "pic.x.com/AJJ9qoO3sJ",
+              "end": 76,
+              "expanded_url": "https://x.com/10Lystra/status/2087189272059056625/photo/1",
+              "media_key": "3_2087189053762416640",
+              "start": 53,
+              "url": "https://t.co/AJJ9qoO3sJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189272059056625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087189053762363394"
+          },
+          {
+            "media_key": "3_2087189053762416640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这仨人吃的我进食焦虑没了@yanmin1105 @Letana358121 @xxxx123yyy545 https://t.co/AJJ9qoO3sJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2087190662592725343",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 1564,
+          "like_count": 62933,
+          "listed_count": 8,
+          "media_count": 2455,
+          "tweet_count": 22390
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2087189624930046045",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1135,
+          "like_count": 2896,
+          "listed_count": 6,
+          "media_count": 383,
+          "tweet_count": 10497
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

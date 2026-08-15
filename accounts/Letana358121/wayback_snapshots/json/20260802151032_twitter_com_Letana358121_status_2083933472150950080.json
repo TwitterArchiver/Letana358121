@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2083926872795103675",
+    "created_at": "2026-08-02T15:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083933472150950080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083933472150950080",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083926872795103675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 好香呀我吃一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083926841425879040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuYa9EXYAAZs-P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2083926872795103675",
+        "created_at": "2026-08-02T15:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083933472150950080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083933472150950080",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083926872795103675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 好香呀我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083926841425879040"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083926872795103675",
+        "created_at": "2026-08-02T14:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083926872795103675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wj1maWF2xb",
+              "end": 45,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2083926872795103675/photo/1",
+              "media_key": "3_2083926841425879040",
+              "start": 22,
+              "url": "https://t.co/Wj1maWF2xb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083926872795103675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有的時候不知道我有什麼資格抱怨自己胖，， https://t.co/Wj1maWF2xb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 1563,
+          "like_count": 62356,
+          "listed_count": 7,
+          "media_count": 2440,
+          "tweet_count": 22239
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我老公我主人我先生我mademoiselle我小貓我女朋友我男朋友我最最親愛的@irisdesombres我的天哪這裡住不下那麼多人！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 191,
+          "like_count": 15144,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 10337
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

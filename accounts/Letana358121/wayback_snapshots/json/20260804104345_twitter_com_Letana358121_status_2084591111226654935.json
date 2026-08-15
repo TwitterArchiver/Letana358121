@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2084590899938640327",
+    "created_at": "2026-08-04T10:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084591111226654935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084591111226654935",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084590899938640327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 前面还觉得有点帅，后面突然觉得好土还浪费食物好缺德（。。。）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084590899938640327].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084590899938640327",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084590899938640327"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2084590899938640327",
+        "created_at": "2026-08-04T10:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084591111226654935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084591111226654935",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084590899938640327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 前面还觉得有点帅，后面突然觉得好土还浪费食物好缺德（。。。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1563,
+          "like_count": 62420,
+          "listed_count": 8,
+          "media_count": 2442,
+          "tweet_count": 22269
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我老公我主人我先生我mademoiselle我小貓我女朋友我男朋友我最最親愛的@irisdesombres我的天哪這裡住不下那麼多人！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2082332228638646584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 193,
+          "like_count": 15349,
+          "listed_count": 3,
+          "media_count": 436,
+          "tweet_count": 10471
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

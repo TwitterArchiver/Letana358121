@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2084169500275200094",
+    "created_at": "2026-08-03T06:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084172244973171023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084172244973171023",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084169500275200094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 我不要看这个😭。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2084169493249732609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx1HJjbMAEXwqx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2084169500275200094",
+        "created_at": "2026-08-03T06:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084172244973171023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084172244973171023",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084169500275200094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 我不要看这个😭。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084169493249732609"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2084169500275200094",
+        "created_at": "2026-08-03T06:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084169500275200094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H5XC6HCe3l",
+              "end": 53,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2084169500275200094/photo/1",
+              "media_key": "3_2084169493249732609",
+              "start": 30,
+              "url": "https://t.co/H5XC6HCe3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084169500275200094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再讓我看到這種東西出現在我的timeline上我就自戳雙目 https://t.co/H5XC6HCe3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 1562,
+          "like_count": 62371,
+          "listed_count": 7,
+          "media_count": 2441,
+          "tweet_count": 22245
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我老公我主人我先生我mademoiselle我小貓我女朋友我男朋友我最最親愛的@irisdesombres我的天哪這裡住不下那麼多人！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2082332228638646584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 191,
+          "like_count": 15207,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 10379
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

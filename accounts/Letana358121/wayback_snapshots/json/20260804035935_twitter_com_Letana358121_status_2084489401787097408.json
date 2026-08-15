@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2084469117952901168",
+    "created_at": "2026-08-04T03:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084489401787097408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084489401787097408",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084469117952901168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Natsumejuri 为什么你们的扔扔形状都这么好。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084469112777097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2FnTRaQAAtIhl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2084469117952901168",
+        "created_at": "2026-08-04T03:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084489401787097408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084489401787097408",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084469117952901168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Natsumejuri 为什么你们的扔扔形状都这么好。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084469112777097216"
+          ]
+        },
+        "author_id": "1526965927748571136",
+        "conversation_id": "2084469117952901168",
+        "created_at": "2026-08-04T02:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084469117952901168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjqaBeuvMX",
+              "end": 30,
+              "expanded_url": "https://x.com/Natsumejuri/status/2084469117952901168/photo/1",
+              "media_key": "3_2084469112777097216",
+              "start": 7,
+              "url": "https://t.co/yjqaBeuvMX"
+            },
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2084261264998772921",
+              "start": 31,
+              "url": "https://t.co/2Ab0HlV2uT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084469117952901168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 705,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084261264998772921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "展示内衬装甲 https://t.co/yjqaBeuvMX https://t.co/2Ab0HlV2uT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 1561,
+          "like_count": 62352,
+          "listed_count": 8,
+          "media_count": 2442,
+          "tweet_count": 22257
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5726,
+          "following_count": 592,
+          "like_count": 29903,
+          "listed_count": 10,
+          "media_count": 716,
+          "tweet_count": 4740
+        },
+        "url": "",
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}
