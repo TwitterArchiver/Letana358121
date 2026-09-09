@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2095849707042120041",
+    "created_at": "2026-09-05T07:09:52.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096133696818671990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096133696818671990",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095849707042120041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 媽媽。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2095849691913355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX0MMUbgAAn85r.jpg",
+        "width": 706
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2095849700612272128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX0MsuacAAyy55.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2095849707042120041",
+        "created_at": "2026-09-05T07:09:52.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096133696818671990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096133696818671990",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095849707042120041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 媽媽。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095849691913355264",
+            "3_2095849700612272128"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2095849707042120041",
+        "created_at": "2026-09-04T12:21:23.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095849707042120041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0kMO2K4Rr",
+              "end": 100,
+              "expanded_url": "https://x.com/IXXA00/status/2095849707042120041/photo/1",
+              "media_key": "3_2095849691913355264",
+              "start": 77,
+              "url": "https://t.co/x0kMO2K4Rr"
+            },
+            {
+              "display_url": "pic.x.com/x0kMO2K4Rr",
+              "end": 100,
+              "expanded_url": "https://x.com/IXXA00/status/2095849707042120041/photo/1",
+              "media_key": "3_2095849700612272128",
+              "start": 77,
+              "url": "https://t.co/x0kMO2K4Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095849707042120041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095849691913355264"
+          },
+          {
+            "media_key": "3_2095849700612272128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1538,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在积攒豪意值。\n-\n妈的，我得有半年时间没花在自己身上拍各种各样的照片了，我的天，最近真的好忙啊。哎，我这个假发得有半年都没戴了。我都快不认识自己了。 https://t.co/x0kMO2K4Rr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2096133696818671990",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 1559,
+          "like_count": 64507,
+          "listed_count": 9,
+          "media_count": 2487,
+          "tweet_count": 22669
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "情绪上瘾。@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2096131724250165633",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2095145593903682027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7903,
+          "following_count": 4470,
+          "like_count": 45705,
+          "listed_count": 19,
+          "media_count": 3387,
+          "tweet_count": 45453
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

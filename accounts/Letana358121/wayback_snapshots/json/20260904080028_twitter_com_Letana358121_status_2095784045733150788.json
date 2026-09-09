@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2095784045733150788",
+    "created_at": "2026-09-04T08:00:28.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095784045733150788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095784045733150788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095779751344628169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 我發現最喜歡說性別認知障礙這個詞的人才有性別認知障礙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2095784045733150788",
+        "created_at": "2026-09-04T08:00:28.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095784045733150788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095784045733150788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095779751344628169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 我發現最喜歡說性別認知障礙這個詞的人才有性別認知障礙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2095779751344628169",
+        "created_at": "2026-09-04T07:43:25.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095779751344628169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/galaxy1025850/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/galaxy1025850/status/2095402604054634554",
+              "start": 27,
+              "url": "https://t.co/WN8jJe0k51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095779751344628169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095402604054634554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我發現最喜歡說性別認知障礙這個詞的人才有性別認知障礙 https://t.co/WN8jJe0k51"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2095784045733150788",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 1559,
+          "like_count": 64430,
+          "listed_count": 9,
+          "media_count": 2487,
+          "tweet_count": 22664
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "永愛@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095783780640608591",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2093991202240799012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1788430856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095337808907079681/-TWxj_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 211,
+          "like_count": 17775,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 13173
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

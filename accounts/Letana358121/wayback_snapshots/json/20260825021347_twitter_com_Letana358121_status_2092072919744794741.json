@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2091927051297337466",
+    "created_at": "2026-08-25T02:13:47.000Z",
+    "display_text_range": [
+      30,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092072919744794741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473159080143376385",
+          "start": 0,
+          "username": "Jacque1ineWong"
+        },
+        {
+          "end": 29,
+          "id": "1443444056701370371",
+          "start": 16,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092072919744794741",
+    "in_reply_to_user_id": "1473159080143376385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091931126537576714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jacque1ineWong @tina63991073 妈呀。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2091927051297337466",
+        "created_at": "2026-08-25T02:13:47.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092072919744794741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473159080143376385",
+              "start": 0,
+              "username": "Jacque1ineWong"
+            },
+            {
+              "end": 29,
+              "id": "1443444056701370371",
+              "start": 16,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092072919744794741",
+        "in_reply_to_user_id": "1473159080143376385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091931126537576714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jacque1ineWong @tina63991073 妈呀。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "conversation_id": "2091927051297337466",
+        "created_at": "2026-08-24T16:50:21.000Z",
+        "display_text_range": [
+          14,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091931126537576714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091931126537576714",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091929601346089145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tina63991073 自从吃胖了一点身子圆润了一点之后再也不需要花时间找配菜了只要看到镜子里的自己光溜溜的就很难不冲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2092072919744794741",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 1557,
+          "like_count": 63919,
+          "listed_count": 8,
+          "media_count": 2473,
+          "tweet_count": 22565
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨🏳️‍⚧️One day I’ll be free.",
+        "id": "1473159080143376385",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2091932114271052060",
+        "name": "茉莉奶绿黄奕缘",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473159080143376385/1774073789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 586,
+          "like_count": 42648,
+          "listed_count": 14,
+          "media_count": 723,
+          "tweet_count": 14141
+        },
+        "url": "",
+        "username": "Jacque1ineWong",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 只回口令，上海/男娘",
+        "id": "1443444056701370371",
+        "is_identity_verified": true,
+        "location": "188（好友位  接接接",
+        "most_recent_tweet_id": "2091929601346089145",
+        "name": "富江江",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443444056701370371/1780927147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091864261341650944/86A0j0lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89971,
+          "following_count": 604,
+          "like_count": 10682,
+          "listed_count": 274,
+          "media_count": 971,
+          "tweet_count": 8751
+        },
+        "url": "",
+        "username": "tina63991073",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

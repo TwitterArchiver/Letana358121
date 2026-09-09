@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093269385389756416"
+      ],
+      "media_source_tweet_id": [
+        "2093300310316036115"
+      ]
+    },
+    "author_id": "1669543422586421248",
+    "conversation_id": "2093613804018122959",
+    "created_at": "2026-08-29T08:16:42.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093613804018122959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14486793",
+          "start": 3,
+          "username": "yonasawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0efjiAkphc",
+          "end": 60,
+          "expanded_url": "https://x.com/yonasawa/status/2093300310316036115/video/1",
+          "media_key": "13_2093269385389756416",
+          "start": 37,
+          "url": "https://t.co/0efjiAkphc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093613804018122959",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2093269385389756416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093300310316036115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonasawa: これはﾈｺﾁｬﾝにこねられて揺れるｻﾒﾁｬﾝ https://t.co/0efjiAkphc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15206,
+        "height": 1920,
+        "media_key": "13_2093269385389756416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093269385389756416/img/BrPjwlt_CiF806zj.jpg",
+        "public_metrics": {
+          "view_count": 46340
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093269385389756416/vid/avc1/480x852/WXEr3yLf-eqaIgV_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093269385389756416/pl/VUoSgxSi-MeTnriv.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093269385389756416/vid/avc1/720x1280/QTLx2ziE2ZGzK79h.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093269385389756416/vid/avc1/320x568/w22gJFs98DVZiZyu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093269385389756416/vid/avc1/1080x1920/3UilGnFNW8f5cr2J.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093269385389756416"
+          ],
+          "media_source_tweet_id": [
+            "2093300310316036115"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2093613804018122959",
+        "created_at": "2026-08-29T08:16:42.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093613804018122959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14486793",
+              "start": 3,
+              "username": "yonasawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0efjiAkphc",
+              "end": 60,
+              "expanded_url": "https://x.com/yonasawa/status/2093300310316036115/video/1",
+              "media_key": "13_2093269385389756416",
+              "start": 37,
+              "url": "https://t.co/0efjiAkphc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093613804018122959",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093269385389756416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093300310316036115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonasawa: これはﾈｺﾁｬﾝにこねられて揺れるｻﾒﾁｬﾝ https://t.co/0efjiAkphc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093269385389756416"
+          ]
+        },
+        "author_id": "14486793",
+        "conversation_id": "2093300310316036115",
+        "created_at": "2026-08-28T11:31:00.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093300310316036115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0efjiAkphc",
+              "end": 46,
+              "expanded_url": "https://x.com/yonasawa/status/2093300310316036115/video/1",
+              "media_key": "13_2093269385389756416",
+              "start": 23,
+              "url": "https://t.co/0efjiAkphc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093300310316036115",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093269385389756416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 156090,
+          "like_count": 10765,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "これはﾈｺﾁｬﾝにこねられて揺れるｻﾒﾁｬﾝ https://t.co/0efjiAkphc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2093613804018122959",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3596,
+          "following_count": 1557,
+          "like_count": 64186,
+          "listed_count": 8,
+          "media_count": 2480,
+          "tweet_count": 22609
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-04-23T06:56:01.000Z",
+        "description": "◽️株式会社ゲームフリーク様  ポケモンアルセウス、スカーレットバイオレットにフィールドマップデザインの一部で参加\n◽️ねんどろ艦これ特製スリーブ担当\n◽️ケムリクサ背景作成\n◽️ﾆｺﾆｺ履歴 https://t.co/p6LGwP2UQ0\n◽️お仕事のご依頼はこちら↓まで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/12715161",
+                "end": 120,
+                "expanded_url": "http://nicovideo.jp/mylist/12715161",
+                "start": 97,
+                "url": "https://t.co/p6LGwP2UQ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yonasawa.com",
+                "end": 23,
+                "expanded_url": "https://www.yonasawa.com",
+                "start": 0,
+                "url": "https://t.co/oaChvI9trh"
+              }
+            ]
+          }
+        },
+        "id": "14486793",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093607946290958617",
+        "name": "マクー",
+        "pinned_tweet_id": "1593535257889734657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14486793/1668786424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616331971160084480/_qSzXHav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34372,
+          "following_count": 1873,
+          "like_count": 6201,
+          "listed_count": 945,
+          "media_count": 11104,
+          "tweet_count": 394452
+        },
+        "url": "https://t.co/oaChvI9trh",
+        "username": "yonasawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

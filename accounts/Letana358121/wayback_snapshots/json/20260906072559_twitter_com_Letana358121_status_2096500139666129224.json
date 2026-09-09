@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2096383106945302651",
+    "created_at": "2026-09-06T07:25:59.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096500139666129224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096500139666129224",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096383106945302651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 羨慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096383092558823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfZUMkagAAalNq.jpg",
+        "width": 1154
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096383092546260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfZUMha0AAAtF1.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2096383106945302651",
+        "created_at": "2026-09-06T07:25:59.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096500139666129224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096500139666129224",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096383106945302651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 羨慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096383092558823424",
+            "3_2096383092546260992"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2096383106945302651",
+        "created_at": "2026-09-05T23:40:56.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096383106945302651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aA71QbWawD",
+              "end": 50,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2096383106945302651/photo/1",
+              "media_key": "3_2096383092558823424",
+              "start": 27,
+              "url": "https://t.co/aA71QbWawD"
+            },
+            {
+              "display_url": "pic.x.com/aA71QbWawD",
+              "end": 50,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2096383106945302651/photo/1",
+              "media_key": "3_2096383092546260992",
+              "start": 27,
+              "url": "https://t.co/aA71QbWawD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096383106945302651",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096383092558823424"
+          },
+          {
+            "media_key": "3_2096383092546260992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1711,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "帮对象发的\n下海了，有上海的吗\n有需要的联系我就好了 https://t.co/aA71QbWawD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2096500146276303264",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3599,
+          "following_count": 1560,
+          "like_count": 64603,
+          "listed_count": 9,
+          "media_count": 2489,
+          "tweet_count": 22687
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|想睡覺|\n好姐姐 @HappyHejsDay | 對象 @shixveriya 🥰 |我的妹妹 @shiyaoshiwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "shixveriya"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "shiyaoshiwo"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "is_identity_verified": false,
+        "location": "Palmdale, California, USA",
+        "most_recent_tweet_id": "2096409835856376074",
+        "name": "happiness🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980236829455511552/1772609453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 1516,
+          "like_count": 6651,
+          "listed_count": 7,
+          "media_count": 469,
+          "tweet_count": 4975
+        },
+        "url": "",
+        "username": "PaulDrizzyvlni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

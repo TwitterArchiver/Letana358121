@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2096530682701140466",
+    "created_at": "2026-09-07T09:55:47.000Z",
+    "display_text_range": [
+      15,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096900228041306480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1184083826076803072",
+          "start": 0,
+          "username": "kirijoarchive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096900228041306480",
+    "in_reply_to_user_id": "1184083826076803072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096530682701140466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirijoarchive It becomes much simpler if you enable left and right mirroring."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22123,
+        "height": 720,
+        "media_key": "13_2096530491486920704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096530491486920704/img/-7KaTP5Gyeg23fHa.jpg",
+        "public_metrics": {
+          "view_count": 1948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096530491486920704/vid/avc1/480x270/UYT_dsRTzGX919Z8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096530491486920704/vid/avc1/640x360/XPigm7Dm36Se8Wns.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096530491486920704/vid/avc1/1280x720/d9QTBPpR0ME7SSiL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096530491486920704/pl/U1n0_owj2Z2nV3yS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2096530682701140466",
+        "created_at": "2026-09-07T09:55:47.000Z",
+        "display_text_range": [
+          15,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096900228041306480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1184083826076803072",
+              "start": 0,
+              "username": "kirijoarchive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096900228041306480",
+        "in_reply_to_user_id": "1184083826076803072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096530682701140466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirijoarchive It becomes much simpler if you enable left and right mirroring."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096530491486920704"
+          ]
+        },
+        "author_id": "1184083826076803072",
+        "conversation_id": "2096530682701140466",
+        "created_at": "2026-09-06T09:27:21.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096530682701140466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuNwnSBOgE",
+              "end": 30,
+              "expanded_url": "https://x.com/kirijoarchive/status/2096530682701140466/video/1",
+              "media_key": "13_2096530491486920704",
+              "start": 7,
+              "url": "https://t.co/BuNwnSBOgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096530682701140466",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096530491486920704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4028,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "早い 0_o https://t.co/BuNwnSBOgE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2096900228041306480",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 1565,
+          "like_count": 64649,
+          "listed_count": 9,
+          "media_count": 2490,
+          "tweet_count": 22704
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-15T12:29:30.000Z",
+        "description": "when you realize it will be the year 3000 in 75 years",
+        "id": "1184083826076803072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096898552597504018",
+        "name": "ven",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184083826076803072/1597798011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983068972548497408/Yp7bVuWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 237,
+          "like_count": 11375,
+          "listed_count": 0,
+          "media_count": 557,
+          "tweet_count": 6634
+        },
+        "url": "",
+        "username": "kirijoarchive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

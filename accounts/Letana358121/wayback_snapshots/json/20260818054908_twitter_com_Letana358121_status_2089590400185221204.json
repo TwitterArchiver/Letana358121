@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2089587939127050312",
+    "created_at": "2026-08-18T05:49:08.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089590400185221204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089590400185221204",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089587939127050312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiraOmicronCeti 依旧叽里咕噜北京腔啥都听不到哦你好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2089587939127050312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2089587939127050312",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2089587939127050312"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2089587939127050312",
+        "created_at": "2026-08-18T05:49:08.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089590400185221204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089590400185221204",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089587939127050312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraOmicronCeti 依旧叽里咕噜北京腔啥都听不到哦你好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2089590400185221204",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 1565,
+          "like_count": 63447,
+          "listed_count": 8,
+          "media_count": 2464,
+          "tweet_count": 22483
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089045352766906828",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 246,
+          "like_count": 6843,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 714
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

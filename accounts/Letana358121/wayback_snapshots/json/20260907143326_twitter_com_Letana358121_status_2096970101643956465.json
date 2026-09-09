@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2096949188584231117",
+    "created_at": "2026-09-07T14:33:26.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096970101643956465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096970101643956465",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096949188584231117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 小黑咪好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17566,
+        "height": 1920,
+        "media_key": "13_2096949138164428800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096949138164428800/img/Smh62lGnVwbGrHYT.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949138164428800/vid/avc1/480x852/ZJwdfZnS8I4z66gj.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949138164428800/vid/avc1/320x568/Y1ezE5z6UUQgBbv1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949138164428800/vid/avc1/1080x1920/c1ntWrvklFNiXQgK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949138164428800/vid/avc1/720x1280/2LtoMyS0lUVoEXxp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096949138164428800/pl/Aw43y1Fkef7n14dN.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2096949188584231117",
+        "created_at": "2026-09-07T14:33:26.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096970101643956465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096970101643956465",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096949188584231117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 小黑咪好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096949138164428800"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2096949188584231117",
+        "created_at": "2026-09-07T13:10:20.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096949188584231117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2hu6Pahi5",
+              "end": 38,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2096949188584231117/video/1",
+              "media_key": "13_2096949138164428800",
+              "start": 15,
+              "url": "https://t.co/i2hu6Pahi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096949188584231117",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096949138164428800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把店家送的邊角料拿來餵貓貓啦 https://t.co/i2hu6Pahi5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2096970101643956465",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 1567,
+          "like_count": 64697,
+          "listed_count": 9,
+          "media_count": 2491,
+          "tweet_count": 22715
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "Ma bien-aimée immortelle, ma minette noire et ma maîtresse vampirique : @irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096954728399897034",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2093991202240799012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1788430856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095337808907079681/-TWxj_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 210,
+          "like_count": 17936,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 13414
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

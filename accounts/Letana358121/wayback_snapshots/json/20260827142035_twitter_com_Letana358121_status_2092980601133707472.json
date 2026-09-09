@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2092980601133707472",
+    "created_at": "2026-08-27T14:20:35.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092980601133707472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/1s8964/status/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/1s8964/status/2092580810100818056",
+          "start": 31,
+          "url": "https://t.co/jzKe2tRyee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092980601133707472",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092580810100818056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok，创建一个从我敌人的视角描述我的账户的图像，用中文 https://t.co/jzKe2tRyee"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2092980601133707472",
+        "created_at": "2026-08-27T14:20:35.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092980601133707472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1s8964/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/1s8964/status/2092580810100818056",
+              "start": 31,
+              "url": "https://t.co/jzKe2tRyee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092980601133707472",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092580810100818056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok，创建一个从我敌人的视角描述我的账户的图像，用中文 https://t.co/jzKe2tRyee"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890343594248036352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2092580810100818056",
+        "created_at": "2026-08-26T11:51:58.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092580810100818056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1720665183188922368",
+              "start": 1,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/socdemcnbunny/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/socdemcnbunny/status/2092553007330419023",
+              "start": 29,
+              "url": "https://t.co/FRLVl0Xj81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092580810100818056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6182,
+          "like_count": 15,
+          "quote_count": 14,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092553007330419023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“@grok，创建一个从我敌人的视角描述我的账户的图像” https://t.co/FRLVl0Xj81"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2092980601133707472",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 1556,
+          "like_count": 64084,
+          "listed_count": 8,
+          "media_count": 2476,
+          "tweet_count": 22591
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092980617163968665",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9008787,
+          "following_count": 6,
+          "like_count": 134,
+          "listed_count": 7461,
+          "media_count": 9309663,
+          "tweet_count": 137627796
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "Freiheit ist immer Freiheit der Andersdenkenden",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/7z6gPw8HBk"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "is_identity_verified": false,
+        "location": "巴伐利亚苏维埃共和国",
+        "most_recent_tweet_id": "2092730433503133730",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2074844497003905114",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890343594248036352/1786451822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083150785425408000/-PcuZz3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1387,
+          "like_count": 9384,
+          "listed_count": 12,
+          "media_count": 1627,
+          "tweet_count": 7604
+        },
+        "url": "https://t.co/7z6gPw8HBk",
+        "username": "1s8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

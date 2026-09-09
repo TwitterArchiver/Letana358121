@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2095333861022629920",
+    "created_at": "2026-09-03T12:47:34.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095493908231070181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095493908231070181",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095333861022629920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 好羨慕有錢做醫美😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2095333853837893633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQfCdvboAE2-qe.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2095333861022629920",
+        "created_at": "2026-09-03T12:47:34.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095493908231070181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095493908231070181",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095333861022629920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好羨慕有錢做醫美😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095333853837893633"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2095333861022629920",
+        "created_at": "2026-09-03T02:11:36.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095333861022629920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHzxyUHwW3",
+              "end": 40,
+              "expanded_url": "https://x.com/IXXA00/status/2095333861022629920/photo/1",
+              "media_key": "3_2095333853837893633",
+              "start": 17,
+              "url": "https://t.co/GHzxyUHwW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095333861022629920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095333853837893633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4620,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医美第一年，吃了 6 万的经济。 https://t.co/GHzxyUHwW3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2095493908231070181",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 1562,
+          "like_count": 64391,
+          "listed_count": 9,
+          "media_count": 2487,
+          "tweet_count": 22659
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我的糖水被人喝了，这给我留下了不可磨灭的阴影。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2095492281784774840",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2095145593903682027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7889,
+          "following_count": 4472,
+          "like_count": 45621,
+          "listed_count": 19,
+          "media_count": 3375,
+          "tweet_count": 45325
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

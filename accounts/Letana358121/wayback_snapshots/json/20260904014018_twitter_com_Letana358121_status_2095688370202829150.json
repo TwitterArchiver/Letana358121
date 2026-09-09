@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2095559817691893819",
+    "created_at": "2026-09-04T01:40:18.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T02:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095688370202829150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095688370202829150",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095559817691893819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 咕咕嘎嘎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095559817691893819].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095559817691893819",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095559817691893819"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2095559817691893819",
+        "created_at": "2026-09-04T01:40:18.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095688370202829150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095688370202829150",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095559817691893819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 咕咕嘎嘎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2095688370202829150",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 1561,
+          "like_count": 64409,
+          "listed_count": 9,
+          "media_count": 2487,
+          "tweet_count": 22661
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "祈求歡愉",
+        "id": "1417155588551847937",
+        "is_identity_verified": false,
+        "location": "Null",
+        "most_recent_tweet_id": "2036720581497012622",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417155588551847937/1723868435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 2884,
+          "like_count": 165649,
+          "listed_count": 11,
+          "media_count": 2112,
+          "tweet_count": 27854
+        },
+        "url": "",
+        "username": "JealousDevil9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

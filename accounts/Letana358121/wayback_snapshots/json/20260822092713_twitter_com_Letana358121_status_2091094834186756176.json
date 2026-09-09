@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2091094834186756176",
+    "created_at": "2026-08-22T09:27:13.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091094834186756176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1346974977434771460",
+          "start": 3,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091094834186756176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091001466454692233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N0rthern_Land: 作为社会学研究者，没有实质脱离过自己的圈子，没有接触过最普通的社会底边就来做意见领袖大犯指导瘾是很糟糕的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2091094834186756176",
+        "created_at": "2026-08-22T09:27:13.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091094834186756176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1346974977434771460",
+              "start": 3,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091094834186756176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091001466454692233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N0rthern_Land: 作为社会学研究者，没有实质脱离过自己的圈子，没有接触过最普通的社会底边就来做意见领袖大犯指导瘾是很糟糕的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2091001466454692233",
+        "created_at": "2026-08-22T03:16:13.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091001466454692233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091001466454692233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3102,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "作为社会学研究者，没有实质脱离过自己的圈子，没有接触过最普通的社会底边就来做意见领袖大犯指导瘾是很糟糕的事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2091094834186756176",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 1560,
+          "like_count": 63779,
+          "listed_count": 8,
+          "media_count": 2469,
+          "tweet_count": 22548
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091087064167260566",
+        "name": "北极最后一只雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346974977434771460/1716796289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63810,
+          "following_count": 954,
+          "like_count": 121194,
+          "listed_count": 152,
+          "media_count": 3845,
+          "tweet_count": 38804
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

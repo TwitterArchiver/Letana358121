@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2096548240992927865",
+    "created_at": "2026-09-06T14:35:37.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096608261944602625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096608261944602625",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096604158141079962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 我好醜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2096548240992927865",
+        "created_at": "2026-09-06T14:35:37.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096608261944602625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096608261944602625",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096604158141079962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 我好醜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2096548240992927865",
+        "created_at": "2026-09-06T14:19:18.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096604158141079962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096604158141079962",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096548240992927865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 狗好萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2096608261944602625",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 1561,
+          "like_count": 64639,
+          "listed_count": 9,
+          "media_count": 2490,
+          "tweet_count": 22699
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "害怕有攻击性的人 请自觉远离\n电波的幻想\n杯子@_nemu404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "_nemu404"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2096607327688528243",
+        "name": "☘️",
+        "pinned_tweet_id": "2091100543888584823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1771691507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087857338208362496/qOKa9Cei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 144,
+          "like_count": 1164,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 4479
+        },
+        "url": "",
+        "username": "A5Tr41",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

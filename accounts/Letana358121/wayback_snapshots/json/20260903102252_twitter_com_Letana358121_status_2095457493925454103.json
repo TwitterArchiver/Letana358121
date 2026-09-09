@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2095457493925454103",
+    "created_at": "2026-09-03T10:22:52.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095457493925454103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhngzhngzikng1…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zhngzhngzikng1/status/2095452726847266832",
+          "start": 4,
+          "url": "https://t.co/pmn6klnVpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095457493925454103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095452726847266832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最滯納 https://t.co/pmn6klnVpX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2095457493925454103",
+        "created_at": "2026-09-03T10:22:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095457493925454103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngzhngzikng1…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zhngzhngzikng1/status/2095452726847266832",
+              "start": 4,
+              "url": "https://t.co/pmn6klnVpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095457493925454103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095452726847266832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最滯納 https://t.co/pmn6klnVpX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564241036872138753",
+        "conversation_id": "2095411193448214705",
+        "created_at": "2026-09-03T10:03:56.000Z",
+        "display_text_range": [
+          8,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095452726847266832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1744970574269661184",
+              "start": 0,
+              "username": "0x70E_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095452726847266832",
+        "in_reply_to_user_id": "1744970574269661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095411193448214705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x70E_ 我們正常人憑什麼接受你洋爹的扭曲價值觀？還正常人類？你也不看看你美爹甚麼德行，我們不接受甚麼狗屁普世價值"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2095457493925454103",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093626718158540800/G0F-gLuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 1562,
+          "like_count": 64389,
+          "listed_count": 9,
+          "media_count": 2486,
+          "tweet_count": 22657
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-29T13:18:33.000Z",
+        "description": "隱士，衛道士Hermit，loyalist",
+        "id": "1564241036872138753",
+        "is_identity_verified": false,
+        "location": "Empire of Johor",
+        "most_recent_tweet_id": "2095457483490038118",
+        "name": "至聖星人Mr Sacrosanctitas",
+        "pinned_tweet_id": "1692746746894389450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564241036872138753/1669120337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017227157626621952/nZ3G9meR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1422,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2021
+        },
+        "url": "",
+        "username": "zhngzhngzikng1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T06:33:10.000Z",
+        "description": "中资历二次元| 友跨 | 鹿乃厨 | 二游高手，最喜明日方舟 | 音游 | FPS低手 |听歌很杂，术力口厨，喜欢初音！| 爱研究电子产品｜理性鉴证，拒绝极端｜愿望是世界和平，人与人之间少点争端",
+        "id": "1744970574269661184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095415445822341414",
+        "name": "1wakura0",
+        "pinned_tweet_id": "1987056847317311607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744970574269661184/1788196004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094471959732256769/ugdCz2P__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1739,
+          "like_count": 8989,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3632
+        },
+        "url": "",
+        "username": "0x70E_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

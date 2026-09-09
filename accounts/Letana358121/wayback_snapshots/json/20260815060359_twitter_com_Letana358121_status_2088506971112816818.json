@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2088088217304363184",
+    "created_at": "2026-08-15T06:03:59.000Z",
+    "display_text_range": [
+      28,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088506971112816818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "Fenglinnai8964"
+        },
+        {
+          "end": 27,
+          "id": "1757616332240224256",
+          "start": 16,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088506971112816818",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088271236522762704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fenglinnai8964 @B_cat38324 算你没礼貌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088271236522762704].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088271236522762704",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088271236522762704"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2088088217304363184",
+        "created_at": "2026-08-15T06:03:59.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088506971112816818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "Fenglinnai8964"
+            },
+            {
+              "end": 27,
+              "id": "1757616332240224256",
+              "start": 16,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088506971112816818",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088271236522762704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fenglinnai8964 @B_cat38324 算你没礼貌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2088506971112816818",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 1568,
+          "like_count": 63248,
+          "listed_count": 8,
+          "media_count": 2464,
+          "tweet_count": 22455
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "不是冯琳奈",
+        "id": "1800825433979797504",
+        "is_identity_verified": false,
+        "location": "地球的任意地方但是大约的确是不含新加坡的",
+        "most_recent_tweet_id": "2070507250997993646",
+        "name": "冯艾琳",
+        "pinned_tweet_id": "2083193681910301020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800825433979797504/1783947343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076651177320882176/zUbvJVS0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 145,
+          "like_count": 38622,
+          "listed_count": 0,
+          "media_count": 1628,
+          "tweet_count": 14875
+        },
+        "url": "",
+        "username": "Fenglinnai8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088498897702592917",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757616332240224256/1718634286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23389,
+          "following_count": 202,
+          "like_count": 755,
+          "listed_count": 72,
+          "media_count": 111,
+          "tweet_count": 24166
+        },
+        "url": "",
+        "username": "B_cat38324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
