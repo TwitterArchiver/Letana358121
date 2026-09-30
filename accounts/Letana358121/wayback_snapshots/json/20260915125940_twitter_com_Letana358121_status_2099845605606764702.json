@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2099793415970209871",
+    "created_at": "2026-09-15T12:59:40.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099845605606764702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099845605606764702",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099793415970209871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier 人，你打猎怎么要这么久"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68864,
+        "height": 1280,
+        "media_key": "13_2099793329114472448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099793329114472448/img/GgG-mPUGIvekubwx.jpg",
+        "public_metrics": {
+          "view_count": 239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099793329114472448/vid/avc1/320x568/69i4VtdG55DAu_Xr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099793329114472448/vid/avc1/480x852/jul2X2Gj4cdeWuv6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099793329114472448/vid/avc1/720x1280/3UUoYzpbKL11iqCy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099793329114472448/pl/4wnuRfBW9NW6XAIQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2099793415970209871",
+        "created_at": "2026-09-15T12:59:40.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099845605606764702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099845605606764702",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099793415970209871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 人，你打猎怎么要这么久"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099793329114472448"
+          ]
+        },
+        "author_id": "2842549538",
+        "conversation_id": "2099793415970209871",
+        "created_at": "2026-09-15T09:32:17.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099793415970209871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FS6FcqZpch",
+              "end": 35,
+              "expanded_url": "https://x.com/Reflectier/status/2099793415970209871/video/1",
+              "media_key": "13_2099793329114472448",
+              "start": 12,
+              "url": "https://t.co/FS6FcqZpch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099793415970209871",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099793329114472448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 533,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回来晚了 她好像很生气 https://t.co/FS6FcqZpch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2099845605606764702",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 1570,
+          "like_count": 65058,
+          "listed_count": 9,
+          "media_count": 2504,
+          "tweet_count": 22815
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2099820959507304541",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 925,
+          "like_count": 48996,
+          "listed_count": 12,
+          "media_count": 1626,
+          "tweet_count": 26838
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

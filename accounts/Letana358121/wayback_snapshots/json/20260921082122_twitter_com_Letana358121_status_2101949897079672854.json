@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2101943404087144918",
+    "created_at": "2026-09-21T08:21:22.000Z",
+    "display_text_range": [
+      10,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101949897079672854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768185082307862528",
+          "start": 0,
+          "username": "xiaogozz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101949897079672854",
+    "in_reply_to_user_id": "1768185082307862528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101943404087144918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogozz 你不许赌博那我每年发的一万块钱从哪来的啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2101943404087144918",
+        "created_at": "2026-09-21T08:21:22.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101949897079672854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768185082307862528",
+              "start": 0,
+              "username": "xiaogozz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101949897079672854",
+        "in_reply_to_user_id": "1768185082307862528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101943404087144918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogozz 你不许赌博那我每年发的一万块钱从哪来的啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768185082307862528",
+        "conversation_id": "2101943404087144918",
+        "created_at": "2026-09-21T07:55:34.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101943404087144918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NanaNana_os/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/NanaNana_os/status/2101704818511548526",
+              "start": 81,
+              "url": "https://t.co/l1uxToFPo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101943404087144918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101704818511548526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你认为什么是道德上是可接受的\n🟩堕胎\n🟨安乐死\n🟩同性恋\n🟩性别转换\n🟩色情制品\n🟩离婚\n🟩避孕药\n🟩婚前性行为\n🟩多元恋爱\n🟥赌博\n🟩死刑\n🟩动物实验\n🟥克隆 https://t.co/l1uxToFPo8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2101949897079672854",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 1574,
+          "like_count": 65349,
+          "listed_count": 9,
+          "media_count": 2511,
+          "tweet_count": 22871
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T07:59:16.000Z",
+        "description": "黑羽呆貓/一只流量的暹羅咪                                                                                                       \n另一半@Kraehe_YukI     阿p @Uturo_Bune\n變態心病女🔪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Kraehe_YukI"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "Uturo_Bune"
+              }
+            ]
+          }
+        },
+        "id": "1768185082307862528",
+        "is_identity_verified": false,
+        "location": "交給我吧，什麼都可以交給我",
+        "most_recent_tweet_id": "2101945811001106551",
+        "name": "黑羽 呆貓(咪美嘟面貓屋烤襪襪中🧦)",
+        "pinned_tweet_id": "2055359473712267611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768185082307862528/1778148092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099459134706102272/9epWGfsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 47,
+          "like_count": 1645,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "xiaogozz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
