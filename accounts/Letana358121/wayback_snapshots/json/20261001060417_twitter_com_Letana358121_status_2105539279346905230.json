@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1669543422586421248",
+    "conversation_id": "2105487715273982412",
+    "created_at": "2026-10-01T06:04:17.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T07:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105539279346905230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886873180423565312",
+          "start": 0,
+          "username": "sjzmrfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105539279346905230",
+    "in_reply_to_user_id": "1886873180423565312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105487715273982412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjzmrfz 極品ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2105487708881813504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgx6nbaAAAlwmW.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2105487715273982412",
+        "created_at": "2026-10-01T06:04:17.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105539279346905230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886873180423565312",
+              "start": 0,
+              "username": "sjzmrfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105539279346905230",
+        "in_reply_to_user_id": "1886873180423565312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105487715273982412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjzmrfz 極品ts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105487708881813504"
+          ]
+        },
+        "author_id": "1886873180423565312",
+        "conversation_id": "2105487715273982412",
+        "created_at": "2026-10-01T02:39:24.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105487715273982412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eS6YFU5R0P",
+              "end": 29,
+              "expanded_url": "https://x.com/sjzmrfz/status/2105487715273982412/photo/1",
+              "media_key": "3_2105487708881813504",
+              "start": 6,
+              "url": "https://t.co/eS6YFU5R0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105487715273982412",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105487708881813504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 224,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有第二关 https://t.co/eS6YFU5R0P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "is_identity_verified": false,
+        "location": "她的怀中",
+        "most_recent_tweet_id": "2105539279346905230",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669543422586421248/1781518142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096593536359796736/1wt6L31q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 1570,
+          "like_count": 65904,
+          "listed_count": 9,
+          "media_count": 2519,
+          "tweet_count": 22974
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-04T20:23:25.000Z",
+        "description": "纯爱好，就喜欢发推\n碧螺春\n盗我视频的死全家替我挡灾\n以后看见盗我视频的不用跟我说点点举报就行了\n舞萌w60中二节奏17.0\ntg群https://t.co/C7zR77bzAF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+KnWlx2t4uqRhZ…",
+                "end": 89,
+                "expanded_url": "https://t.me/+KnWlx2t4uqRhZTM1",
+                "start": 66,
+                "url": "https://t.co/C7zR77bzAF"
+              }
+            ]
+          }
+        },
+        "id": "1886873180423565312",
+        "is_identity_verified": false,
+        "location": "🚪100",
+        "most_recent_tweet_id": "2105529282936426771",
+        "name": "三角初华",
+        "pinned_tweet_id": "2104646346083103024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886873180423565312/1786943217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089217393944125440/JrFB4yk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8353,
+          "following_count": 98,
+          "like_count": 3884,
+          "listed_count": 24,
+          "media_count": 75,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "sjzmrfz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
